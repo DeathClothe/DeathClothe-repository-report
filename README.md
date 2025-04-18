@@ -2,7 +2,7 @@
 
 ## Universidad Peruana de Ciencias Aplicadas
 
-![logo]()
+![logo](Report_Assets/UPC_logo_transparente.png)
 
 #### Nombre del curso: Aplicaciones Web
 ##### Carrera: Ingeniería de Software
@@ -14,11 +14,11 @@
 ##### Nombre del Producto: DeathClothe
 
 #### Integrantes
-- U20<br>
-- U20<br>
-- U20<br>
-- U20<br>
--Sarmiento Medina Loreley U202310005<br>
+ U20<br>
+ U20<br>
+ U20<br>
+ U20<br>
+Sarmiento Medina Loreley U202310005<br>
 
-**Abril de 2025**
+# ***Abril de 2025***
 </div>
