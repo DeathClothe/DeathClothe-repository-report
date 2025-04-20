@@ -185,4 +185,5 @@ Visión: Nos visualizamos como una empresa líder en el renacimiento de la moda 
     </tr>
   </tbody>
 </table>
+
 ## 1.2.1. Antecedentes y problemática
