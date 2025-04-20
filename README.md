@@ -144,9 +144,9 @@ Sarmiento Medina Loreley U202310005<br>
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-### Capítulo I: Introducción
+# Capítulo I: Introducción
 ## 1.1. Startup Profile
-# 1.1.1. Descripción de la Startup
+### 1.1.1. Descripción de la Startup
 ReWear es una startup enfocada en transformar la manera en que las personas consumen, comparten y viven la moda. Creemos que cada prenda tiene una historia y que el estilo no debería depender de la producción masiva ni del consumo desechable. En ReWear, conectamos a usuarios apasionados por la autenticidad, la sostenibilidad y la expresión personal, a través de un mercado digital de ropa de segunda mano que combina tecnología, diseño y comunidad.
 Nuestro primer producto, DeathClothe, es una plataforma web que permite a los usuarios subir, comprar, vender y descubrir prendas únicas, mientras reciben recomendaciones personalizadas basadas en su armario virtual. Más que una app, es una experiencia viva, donde la moda circula, evoluciona y encuentra nuevas almas.
 
@@ -154,7 +154,7 @@ Misión: Nuestra misión es ofrecer una nueva oportunidad a la ropa que ya no es
 
 Visión: Nos visualizamos como una empresa líder en el renacimiento de la moda circular, construyendo una comunidad global que redefine el estilo desde la autenticidad, el cuidado del planeta y la tecnología. Aspiramos a convertirnos en el referente para quienes ven en su ropa una extensión de su identidad, y que eligen transformar el mundo desde su armario.
 
-# 1.1.2. Perfiles de integrantes del equipo
+### 1.1.2. Perfiles de integrantes del equipo
 <table>
   <thead>
     <tr>
@@ -186,4 +186,9 @@ Visión: Nos visualizamos como una empresa líder en el renacimiento de la moda 
   </tbody>
 </table>
 
-## 1.2.1. Antecedentes y problemática
+### 1.2.1. Antecedentes y problemática
+
+
+**How Much**
+- ¿Cuál es la magnitud del problema?
+La magnitud del problema es crítica. Según la Ellen MacArthur Foundation (2017), cada año se desechan 92 millones de toneladas de ropa, de las cuales menos del 1% se recicla. Esta situación se agrava porque, como señala McKinsey (2016), los consumidores compran un 60% más de prendas que hace dos décadas pero las conservan la mitad de tiempo. Aunque el 62% de los jóvenes prefiere opciones sostenibles (ThredUp, 2023), el mercado de segunda mano sigue siendo subutilizado, demostrando la urgente necesidad de soluciones innovadoras como ReWear para cerrar esta brecha entre intención y acción en el consumo responsable.
