@@ -17,7 +17,7 @@
  U20<br>
  U20<br>
  U20<br>
- U20<br>
+Luquillas Asto Omar U20211G641<br>
 Sarmiento Medina Loreley U202310005<br>
 
 # *Abril de 2025*
