@@ -199,6 +199,13 @@ El modelo de fast fashion genera 92 millones de toneladas de residuos textiles 
 En Estados Unidos, se descartan más de 34 000 millones de libras de textiles usados anualmente (más de 100 libras per cápita), evidenciando la incapacidad de los sistemas tradicionales para gestionar el ciclo de vida de la ropa.
 Solo el 20 % de los textiles descartados se recolecta para reciclaje o reutilización; el resto acaba en vertederos o incinerado, lo que subraya la urgencia de modelos de negocio circulares que fomenten la reutilización.
 
+**How**
+
+Los usuarios interactúan con la plataforma DeathClothe mediante navegadores web y dispositivos móviles, explorando un catálogo curado que ofrece filtros inteligentes, alertas de nuevos artículos y recomendaciones basadas en su armario virtual.
+Prefieren descubrir nuevas prendas a través de redes sociales e influencers, ya que las campañas digitales en Instagram y TikTok potencian la visibilidad y el alcance de mercados de segunda mano.
+La adopción de algoritmos de personalización y técnicas de curation algorithm permite que cada usuario encuentre piezas acordes a su estilo individual, solucionando uno de los desafíos de los marketplaces más genéricos.
+Sin embargo, la amplia variedad de inventario en recommerce crea obstáculos de descubrimiento; por ello, es crucial implementar estrategias de curación y filtrado avanzado para mejorar la experiencia de usuario y fomentar la retención.
+
 **How Much**
 
 - ¿Cuál es la magnitud del problema?
