@@ -193,6 +193,12 @@ Usuarios eco‑conscientes y fashionistas que demandan alternativas sostenibles 
 Personas con prendas en desuso que desean monetizar o dar nueva vida a su vestuario; en 2023, el 52 % de los consumidores adquirió ropa de segunda mano, destinando casi la mitad de su presupuesto de vestuario a este segmento.
 Generación Z y Millennials digitales, atraídos por la combinación de sostenibilidad y estilo: un 64 % compra second‑hand para ahorrar dinero y un 36 % por conciencia medioambiental.
 
+**Why**
+
+El modelo de fast fashion genera 92 millones de toneladas de residuos textiles al año, el equivalente a un camión de basura lleno de ropa vertido en vertederos cada segundo, con un fuerte impacto ambiental.
+En Estados Unidos, se descartan más de 34 000 millones de libras de textiles usados anualmente (más de 100 libras per cápita), evidenciando la incapacidad de los sistemas tradicionales para gestionar el ciclo de vida de la ropa.
+Solo el 20 % de los textiles descartados se recolecta para reciclaje o reutilización; el resto acaba en vertederos o incinerado, lo que subraya la urgencia de modelos de negocio circulares que fomenten la reutilización.
+
 **How Much**
 
 - ¿Cuál es la magnitud del problema?
