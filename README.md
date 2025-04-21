@@ -188,7 +188,7 @@ Visión: Nos visualizamos como una empresa líder en el renacimiento de la moda 
 
 ### 1.2.1. Antecedentes y problemática
 
-### Who
+**Who**
 
 Usuarios eco‑conscientes y fashionistas que demandan alternativas sostenibles al fast fashion, buscando piezas únicas y auténticas sin contribuir al modelo de consumo desechable.
 Personas con prendas en desuso que desean monetizar o dar nueva vida a su vestuario; en 2023, el 52 % de los consumidores adquirió ropa de segunda mano, destinando casi la mitad de su presupuesto de vestuario a este segmento.
