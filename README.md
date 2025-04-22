@@ -183,39 +183,6 @@ Visión: Nos visualizamos como una empresa líder en el renacimiento de la moda 
  
 </table>
 
-
-
-<table>
-  <thead>
-    <tr>
-      <th>Integrantes</th>
-      <th>Perfil de Integrante</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>  </td>
-     <td>Soy Loreley Sarmiento Medina con codigo de estudainte U202310005 y estudio la carrera de Ingeniería de Software y me especializo en aportar soluciones tecnológicas integrales dentro de equipos multidisciplinarios. Cuento con sólidos conocimientos en el modelado de wireframes y mockups utilizando Figma, lo que me permite contribuir eficazmente en la etapa de diseño de interfaces centradas en el usuario. Además, tengo experiencia en el modelado de bases de datos, facilitando la organización y estructura lógica de la información. Poseo conocimientos intermedios en HTML y CSS, lo cual me permite colaborar en el desarrollo de interfaces web funcionales y visualmente atractivas. También tengo una base sólida en lenguajes de programación, lo que me permite comprender e implementar soluciones tanto en el frontend como en el backend, aportando al desarrollo integral del producto.</td>
-      </tr>
-   
-  </tbody>
-</table>
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 
@@ -299,10 +266,10 @@ Vendedores:Personas desde los 18 hasta los 50 años o más que desean vender rop
 
 #### 2.1.1. Análisis competitivo
 
-<img src="/assets/competidores 1era parte.png" alt="Nombre" width="500"> 
+<img src="Report_Assets/competidores 1era parte.png" alt="Nombre" width="500"> 
 </a>
 
-<img src="/assets/competidores 2da parte.png" alt="Nombre" width="500"> 
+<img src="Report_Assets/competidores 2da parte.png" alt="Nombre" width="500"> 
 </a>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
