@@ -269,7 +269,7 @@ Vendedores:Personas desde los 18 hasta los 50 años o más que desean vender rop
 <img src="Report_Assets/competidores 1era parte.png" alt="Nombre" width="500"> 
 </a>
 
-<img src="Report_Assets/competidores 2da parte.png" alt="Nombre" width="500"> 
+<img src="Report_Assets/competidores 2da parte nueva.png" alt="Nombre" width="500"> 
 </a>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
