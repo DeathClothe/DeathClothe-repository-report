@@ -155,6 +155,36 @@ Misión: Nuestra misión es ofrecer una nueva oportunidad a la ropa que ya no es
 Visión: Nos visualizamos como una empresa líder en el renacimiento de la moda circular, construyendo una comunidad global que redefine el estilo desde la autenticidad, el cuidado del planeta y la tecnología. Aspiramos a convertirnos en el referente para quienes ven en su ropa una extensión de su identidad, y que eligen transformar el mundo desde su armario.
 
 ### 1.1.2. Perfiles de integrantes del equipo
+<table border="1" cellspacing="0" cellpadding="10">
+  <tr>
+    <th>Integrantes</th>
+    <th>Perfil de Integrante</th>
+  </tr>
+  <tr>
+    <td><img src="" alt="Integrante 1" width="100"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="" alt="Integrante 2" width="100"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="" alt="Integrante 3" width="100"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="" alt="Integrante 4" width="100"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="Report_Assets/integrante2.png" alt="Integrante 5" width="100"/></td>
+    <td>Soy Loreley Sarmiento Medina con codigo de estudainte U202310005 y estudio la carrera de Ingeniería de Software y me especializo en aportar soluciones tecnológicas integrales dentro de equipos multidisciplinarios. Cuento con sólidos conocimientos en el modelado de wireframes y mockups utilizando Figma, lo que me permite contribuir eficazmente en la etapa de diseño de interfaces centradas en el usuario. Además, tengo experiencia en el modelado de bases de datos, facilitando la organización y estructura lógica de la información. Poseo conocimientos intermedios en HTML y CSS, lo cual me permite colaborar en el desarrollo de interfaces web funcionales y visualmente atractivas. También tengo una base sólida en lenguajes de programación, lo que me permite comprender e implementar soluciones tanto en el frontend como en el backend, aportando al desarrollo integral del producto</td>
+  </tr>
+ 
+</table>
+
+
+
 <table>
   <thead>
     <tr>
@@ -180,10 +210,10 @@ Visión: Nos visualizamos como una empresa líder en el renacimiento de la moda 
       <td></td>
     </tr>
     <tr>
-      <td>![LoreleyImagen](Report_Assets/LoreleyImagen.png)</td>
-      <td>Soy Loreley Sarmiento Medina con codigo de estudainte U202310005 y estudio la carrera de Ingeniería de Software y me especializo en aportar soluciones tecnológicas integrales dentro de equipos multidisciplinarios. Cuento con sólidos conocimientos en el modelado de wireframes y mockups utilizando Figma, lo que me permite contribuir eficazmente en la etapa de diseño de interfaces centradas en el usuario. Además, tengo experiencia en el modelado de bases de datos, facilitando la organización y estructura lógica de la información. Poseo conocimientos intermedios en HTML y CSS, lo cual me permite colaborar en el desarrollo de interfaces web funcionales y visualmente atractivas. También tengo una base sólida en lenguajes de programación, lo que me permite comprender e implementar soluciones tanto en el frontend como en el backend, aportando al desarrollo integral del producto.
-</td>
-    </tr>
+      <td>  </td>
+     <td>Soy Loreley Sarmiento Medina con codigo de estudainte U202310005 y estudio la carrera de Ingeniería de Software y me especializo en aportar soluciones tecnológicas integrales dentro de equipos multidisciplinarios. Cuento con sólidos conocimientos en el modelado de wireframes y mockups utilizando Figma, lo que me permite contribuir eficazmente en la etapa de diseño de interfaces centradas en el usuario. Además, tengo experiencia en el modelado de bases de datos, facilitando la organización y estructura lógica de la información. Poseo conocimientos intermedios en HTML y CSS, lo cual me permite colaborar en el desarrollo de interfaces web funcionales y visualmente atractivas. También tengo una base sólida en lenguajes de programación, lo que me permite comprender e implementar soluciones tanto en el frontend como en el backend, aportando al desarrollo integral del producto.</td>
+      </tr>
+   
   </tbody>
 </table>
 ## 1.2. Solution Profile
@@ -252,7 +282,7 @@ Creemos que si simplificamos el proceso de publicación de prendas a solo tres p
 Creemos que si incorporamos un espacio donde se muestre la historia de cada prenda (incluyendo detalles como su origen, anécdotas o el estilo de su anterior dueño) los usuarios sentirán una mayor conexión emocional con los artículos. Esta narrativa añadida no solo reforzará el valor percibido de cada pieza, sino que también incentivará la curiosidad y el deseo de exploración. Esperamos que esta función aumente la tasa de clics en “Me interesa” en un 15 %, medido a través del ratio de interacciones por prenda visualizada.
 
 #### 1.2.2.4. Lean Ux Canvas
-![LeanUxCanvas](Report_Assets/LeanUxCanvas.png)
+![LeanUxCanvas](Report_Assets/LeanUxCanvas.PNG)
 
 ## 1.3. Segmentos Objetivos
 
