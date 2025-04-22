@@ -266,11 +266,50 @@ Vendedores:Personas desde los 18 hasta los 50 años o más que desean vender rop
 
 **Instagram:** Muchas tiendas independientes venden ropa vintage o de segunda mano a través de Instagram, con una estética cuidada y fuerte conexión con su audiencia.
 
-# 2.1.1. Análisis competitivo
+#### 2.1.1. Análisis competitivo
 
 fotooo
 
 footoooooooo
+
+#### 2.1.2. Estrategias y tácticas frente a competidores
+
+**Diferenciación con Narrativa y Personalización**
+
+Estrategia: Ofrecer historias de cada prenda (origen, uso, estilo previo) para añadir valor emocional y autenticidad.
+
+Táctica: Implementar fichas de producto enriquecidas con inputs del vendedor (anécdotas, looks anteriores, inspiración), y recomendaciones personalizadas usando el “armario virtual”.
+
+**Tecnología para la experiencia del usuario**
+
+Estrategia: Convertir la app en una experiencia interactiva y visual que no sea solo un marketplace, sino una comunidad viva.
+
+Táctica: Diseño UX moderno con navegación tipo red social, sistema de seguimiento entre usuarios, outfits sugeridos y gamificación.
+
+**Confianza y autenticidad como pilares**
+
+Estrategia: Construir una comunidad basada en la confianza, destacando calidad y procedencia de las prendas.
+
+Táctica: Sistema de calificaciones, verificación de usuarios/vendedores, etiquetas de “pieza destacada”, y filtros visuales para el estado de las prendas.
+
+**Facilidad de uso para vendedores**
+
+Estrategia: Incentivar la participación constante de usuarios que suben ropa.
+
+Táctica: Subida de prendas en 3 pasos, tips de fotografía, herramientas de edición automática y precios sugeridos según categoría y estado.
+
+**Alianzas y comunidad local**
+
+Estrategia: Posicionarse como la plataforma "de la gente para la gente" en Perú.
+
+Táctica: Colaboraciones con creadores de contenido de moda sostenible, tiendas vintage locales, ferias presenciales y campañas con influencers que promuevan la moda circular.
+
+**Integración logística**
+
+Estrategia: Superar al Facebook Marketplace con soluciones reales de entrega.
+
+Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), ofreciendo opciones rápidas y seguras para envíos entre usuarios.
+
 
 
 
