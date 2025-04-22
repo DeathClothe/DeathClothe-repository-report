@@ -244,6 +244,10 @@ Quienes compran ropa de segunda mano suelen priorizar precios accesibles, sin em
 
 Creemos que si simplificamos el proceso de publicación de prendas a solo tres pasos clave (tomar una foto, completar los atributos esenciales y definir el precio) los usuarios se sentirán más motivados a listar sus artículos. Esta experiencia intuitiva y rápida facilitará que al menos el 80 % de los vendedores completen con éxito el proceso de alta, lo cual mediremos a través de la tasa de finalización de publicaciones dentro de la plataforma.
 
+**Confianza mediante Valoraciones**
+
+Creemos que si destacamos calificaciones de vendedores y compradores en cada perfil, la tasa de conversión de vista de objeto a compra mejorará en un 12 %, medido por unidades vendidas respecto a productos vistos.
+
 **Historias de Prendas**
 
 Creemos que si incorporamos un espacio donde se muestre la historia de cada prenda (incluyendo detalles como su origen, anécdotas o el estilo de su anterior dueño) los usuarios sentirán una mayor conexión emocional con los artículos. Esta narrativa añadida no solo reforzará el valor percibido de cada pieza, sino que también incentivará la curiosidad y el deseo de exploración. Esperamos que esta función aumente la tasa de clics en “Me interesa” en un 15 %, medido a través del ratio de interacciones por prenda visualizada.
