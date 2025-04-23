@@ -561,7 +561,7 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
 [URL de la entrevista](.....)
 
 **Resumen de la entrevista:** <br>
-Daniela Zarrillo, estudiante de 19 años de Lima, mencionó que utiliza con frecuencia internet para realizar compras. Hace pocos días adquirió ropa de segunda mano, motivada por el precio accesible y los estilos únicos. Comentó que organizaría su armario virtual por estilo, color, temporada y precio, y señaló como frustración principal la falta de precisión en tallas y descripciones. Además, resaltó la importancia de contar con fotos desde varios ángulos, descripciones claras y reseñas de otros usuarios. Considera esencial agilizar el proceso de pago con métodos como Yape, le interesan las recomendaciones basadas en su armario virtual y valoraría una función para vender automáticamente prendas no usadas. Finalmente, destacó que su plataforma ideal incluiría un sistema de tallas preciso, una experiencia personalizada y sugerencias adaptadas a su estilo
+<p>Daniela Zarrillo, estudiante de 19 años de Lima, mencionó que utiliza con frecuencia internet para realizar compras. Hace pocos días adquirió ropa de segunda mano, motivada por el precio accesible y los estilos únicos. Comentó que organizaría su armario virtual por estilo, color, temporada y precio, y señaló como frustración principal la falta de precisión en tallas y descripciones. Además, resaltó la importancia de contar con fotos desde varios ángulos, descripciones claras y reseñas de otros usuarios. Considera esencial agilizar el proceso de pago con métodos como Yape, le interesan las recomendaciones basadas en su armario virtual y valoraría una función para vender automáticamente prendas no usadas. Finalmente, destacó que su plataforma ideal incluiría un sistema de tallas preciso, una experiencia personalizada y sugerencias adaptadas a su estilo.</p>
 
 **Entrevista #2 - Datos del Entrevistado** 
 <table border="1" cellspacing="0" cellpadding="8">
@@ -609,8 +609,56 @@ Daniela Zarrillo, estudiante de 19 años de Lima, mencionó que utiliza con frec
 [URL de la entrevista](.....)
 
 **Resumen de la entrevista:** <br>
-Agustín Venturos Aldaña, de 27 años y residente en Lima, compró ropa de segunda mano hace un mes tras buscar tiendas vintage en Instagram, revisar comentarios y tallas grandes, y completar el pago con Yape. Valora el estilo único y la sostenibilidad, por lo que organizaría su armario virtual por estilo, temporada, color y talla, con filtros de combinaciones personalizadas. Sin embargo, se frustra con descripciones imprecisas y fotos poco claras, de modo que confiaría en DeathClothe si incluyera verificación de calidad, medidas exactas y reseñas de expertos. Además, considera clave un proceso de pago ágil con cupones y alertas de oferta, recomendaciones tanto similares como contrastantes, clasificación automática de prendas para liberar espacio y un informe del impacto ambiental de sus compras.
+<p> Agustín Venturos Aldaña, de 27 años y residente en Lima, compró ropa de segunda mano hace un mes tras buscar tiendas vintage en Instagram, revisar comentarios y tallas grandes, y completar el pago con Yape. Valora el estilo único y la sostenibilidad, por lo que organizaría su armario virtual por estilo, temporada, color y talla, con filtros de combinaciones personalizadas. Sin embargo, se frustra con descripciones imprecisas y fotos poco claras, de modo que confiaría en DeathClothe si incluyera verificación de calidad, medidas exactas y reseñas de expertos. Además, considera clave un proceso de pago ágil con cupones y alertas de oferta, recomendaciones tanto similares como contrastantes, clasificación automática de prendas para liberar espacio y un informe del impacto ambiental de sus compras.</p>
 
+**Entrevista #3 - Datos del Entrevistado**
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Dato</strong></th>
+      <th><strong>Información</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre completo</td>
+      <td>Anyelo Bill Alejos Jesus</td>
+    </tr>
+    <tr>
+      <td>Edad</td>
+      <td>20 años</td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td>Lima - Comas</td>
+    </tr>
+    <tr>
+      <td>Ocupación/Trabajo</td>
+      <td>Estudiante Universitario (Ingeniería de software)</td>
+    </tr>
+    <tr>
+      <td>Frecuencia de uso de Internet</td>
+      <td>Casi siempre lo usa para compras en línea, especialmente en Marketplace y AliExpress</td>
+    </tr>
+    <tr>
+      <td>Inicio de la entrevista</td>
+      <td>08:25</td>
+    </tr>
+    <tr>
+      <td>Duración de la entrevista</td>
+      <td>06:54</td>
+    </tr>
+  </tbody>
+</table>
+
+
+**Detalles de la entrevista:** <br>
+<img src="./Report_Assets/AnyeloEntrevista2.png" alt="Entrevista 2" width="500">
+</a><br>
+[URL de la entrevista](.....)
+
+**Resumen de la entrevista:** <br>
+<p>Anyelo , estudiante de Ingeniería de Software de 20 años, buscó ropa de segunda mano atraído por modelos agotados y precios bajos.Organizaría su armario virtual por temporada y color, aunque lamenta la falta de fiabilidad de algunos vendedores y la llegada de prendas robadas o en mal estado, por lo cual considera esencial contar con descripciones claras, tallas exactas y fotos detalladas. Asimismo, verificaría la autenticidad comparando modelos en línea y valora un proceso de pago seguro con opciones de descuento. Asi mismo, le interesaría recibir recomendaciones basadas en su armario virtual y automatizar la venta o donación de prendas no usadas. Finalmente, identifica como funciones imprescindibles un sistema de tallas preciso, métodos de pago confiables y una organización clara de su armario virtual.</p>
 
 
 
