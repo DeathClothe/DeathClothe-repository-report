@@ -707,6 +707,103 @@ Anyelo , estudiante de Ingeniería de Software de 20 años, buscó ropa de segun
 **Resumen de la entrevista:** <br>
 David Manuel Torres Méndez, de 20 años y residente en Lima, elige qué artículos poner en venta basándose en marca, estilo, color y talla, y los prepara con fotografías (incluso vistas 360°), descripciones detalladas y precios ajustados según la rareza o urgencia. Prefiere publicar desde la computadora porque es más estable que el celular, ya que en el móvil la carga de imágenes y la publicación suelen fallar; sin embargo, sueña con un armario virtual que agrupe prendas por demanda, temporada y exclusividad. Además, valoraría sugerencias automáticas de precios basadas en ventas similares, un chat integrado para resolver dudas rápidamente y múltiples opciones de envío, tanto nacionales como internacionales, y asegura que le motivaría ver que sus ofertas satisfacen las necesidades de los compradores.
 
+# Entrevista #5 – Datos del Entrevistado
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Dato</strong></th>
+      <th><strong>Información</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre completo</td>
+      <td>Valesska Sanchez</td>
+    </tr>
+    <tr>
+      <td>Edad y Género</td>
+      <td>20 años</td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td>San Martin de Porres</td>
+    </tr>
+    <tr>
+      <td>Ocupación/Trabajo</td>
+      <td>Vendedora de ropa en línea</td>
+    </tr>
+    <tr>
+      <td>Frecuencia de uso de Internet</td>
+      <td>Usa mucho las redes sociales, especialmente Marketplace</td>
+    </tr>
+    <tr>
+      <td>Inicio de la entrevista</td>
+      <td>00:00</td>
+    </tr>
+    <tr>
+      <td>Duración de la entrevista</td>
+      <td>03:19</td>
+    </tr>
+  </tbody>
+</table>
+
+
+**Detalles de la entrevista:** <br>
+<img src="./Report_Assets/ValesskaEntrevista5.png" alt="Entrevista 5" width="500">
+</a><br>
+
+**Resumen de la entrevista:** <br>
+Valesska Sánchez, de 20 años y residente en Lima, comenta que usualmente elige la ropa que pondrá en venta basándose en la marca. Para ello, se asegura de prepararla con buenas fotografías y descripciones detalladas que incluyan el estado de la prenda y su precio. Además, le gustaría poder ver principalmente los comentarios de los posibles compradores sobre los productos que ofrece, y suele guiarse por sugerencias de precios basadas en ventas similares. Finalmente, valora la posibilidad de tener una comunicación directa con sus clientes y opciones de envío como la contra entrega. La motiva especialmente la idea de generar ingresos vendiendo ropa de segunda mano.
+
+# Entrevista #6 – Datos del Entrevistado
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Dato</strong></th>
+      <th><strong>Información</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre completo</td>
+      <td>Jhon Alexander Chuchon</td>
+    </tr>
+    <tr>
+      <td>Edad y Género</td>
+      <td>19 años</td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td>San Martin de Porres</td>
+    </tr>
+    <tr>
+      <td>Ocupación/Trabajo</td>
+      <td>Vendedor de ropa en línea</td>
+    </tr>
+    <tr>
+      <td>Frecuencia de uso de Internet</td>
+      <td>Usa diariamente las redes sociales, especialmente Instagram y Tiktok</td>
+    </tr>
+    <tr>
+      <td>Inicio de la entrevista</td>
+      <td>00:00</td>
+    </tr>
+    <tr>
+      <td>Duración de la entrevista</td>
+      <td>06:10</td>
+    </tr>
+  </tbody>
+</table>
+
+
+**Detalles de la entrevista:** <br>
+<img src="./Report_Assets/JhonEntrevista6.png" alt="Entrevista 6" width="500">
+</a><br>
+
+**Resumen de la entrevista:** <br>
+Jhon Alexander Chuchón, de 19 años y residente en Lima, comenta que usualmente elige qué artículos poner en venta basándose en el estado y la marca de las prendas. Para ello, se asegura de preparar buenas fotografías que muestren la prenda en su totalidad, acompañadas de descripciones detalladas sobre la talla y el estado. Le gustaría que su armario virtual permitiera ordenar las prendas por tipo, por temporada o por las más vistas o favoritas. Menciona que, en varias ocasiones, ha tenido inconvenientes como demoras al cargar imágenes o problemas al subir las descripciones, lo que lo obliga a reescribir la información. También valoraría contar con sugerencias de precios basadas en productos similares, ya que usualmente se guía por referencias de otras plataformas. Considera importante que la aplicación cuente con un chat directo, que sea seguro y fácil de usar. Finalmente, aprecia contar con diversas opciones de envío, y le motiva especialmente que sus prendas se vendan y reciban buenos comentarios o puntuaciones.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 
