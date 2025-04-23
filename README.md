@@ -541,7 +541,7 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
     </tr>
     <tr>
       <td>Frecuencia de uso de Internet</td>
-      <td>Compra en línea con frecuencia, sobre todo por redes sociales. Le encanta adquirir ropa, accesorios y todo lo que le llame la atención en internet.</td>
+      <td> <p>Compra en línea con frecuencia, sobre todo por redes sociales. Le encanta adquirir ropa, accesorios y todo lo que le llame la atención en internet.</p></td>
     </tr>
     <tr>
       <td>Inicio de la entrevista</td>
