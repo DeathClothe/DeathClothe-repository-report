@@ -556,9 +556,58 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
 
 
 **Detalles de la entrevista:** <br>
-<img src="./Report_Assets/DanielaEntrevista1.png" alt="Entrevista 1" width="500">
+<img src="./Report_Assets/DanielaEntrevista1.png" alt="Entrevista 1" width="400">
 </a>
 [URL de la entrevista](.....)
+
+**Resumen de la entrevista:** <br>
+Daniela Zarrillo, estudiante de 19 años de Lima, mencionó que utiliza con frecuencia internet para realizar compras. Hace pocos días adquirió ropa de segunda mano, motivada por el precio accesible y los estilos únicos. Comentó que organizaría su armario virtual por estilo, color, temporada y precio, y señaló como frustración principal la falta de precisión en tallas y descripciones. Además, resaltó la importancia de contar con fotos desde varios ángulos, descripciones claras y reseñas de otros usuarios. Considera esencial agilizar el proceso de pago con métodos como Yape, le interesan las recomendaciones basadas en su armario virtual y valoraría una función para vender automáticamente prendas no usadas. Finalmente, destacó que su plataforma ideal incluiría un sistema de tallas preciso, una experiencia personalizada y sugerencias adaptadas a su estilo
+
+**Entrevista #2 - Datos del Entrevistado** 
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Dato</strong></th>
+      <th><strong>Información</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre completo</td>
+      <td>William Agustín Ventura Saldaña</td>
+    </tr>
+    <tr>
+      <td>Edad</td>
+      <td>27 años</td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td>Lima - Surco</td>
+    </tr>
+    <tr>
+      <td>Ocupación/Trabajo</td>
+      <td>Estudiante Universitario (Ingeniería de sistemas) - Friendlands de diseño gráfico</td>
+    </tr>
+    <tr>
+      <td>Frecuencia de uso de Internet</td>
+      <td>Usualmente suele usarlo dos o tres veces por semana, principalmente para comprar comida y herramientas gráficas para su empleo.</td>
+    </tr>
+    <tr>
+      <td>Inicio de la entrevista</td>
+      <td>08:25</td>
+    </tr>
+    <tr>
+      <td>Duración de la entrevista</td>
+      <td>07:27</td>
+    </tr>
+  </tbody>
+</table>
+
+**Detalles de la entrevista:** <br>
+<img src="./Report_Assets/AgustinEntrevista2.png" alt="Entrevista 2" width="400">
+</a>
+[URL de la entrevista](.....)
+
 
 
 
