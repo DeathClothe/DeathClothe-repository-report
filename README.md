@@ -512,11 +512,54 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
   </tbody>
 </table>
 
-
-
-
-
 ### 2.2.2. Registro de entrevistas
+#### Segmento :Comprador
+**Entrevista #1 – Datos del Entrevistado**
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Dato</strong></th>
+      <th><strong>Información</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre completo</td>
+      <td>Daniela Alessandra Cigueñas Tarrillo</td>
+    </tr>
+    <tr>
+      <td>Edad</td>
+      <td>19 años</td>
+    </tr>
+    <tr>
+      <td>Ciudad - Distrito</td>
+      <td>Lima - Los Olivos</td>
+    </tr>
+    <tr>
+      <td>Ocupación/Trabajo</td>
+      <td>Estudiante Universitario (Medios digitales y publicidad)</td>
+    </tr>
+    <tr>
+      <td>Frecuencia de uso de Internet</td>
+      <td>Compra en línea con frecuencia, sobre todo por redes sociales. Le encanta adquirir ropa, accesorios y todo lo que le llame la atención en internet.</td>
+    </tr>
+    <tr>
+      <td>Inicio de la entrevista</td>
+      <td>00:00</td>
+    </tr>
+    <tr>
+      <td>Duración de la entrevista</td>
+      <td>08:25</td>
+    </tr>
+  </tbody>
+</table>
+
+
+**Detalles de la entrevista:** <br>
+<img src="./Report_Assets/DanielaEntrevista1.png" alt="Entrevista 1" width="500">
+</a>
+[URL de la entrevista](.....)
+
 
 
 ### 2.2.3. Análisis de entrevistas
