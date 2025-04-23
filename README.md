@@ -426,6 +426,93 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
   </tbody>
 </table>
 
+## 2. Preguntas para Vendedor
+## 2.2 Información Demográfica
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Categoría Demográfica</th>
+      <th>Pregunta de la entrevista</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Identificación personal</strong></td>
+      <td>¿Podrías darme tu nombre?</td>
+    </tr>
+    <tr>
+      <td><strong>Edad</strong></td>
+      <td>¿Cuántos años tienes?</td>
+    </tr>
+    <tr>
+      <td><strong>Ciudad</strong></td>
+      <td>¿En qué ciudad vives actualmente?</td>
+    </tr>
+    <tr>
+      <td><strong>Ocupación</strong></td>
+      <td>¿Cuál es tu ocupación o en qué trabajas actualmente?</td>
+    </tr>
+    <tr>
+      <td><strong>Uso digital</strong></td>
+      <td>¿Con qué frecuencia usas internet para compras o redes sociales?</td>
+    </tr>
+  </tbody>
+</table>
+
+## 2.2 Atributos Personales y Gustos
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Categoría</th>
+      <th>Pregunta</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Motivación para vender</td>
+      <td>¿Qué te anima a vender una prenda en línea en lugar de regalarla o desecharla?</td>
+    </tr>
+    <tr>
+      <td>Selección de prendas</td>
+      <td>¿Cómo decides qué ropa poner en venta? ¿Te guías por estilo, estado, marca, algo más?</td>
+    </tr>
+    <tr>
+      <td>Publicación de productos</td>
+      <td>¿Qué pasos sigues antes de subir una prenda a la plataforma?</td>
+    </tr>
+    <tr>
+      <td>Subida de contenido</td>
+      <td>¿Prefieres subir las prendas desde tu celular o computadora? ¿Por qué?</td>
+    </tr>
+    <tr>
+      <td>Armario virtual</td>
+      <td>¿Cómo te gustaría que funcione tu armario virtual? ¿Qué debería mostrar o permitirte hacer?</td>
+    </tr>
+    <tr>
+      <td>Dificultades técnicas</td>
+      <td>¿Alguna vez has sufrido fallos a la hora de publicar una prenda, como demora de carga y demás?</td>
+    </tr>
+    <tr>
+      <td>Precio y comparación</td>
+      <td>¿Cómo decides el precio? ¿Te gustaría ver sugerencias basadas en ventas similares?</td>
+    </tr>
+    <tr>
+      <td>Comunicación con compradores</td>
+      <td>¿Qué esperas de la comunicación con posibles compradores dentro de la plataforma?</td>
+    </tr>
+    <tr>
+      <td>Entregas y logística</td>
+      <td>¿Qué tipo de opciones de entrega preferirías ofrecer o usar?</td>
+    </tr>
+    <tr>
+      <td>Incentivos</td>
+      <td>¿Qué te motivaría a seguir subiendo ropa a la web?</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
 
