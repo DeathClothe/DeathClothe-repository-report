@@ -355,6 +355,8 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 
 #### 2.3.2. User Task Matrix
 
+**Compradores:**
+
 <table>
   <thead>
     <tr>
@@ -421,4 +423,61 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
   </tbody>
 </table>
 
+**Compradores:**
+
+<table>
+  <thead>
+    <tr>
+      <th>Actividades</th>
+      <th colspan="2">Calor Méndez</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Subir prendas al catálogo (fotos, atributos, precio)</td>
+      <td>Semanal/Mensual</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Gestionar publicaciones (editar, pausar, eliminar)</td>
+      <td>Semanal/Mensual</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Responder consultas de compradores (mensajes directos)</td>
+      <td>Diario/Semanal</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Revisar y aceptar ofertas de compra</td>
+      <td>Diario/Semanal</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Gestionar envíos y logística (etiquetas, seguimiento)</td>
+      <td>Tras cada venta</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Actualizar inventario (agregar nuevas prendas, marcar como vendidas)</td>
+      <td>Semanal</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Revisar calificaciones y reseñas de compradores</td>
+      <td>Diario/Semanal</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>Recibir y retirar pagos (gestión de saldos, retiros)</td>
+      <td>Según necesidad</td>
+      <td>Alta</td>
+    </tr>
+  </tbody>
+</table>
 
