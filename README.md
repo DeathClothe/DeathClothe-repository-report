@@ -17,7 +17,7 @@
  U20<br>
  U20<br>
 Bejarano Martínez Alvaro Leandro U202311640<br>
-Cabanillas Meza Jose Mateo<br>
+Cabanillas Meza Jose Mateo U202311458<br>
 Luquillas Asto Omar U20211G641<br>
 Sarmiento Medina Loreley U202310005<br>
 
