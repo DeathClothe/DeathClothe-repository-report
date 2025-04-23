@@ -17,6 +17,7 @@
  U20<br>
  U20<br>
 Bejarano Martínez Alvaro Leandro U202311640<br>
+Cabanillas Meza Jose Mateo<br>
 Luquillas Asto Omar U20211G641<br>
 Sarmiento Medina Loreley U202310005<br>
 
@@ -166,7 +167,8 @@ Visión: Nos visualizamos como una empresa líder en el renacimiento de la moda 
   </tr>
   <tr>
     <td><img src="" alt="Integrante 2" width="100"/></td>
-    <td></td>
+    <td>Jose Mateo Cabanillas Meza - Ingeniería de Software-u202311458
+Mi nombre es Mateo Cabanillas y en la actualidad estoy cursando el quinto ciclo de la carrera de ingeniería de software con una mente creativa y una actitud colaborativa. Mi amor por la programación y la resolución de problemas me impulsa a explorar nuevas soluciones y aportar ideas frescas a los proyectos. Como compañero de equipo, soy amable, atento y siempre estoy dispuesto a ayudar. Creo firmemente en la importancia de la comunicación efectiva y la colaboración para lograr resultados excepcionales.</td>
   </tr>
   <tr>
     <td><img src="" alt="Integrante 3" width="100"/></td>
