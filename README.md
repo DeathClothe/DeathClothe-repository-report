@@ -331,7 +331,7 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
-
+<p> La elaboración de las entrevista se basó en los objetivos del proyecto y en los perfiles específicos de compradores y vendedores. Se formularon preguntas personalizadas para entender hábitos, motivaciones y necesidades. En compradores, se exploraron sus preferencias por alternativas sostenibles, incluyendo a los compradores impulsivos para identificar qué los motiva. En vendedores, se abordaron razones para vender y expectativas hacia una plataforma que promueva el consumo responsable. </p>
 
 ### 2.2.2. Registro de entrevistas
 
