@@ -1077,7 +1077,7 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
     </tr>
 </table>
 
-**vendedores**
+**Vendedores**
 
 <table border="1">
     <tr>
@@ -1114,7 +1114,7 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
     </tr>
 </table>
 
-####
+## 2.4. Ubiquitous Language
 
 
 
