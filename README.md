@@ -333,8 +333,8 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
 ### 2.2.1. Diseño de entrevistas
 <p> La elaboración de las entrevista se basó en los objetivos del proyecto y en los perfiles específicos de compradores y vendedores. Se formularon preguntas personalizadas para entender hábitos, motivaciones y necesidades. En compradores, se exploraron sus preferencias por alternativas sostenibles, incluyendo a los compradores impulsivos para identificar qué los motiva. En vendedores, se abordaron razones para vender y expectativas hacia una plataforma que promueva el consumo responsable. </p>
 
-## 1. Preguntas para Comprador
-## 1.1 Información Demográfica
+#### 1. Preguntas para Comprador
+##### 1.1 Información Demográfica
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
@@ -366,7 +366,7 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
   </tbody>
 </table>
 
-## 1.2 Atributos Personales y Gustos
+##### 1.2 Atributos Personales y Gustos
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
@@ -426,8 +426,8 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
   </tbody>
 </table>
 
-## 2. Preguntas para Vendedor
-## 2.2 Información Demográfica
+#### 2. Preguntas para Vendedor
+##### 2.2 Información Demográfica
 
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
@@ -460,7 +460,7 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
   </tbody>
 </table>
 
-## 2.2 Atributos Personales y Gustos
+##### 2.2 Atributos Personales y Gustos
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
