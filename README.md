@@ -209,8 +209,6 @@ Sin embargo, la amplia variedad de inventario en recommerce crea obstáculos de 
 
 **How Much**
 
-- ¿Cuál es la magnitud del problema?
-
 La magnitud del problema es crítica. Según la Ellen MacArthur Foundation (2017), cada año se desechan 92 millones de toneladas de ropa, de las cuales menos del 1% se recicla. Esta situación se agrava porque, como señala McKinsey (2016), los consumidores compran un 60% más de prendas que hace dos décadas pero las conservan la mitad de tiempo. Aunque el 62% de los jóvenes prefiere opciones sostenibles (ThredUp, 2023), el mercado de segunda mano sigue siendo subutilizado, demostrando la urgente necesidad de soluciones innovadoras como ReWear para cerrar esta brecha entre intención y acción en el consumo responsable.
 
 
@@ -263,14 +261,14 @@ Compradores:Personas entre 18 y 35 años interesadas en la moda, pero que buscan
 
 Vendedores:Personas desde los 18 hasta los 50 años o más que desean vender ropa en buen estado que ya no usan, ya sea para generar ingresos extra, liberar espacio en su armario o apoyar un modelo de consumo más circular. Este grupo incluye tanto usuarios casuales como pequeños emprendedores o diseñadores independientes, motivados por la posibilidad de conectar con compradores que valoren sus prendas y por contribuir activamente a una moda más consciente y sostenible. 
 
-### Capítulo II: Requirements Elicitation & Analysis
-#### 2.1. Competidores
+# Capítulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
 
 **Marketplace de Facebook:** Es la opción más usada para comprar y vender ropa usada en Perú. Es gratuito, tiene gran alcance, pero no está especializado en moda y carece de filtros adecuados.
 
 **Instagram:** Muchas tiendas independientes venden ropa vintage o de segunda mano a través de Instagram, con una estética cuidada y fuerte conexión con su audiencia.
 
-#### 2.1.1. Análisis competitivo
+### 2.1.1. Análisis competitivo
 
 <img src="Report_Assets/competidores 1era parte.png" alt="Nombre" width="500"> 
 </a>
@@ -278,7 +276,7 @@ Vendedores:Personas desde los 18 hasta los 50 años o más que desean vender rop
 <img src="Report_Assets/competidores 2da parte nueva .png" alt="Nombre" width="500"> 
 </a>
 
-#### 2.1.2. Estrategias y tácticas frente a competidores
+### 2.1.2. Estrategias y tácticas frente a competidores
 
 **Diferenciación con Narrativa y Personalización**
 
@@ -317,11 +315,30 @@ Estrategia: Superar al Facebook Marketplace con soluciones reales de entrega.
 Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), ofreciendo opciones rápidas y seguras para envíos entre usuarios.
 
 
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
 
 
+### 2.2.2. Registro de entrevistas
 
 
+### 2.2.3. Análisis de entrevistas
 
 
+## 2.3. Needfinding
 
+### 2.3.1. User Personas
+
+A continuación, se presentan las User Personas que representan a nuestros dos segmentos principales.
+
+**Segmento 1: Compradores**
+
+<img src="./Report_Assets/UserPersona1.png" alt="User Persona 1" width="400"/>
+
+**Segmento 2: Vendedores**
+
+<img src="./Report_Assets/UserPersona2.png" alt="User Persona 2" width="400"/>
+
+#### 2.3.2. User Task Matrix
 
