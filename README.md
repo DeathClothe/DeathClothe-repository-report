@@ -186,7 +186,20 @@ Mi nombre es Mateo Cabanillas y en la actualidad estoy cursando el quinto ciclo 
 </table>
 
 ## 1.2. Solution Profile
+DeathClothe es una plataforma web que transforma la manera de consumir moda al permitir a los usuarios comprar, vender y descubrir ropa de segunda mano con recomendaciones personalizadas según su armario virtual. A través de una experiencia intuitiva, conecta a personas que buscan autenticidad, estilo y sostenibilidad, facilitando la circulación de prendas únicas y dándoles una nueva vida. Con un enfoque en la moda circular, la personalización y la comunidad, DeathClothe no solo es un mercado digital, sino un espacio donde el estilo evoluciona con propósito.
 ### 1.2.1. Antecedentes y problemática
+
+**What**
+
+DeathClothe es una plataforma digital centrada en la moda circular, que permite a los usuarios subir, comprar, vender y descubrir ropa de segunda mano. A través de un armario virtual y un sistema de recomendaciones inteligentes, la aplicación crea una experiencia personalizada para cada usuario, ayudándolo a encontrar prendas que se alineen con su estilo e identidad. Más que una simple tienda online, DeathClothe funciona como una comunidad donde cada prenda tiene una historia y cada intercambio fomenta un consumo más consciente, auténtico y sostenible.
+
+**When**
+
+DeathClothe se usa en cualquier momento en el que una persona quiera renovar su estilo, encontrar una prenda única, darle una segunda vida a ropa que ya no usa, o simplemente explorar tendencias sin recurrir a la moda rápida. Es útil tanto para quienes buscan una alternativa económica y ecológica para vestir, como para quienes desean liberar espacio en su armario sin desperdiciar. También se convierte en una herramienta ideal para quienes disfrutan curando su propio estilo a partir de piezas con historia.
+
+**Where**
+
+La plataforma está diseñada para ser utilizada desde cualquier lugar con acceso a internet, ya sea desde el hogar, durante trayectos diarios, en una cafetería o mientras se compara ropa en una tienda física. Su diseño web responsivo y amigable permite una experiencia fluida tanto en computadoras como en dispositivos móviles. Esto la convierte en una opción accesible y cómoda para todos aquellos que quieren vivir la moda de una manera más conectada, auténtica y sustentable.
 
 **Who**
 
