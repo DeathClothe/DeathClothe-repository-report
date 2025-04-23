@@ -450,7 +450,7 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
       <td>¿En qué ciudad vives actualmente?</td>
     </tr>
     <tr>
-      <td><strong>Ocupación</strong></td>
+      <td><strong>Ocupación/Trabajo</strong></td>
       <td>¿Cuál es tu ocupación o en qué trabajas actualmente?</td>
     </tr>
     <tr>
@@ -638,7 +638,7 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
     </tr>
     <tr>
       <td>Frecuencia de uso de Internet</td>
-      <td>Casi siempre lo usa para compras en línea, especialmente en Marketplace y AliExpress</td>
+      <td>Casi siempre lo usa para compras en línea, especialmente en Marketplace y AliExpress.</td>
     </tr>
     <tr>
       <td>Inicio de la entrevista</td>
@@ -653,14 +653,61 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
 
 
 **Detalles de la entrevista:** <br>
-<img src="./Report_Assets/AnyeloEntrevista2.png" alt="Entrevista 2" width="500">
+<img src="./Report_Assets/AnyeloEntrevista3.png" alt="Entrevista 3" width="500">
 </a><br>
 [URL de la entrevista](.....)
 
 **Resumen de la entrevista:** <br>
 <p>Anyelo , estudiante de Ingeniería de Software de 20 años, buscó ropa de segunda mano atraído por modelos agotados y precios bajos.Organizaría su armario virtual por temporada y color, aunque lamenta la falta de fiabilidad de algunos vendedores y la llegada de prendas robadas o en mal estado, por lo cual considera esencial contar con descripciones claras, tallas exactas y fotos detalladas. Asimismo, verificaría la autenticidad comparando modelos en línea y valora un proceso de pago seguro con opciones de descuento. Asi mismo, le interesaría recibir recomendaciones basadas en su armario virtual y automatizar la venta o donación de prendas no usadas. Finalmente, identifica como funciones imprescindibles un sistema de tallas preciso, métodos de pago confiables y una organización clara de su armario virtual.</p>
 
+#### Segmento :Vendedor
+# Entrevista #4 – Datos del Entrevistado
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Dato</strong></th>
+      <th><strong>Información</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nombre completo</td>
+      <td>David Manuel Torres Meneses</td>
+    </tr>
+    <tr>
+      <td>Edad y Género</td>
+      <td>20 años</td>
+    </tr>
+    <tr>
+      <td>Distrito</td>
+      <td>Los Olivos</td>
+    </tr>
+    <tr>
+      <td>Ocupación/Trabajo</td>
+      <td>Vendedor de tienda de ropa</td>
+    </tr>
+    <tr>
+      <td>Frecuencia de uso de Internet</td>
+      <td>Usualmente lo uso muy rara vez, solo en emergencias y cuando veo algo realmente interesante, como prendas de buena calidad o diseños únicos</td>
+    </tr>
+    <tr>
+      <td>Inicio de la entrevista</td>
+      <td>00:00</td>
+    </tr>
+    <tr>
+      <td>Duración de la entrevista</td>
+      <td>14:50</td>
+    </tr>
+  </tbody>
+</table>
 
+
+**Detalles de la entrevista:** <br>
+<img src="./Report_Assets/DavidEntrevista4.png" alt="Entrevista 4" width="500">
+</a><br>
+
+**Resumen de la entrevista:** <br>
+<p>Daniel Manuel Torres Méndez, de 20 años y residente en Lima, elige qué artículos poner en venta basándose en marca, estilo, color y talla, y los prepara con fotografías (incluso vistas 360°), descripciones detalladas y precios ajustados según la rareza o urgencia. Prefiere publicar desde la computadora porque es más estable que el celular, ya que en el móvil la carga de imágenes y la publicación suelen fallar; sin embargo, sueña con un armario virtual que agrupe prendas por demanda, temporada y exclusividad. Además, valoraría sugerencias automáticas de precios basadas en ventas similares, un chat integrado para resolver dudas rápidamente y múltiples opciones de envío, tanto nacionales como internacionales, y asegura que le motivaría ver que sus ofertas satisfacen las necesidades de los compradores.</p>
 
 ### 2.2.3. Análisis de entrevistas
 
