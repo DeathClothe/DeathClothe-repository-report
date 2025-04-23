@@ -951,6 +951,10 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 
 ####2.3.3. User Journey Mapping
 
+
+
+####2.3.4. Empathy Mapping
+
 **COmpradores**
 <table border="1">
   <tr>
@@ -1030,4 +1034,4 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
   </tr>
 </table>
 
-####2.3.4. Empathy Mapping
+#### As-is
