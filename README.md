@@ -891,7 +891,7 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
   </tbody>
 </table>
 
-**Compradores:**
+**Vendedores:**
 
 <table>
   <thead>
@@ -949,3 +949,85 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
   </tbody>
 </table>
 
+####2.3.3. User Journey Mapping
+
+**COmpradores**
+<table border="1">
+  <tr>
+    <td colspan="3"><strong>¿Qué piensa y siente?</strong><br>
+      Valeria busca completar sus outfits con prendas únicas que expresen su estilo personal, pero necesita opciones económicas que se ajusten a su presupuesto limitado como estudiante.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>¿Qué oye?</strong><br>
+      <a href="#">Escucha</a> comentarios en redes sociales sobre lo caro que es vestir a la moda.
+    </td>
+    <td style="text-align: center;"><strong>Comprador<br>(Valeria Gomez)</strong></td>
+    <td><strong>¿Qué ve?</strong><br>
+      Ofertas en plataformas de moda, pero con precios altos.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><strong>¿Qué dice y hace?</strong><br>
+      Valeria busca ropa única, pero que no pueda pagar precios altos por adquirirlas.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>¿Qué le duele?</strong><br>
+      No encontrar prendas que reflejen su estilo a precios accesibles.<br>
+      <u>Desconfiar</u> de las fotos y descripciones en tiendas online.<br>
+      Sentirse excluida de tendencias por su presupuesto limitado.
+    </td>
+    <td colspan="2"><strong>¿A qué aspira?</strong><br>
+      Completar sus outfits con piezas únicas y económicas.<br>
+      Tener un armario sostenible y lleno de personalidad.<br>
+      Sentirse segura y auténtica con su estilo, sin gastar de más.
+    </td>
+  </tr>
+</table>
+
+**Vendedores**
+
+<table>
+  <tr>
+    <th colspan="3">¿Qué piensa y siente?</th>
+  </tr>
+  <tr>
+    <td colspan="3">Méndez desea vender su ropa de segunda mano donde encuentre compradores que aprecien su estilo y paguen un precio justo.</td>
+  </tr>
+  <tr>
+    <th>¿Qué oye?</th>
+    <th>Vendedor<br>(Calor Méndez)</th>
+    <th>¿Qué ve?</th>
+  </tr>
+  <tr>
+    <td>Escucha recomendaciones de influencers sobre apps para vender ropa usada.</td>
+    <td></td>
+    <td>Su armario lleno de ropa de calidad que ya no usa.</td>
+  </tr>
+  <tr>
+    <th colspan="3">¿Qué dice y hace?</th>
+  </tr>
+  <tr>
+    <td colspan="3">Méndez busca una app que le permita vender de manera sencilla y prefiere vender por Instagram, aunque le falta alcance.</td>
+  </tr>
+  <tr>
+    <th>¿Qué le duele?</th>
+    <th colspan="1"></th>
+    <th>¿A qué aspira?</th>
+  </tr>
+  <tr>
+    <td>
+      Perder tiempo en plataformas que no generan ventas.<br>
+      Ver cómo sus prendas pierden valor por malas fotos o presentación.
+    </td>
+    <td></td>
+    <td>
+      Vender rápido y sin complicaciones.<br>
+      Liberar espacio en su armario con ganancias justas.<br>
+      Convertir su closet en una fuente estable de ingresos extras.
+    </td>
+  </tr>
+</table>
+
+####2.3.4. Empathy Mapping
