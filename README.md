@@ -355,3 +355,70 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 
 #### 2.3.2. User Task Matrix
 
+<table>
+  <thead>
+    <tr>
+      <th>Actividades</th>
+      <th colspan="2">Valeria Gomez</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Explorar el catálogo de ropa de segunda mano</td>
+      <td>Diario/Semanal</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Utilizar filtros inteligentes (talla, estilo, color, precio)</td>
+      <td>Por cada búsqueda</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Ver recomendaciones personalizadas basadas en su historial</td>
+      <td>Diario/Semana</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Leer historias/origen de las prendas (anécdotas, dueño anterior)</td>
+      <td>Por artículo visto</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Interactuar con la función "Me interesa" o guardar favoritos</td>
+      <td>Diario/Semanal</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Realizar compras (selección, pago seguro, confirmación)</td>
+      <td>Según necesidad</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Calificar a vendedores y dejar reseñas post-compra</td>
+      <td>Tras cada compra</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Gestionar armario virtual (agregar/eliminar prendas)</td>
+      <td>Semanal/Mensual</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Recibir alertas de nuevos artículos según preferencias</td>
+      <td>Diario/Semanal</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Adaptación a Condiciones Climáticas</td>
+      <td>Según necesidad</td>
+      <td>Media</td>
+    </tr>
+  </tbody>
+</table>
+
+
