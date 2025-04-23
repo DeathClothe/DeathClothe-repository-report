@@ -1042,4 +1042,84 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
   </tr>
 </table>
 
-#### As-is
+#### 2.3.5. As-is Scenario Mapping
+
+**Compradores**
+
+<table border="1">
+    <tr>
+        <th>Phases</th>
+        <th>Búsqueda de Prendas</th>
+        <th>Evaluación de Productos</th>
+        <th>Proceso de Compra</th>
+        <th>Post-Compra</th>
+    </tr>
+    <tr>
+        <td><strong>Doing</strong></td>
+        <td>Navega en múltiples plataformas sin filtros precisos.</td>
+        <td>Compara fotos y descripciones poco detalladas.</td>
+        <td>Abandona el carrito por procesos largos o inseguros.</td>
+        <td>Espera sin tracking claro o se arrepiente por falta de garantías.</td>
+    </tr>
+    <tr>
+        <td><strong>Thinking</strong></td>
+        <td>Me pregunto donde puedo encontrar algo que realmente me guste.</td>
+        <td>Me pregunto si realmente será la talla correcta, ya que las fotos no ayudan</td>
+        <td>Me pregunto si será seguro pagar aquí</td>
+        <td>Espero que no me arrepienta de la compra que he realizado</td>
+    </tr>
+    <tr>
+        <td><strong>Feeling</strong></td>
+        <td>Me siento frustrado por opciones genéricas</td>
+        <td>Me siento ansioso por falta de transparencia</td>
+        <td>Me siento preocupada y con miedo por pagar, siento que no es del todo seguro</td>
+        <td>Me siento inseguro y con ansias por la decisión que ha tomado</td>
+    </tr>
+</table>
+
+**vendedores**
+
+<table border="1">
+    <tr>
+        <th>Phases</th>
+        <th>Publicación del Producto</th>
+        <th>Gestión de Ventas</th>
+        <th>Proceso de Envío</th>
+        <th>Comunicación con el Comprador</th>
+        <th>Post-Venta</th>
+    </tr>
+    <tr>
+        <td><strong>Doing</strong></td>
+        <td>Suben fotos manualmente sin editar, usando apps externas.</td>
+        <td>Llevan registro manual de ventas en hojas de cálculo o notas.</td>
+        <td>Empacan productos y gestionan envíos con servicios externos sin integración.</td>
+        <td>Responden mensajes uno a uno para actualizar compradores.</td>
+        <td>Esperan reseñas sin incentivos claros.</td>
+    </tr>
+    <tr>
+        <td><strong>Thinking</strong></td>
+        <td>Me pregunto si mis fotos son lo suficientemente claras.</td>
+        <td>Me pregunto cuántas ventas tendré, es difícil llevar la cuenta.</td>
+        <td>Me pregunto si el comprador recibirá su pedido sin problemas.</td>
+        <td>Pienso que los compradores se impacientan si no respondo rápido.</td>
+        <td>¿Valdrá la pena vender aquí si no recibo reconocimiento?</td>
+    </tr>
+    <tr>
+        <td><strong>Feeling</strong></td>
+        <td>Me siento frustrado e inseguro por la presentación.</td>
+        <td>Me siento agobiado y confundido por la gestión manual</td>
+        <td>Me siento preocupado por si el producto era lo que buscaba el comprador.</td>
+        <td>Me siento sobrecargado por responder consultas repetidas.</td>
+        <td>Desmotivación por falta de retroalimentación.</td>
+    </tr>
+</table>
+
+####
+
+
+
+
+
+
+
+
