@@ -367,6 +367,65 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
 </table>
 
 ## 1.2 Atributos Personales y Gustos
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Categoría</th>
+      <th>Pregunta</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ocupación</td>
+      <td>¿Cuál es tu ocupación o en qué trabajas actualmente?</td>
+    </tr>
+    <tr>
+      <td>Uso digital</td>
+      <td>¿Con qué frecuencia usas internet para compras o redes sociales?</td>
+    </tr>
+    <tr>
+      <td>Explorador de estilo</td>
+      <td>¿Cuéntame sobre la última vez que buscaste ropa de segunda mano en línea? ¿Qué pasos seguiste?</td>
+    </tr>
+    <tr>
+      <td>Explorador de estilo</td>
+      <td>¿Qué te impulsa más a comprar ropa usada en línea: precio, sostenibilidad o estilo único? ¿Por qué?</td>
+    </tr>
+    <tr>
+      <td>Armario virtual</td>
+      <td>Si tuvieras un ‘armario virtual’ en la plataforma web, ¿cómo organizarías tus prendas y qué filtros usarías para encontrar ropa que encaje con tu personalidad?</td>
+    </tr>
+    <tr>
+      <td>Confianza y experiencia</td>
+      <td>¿Qué te frustra de las plataformas de segunda mano actuales y qué funcionalidad te haría confiar en DeathClothe?</td>
+    </tr>
+    <tr>
+      <td>Confianza y experiencia</td>
+      <td>¿Qué información necesitarías ver en la plataforma web para comprar ropa usada para tus hijos sin preocupaciones?</td>
+    </tr>
+    <tr>
+      <td>Confianza y experiencia</td>
+      <td>¿Cómo verificas la autenticidad de una prenda vintage y qué sistema integrado en la plataforma web te haría usarla?</td>
+    </tr>
+    <tr>
+      <td>Cierre de compra</td>
+      <td>¿Qué funcionalidades de cierre de compra te motivarían a comprar más rápido en DeathClothe?</td>
+    </tr>
+    <tr>
+      <td>Recomendaciones</td>
+      <td>¿Te interesaría recibir recomendaciones de prendas en la plataforma web basadas en tu armario virtual y estilo? ¿Qué tipo de sugerencias valorarías?</td>
+    </tr>
+    <tr>
+      <td>Organización del hogar</td>
+      <td>¿Cómo te gustaría que DeathClothe te ayudara a ‘ganar espacio’ en casa?</td>
+    </tr>
+    <tr>
+      <td>Funcionalidades ideales</td>
+      <td>Imagina la plataforma web perfecta de segunda mano. ¿Qué tres funcionalidades serían imprescindibles para ti?</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
