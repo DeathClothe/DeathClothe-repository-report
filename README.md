@@ -333,6 +333,43 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
 ### 2.2.1. Diseño de entrevistas
 <p> La elaboración de las entrevista se basó en los objetivos del proyecto y en los perfiles específicos de compradores y vendedores. Se formularon preguntas personalizadas para entender hábitos, motivaciones y necesidades. En compradores, se exploraron sus preferencias por alternativas sostenibles, incluyendo a los compradores impulsivos para identificar qué los motiva. En vendedores, se abordaron razones para vender y expectativas hacia una plataforma que promueva el consumo responsable. </p>
 
+## 1. Preguntas para Comprador
+## 1.1 Información Demográfica
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Categoría Demográfica</th>
+      <th>Pregunta de la entrevista</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Identificación personal</strong></td>
+      <td>¿Podrías darme tu nombre?</td>
+    </tr>
+    <tr>
+      <td><strong>Edad</strong></td>
+      <td>¿Cuántos años tienes?</td>
+    </tr>
+    <tr>
+      <td><strong>Ciudad</strong></td>
+      <td>¿En qué ciudad vives actualmente?</td>
+    </tr>
+    <tr>
+      <td><strong>Ocupación</strong></td>
+      <td>¿Cuál es tu ocupación o en qué trabajas actualmente?</td>
+    </tr>
+    <tr>
+      <td><strong>Uso digital</strong></td>
+      <td>¿Con qué frecuencia usas internet para compras o redes sociales?</td>
+    </tr>
+  </tbody>
+</table>
+
+## 1.2 Atributos Personales y Gustos
+
+
+
 ### 2.2.2. Registro de entrevistas
 
 
