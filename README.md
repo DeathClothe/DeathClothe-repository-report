@@ -949,7 +949,7 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
   </tbody>
 </table>
 
-####2.3.3. User Journey Mapping
+#### 2.3.3. User Journey Mapping
 
 **Compradores**
 
@@ -961,7 +961,7 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 <img src="Report_Assets/deathclothes user journey map vendedor.png" alt="Nombre" width="500"> 
 </a>
 
-####2.3.4. Empathy Mapping
+#### 2.3.4. Empathy Mapping
 
 **COmpradores**
 <table border="1">
