@@ -556,8 +556,8 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
 
 
 **Detalles de la entrevista:** <br>
-<img src="./Report_Assets/DanielaEntrevista1.png" alt="Entrevista 1" width="400">
-</a>
+<img src="./Report_Assets/DanielaEntrevista1.png" alt="Entrevista 1" width="500">
+</a><br>
 [URL de la entrevista](.....)
 
 **Resumen de la entrevista:** <br>
@@ -604,9 +604,12 @@ Daniela Zarrillo, estudiante de 19 años de Lima, mencionó que utiliza con frec
 </table>
 
 **Detalles de la entrevista:** <br>
-<img src="./Report_Assets/AgustinEntrevista2.png" alt="Entrevista 2" width="400">
-</a>
+<img src="./Report_Assets/AgustinEntrevista2.png" alt="Entrevista 2" width="500">
+</a><br>
 [URL de la entrevista](.....)
+
+**Resumen de la entrevista:** <br>
+Agustín Venturos Aldaña, de 27 años y residente en Lima, compró ropa de segunda mano hace un mes tras buscar tiendas vintage en Instagram, revisar comentarios y tallas grandes, y completar el pago con Yape. Valora el estilo único y la sostenibilidad, por lo que organizaría su armario virtual por estilo, temporada, color y talla, con filtros de combinaciones personalizadas. Sin embargo, se frustra con descripciones imprecisas y fotos poco claras, de modo que confiaría en DeathClothe si incluyera verificación de calidad, medidas exactas y reseñas de expertos. Además, considera clave un proceso de pago ágil con cupones y alertas de oferta, recomendaciones tanto similares como contrastantes, clasificación automática de prendas para liberar espacio y un informe del impacto ambiental de sus compras.
 
 
 
