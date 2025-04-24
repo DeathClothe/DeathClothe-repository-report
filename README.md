@@ -1574,8 +1574,7 @@ Entonces se inicia una revisión del contenido reportado.
         Como usuario visitante, quiero ver la propuesta de valor y las principales funcionalidades en la landing page,  
         para entender rápidamente los beneficios de la plataforma.
     </td>
-    <td>
-        Escenario 1: Propuesta de valor  
+    <td> Escenario 1: Propuesta de valor  
         Dado que el usuario accede al sitio principal,  
         Cuando se carga la página,  
         Entonces ve un banner con eslogan y descripción breve.  
@@ -1584,7 +1583,6 @@ Entonces se inicia una revisión del contenido reportado.
         Dado que el usuario hace scroll en la landing page,  
         Cuando llega a la sección de características,  
         Entonces ve iconos, descripciones y llamadas a la acción de cada funcionalidad.
-    </td>
     <td>EP07</td>
 </tr>
 <tr>
@@ -1594,8 +1592,7 @@ Entonces se inicia una revisión del contenido reportado.
         Como usuario nuevo o recurrente, quiero poder registrarme o iniciar sesión directamente desde la landing page,  
         para empezar a usar la plataforma sin navegar a otras secciones.
     </td>
-    <td>
-        Escenario 1: CTA visibles  
+    <td> Escenario 1: CTA visibles  
         Dado que el usuario está en la landing page,  
         Cuando la página se renderiza,  
         Entonces ve claramente los botones “Registrarse” y “Iniciar sesión” en el header.  
@@ -1609,9 +1606,9 @@ Entonces se inicia una revisión del contenido reportado.
         Dado que el usuario hace clic en “Iniciar sesión”,  
         Cuando se abre el modal,  
         Entonces aparece el formulario de autenticación.
-    </td>
     <td>EP07</td>
 </tr>
+
 
 **Technical Stories**
 
