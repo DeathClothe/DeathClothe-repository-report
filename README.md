@@ -1592,6 +1592,192 @@ Entonces el sistema muestra el mensaje: “Tráiler no disponible actualmente”
     </tbody>
 </table>
 
+**Technical Stories**
+
+<table>
+    <tr>
+        <th>Historia de Usuario ID</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Criterios de Aceptación</th>
+        <th>Relacionado con (Epic ID)</th>
+    </tr>
+    <tbody>
+        <tr>
+            <td>TS-01</td>
+            <td>Diseño y creación de base de datos relacional para DeathClothe	</td>
+            <td>Como desarrollador backend, necesito diseñar e implementar un esquema de base de datos MySQL que almacene usuarios, prendas, calificaciones y transacciones, para garantizar consistencia y escalabilidad del sistema.	</td>
+            <td>
+             Escenario 1:
+             Dado que se definió la estructura de datos del sistema,
+Cuando se crean las tablas en MySQL,
+Entonces estas deben incluir claves primarias, foráneas y estar normalizadas hasta 3FN.
+
+Escenario 2:
+Dado que se tiene el modelo E-R aprobado,
+Cuando se ejecuta el script de migración,
+Entonces las tablas se crean sin errores y permiten la inserción de datos de prueba.
+
+Escenario 3:
+Dado que se desea mantener integridad referencial,
+Cuando se relacionan las tablas con claves foráneas,
+Entonces la eliminación o actualización en cascada debe funcionar según lo esperado.
+</td>
+<td>EP08</td>
+</tr>
+<tr>
+<td>TS-02</td>
+<td>Implementación de consultas optimizadas para filtros avanzados</td>
+<td>Como desarrollador, necesito implementar consultas SQL eficientes que permitan filtrar prendas por talla, color, estado y tipo, para mejorar la experiencia de búsqueda del usuario.</td>
+<td>
+ Escenario 1:
+Dado que el usuario selecciona filtros en la interfaz,
+Cuando se consulta la base de datos,
+Entonces la búsqueda devuelve resultados correctos y optimizados.
+
+Escenario 2:
+Dado que los datos están correctamente indexados,
+Cuando se realiza una búsqueda por múltiples criterios,
+Entonces el tiempo de respuesta no supera los 500ms.
+
+Escenario 3:
+Dado que el usuario no encuentra coincidencias,
+Cuando se aplica un filtro sin resultados,
+Entonces se debe retornar un mensaje amigable sin errores.
+</td>
+<td>EP04</td>
+</tr>
+<tr>
+<td>TS-03</td>
+<td>Relación entre prendas y armario virtual del usuario</td>
+<td>Como desarrollador, necesito establecer relaciones en MySQL entre las prendas compradas o favoritas y el armario virtual de cada usuario, para que puedan visualizar su estilo y recibir recomendaciones.</td>
+<td>
+Escenario 1:
+Dado que el usuario guarda o compra una prenda,
+Cuando esta acción se registra,
+Entonces la relación se almacena en la tabla del armario virtual.
+
+Escenario 2:
+Dado que el usuario accede a su perfil,
+Cuando visualiza su armario virtual,
+Entonces puede ver sus prendas guardadas y compradas.
+
+Escenario 3:
+Dado que hay errores de integridad referencial,
+Cuando se consulta el armario virtual,
+Entonces el sistema debe manejar los errores sin comprometer la experiencia del usuario.
+</td>
+<td>EP02</td>
+</tr>
+<tr>
+<td>TS-04</td>
+<td>Visualización responsive del catálogo de ropa</td>
+<td>Como desarrollador frontend, necesito diseñar la interfaz del catálogo para que se adapte correctamente en dispositivos móviles y de escritorio, permitiendo un scroll fluido.</td>
+<td>
+Escenario 1:
+Dado que el usuario accede desde un dispositivo móvil,
+Cuando se visualiza el catálogo,
+Entonces el layout se adapta sin romper la estructura.
+
+Escenario 2:
+Dado que hay múltiples imágenes cargadas,
+Cuando se navega por el catálogo,
+Entonces el scroll debe ser fluido y progresivo.
+
+Escenario 3:
+Dado que se realiza una prueba de compatibilidad,
+Cuando se carga el sitio en diferentes navegadores,
+Entonces el diseño debe mantenerse funcional.
+</td>
+<td>EP08</td>
+</tr>
+<tr>
+<td>TS-05</td>
+<td>Editor de publicaciones con validación de campos</td>
+<td>Como desarrollador frontend, quiero que el formulario de subida de prendas valide en tiempo real los campos obligatorios (foto, precio, categoría), para evitar errores.</td>
+<td>
+Escenario 1:
+Dado que el usuario intenta publicar una prenda,
+Cuando los campos no están completos,
+Entonces el botón de publicación permanece desactivado.
+
+Escenario 2:
+Dado que se detecta un error en los datos ingresados,
+Cuando el usuario enfoca un campo con errores,
+Entonces se muestra un mensaje de validación.
+
+Escanerio 3:
+Dado que el usuario completa todos los campos,
+Cuando hace clic en 'Publicar',
+Entonces la prenda se sube correctamente y se redirige a su vista previa.
+</td>
+<td>EP04</td>
+</tr>
+<tr>
+<td>US-06</td>
+<td>Componente frontend de "Tendencias"</td>
+<td>Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales.	</td>
+<td>
+Escenario 1:
+Se cargan los títulos más populares desde una API.
+Escenario 2:
+Incluye imagen de portada, nombre, calificación y tipo.
+Escenario 3:
+Es visible tanto en desktop como móvil.
+</td>
+<td>EP04</td>
+</tr>
+<tr>
+<td>TS-07</td>
+<td>
+Diseño y creación de base de datos relacional para DeathClothe
+</td>
+<td>
+Como desarrollador backend, necesito diseñar e implementar un esquema de base de datos MySQL que almacene usuarios, prendas, calificaciones y transacciones, para garantizar consistencia y escalabilidad del sistema.
+</td>
+<td>
+Escenario 1:
+Dado que se definió la estructura de datos del sistema,
+Cuando se crean las tablas en MySQL,
+Entonces estas deben incluir claves primarias, foráneas y estar normalizadas hasta 3FN.
+
+Escenario 2:
+Dado que se tiene el modelo E-R aprobado,
+Cuando se ejecuta el script de migración,
+Entonces las tablas se crean sin errores y permiten la inserción de datos de prueba.
+
+Escenario 3:
+Dado que se desea mantener integridad referencial,
+Cuando se relacionan las tablas con claves foráneas,
+Entonces la eliminación o actualización en cascada debe funcionar según lo esperado.
+</td>
+<td>EP01</td>
+<tr>
+  <td>TS-8</td>
+  <td>Agregar índices en campos clave de MySQL</td>
+  <td>Como desarrollador, quiero agregar índices en campos consultados frecuentemente como idContenido, idUsuario, genero y titulo, para mejorar el rendimiento.</td>
+  <td>
+Escenario 1:
+Dado que se definió la estructura de datos del sistema,
+Cuando se crean las tablas en MySQL,
+Entonces estas deben incluir claves primarias, foráneas y estar normalizadas hasta 3FN.
+
+Escenario 2:
+Dado que se tiene el modelo E-R aprobado,
+Cuando se ejecuta el script de migración,
+Entonces las tablas se crean sin errores y permiten la inserción de datos de prueba.
+
+Escenario 3:
+Dado que se desea mantener integridad referencial,
+Cuando se relacionan las tablas con claves foráneas,
+Entonces la eliminación o actualización en cascada debe funcionar según lo esperado.
+  </td>
+  <td>EPIC-8</td>
+</tr>
+
+</tr>
+    </tbody>
+</table>
 
 
 
