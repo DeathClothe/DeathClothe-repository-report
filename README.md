@@ -1122,6 +1122,62 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 
 #### User Stories
 
+##Epics
+
+<table>
+  <thead>
+    <tr>
+      <th>Epic ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+ <tbody>
+  <tr>
+    <td>EPIC-1</td>
+    <td>Gestión de Publicaciones</td>
+    <td>Como usuario, quiero publicar, editar y eliminar prendas de forma eficiente, para mantener mi catálogo actualizado y atractivo.</td>
+  </tr>
+  <tr>
+    <td>EPIC-2</td>
+    <td>Búsqueda y Filtrado Avanzado</td>
+    <td>Como comprador, quiero buscar y filtrar prendas de manera precisa, para encontrar rápidamente lo que necesito o deseo.</td>
+  </tr>
+  <tr>
+    <td>EPIC-3</td>
+    <td>Recomendaciones Personalizadas	</td>
+    <td>Como usuario, quiero recibir sugerencias basadas en mi estilo y comportamiento, para descubrir prendas relevantes sin esfuerzo.</td>
+  </tr>
+  <tr>
+    <td>EPIC-4</td>
+    <td>Gestión de Transacciones</td>
+    <td>Como vendedor, quiero gestionar ventas, estadísticas y notificaciones, para optimizar mi actividad en la plataforma.</td>
+  </tr>
+  <tr>
+    <td>EPIC-5</td>
+    <td>Armario Virtual	</td>
+    <td>Como usuario, quiero crear y administrar un armario virtual, para organizar mis prendas y mejorar mis recomendaciones.</td>
+  </tr>
+  <tr>
+    <td>EPIC-6</td>
+    <td>Sistema de Confianza	</td>
+    <td>Como usuario, quiero evaluar y reportar perfiles o prendas, para contribuir a una comunidad segura y transparente.</td>
+  </tr>
+  <tr>
+    <td>EPIC-7</td>
+    <td>Interacción Social	</td>
+    <td>Como usuario, quiero compartir y guardar prendas, para interactuar con la comunidad y construir mi estilo de manera colaborativa.</td>
+  </tr>
+  <tr>
+    <td>EPIC-8</td>
+    <td>Gestión de Favoritos	</td>
+    <td>Como comprador, quiero guardar y organizar prendas de interés, para facilitar decisiones futuras de compra.</td>
+  </tr>
+</tbody>
+</table>
+
+## user Stories
+
 <table>
     <tr>
         <th>Historia de Usuario ID</th>
