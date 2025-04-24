@@ -1582,7 +1582,7 @@ Entonces se inicia una revisión del contenido reportado.
         Escenario 2: Destacar funcionalidades  
         Dado que el usuario hace scroll en la landing page,  
         Cuando llega a la sección de características,  
-        Entonces ve iconos, descripciones y llamadas a la acción de cada funcionalidad.
+        Entonces ve iconos, descripciones y llamadas a la acción de cada funcionalidad. </td>
     <td>EP07</td>
 </tr>
 <tr>
@@ -1605,7 +1605,7 @@ Entonces se inicia una revisión del contenido reportado.
         Escenario 3: Flujo de login  
         Dado que el usuario hace clic en “Iniciar sesión”,  
         Cuando se abre el modal,  
-        Entonces aparece el formulario de autenticación.
+        Entonces aparece el formulario de autenticación.</td>
     <td>EP07</td>
 </tr>
 
