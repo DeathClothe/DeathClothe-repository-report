@@ -1578,7 +1578,6 @@ Entonces se inicia una revisión del contenido reportado.
         Dado que el usuario accede al sitio principal,  
         Cuando se carga la página,  
         Entonces ve un banner con eslogan y descripción breve.  
-
         Escenario 2: Destacar funcionalidades  
         Dado que el usuario hace scroll en la landing page,  
         Cuando llega a la sección de características,  
@@ -1592,20 +1591,17 @@ Entonces se inicia una revisión del contenido reportado.
         Como usuario nuevo o recurrente, quiero poder registrarme o iniciar sesión directamente desde la landing page,  
         para empezar a usar la plataforma sin navegar a otras secciones.
     </td>
-    <td> Escenario 1: CTA visibles  
-        Dado que el usuario está en la landing page,  
-        Cuando la página se renderiza,  
-        Entonces ve claramente los botones “Registrarse” y “Iniciar sesión” en el header.  
-
-        Escenario 2: Flujo de registro  
-        Dado que el usuario hace clic en “Registrarse”,  
-        Cuando se despliega el modal,  
-        Entonces aparece el formulario de registro completo.  
-
-        Escenario 3: Flujo de login  
-        Dado que el usuario hace clic en “Iniciar sesión”,  
-        Cuando se abre el modal,  
-        Entonces aparece el formulario de autenticación.</td>
+    
+ <td>Escenario 1: Propuesta de valor  
+        Dado que el usuario accede al sitio principal,  
+        Cuando se carga la página,  
+        Entonces ve un banner con eslogan y descripción breve.
+        Escenario 2: Destacar funcionalidades  
+        Dado que el usuario hace scroll en la landing page,  
+        Cuando llega a la sección de características,  
+        Entonces ve iconos, descripciones y llamadas a la acción de cada funcionalidad.
+        </td>
+        </td>
     <td>EP07</td>
 </tr>
 
