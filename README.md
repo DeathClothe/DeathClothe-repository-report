@@ -1120,6 +1120,339 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 ## 2.4. Ubiquitous Language
 
 
+#### User Stories
+
+<table>
+    <tr>
+        <th>Historia de Usuario ID</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Criterios de Aceptación</th>
+        <th>Relacionado con (Epic ID)</th>
+    </tr>
+    <tbody>
+        <tr>
+            <td>US-01</td>
+            <td>Explorar prendas recomendadas</td>
+            <td>Como comprador, quiero ver recomendaciones personalizadas de ropa según mi estilo y mi armario virtual, para encontrar prendas que realmente me gusten sin tener que buscar demasiado.
+
+</td>
+            <td>
+Escenario 1: Recomendaciones automáticas
+Dado que el usuario tiene prendas en su armario virtual,
+Cuando accede a la sección "Descubre tu estilo",
+Entonces ve una selección de prendas recomendadas con base en sus preferencias y artículos guardados.
+
+Escenario 2: Filtros inteligentes
+Dado que el usuario quiere afinar su búsqueda,
+Cuando utiliza filtros como talla, color, estilo o estado,
+Entonces las recomendaciones se ajustan dinámicamente a sus elecciones.
+            </td>
+            <td>EP00</td>
+        </tr>
+        <tr>
+            <td>US-02</td>
+            <td>
+                Publicar una prenda en venta
+            </td>
+            <td>
+                Como vendedor, quiero subir una prenda en solo tres pasos, para que sea fácil y rápido listar productos y empezar a vender.
+            </td>
+            <td>
+Escenario 1: Proceso simplificado de publicación
+Dado que el usuario quiere vender una prenda,
+Cuando accede al botón “Publicar prenda” y completa los tres pasos (foto, descripción básica, precio),
+Entonces la prenda queda publicada en la plataforma.
+
+Escenario 2: Previsualización
+Dado que el usuario completó los pasos,
+Cuando visualiza el resumen de su prenda,
+Entonces puede editarla antes de confirmar la publicación.
+            </td>
+            <td>EP00</td>
+        </tr>
+        <tr>
+            <td>US-03</td>
+            <td>Ver calificaciones del vendedor</td>
+            <td>Como comprador, quiero ver las valoraciones del vendedor antes de comprar, para asegurarme de que es confiable.</td>
+            <td>
+Escenario 1: Visualización de calificaciones
+Dado que el comprador visualiza una prenda,
+Cuando entra al perfil del vendedor,
+Entonces puede ver las calificaciones y comentarios dejados por otros usuarios.
+
+Escenario 2: Calificación promedio
+Dado que el usuario está en la ficha del producto,
+Cuando observa el nombre del vendedor,
+Entonces puede ver la calificación promedio sin salir de esa vista.
+            </td>
+            <td>EP00</td>
+        </tr>
+        <tr>
+            <td>US-04</td>
+            <td> Buscar prendas por palabra clave</td>
+            <td>Como comprador, quiero poder buscar prendas usando palabras clave, para encontrar más rápido lo que tengo en mente.</td>
+            <td>
+Escenario 1: Búsqueda por texto simple
+Dado que el usuario ingresa una palabra clave en la barra de búsqueda,
+Cuando presiona "Enter",
+Entonces se muestran resultados que contienen ese término en el título o descripción.
+
+Escenario 2: Resultados con sugerencias
+Dado que el usuario empieza a escribir,
+Cuando hay coincidencias con palabras clave populares,
+Entonces se muestran sugerencias automáticas en un menú desplegable.
+
+Escenario 3: Sin resultados
+Dado que el usuario realiza una búsqueda sin coincidencias,
+Cuando no hay prendas disponibles,
+Entonces se muestra un mensaje con alternativas similares o recomendaciones.
+            </td>
+            <td>EP00</td>
+        </tr>
+        <tr>
+            <td>US-05</td>
+            <td>Guardar prendas favoritas</td>
+            <td>Como comprador, quiero guardar prendas que me gusten, para volver a verlas más tarde.</td>
+            <td>
+Escenario 1: Agregar a favoritos
+Dado que el usuario ve una prenda,
+Cuando hace clic en el icono de “corazón”,
+Entonces la prenda se guarda en su lista de favoritos.
+
+Escenario 2: Acceso a lista de favoritos
+Dado que el usuario está en su perfil,
+Cuando selecciona la pestaña “Favoritos”,
+Entonces puede ver todas las prendas que ha guardado.
+
+Escenario 3: Eliminar de favoritos
+Dado que una prenda ya está en favoritos,
+Cuando el usuario vuelve a hacer clic en el icono de “corazón”,
+Entonces la prenda se elimina de la lista.
+            </td>
+            <td>EP00</td>
+        </tr>
+        <tr>
+            <td>US-06</td>
+            <td>Ver últimas prendas publicadas</td>
+            <td>Como comprador, quiero ver las prendas recién agregadas, para no perderme novedades.</td>
+            <td>
+Escenario 1: Vista por fecha de publicación
+Dado que el usuario accede a la sección “Novedades”,
+Cuando navega el feed,
+Entonces ve primero las prendas publicadas más recientemente.
+
+Escenario 2: Etiqueta de “Nuevo”
+Dado que una prenda fue publicada hace menos de 24h,
+Cuando aparece en el catálogo,
+Entonces se muestra una etiqueta de “Nuevo”.
+
+Escenario 3: Notificación de nuevas prendas
+Dado que el usuario activó notificaciones,
+Cuando se publica una prenda en su categoría favorita,
+Entonces recibe una alerta o notificación en la plataforma.
+            </td>
+            <td>EP00</td>
+        </tr>
+        <tr>
+            <td>US-07</td>
+            <td>Filtrar por categoría</td>
+            <td>Como comprador, quiero aplicar filtros por tipo de prenda (camisas, pantalones, etc.), para encontrar lo que necesito más fácilmente.</td>
+            <td>
+Escenario 1: Selección de categoría
+Dado que el usuario accede al catálogo,
+Cuando hace clic en un filtro de tipo de prenda,
+Entonces solo se muestran las prendas correspondientes.
+
+Escenario 2: Combinación de filtros
+Dado que el usuario desea filtrar aún más,
+Cuando selecciona varios filtros (categoría + talla),
+Entonces los resultados se ajustan a esa combinación.
+
+Escenario 3: Limpiar filtros
+Dado que el usuario desea ver el catálogo completo nuevamente,
+Cuando presiona el botón “Limpiar filtros”,
+Entonces se eliminan todos los filtros aplicados.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US-08</td>
+            <td>
+                Recibir recomendaciones personalizadas
+            </td>
+            <td>
+               Como comprador frecuente, quiero ver recomendaciones basadas en mi estilo y gustos, para descubrir prendas que realmente me interesen.
+            </td>
+            <td>
+Escenario 1: Recomendaciones según historial de navegación
+Dado que el usuario ha navegado por varias prendas,
+Cuando accede a la sección “Recomendaciones para ti”,
+Entonces ve prendas similares a las que ha visitado.
+
+Escenario 2: Recomendaciones por armario virtual
+Dado que el usuario ha cargado su armario virtual,
+Cuando ingresa a su perfil,
+Entonces ve sugerencias compatibles con las prendas que ya posee.
+
+Escenario 3: Recomendaciones tras compra
+Dado que el usuario realizó una compra,
+Cuando vuelve a la plataforma,
+Entonces ve prendas que complementan su compra reciente.
+            </td>
+            <td>EP01</td>
+        <tr>
+            <td>US-09</td>
+            <td>Editar o eliminar una prenda publicada</td>
+            <td>Como vendedor, quiero editar o eliminar prendas que ya publiqué, para mantener actualizado mi catálogo. ​</td>
+            <td>
+            Escenario 1: Edición de información
+Dado que el usuario accede a su perfil,
+Cuando selecciona una prenda publicada,
+Entonces puede modificar descripción, precio o imágenes.
+
+Escenario 2: Eliminación de prenda
+Dado que ya no desea venderla,
+Cuando presiona “Eliminar”,
+Entonces la prenda se elimina de la plataforma.
+</td>
+            <td>EP00</td>
+        </tr>
+        <tr>
+            <td>US-10</td>
+            <td>Ver estadísticas de mis ventas</td>
+            <td>Como vendedor, quiero ver las estadísticas de mis ventas, para saber qué prendas se venden más y mejorar mi oferta.</td>
+            <td>Escenario 1: Acceso al panel de ventas
+Dado que el usuario es vendedor activo,
+Cuando entra a su perfil,
+Entonces puede ver un resumen de sus ventas totales, visitas y artículos vendidos.
+
+Escenario 2: Visualización por período
+Dado que el usuario desea analizar sus ventas,
+Cuando selecciona un período (última semana, mes, etc.),
+Entonces el panel muestra los datos filtrados por esa fecha.
+</td>
+            <td>EP00</td>
+        </tr>
+        <tr>
+            <td>US-11</td>
+            <td>Recibir notificaciones de interés en mis prendas</td>
+            <td>Como vendedor, quiero recibir notificaciones cuando alguien marque mi prenda como favorita o pregunte por ella, para saber cuáles generan más interés.​</td>
+            <td>
+              Escenario 1: Notificación de favoritos
+Dado que otro usuario marca la prenda como favorita,
+Cuando esto ocurre,
+Entonces el vendedor recibe una notificación.
+
+Escenario 2: Notificación de preguntas
+Dado que un comprador deja una pregunta en la publicación,
+Cuando se registra la pregunta,
+Entonces el vendedor recibe una notificación para responder.
+</td>
+            <td>EP00</td>
+        </tr>
+        <tr>
+            <td>US-12</td>
+            <td>Marcar una prenda como vendida</td>
+            <td>Como vendedor, quiero poder marcar una prenda como vendida, para evitar que otros la sigan viendo como disponible.​</td>
+            <td>Escenario 1: Cambio de estado manual
+Dado que la prenda fue vendida fuera de la plataforma,
+Cuando el usuario la marca como “vendida”,
+Entonces desaparece del catálogo público.
+
+Escenario 2: Cambio automático tras compra en plataforma
+Dado que la prenda fue comprada en DeathClothe,
+Cuando se confirma el pago,
+Entonces el estado se actualiza automáticamente a “vendida”.
+</td>
+            <td>EP00</td>
+        </tr>
+        <tr>
+            <td>US-13</td>
+            <td>Agregar una prenda a favoritos</td>
+            <td>Como comprador, quiero poder marcar prendas como favoritas para guardarlas y considerarlas después.​</td>
+            <td>Escenario 1: Marcar como favorito
+Dado que el usuario está navegando por el catálogo,
+Cuando pulsa el ícono de “corazón”,
+Entonces la prenda se agrega a su lista de favoritos.
+
+Escenario 2: Visualizar lista de favoritos
+Dado que el usuario quiere ver sus favoritos,
+Cuando accede a “Mi lista de favoritos” desde su perfil,
+Entonces puede ver todas las prendas guardadas.
+</td>
+          <td>EP00</td>
+        <tr>
+            <td>US-14</td>
+            <td>Crear un armario virtual</td>
+            <td>Como usuario, quiero crear un armario virtual con mis prendas favoritas o compradas, para tener una guía de mi estilo y recibir sugerencias.</td>
+            <td>Escenario 1: Agregar prenda al armario
+Dado que la prenda ha sido comprada,
+Cuando se marca como “Agregar a mi armario”,
+Entonces pasa a formar parte del armario virtual del usuario.
+
+Escenario 2: Visualizar y editar armario
+Dado que el usuario accede a su armario,
+Cuando elige una prenda,
+Entonces puede ver detalles, eliminarla o editar atributos (ej. color, estilo).
+</td>
+            <td>EP00</td>
+        <tr>
+            <td>US-15</td>
+            <td>Calificar a un comprador o vendedor</td>
+            <td>Como usuario, quiero calificar a la otra parte tras una transacción, para ayudar a la comunidad a confiar en los perfiles.</td>
+            <td>Escenario 1: Solicitud de calificación después de una compra
+Dado que una transacción se ha completado,
+Cuando el sistema lo detecta,
+Entonces solicita a ambas partes que califiquen la experiencia.
+
+Escenario 2: Visualización de calificaciones en perfiles
+Dado que el usuario visita el perfil de otro,
+Cuando hay calificaciones disponibles,
+Entonces puede ver un resumen y comentarios de otros usuarios.
+</td>
+            <td>EP00</td>
+        </tr>
+        <tr>
+            <td>US-18</td>
+            <td>Reportar una prenda o usuario</td>
+            <td>Como usuario, quiero reportar prendas inadecuadas o perfiles sospechosos, para mantener la comunidad segura y confiable.</td>
+            <td>Escenario 1: Reporte desde la prenda
+Dado que el usuario encuentra una prenda inapropiada,
+Cuando pulsa “Reportar”,
+Entonces se abre un formulario para indicar el motivo del reporte.
+
+Escenario 2: Notificación al equipo de moderación
+Dado que se ha enviado un reporte,
+Cuando el equipo recibe la notificación,
+Entonces se inicia una revisión del contenido reportado.
+            <td>EP00</td>
+        </tr>
+        </tr>
+        <tr>
+            <td>US-19</td>
+            <td>Ver trailers y portadas </td>
+            <td>Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie dentro de la ficha de contenido, para tener un adelanto visual antes de consumirla. </td>
+            <td>Dado que estoy en la ficha de una película
+Cuando cargo la sección “Multimedia”
+Entonces se muestra el tráiler en un reproductor de video embebido
+
+Escenario 2: Imagen de portada cargada correctamente
+Dado que consulto la página de una serie
+Cuando accedo a la sección de contenido
+Entonces aparece la imagen oficial de portada en alta resolución
+
+Escenario 3: Multimedia no disponible
+Dado que el contenido no tiene tráiler cargado
+Cuando accedo a la sección “Multimedia”
+Entonces el sistema muestra el mensaje: “Tráiler no disponible actualmente”</td>
+            <td>EP00</td>
+        </tr>
+        <tr>
+        </tr>
+    </tbody>
+</table>
+
 
 
 
