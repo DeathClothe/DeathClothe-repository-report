@@ -1119,6 +1119,45 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 
 ## 2.4. Ubiquitous Language
 
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping
+### Compradores 
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Phases</th>
+      <th>Doing</th>
+      <th>Thinking</th>
+      <th>Feeling</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Búsqueda de Prendas</td>
+      <td>Utiliza filtros avanzados por talla, estilo, color y estado de la prenda.</td>
+      <td>“Por fin puedo buscar justo lo que necesito sin perder tiempo.”</td>
+      <td>Motivado y en control.</td>
+    </tr>
+    <tr>
+      <td>Evaluación de Productos</td>
+      <td>Ve fotos claras y editadas automáticamente, con descripciones estandarizadas y guía de tallas.</td>
+      <td>“Se ve tal como lo quiero, y la talla está bien explicada.”</td>
+      <td>Seguro y entusiasmado.</td>
+    </tr>
+    <tr>
+      <td>Proceso de Compra</td>
+      <td>Compra con un clic, con métodos de pago seguros y protección al comprador.</td>
+      <td>“Puedo confiar, todo se ve profesional y protegido.”</td>
+      <td>Tranquilo y confiado.</td>
+    </tr>
+    <tr>
+      <td>Post-Compra</td>
+      <td>Recibe seguimiento automático con tracking integrado y opciones de devolución.</td>
+      <td>“Sé dónde está mi pedido y tengo respaldo si algo va mal.”</td>
+      <td>Satisfecho y valorado.</td>
+    </tr>
+  </tbody>
+</table>
 
 #### User Stories
 
