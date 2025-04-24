@@ -1122,7 +1122,7 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 
 #### User Stories
 
-##Epics
+## Epics
 
 <table>
   <thead>
@@ -1176,7 +1176,7 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 </tbody>
 </table>
 
-## user Stories
+## User Stories
 
 <table>
     <tr>
@@ -1204,7 +1204,7 @@ Dado que el usuario quiere afinar su búsqueda,
 Cuando utiliza filtros como talla, color, estilo o estado,
 Entonces las recomendaciones se ajustan dinámicamente a sus elecciones.
             </td>
-            <td>EP00</td>
+            <td>EP03</td>
         </tr>
         <tr>
             <td>US-02</td>
@@ -1225,7 +1225,7 @@ Dado que el usuario completó los pasos,
 Cuando visualiza el resumen de su prenda,
 Entonces puede editarla antes de confirmar la publicación.
             </td>
-            <td>EP00</td>
+            <td>EP01</td>
         </tr>
         <tr>
             <td>US-03</td>
@@ -1242,7 +1242,7 @@ Dado que el usuario está en la ficha del producto,
 Cuando observa el nombre del vendedor,
 Entonces puede ver la calificación promedio sin salir de esa vista.
             </td>
-            <td>EP00</td>
+            <td>EP06</td>
         </tr>
         <tr>
             <td>US-04</td>
@@ -1264,7 +1264,7 @@ Dado que el usuario realiza una búsqueda sin coincidencias,
 Cuando no hay prendas disponibles,
 Entonces se muestra un mensaje con alternativas similares o recomendaciones.
             </td>
-            <td>EP00</td>
+            <td>EP02</td>
         </tr>
         <tr>
             <td>US-05</td>
@@ -1286,7 +1286,7 @@ Dado que una prenda ya está en favoritos,
 Cuando el usuario vuelve a hacer clic en el icono de “corazón”,
 Entonces la prenda se elimina de la lista.
             </td>
-            <td>EP00</td>
+            <td>EP08</td>
         </tr>
         <tr>
             <td>US-06</td>
@@ -1308,7 +1308,7 @@ Dado que el usuario activó notificaciones,
 Cuando se publica una prenda en su categoría favorita,
 Entonces recibe una alerta o notificación en la plataforma.
             </td>
-            <td>EP00</td>
+            <td>EP02</td>
         </tr>
         <tr>
             <td>US-07</td>
@@ -1356,7 +1356,7 @@ Dado que el usuario realizó una compra,
 Cuando vuelve a la plataforma,
 Entonces ve prendas que complementan su compra reciente.
             </td>
-            <td>EP01</td>
+            <td>EP03</td>
         <tr>
             <td>US-09</td>
             <td>Editar o eliminar una prenda publicada</td>
@@ -1372,7 +1372,7 @@ Dado que ya no desea venderla,
 Cuando presiona “Eliminar”,
 Entonces la prenda se elimina de la plataforma.
 </td>
-            <td>EP00</td>
+            <td>EP01</td>
         </tr>
         <tr>
             <td>US-10</td>
@@ -1388,7 +1388,7 @@ Dado que el usuario desea analizar sus ventas,
 Cuando selecciona un período (última semana, mes, etc.),
 Entonces el panel muestra los datos filtrados por esa fecha.
 </td>
-            <td>EP00</td>
+            <td>EP04</td>
         </tr>
         <tr>
             <td>US-11</td>
@@ -1405,7 +1405,7 @@ Dado que un comprador deja una pregunta en la publicación,
 Cuando se registra la pregunta,
 Entonces el vendedor recibe una notificación para responder.
 </td>
-            <td>EP00</td>
+            <td>EP04</td>
         </tr>
         <tr>
             <td>US-12</td>
@@ -1421,7 +1421,7 @@ Dado que la prenda fue comprada en DeathClothe,
 Cuando se confirma el pago,
 Entonces el estado se actualiza automáticamente a “vendida”.
 </td>
-            <td>EP00</td>
+            <td>EP04</td>
         </tr>
         <tr>
             <td>US-13</td>
@@ -1437,7 +1437,7 @@ Dado que el usuario quiere ver sus favoritos,
 Cuando accede a “Mi lista de favoritos” desde su perfil,
 Entonces puede ver todas las prendas guardadas.
 </td>
-          <td>EP00</td>
+          <td>EP08</td>
         <tr>
             <td>US-14</td>
             <td>Crear un armario virtual</td>
@@ -1452,7 +1452,7 @@ Dado que el usuario accede a su armario,
 Cuando elige una prenda,
 Entonces puede ver detalles, eliminarla o editar atributos (ej. color, estilo).
 </td>
-            <td>EP00</td>
+            <td>EP05</td>
         <tr>
             <td>US-15</td>
             <td>Calificar a un comprador o vendedor</td>
@@ -1467,7 +1467,7 @@ Dado que el usuario visita el perfil de otro,
 Cuando hay calificaciones disponibles,
 Entonces puede ver un resumen y comentarios de otros usuarios.
 </td>
-            <td>EP00</td>
+            <td>EP06</td>
         </tr>
         <tr>
             <td>US-18</td>
@@ -1482,7 +1482,7 @@ Escenario 2: Notificación al equipo de moderación
 Dado que se ha enviado un reporte,
 Cuando el equipo recibe la notificación,
 Entonces se inicia una revisión del contenido reportado.
-            <td>EP00</td>
+            <td>EP06</td>
         </tr>
         </tr>
         <tr>
@@ -1502,7 +1502,7 @@ Escenario 3: Multimedia no disponible
 Dado que el contenido no tiene tráiler cargado
 Cuando accedo a la sección “Multimedia”
 Entonces el sistema muestra el mensaje: “Tráiler no disponible actualmente”</td>
-            <td>EP00</td>
+            <td>EP07</td>
         </tr>
         <tr>
         </tr>
