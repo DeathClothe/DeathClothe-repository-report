@@ -1159,9 +1159,53 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
   </tbody>
 </table>
 
-#### User Stories
+### Vendedores 
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Phases</th>
+      <th>Doing</th>
+      <th>Thinking</th>
+      <th>Feeling</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Publicación del Producto</td>
+      <td>Sube fotos con editor integrado y recomendaciones automáticas para descripciones.</td>
+      <td>“Ahora sé cómo mostrar mejor mis prendas.”</td>
+      <td>Seguro y orgulloso.</td>
+    </tr>
+    <tr>
+      <td>Gestión de Ventas</td>
+      <td>Usa un panel con estadísticas de ventas, stock y métricas clave.</td>
+      <td>“Ya no me pierdo entre hojas, puedo prever y organizar mejor.”</td>
+      <td>Aliviado y empoderado.</td>
+    </tr>
+    <tr>
+      <td>Proceso de Envío</td>
+      <td>Imprime etiquetas desde la plataforma y accede a servicios de envío integrados.</td>
+      <td>“Puedo enviar sin salir de casa y todo está conectado.”</td>
+      <td>Relajado y eficiente.</td>
+    </tr>
+    <tr>
+      <td>Comunicación con el Comprador</td>
+      <td>Tiene mensajes automáticos para actualizaciones y respuestas frecuentes.</td>
+      <td>“Puedo enfocarme en vender sin responder lo mismo 10 veces.”</td>
+      <td>Ligero y más disponible.</td>
+    </tr>
+    <tr>
+      <td>Post-Venta</td>
+      <td>Recibe feedback automático con badges y recompensas por buenas valoraciones.</td>
+      <td>“Mi esfuerzo es reconocido y me ayuda a vender más.”</td>
+      <td>Motivado y comprometido.</td>
+    </tr>
+  </tbody>
+</table>
 
-## Epics
+## 3.2. User Stories
+
+### Epics
 
 <table>
   <thead>
