@@ -1569,28 +1569,51 @@ Entonces se inicia una revisión del contenido reportado.
         </tr>
         </tr>
         <tr>
-            <td>US-19</td>
-            <td>Ver trailers y portadas </td>
-            <td>Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie dentro de la ficha de contenido, para tener un adelanto visual antes de consumirla. </td>
-            <td>Dado que estoy en la ficha de una película
-Cuando cargo la sección “Multimedia”
-Entonces se muestra el tráiler en un reproductor de video embebido
+            <tr>
+    <td>US-20</td>
+    <td>Ver información de la landing page</td>
+    <td>
+        Como usuario visitante, quiero ver la propuesta de valor y las principales funcionalidades en la landing page,  
+        para entender rápidamente los beneficios de la plataforma.
+    </td>
+    <td>
+        Escenario 1: Propuesta de valor  
+        Dado que el usuario accede al sitio principal,  
+        Cuando se carga la página,  
+        Entonces ve un banner con eslogan y descripción breve.  
 
-Escenario 2: Imagen de portada cargada correctamente
-Dado que consulto la página de una serie
-Cuando accedo a la sección de contenido
-Entonces aparece la imagen oficial de portada en alta resolución
+        Escenario 2: Destacar funcionalidades  
+        Dado que el usuario hace scroll en la landing page,  
+        Cuando llega a la sección de características,  
+        Entonces ve iconos, descripciones y llamadas a la acción de cada funcionalidad.
+    </td>
+    <td>EP07</td>
+</tr>
+<tr>
+    <td>US-21</td>
+    <td>Registrar/Iniciar sesión desde landing page</td>
+    <td>
+        Como usuario nuevo o recurrente, quiero poder registrarme o iniciar sesión directamente desde la landing page,  
+        para empezar a usar la plataforma sin navegar a otras secciones.
+    </td>
+    <td>
+        Escenario 1: CTA visibles  
+        Dado que el usuario está en la landing page,  
+        Cuando la página se renderiza,  
+        Entonces ve claramente los botones “Registrarse” y “Iniciar sesión” en el header.  
 
-Escenario 3: Multimedia no disponible
-Dado que el contenido no tiene tráiler cargado
-Cuando accedo a la sección “Multimedia”
-Entonces el sistema muestra el mensaje: “Tráiler no disponible actualmente”</td>
-            <td>EP07</td>
-        </tr>
-        <tr>
-        </tr>
-    </tbody>
-</table>
+        Escenario 2: Flujo de registro  
+        Dado que el usuario hace clic en “Registrarse”,  
+        Cuando se despliega el modal,  
+        Entonces aparece el formulario de registro completo.  
+
+        Escenario 3: Flujo de login  
+        Dado que el usuario hace clic en “Iniciar sesión”,  
+        Cuando se abre el modal,  
+        Entonces aparece el formulario de autenticación.
+    </td>
+    <td>EP07</td>
+</tr>
 
 **Technical Stories**
 
