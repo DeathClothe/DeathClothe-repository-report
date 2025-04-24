@@ -1779,6 +1779,9 @@ Entonces la eliminación o actualización en cascada debe funcionar según lo es
     </tbody>
 </table>
 
+###3.3.3 Impact Mapping 
+
+<img src="./Report_Assets/Impact map 1 (1).png" alt="Impact Mapping" width="500">
 
 
 
