@@ -1567,9 +1567,7 @@ Cuando el equipo recibe la notificación,
 Entonces se inicia una revisión del contenido reportado.
             <td>EP06</td>
         </tr>
-        </tr>
         <tr>
-            <tr>
     <td>US-20</td>
     <td>Ver información de la landing page</td>
     <td>
