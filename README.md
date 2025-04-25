@@ -19,6 +19,7 @@
 Bejarano Martínez Alvaro Leandro U202311640<br>
 Cabanillas Meza Jose Mateo U202311458<br>
 Luquillas Asto Omar U20211G641<br>
+Santur Tello Andrea Elizabeth U202310988<br>
 Sarmiento Medina Loreley U202310005<br>
 
 # *Abril de 2025*
