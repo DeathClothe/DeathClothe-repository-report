@@ -1801,9 +1801,104 @@ Entonces la eliminación o actualización en cascada debe funcionar según lo es
     </tbody>
 </table>
 
-###3.3.3 Impact Mapping 
+### 3.3.3 Impact Mapping 
 
 <img src="./Report_Assets/Impact map 1 (1).png" alt="Impact Mapping" width="500">
+
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+Esta sección establece los lineamientos visuales y de diseño que guiarán el trabajo del equipo, asegurando una presentación uniforme, coherente y profesional en todos los productos y plataformas. Aquí se centralizan los assets, fuentes, paletas de colores, íconos y otros recursos gráficos que deben ser utilizados de manera consistente.
+
+### 4.1.1. General Style Guidelines
+
+En DeathClothe, buscamos transmitir una experiencia visual alineada con nuestra esencia: auténtica, sostenible, juvenil y con actitud positiva. Para lograrlo, tomamos decisiones de diseño basadas en principios de accesibilidad, coherencia visual y personalidad de marca.
+**-Branding:**
+
+Utilizamos una paleta de colores que refleja vitalidad, originalidad y conciencia ambiental, en consonancia con el espíritu de la moda circular.
+El color primario #C4456B es un rosa intenso que transmite energía, creatividad y conexión emocional. Se complementa con tonos secundarios como #E4738F (rosado vibrante para encabezados) y #F2829E (rosado de énfasis para resaltar acciones importantes). Para los fondos, se usan tonos suaves como #FFEBED y #FDD3DC, que aportan calidez, accesibilidad y ligereza visual. Además, el color #F5B9CB se utiliza para elementos de soporte y detalles de secciones, garantizando coherencia visual.
+![Paleta_de_Colores]()
+
+**-Typography:**
+Se ha elegido la tipografía K2D para la comunicación principal, por su estilo contemporáneo, amigable y de fácil lectura, que proyecta frescura y autenticidad.
+Como tipografía secundaria se emplea Inter, que ofrece alta legibilidad para textos complementarios, descripciones y navegación en dispositivos móviles y de escritorio.
+El uso combinado de estas tipografías asegura jerarquía clara, modernidad y accesibilidad para todo tipo de usuarios, ademas del uso de diferentes pesos como medium, semi-bold y bold.
+
+![Typography]()
+
+**-Icons:**
+Se utilizan íconos de estilo lineal y minimalista, que permiten una comunicación inmediata y sin distracciones.
+Estos íconos apoyan la navegación intuitiva, refuerzan el diseño moderno y aseguran una experiencia de usuario ágil, tanto en dispositivos móviles como en computadoras.
+
+![Icons]()
+
+**-Buttons:**
+Los botones están diseñados para ser visualmente atractivos, accesibles y claros en su propósito.
+Los colores vivos como el rosa vibrante (#C4456B) aseguran que las acciones principales sean destacadas fácilmente, mientras que los bordes redondeados mejoran la usabilidad en pantallas táctiles y brindan una sensación amigable.
+
+![Buttons]()
+
+**-Spacing and Layout:**
+El diseño mantiene un sistema de espaciado uniforme que favorece una navegación fluida y clara.
+Los márgenes y rellenos aseguran que cada sección respire adecuadamente, facilitando la lectura y la interacción en pantallas de todos los tamaños.
+Se uso :
+
+-Espaciado mínimo de 16px entre elementos.
+
+-Márgenes de 24px a 32px para secciones principales.
+
+-Consistencia entre componentes para una apariencia organizada y limpia.
+
+### 4.1.2. Web Style Guidelines
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+### 4.2.2. Labeling Systems
+
+### 4.2.3. SEO Tags and Meta Tags
+
+### 4.2.4. Searching Systems
+
+### 4.2.5. Navigation Systems
+
+## 4.3. Landing Page UI Design](#43-landing-page-ui-design)
+
+### 4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+
+### 4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+### 4.4.3. Web Applications Mock-ups
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram
+
+### 4.6.2. Software Architecture Container Diagrams
+
+### 4.6.3. Software Architecture Components Diagrams
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+### 4.7.2. Class Dictionary
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
 
 
 
