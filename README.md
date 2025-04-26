@@ -1826,7 +1826,8 @@ Se ha elegido la tipografía K2D para la comunicación principal, por su estilo 
 Como tipografía secundaria se emplea Inter, que ofrece alta legibilidad para textos complementarios, descripciones y navegación en dispositivos móviles y de escritorio.
 El uso combinado de estas tipografías asegura jerarquía clara, modernidad y accesibilidad para todo tipo de usuarios, ademas del uso de diferentes pesos como medium, semi-bold y bold.
 
-![Typography]()
+![Typography](Report_Assets/TipografiaK2d.PNG)
+![Typography](Report_Assets/TipografiaInter.PNG)
 
 **-Icons:**
 Se utilizan íconos de estilo lineal y minimalista, que permiten una comunicación inmediata y sin distracciones.
