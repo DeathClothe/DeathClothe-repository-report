@@ -1561,7 +1561,7 @@ Entonces puede ver un resumen y comentarios de otros usuarios.
             <td>EP06</td>
         </tr>
         <tr>
-            <td>US-18</td>
+            <td>US-16</td>
             <td>Reportar una prenda o usuario</td>
             <td>Como usuario, quiero reportar prendas inadecuadas o perfiles sospechosos, para mantener la comunidad segura y confiable.</td>
             <td>Escenario 1: Reporte desde la prenda
@@ -1576,7 +1576,7 @@ Entonces se inicia una revisión del contenido reportado.
             <td>EP06</td>
         </tr>
         <tr>
-    <td>US-20</td>
+    <td>US-17</td>
     <td>Ver información de la landing page</td>
     <td>
         Como usuario visitante, quiero ver la propuesta de valor y las principales funcionalidades en la landing page,  
@@ -1593,7 +1593,7 @@ Entonces se inicia una revisión del contenido reportado.
     <td>EP07</td>
 </tr>
 <tr>
-    <td>US-21</td>
+    <td>US-18</td>
     <td>Registrar/Iniciar sesión desde landing page</td>
     <td>
         Como usuario nuevo o recurrente, quiero poder registrarme o iniciar sesión directamente desde la landing page,  
