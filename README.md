@@ -2532,6 +2532,36 @@ Work Items - Detalle
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
+Durante este sprint, conseguimos implementar correctamente la landing page de DeathClothe en un entorno funcional. Nos enfocamos en preparar la infraestructura necesaria, automatizar el despliegue y publicar el sitio asegurando su correcto funcionamiento. A continuación, detallamos las principales actividades realizadas.
+
+**Configuración del repositorio**
+
+1. Ingresamos a la sección Settings > Pages del repositorio en GitHub.
+   
+2. Activamos GitHub Pages para el proyecto.
+
+3. Seleccionamos la rama main como fuente principal para el despliegue automático.
+
+**Preparación para el despliegue**
+
+1. Acomodamos la estructura de archivos siguiendo los requisitos que exige GitHub Pages.
+
+2. Verificamos que el archivo principal (index.html) estuviera en la raíz correcta.
+
+3. Realizamos un push de prueba para confirmar que la estructura se reconociera correctamente.
+
+**Despliegue automático**
+
+1. Configuramos GitHub Actions para que ejecutara el flujo predeterminado de Pages automáticamente.
+
+2. Confirmamos que cada vez que se hiciera un push a la rama main, se activara el despliegue sin errores.
+
+Link Landing Page: https://deathclothe.github.io/DEATHCLOTHELandingPage/
+
+<img src="./Report_Assets/executionevidence1.png" alt="Execution Evidence 1" width="500">
+
+<img src="./Report_Assets/executionevidence2.png" alt="Execution Evidence 2" width="500">
+
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
