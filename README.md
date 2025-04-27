@@ -2751,5 +2751,5 @@ En esta parte, describimos cómo el equipo colaboró de forma organizada para de
 
 - IDEO.org. (2015). The Field Guide to Human-Centered Design. Retrieved from https://www.designkit.org/resources/1
 
-# Anexos
+
 
