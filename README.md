@@ -1904,64 +1904,52 @@ La propuesta de diseño de la Landing Page de DeathClothe refleja nuestra visió
 
 El diseño está estructurado para acompañar al usuario en un recorrido fluido: conocer la propuesta, descubrir beneficios, explorar productos y finalmente unirse a la comunidad, siguiendo los modelos mentales detectados en nuestro público objetivo.
 
-### 4.3.1. Landing Page Wireframe
+## 4.3.1 Landing Page Wireframe
 
-El Wireframe del Landing Page de DeathClothe fue diseñado considerando la claridad de navegación, el acceso rápido a las funcionalidades principales y la fácil comprensión del mensaje de marca.
+El Wireframe del Landing Page de DeathClothe refleja la estructura base de navegación y disposición de contenidos tanto para la versión Desktop como Mobile, asegurando una experiencia accesible, clara y orientada a la acción. Su propósito es guiar a los visitantes a través de un flujo natural que los conduzca desde la exploración inicial hasta su integración activa en la comunidad DeathClothe.
 
-Principales características aplicadas:
+**Secciones principales en el Wireframe:**
 
-Organization Systems: Se organizaron las secciones en un flujo natural de información: Inicio ➔ Explora ➔ Vende ➔ Comunidad ➔ Nosotros.
+- **Encabezado**: Contiene el logotipo de la marca, una barra de navegación horizontal en Desktop y un menú hamburguesa en Mobile. Incluye enlaces a Inicio, Explora, Vende, Comunidad, Nosotros y botón de acceso a Iniciar Sesión.
+- **Sección Hero**: Presenta el mensaje principal de la plataforma acompañado de una imagen de impacto o gráfico llamativo, junto con un CTA destacado como "Explora Ahora" o "Vende Ya", incentivando la acción inmediata.
+- **Sección de Funcionalidades Principales**: Expone las características más importantes de la plataforma como la compra, venta, uso del armario virtual y seguridad en transacciones. Se utilizan íconos visuales acompañados de breves descripciones para facilitar la comprensión.
+- **Sección de Testimonios de Usuarios**: Muestra experiencias de usuarios reales que refuerzan la confianza y credibilidad de la plataforma mediante citas o pequeñas reseñas.
+- **Galería de Productos Destacados**: Exhibe prendas recomendadas o recién añadidas, organizadas en una cuadrícula visual intuitiva que invita a la exploración inmediata.
+- **Pie de Página**: Incluye accesos a información legal, políticas de privacidad, redes sociales y medios de contacto, fortaleciendo la transparencia y el cierre estructurado del flujo de navegación.
 
-Labeling Systems: Utilizamos etiquetas simples y claras como "Explora", "Vende", "Comunidad", facilitando la identificación inmediata del propósito de cada sección.
+**Elementos de Diseño Aplicados:**
 
-Navigation Systems: Implementamos una navegación horizontal principal en la parte superior para desktop y un menú hamburguesa para mobile, asegurando accesibilidad desde cualquier dispositivo.
-
-Diseño Inclusivo: Tipografía legible, botones de tamaño adecuado para interacción táctil, contraste de colores pensado para usuarios con baja visión y estructura semántica correcta.
-
-Elementos de diseño:
-
-Jerarquía visual clara: uso de encabezados grandes y destacados.
-
-Espaciado amplio entre secciones para facilitar la lectura.
-
-Iconografía simple que acompaña textos, mejorando la comprensión.
-
+- **Organization Systems**: El flujo de secciones sigue un orden lógico: Inicio ➔ Explora ➔ Vende ➔ Comunidad ➔ Nosotros.
+- **Labeling Systems**: Se emplean etiquetas claras, breves y comprensibles como "Explora", "Vende" y "Comunidad" para reducir la carga cognitiva.
+- **Navigation Systems**: Navegación horizontal persistente en Desktop y menú hamburguesa en Mobile, asegurando accesibilidad constante a todas las áreas claves.
+- **Diseño Inclusivo**: Se utilizaron tipografías de alta legibilidad, botones de tamaño adecuado para interacción táctil, contrastes de color pensados para personas con baja visión, y estructura semántica correcta para tecnologías asistivas.
+- **Jerarquía Visual**: Uso de encabezados prominentes, espaciado amplio entre secciones para facilitar la lectura, e iconografía de apoyo a los textos, mejorando la escaneabilidad y comprensión del contenido.
+- 
 ![WireframeWeb1](Report_Assets/Wireframe-Inicio.png)
 ![WireframeWeb2](Report_Assets/Wireframe-Explora.png)
 ![WireframeWeb3](Report_Assets/Wireframe-Vende.png)
 ![WireframeWeb4](Report_Assets/Wireframe-comunidad.png)
 ![WireframeWeb5](Report_Assets/Wireframe-Nostros.png)
-### 4.3.2. Landing Page Mock-up
 
-El diseño del Landing Page de DeathClothe no solo traduce visualmente nuestra identidad de marca, sino que también garantiza que cada visitante, sin importar su dispositivo, pueda navegar intuitivamente, encontrar valor rápidamente y sumarse a la comunidad de moda circular que proponemos.
+## 4.3.2 Landing Page Mock-up
 
-Aplicación de principios y elementos de diseño:
+El Mock-up del Landing Page de DeathClothe representa la integración final de la propuesta visual, combinando branding, usabilidad y estética emocional para transmitir la identidad y valores de la plataforma. Esta visualización ya incorpora elementos de color, tipografía, imágenes, iconografía y microinteracciones pensadas para la experiencia final del usuario.
 
-Consistencia visual: Se mantiene el mismo estilo en todos los botones, fuentes y colores (basados en la paleta principal rosa y tonos complementarios).
+**Aspectos visuales principales en el Mock-up:**
 
-Contraste y Accesibilidad: Fondos claros con texto oscuro para facilitar la lectura, especialmente en mobile.
+- **Encabezado y Navegación**: El logotipo de DeathClothe y la barra de navegación se diseñan respetando el branding cromático (primarios rosados con fondo claro). Los botones de acción (CTA) destacan visualmente para incentivar el registro o inicio de sesión.
+- **Sección Hero**: Emplea imágenes de impacto realistas y un mensaje central emocional que introduce rápidamente el propósito de DeathClothe (moda circular, sostenibilidad y autenticidad). El CTA principal se presenta en color de alto contraste para maximizar la conversión.
+- **Presentación de Beneficios y Funcionalidades**: Cada funcionalidad principal (explorar, vender, gestionar armario virtual) se comunica mediante bloques visuales con íconos amigables y textos breves, generando una narrativa de descubrimiento fluida.
+- **Testimonios de Comunidad**: Se muestran opiniones breves de usuarios para construir confianza, usando retratos o avatares que humanizan la interacción.
+- **Galería de Productos**: Se utilizan tarjetas de producto con fotografía optimizada, información resumida (nombre, precio, estado) y botones de acción directa ("Agregar al armario", "Ver más").
+- **Pie de Página**: Enlace a redes sociales, términos legales, preguntas frecuentes y formulario de contacto rápido, reforzando la transparencia y el soporte al usuario.
 
-Uso emocional de imágenes: Fotos reales y cercanas de ropa de segunda mano y usuarios auténticos, generando confianza y conexión emocional.
+**Elementos de Diseño Aplicados:**
 
-Elementos gráficos: Iconos para "Filtros", "Favoritos", "Compra segura" y "Recomendaciones" para explicar funcionalidades de forma visual.
-
-Design System: Aplicación rigurosa del sistema de componentes: botones primarios, secundarios, tarjetas de producto, banners informativos, navegación estandarizada.
-
-Mockups Desktop Web Browser:
-
-Secciones animadas con cambios sutiles al hacer scroll.
-
-Llamados a la acción destacados en color principal.
-
-Organización modular que facilita futuras actualizaciones.
-
-Mockups Mobile Web Browser:
-
-Interfaz limpia, priorizando el scroll vertical.
-
-Botones grandes y visibles para interacción táctil.
-
-Optimización de imágenes para carga rápida.
+- **Uso de la Paleta de Colores**: El fondo suave (#ffebed) ayuda a resaltar prendas y elementos interactivos, mientras que los botones y enlaces utilizan el rosa vibrante (#e4738f) para atraer la atención en acciones clave.
+- **Tipografía Consistente**: K2D sans-serif utilizada de forma consistente en todos los títulos, subtítulos y cuerpos de texto para mantener coherencia visual y mejorar la legibilidad en todas las resoluciones de pantalla.
+- **Adaptabilidad Responsive**: En Mobile, los elementos se apilan verticalmente, priorizando el contenido y los CTAs para navegación táctil eficiente.
+- **Interacción Intuitiva**: Estados hover en botones, microtransiciones suaves entre secciones y retroalimentación visual inmediata aseguran que el usuario se sienta en control durante toda su experiencia.
 
 ![MockupWeb1](Report_Assets/MockupInicio.png)
 ![MockupWeb2](Report_Assets/MockupExplora.png)
