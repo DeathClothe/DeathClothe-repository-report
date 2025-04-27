@@ -2637,6 +2637,17 @@ Link Landing Page: https://deathclothe.github.io/DEATHCLOTHELandingPage/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
+# Conclusiones
 
+- **DeathClothe responde a una necesidad real del mercado:**  
+  La investigación validó que los usuarios buscan una plataforma segura, intuitiva y personalizada para comprar y vender ropa de segunda mano, mejorando las limitaciones actuales de otros canales como Facebook Marketplace e Instagram.
 
+- **La experiencia de usuario es el principal diferenciador:**  
+  Gracias a la personalización basada en el armario virtual, la facilidad de publicación en tres pasos y las historias de prendas, DeathClothe ofrece una experiencia emocionalmente más rica y funcionalmente más eficiente que las alternativas existentes.
+
+- **El proyecto tiene bases sólidas para avanzar hacia el desarrollo:**  
+  Con un enfoque centrado en el usuario, sustentado en entrevistas, user personas, journey maps y prototipos, DeathClothe cuenta con una estructura estratégica y visual clara que permite afrontar con éxito las siguientes etapas de validación, prototipado y despliegue.
+
+# Bibliografia
+# Anexos
 
