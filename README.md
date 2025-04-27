@@ -2709,6 +2709,15 @@ Link Landing Page: https://deathclothe.github.io/DEATHCLOTHELandingPage/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
+En esta parte, describimos cómo el equipo colaboró de forma organizada para desarrollar las funcionalidades de la landing page. Utilizamos métricas de GitHub como el número de commits, las contribuciones individuales y la frecuencia de actividad para respaldar esta colaboración con evidencia concreta.
+
+<img src="./Report_Assets/collaborationinsights1.png" alt="Collaboration Insights 1" width="500">
+
+<img src="./Report_Assets/collaborationinsights2.png" alt="Collaboration Insights 2" width="500">
+
+<img src="./Report_Assets/collaborationinsights3.png" alt="Collaboration Insights 3" width="500">
+
+
 # Conclusiones
 
 - **DeathClothe responde a una necesidad real del mercado:**  
