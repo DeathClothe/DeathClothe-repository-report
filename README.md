@@ -2280,62 +2280,124 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
 
 ##### 5.2.1.1. Sprint Planning 1
 
+<h2>Sprint 1</h2>
+<p><strong>Sprint 2</strong></p>
+
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
-      <th><strong>Campo</strong></th>
-      <th><strong>Detalle</strong></th>
+      <th>Work-Item / Task</th>
+      <th>User Story ID</th>
+      <th>Task ID</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Sprint #</td>
-      <td>Sprint 1</td>
+      <td>Work-Item</td>
+      <td>US017</td>
+      <td>T01</td>
+      <td>Crear la estructura base de la página principal (header, sections)</td>
+      <td>3</td>
+      <td>Alvaro Bejarano</td>
+      <td>To-do</td>
     </tr>
     <tr>
-      <td>Fecha</td>
-      <td>2025-04-26</td>
+      <td>Work-Item</td>
+      <td>US017</td>
+      <td>T02</td>
+      <td>Agregar sección de propuesta de valor</td>
+      <td>2</td>
+      <td>Mateo Cabanillas</td>
+      <td>To-do</td>
     </tr>
     <tr>
-      <td>Hora</td>
-      <td>11:00 AM</td>
+      <td>Work-Item</td>
+      <td>US017</td>
+      <td>T02</td>
+      <td>Mostrar características y beneficios de DeathClothe</td>
+      <td>2</td>
+      <td>Omar Luquillas</td>
+      <td>In-process</td>
     </tr>
     <tr>
-      <td>Ubicación</td>
-      <td>Virtual – Discord</td>
+      <td>Work-Item</td>
+      <td>US18</td>
+      <td>T03</td>
+      <td>Añadir botones de acción para registrarse/iniciar sesión</td>
+      <td>3</td>
+      <td>Andrea Santur</td>
+      <td>To-do</td>
     </tr>
     <tr>
-      <td>Preparado por</td>
-      <td>Andrea Elizabeth Santur Tello</td>
+      <td>Work-Item</td>
+      <td>US18</td>
+      <td>T05</td>
+      <td>Crear campos de registro para nuevos usuarios</td>
+      <td>3</td>
+      <td>Loreley Sarmiento</td>
+      <td>To-do</td>
     </tr>
     <tr>
-      <td>Asistentes (a la reunión de planificación)</td>
-      <td>Alvaro Bejarano, Mateo Cabanillas, Omar Luquillas, Andrea Santur, Loreley Sarmiento</td>
+      <td>Work-Item</td>
+      <td>U18</td>
+      <td>T06</td>
+      <td>Validación de campos obligatorios en registro/login</td>
+      <td>2</td>
+      <td>Mateo Cabanillas</td>
+      <td>In-process</td>
     </tr>
     <tr>
-      <td>Sprint 1 – Resumen de revisión</td>
-      <td>Se elaboraron los artefactos esenciales del producto DeathClothe, y se implementó la landing page utilizando HTML y CSS, basada en el diseño de los mockups y wireframes realizados en Figma.</td>
+      <td>Work-Item</td>
+      <td>US17</td>
+      <td>T08</td>
+      <td>Ajustar diseño para móviles, tablets y escritorio</td>
+      <td>4</td>
+      <td>Omar Luquillas</td>
+      <td>To-do</td>
     </tr>
     <tr>
-      <td>Sprint 1 – Resumen de retrospectiva</td>
-      <td>Refinar las historias de usuario y validar temprano los diseños de interfaz.</td>
+      <td>Work-Item</td>
+      <td>US17</td>
+      <td>T08</td>
+      <td>Crear pie de página con información de contacto/redes</td>
+      <td>3</td>
+      <td>Alvaro Bejarano</td>
+      <td>To-do</td>
     </tr>
     <tr>
-      <td>Objetivo y User Stories del Sprint 1</td>
-      <td>
-        <strong>Objetivo del Sprint:</strong> Construir y validar los artefactos fundamentales que guiarán el desarrollo, commo ompetidores, entrevistas, definiciones de segmentos objetivos, etc; para la creacion de una nueva mejoria en el proyecto
-      </td>
+      <td>Work-Item</td>
+      <td>US17</td>
+      <td>T09</td>
+      <td>Probar secciones, botones y formularios</td>
+      <td>2</td>
+      <td>Loreley Sarmiento</td>
+      <td>To-do</td>
     </tr>
     <tr>
-      <td>Velocidad del Sprint 1</td>
-      <td>10 User Stories</td>
+      <td>Work-Item</td>
+      <td>US17</td>
+      <td>T11</td>
+      <td>Agregar íconos visuales a las funcionalidades destacadas</td>
+      <td>4</td>
+      <td>Andrea Santur</td>
+      <td>In-process</td>
     </tr>
     <tr>
-      <td>Suma de Story Points</td>
-      <td>30 Story Points atendidos</td>
+      <td>Work-Item</td>
+      <td>US18</td>
+      <td>T12</td>
+      <td>Validar longitud, mayúsculas y números para la contraseña</td>
+      <td>2</td>
+      <td>Mateo Cabanillas</td>
+      <td>To-do</td>
     </tr>
   </tbody>
 </table>
+
 
 ##### 5.2.1.2. Source Code Management 
 
