@@ -192,7 +192,7 @@ Mi nombre es Mateo Cabanillas y en la actualidad estoy cursando el quinto ciclo 
     <td>Soy Andrea Santur con código de estudiante 202310988, curso el 5to ciclo de la carrera de ingeniera de software Me considero una persona organizada, dedicada y siempre dispuesta a aprender y a brindar apoyo a quienes lo necesiten. Tengo conocimientos en lenguajes de programación como C++, HTML y CSS, además de habilidades en Photoshop y Diseño UI. Valoro el trabajo en equipo, el aprendizaje continuo y el compromiso por presentar resultados de calidad. Espero aportar de manera efectiva al equipo y contribuir a la entrega de un proyecto excelente. </td>
   </tr>
   <tr>
-    <td><img src="Report_Assets/integrante5.png" alt="Integrante 5" width="100"/></td>
+    <td><img src="Report_Assets/Loreley.PNG" alt="Integrante 5" width="100"/></td>
     <td>Soy Loreley Sarmiento Medina con codigo de estudiante U202310005 y estudio la carrera de Ingeniería de Software y me especializo en aportar soluciones tecnológicas integrales dentro de equipos multidisciplinarios. Cuento con sólidos conocimientos en el modelado de wireframes y mockups utilizando Figma, lo que me permite contribuir eficazmente en la etapa de diseño de interfaces centradas en el usuario. Además, tengo experiencia en el modelado de bases de datos, facilitando la organización y estructura lógica de la información. Poseo conocimientos intermedios en HTML y CSS, lo cual me permite colaborar en el desarrollo de interfaces web funcionales y visualmente atractivas. También tengo una base sólida en lenguajes de programación, lo que me permite comprender e implementar soluciones tanto en el frontend como en el backend, aportando al desarrollo integral del producto</td>
   </tr>
  
