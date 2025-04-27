@@ -2658,7 +2658,27 @@ Link Landing Page: https://deathclothe.github.io/DEATHCLOTHELandingPage/
 - **El proyecto tiene bases sólidas para avanzar hacia el desarrollo:**  
   Con un enfoque centrado en el usuario, sustentado en entrevistas, user personas, journey maps y prototipos, DeathClothe cuenta con una estructura estratégica y visual clara que permite afrontar con éxito las siguientes etapas de validación, prototipado y despliegue.
 
+# Bibliografia
 
+- Ellen MacArthur Foundation. (2017). A new textiles economy: Redesigning fashion’s future. Retrieved from https://ellenmacarthurfoundation.org/a-new-textiles-economy
+
+- McKinsey & Company. (2016). Style that’s sustainable: A new fast-fashion formula. Retrieved from https://www.mckinsey.com/business-functions/sustainability/our-insights/style-thats-sustainable-a-new-fast-fashion-formula
+
+- ThredUp. (2023). 2023 Resale Report. Retrieved from https://www.thredup.com/resale
+
+- Universidad Peruana de Ciencias Aplicadas. (2025). Informe de Trabajo Final - DeathClothe. Curso de Aplicaciones Web, Facultad de Ingeniería de Software.
+
+- Facebook Marketplace. (n.d.). Buy and sell used clothes locally or ship nationwide. Retrieved April 2025, from https://www.facebook.com/marketplace
+
+- Instagram Business. (n.d.). Grow your business on Instagram. Retrieved April 2025, from https://business.instagram.com/
+
+- Urbaner. (n.d.). Soluciones logísticas para empresas y ecommerce en Perú. Retrieved April 2025, from https://www.urbaner.com.pe/
+
+- Olva Courier. (n.d.). Envíos nacionales y courier en Perú. Retrieved April 2025, from https://www.olvacourier.com/
+
+- Rappi Perú. (n.d.). Entregas rápidas en tu ciudad. Retrieved April 2025, from https://www.rappi.com.pe/
+
+- IDEO.org. (2015). The Field Guide to Human-Centered Design. Retrieved from https://www.designkit.org/resources/1
 
 # Anexos
 
