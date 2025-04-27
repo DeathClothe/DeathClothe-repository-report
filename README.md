@@ -279,11 +279,23 @@ Vendedores:Personas desde los 18 hasta los 50 años o más que desean vender rop
 
 ### 2.1.1. Análisis competitivo
 
-<img src="Report_Assets/competidores 1era parte.png" alt="Nombre" width="500"> 
-</a>
+| Aspecto | DeathClothes | Facebook Marketplace | Tiendas en Instagram |
+|:--------|:-------------|:----------------------|:---------------------|
+| **Perfil** | Startup peruana de moda circular: marketplace digital de ropa de segunda mano con énfasis en autenticidad, comunidad y sostenibilidad. | Sección de compraventa dentro de Facebook, sin especialización en moda. | Perfiles independientes que venden por DM. |
+| **Mercado objetivo** | Millennials y Gen Z peruanos interesados en moda sostenible, diseño auténtico y experiencias digitales sociales. | Público general, de todas las edades y géneros. | Jóvenes amantes del vintage. |
+| **Estrategia de marketing** |  |  |  |
+| **Estrategias de marketing** | Colaboraciones con influencers de moda sostenible, ferias pop-up locales, campañas en Instagram/Reels y alianzas con tiendas vintage. | Orgánico: uso de grupos, posts patrocinados en feed. | Reels, colaboraciones con micro-influencers, giveaways. |
+| **Producto** |  |  |  |
+| **Valor ofrecido** | Piezas únicas, buen estado, autenticidad en cada prenda, experiencia de compra inspiradora, comunidad de moda circular. | Acceso rápido y sencillo a listados de todo tipo, precios variados, alta visibilidad, contacto directo por Messenger. | Estética boutique, trato personalizado, curaduría visual de productos, cercanía emocional con el vendedor. |
+| **Productos y servicios** | Subida de prendas (foto + descripción + precio) y feed de outfits y perfiles de usuario. | Listados básicos: foto, descripción, precio; chat por Messenger; valoraciones implícitas. | Catálogos en Stories, posts taggeables, venta vía DM, pagos externos. |
+| **Precios y costos** | Suscripción premium para vendedores opcional para beneficios (productos en primera planilla, publicidad constante). | Gratuito para usuarios. | Fijados por cada tienda; sin comisiones de plataforma. |
+| **Canales de distribución** | Aplicación móvil (iOS y Android), versión web. | Aplicación móvil (iOS y Android), versión web. | Aplicación móvil (iOS y Android), versión web. |
+| **Análisis SWOT** |  |  |  |
+| **Fortalezas** | UX especializado en moda, narrativa de producto que engancha emocionalmente. | Alcance instantáneo. | Gran engagement visual, comunidad muy leal. |
+| **Debilidades** | Base de usuarios inicial reducida, necesidad de educar al mercado en moda circular, dependencia de alianzas logísticas externas. | UX no especializado para moda, falta de filtros avanzados y verificación de calidad. | Proceso de compra fragmentado (DM + pago aparte), ausencia de historial de valoraciones centralizado. |
+| **Oportunidades** | Creciente interés en sostenibilidad, expansión de e-commerce en Perú, patrocinios de eventos de moda responsable. | Integrar categorías, mejorar herramientas de filtrado. | Integrar checkout nativo en Instagram Shop, expandir a app propia o sitio web. |
+| **Amenazas** | Plataformas generalistas con mayor presupuesto, venta informal (grupos de WhatsApp, ferias callejeras), cambios en regulaciones sobre comercio electrónico. | Creciente desconfianza por estafas, competencia de marketplaces especializados. | Cambios en el algoritmo de Instagram. |
 
-<img src="Report_Assets/competidores 2da parte nueva .png" alt="Nombre" width="500"> 
-</a>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
