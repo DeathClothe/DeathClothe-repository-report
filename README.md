@@ -2023,6 +2023,11 @@ Finalmente, se muestra el proceso de compra, donde el usuario confirma su inter�
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+![MockupWeb1](Report_Assets/userFlowWireFrame1.png)
+![MockupWeb2](Report_Assets/userFlowWireFrame2.png)
+![MockupWeb3](Report_Assets/userFlowWireFrame3.png)
+![MockupWeb4](Report_Assets/userFlowWireFrame4.png)
+![MockupWeb5](Report_Assets/userFlowWireFrame5.png)
 ### 4.4.3 Web Applications Mock-ups
 
 Los mock-ups de DeathClothe muestran el diseño final con todos los elementos gráficos, colores, tipografías y componentes interactivos integrados, reflejando la identidad visual de la plataforma.
