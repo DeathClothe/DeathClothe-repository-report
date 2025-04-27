@@ -26,42 +26,15 @@ Sarmiento Medina Loreley U202310005<br>
 
 ## Registro de Versiones del Informe
 
-<table>
-  <thead>
-    <tr>
-      <th>Versión</th>
-      <th>Fecha</th>
-      <th>Autor</th>
-      <th>Descripción de modificación</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>TB1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>TP</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>TB2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>TF</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+# Registro de Versiones - DeathClothe
+
+| Versión | Fecha      | Autor | Descripción de modificación |
+|---------|------------|-------|------------------------------|
+| TB1     | 27/04/2025 | - Bejarano Martínez, Álvaro Leandro<br>- Cabanillas Meza, José Mateo<br>- Luquillas Asto, Omar<br>- Sarmiento Medina, Loreley | Se realizó un trabajo integral desde la investigación inicial hasta el diseño del producto DeathClothe. Incluyó entrevistas, análisis de usuarios, construcción de user personas, journey maps, mapas de empatía, Lean UX Canvas, wireframes, mockups y diagramas de arquitectura, consolidando así la base estratégica y visual del proyecto. |
+| TP      | -          | -     |  |
+| TB2     | -          | -     |  |
+| TF      | -          | -     |  |
+
 
 
 ## Contents
