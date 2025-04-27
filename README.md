@@ -279,6 +279,16 @@ Vendedores:Personas desde los 18 hasta los 50 años o más que desean vender rop
 
 ### 2.1.1. Análisis competitivo
 
+<tr>
+  <tr>
+    <td>
+      <strong>¿Por qué llevar a cabo este análisis?</strong><br>
+      Comprender cómo se posiciona DeathClothe frente a competidores actuales en la industria de compra y venta de ropa de segunda mano, identificando ventajas competitivas y oportunidades de diferenciación.
+    </td>
+  </tr>
+</tr>
+
+
 | Aspecto | DeathClothes | Facebook Marketplace | Tiendas en Instagram |
 |:--------|:-------------|:----------------------|:---------------------|
 | **Perfil** | Startup peruana de moda circular: marketplace digital de ropa de segunda mano con énfasis en autenticidad, comunidad y sostenibilidad. | Sección de compraventa dentro de Facebook, sin especialización en moda. | Perfiles independientes que venden por DM. |
