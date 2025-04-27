@@ -1963,32 +1963,105 @@ Esta sección presenta y explica la propuesta visual y de interacción diseñada
 
 
 ### 4.4.1. Web Applications Wireframes
-En esta parte el usuario se loguea a la plataforma
+## 4.4.1 Web Applications Wireframes
+
+La experiencia en DeathClothe inicia con la pantalla de login, donde el usuario puede ingresar sus credenciales de forma sencilla para acceder a su cuenta en la plataforma.
+
 ![WireframeWeb1](Report_Assets/Login.png)
-Si no tiene cuenta, pasa a la parte de register, donde se le piden sus datos y se crea una cuenta
+
+Si el usuario no tiene cuenta, puede registrarse fácilmente completando un formulario que solicita los datos básicos para crear un perfil.
+
 ![WireframeWeb2](Report_Assets/Register.png)
-Una ves con la cuenta se pueden explorar distintas secciones del header como el inicio,explorar, armario, tu perfil , entre otros
+
+Una vez dentro, el usuario accede a la sección de Inicio, donde se le presentan prendas destacadas, sugerencias personalizadas y novedades relevantes.
+
 ![WireframeWeb5](Report_Assets/Inicio.png)
-En esta sección se pueden ver distintas prendas en base a tus gustos
+
+En la sección Explorar, los usuarios pueden visualizar el catálogo completo de prendas, filtrando resultados según sus preferencias como talla, color, tipo de prenda o precio.
+
 ![WireframeWeb4](Report_Assets/Explorar.png)
-Aqui puedes ver tus distintas prendas subidas
+
+Dentro del Armario Virtual, los usuarios pueden gestionar y visualizar todas las prendas que han subido o guardado en su perfil personal.
+
 ![WireframeWeb3](Report_Assets/Armario-Virtual.png)
-Aqui se puede ver una categoria especifica de tus prendas
+
+También pueden acceder a categorías específicas dentro de su armario, facilitando la organización y búsqueda de sus artículos.
+
 ![WireframeWeb4](Report_Assets/Armario.png)
-Esta seccion te permite ver tu tipo de perfil presionando el icono de la esquina superioir derecha
+
+En el área de Perfil, el usuario puede revisar su información personal, estadísticas de actividad y editar sus datos, ya sea en su versión de comprador o vendedor.
+
 ![WireframeWeb5](Report_Assets/PerfilVendedor.png)
 ![WireframeWeb2](Report_Assets/PerfillComprador.png)
-Presionando el icono de chat, podras ver tus distintos chats con las personas de la plataforma
+
+Desde el ícono de mensajería, el usuario accede a sus chats activos para gestionar la comunicación con otros usuarios interesados en sus prendas.
+
 ![WireframeWeb3](Report_Assets/comprando-wireframe.png)
-Aqui podrias ver los favoritos de la plataforma
+
+En la sección de Favoritos, el usuario encuentra todas las prendas que ha guardado para futuras compras.
+
 ![WireframeWeb5](Report_Assets/Favoritos.png)
-Una ves elegida una prenda que te gusto puedes seleccionarla y ver mas detalles, además de poder chatear con el vendedor
+
+Al seleccionar una prenda, se despliega una vista detallada donde puede revisar información completa, contactar al vendedor y decidir sobre la compra.
+
 ![WireframeWeb5](Report_Assets/Compradepolo.png)
-Aqui se ve como ya se procede con la compra
+
+Finalmente, se muestra el proceso de compra, donde el usuario confirma su interés y completa la transacción dentro de la plataforma de forma segura.
+
 ![WireframeWeb5](Report_Assets/comprando.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-### 4.4.3. Web Applications Mock-ups
+## 4.4.3 Web Applications Mock-ups
+
+## 4.4.3 Web Applications Mock-ups
+
+Los mock-ups de DeathClothe muestran el diseño final con todos los elementos gráficos, colores, tipografías y componentes interactivos integrados, reflejando la identidad visual de la plataforma.
+
+La pantalla de login presenta un diseño moderno, minimalista y accesible, facilitando el ingreso de usuarios habituales y nuevos registros.
+
+![MockupWeb1](Report_Assets/Login-Mockup.png)
+
+En el registro, el usuario completa de manera rápida y clara la información necesaria para crear su cuenta, dentro de un entorno visualmente atractivo y amigable.
+
+![MockupWeb2](Report_Assets/Register-Mockups.png)
+
+El Inicio ofrece un despliegue visual de prendas sugeridas, novedades y accesos rápidos a secciones principales, fomentando la exploración continua.
+
+![MockupWeb5](Report_Assets/Inicio-Mockups.png)
+
+En Explorar, el catálogo de prendas se presenta organizado en cuadrículas limpias, con filtros accesibles para mejorar la experiencia de búsqueda.
+
+![MockupWeb4](Report_Assets/ExplorarMockup.png)
+
+El Armario Virtual muestra las prendas propias del usuario, permitiendo una gestión ordenada y visualmente agradable de su inventario personal.
+
+![MockupWeb3](Report_Assets/ArmarioNormal.png)
+
+La navegación dentro del armario permite acceder a categorías específicas, optimizando la visualización de artículos según tipo o características.
+
+![MockupWeb4](Report_Assets/Armario-Mockups.png)
+
+En la sección de Perfil, los usuarios gestionan su información y acceden a sus estadísticas de manera clara, diferenciando perfiles de compradores y vendedores.
+
+![MockupWeb5](Report_Assets/PerfilVendedorMockup.png)
+![MockupWeb2](Report_Assets/PerfillCompradorMockup-.png)
+
+En la mensajería, los usuarios mantienen conversaciones fluidas con otros miembros de la comunidad, dentro de una interfaz limpia y ordenada.
+
+![MockupWeb3](Report_Assets/Chats.png)
+
+En la sección de Favoritos, se agrupan todas las prendas que el usuario ha guardado para futuras decisiones de compra.
+
+![MockupWeb5](Report_Assets/FavoritosMockups.png)
+
+La vista de detalle de una prenda permite conocer todos los aspectos relevantes, iniciar una conversación con el vendedor y avanzar en el proceso de compra.
+
+![MockupWeb5](Report_Assets/CompradepoloMockup.png)
+
+Finalmente, el proceso de compra se lleva a cabo en un entorno seguro, visualmente atractivo y fácil de seguir, asegurando la satisfacción del usuario.
+
+![MockupWeb5](Report_Assets/comprandoMockup.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
