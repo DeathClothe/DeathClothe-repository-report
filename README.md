@@ -2279,7 +2279,62 @@ Este informe documenta el progreso inicial del proyecto DeathClothe, una platafo
 Las entrevistas proporcionaron información útil que ayudó a definir los requisitos del proyecto. El objetivo fue desarrollar artefactos fundamentales para garantizar una comunicación efectiva entre el equipo de desarrollo y visualizar los requerimientos iniciales del proyecto.
 
 ##### 5.2.1.1. Sprint Planning 1
-
+<table border="1" cellspacing="0" cellpadding="8">
+   <thead>
+     <tr>
+       <th><strong>Campo</strong></th>
+       <th><strong>Detalle</strong></th>
+     </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td>Sprint #</td>
+       <td>Sprint 1</td>
+     </tr>
+     <tr>
+       <td>Fecha</td>
+       <td>2025-04-26</td>
+     </tr>
+     <tr>
+       <td>Hora</td>
+       <td>11:00 AM</td>
+     </tr>
+     <tr>
+       <td>Ubicación</td>
+       <td>Virtual – Discord</td>
+     </tr>
+     <tr>
+       <td>Preparado por</td>
+       <td>Andrea Elizabeth Santur Tello</td>
+     </tr>
+     <tr>
+       <td>Asistentes (a la reunión de planificación)</td>
+       <td>Alvaro Bejarano, Mateo Cabanillas, Omar Luquillas, Andrea Santur, Loreley Sarmiento</td>
+     </tr>
+     <tr>
+       <td>Sprint 1 – Resumen de revisión</td>
+       <td>Se elaboraron los artefactos esenciales del producto DeathClothe, y se implementó la landing page utilizando HTML y CSS, basada en el diseño de los mockups y wireframes realizados en Figma.</td>
+     </tr>
+     <tr>
+       <td>Sprint 1 – Resumen de retrospectiva</td>
+       <td>Refinar las historias de usuario y validar temprano los diseños de interfaz.</td>
+     </tr>
+     <tr>
+       <td>Objetivo y User Stories del Sprint 1</td>
+       <td>
+         <strong>Objetivo del Sprint:</strong>  Construir y validar los artefactos fundamentales que guiarán el desarrollo, como competidores, entrevistas, definiciones de segmentos objetivos, etc., para la creación de una nueva mejora en el proyecto
+       </td>
+     </tr>
+     <tr>
+       <td>Velocidad del Sprint 1</td>
+       <td>10 User Stories</td>
+     </tr>
+     <tr>
+       <td>Suma de Story Points</td>
+       <td>30 Story Points atendidos</td>
+     </tr>
+   </tbody>
+ </table>
 
 
 
