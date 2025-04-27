@@ -146,11 +146,10 @@ Visión: Nos visualizamos como una empresa líder en el renacimiento de la moda 
     <th>Perfil de Integrante</th>
   </tr>
   <tr>
-    <td><img src="Report_Assets/integrante1.png" alt="Integrante 1" width="100"/></td>
+    <td><img src="Report_Assets/yo.png" alt="Integrante 1" width="100"/></td>
     <td>Ingeniería de Software-u202311640 
  
-Como estudiante de quinto ciclo de 
-Ingeniería de Software, me destaco por mi 
+Mi nombre es Alvaro Leandro Bejarano Martínez, estudiante de la carrera Ingeniería de Software y me destaco por mi 
 perseverancia, organización y capacidad 
 para trabajar en equipo. Me esfuerzo por 
 mantener un ambiente estructurado dentro 
