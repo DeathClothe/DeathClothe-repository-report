@@ -1138,7 +1138,19 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 </table>
 
 ## 2.4. Ubiquitous Language
-
+| Término                  | Definición breve |
+|---------------------------|------------------|
+| DeathClothe               | Plataforma web para comprar, vender y descubrir ropa de segunda mano de manera personalizada y sostenible. |
+| Armario Virtual           | Espacio personal dentro de la plataforma donde los usuarios organizan sus prendas favoritas o compradas. |
+| Prenda                    | Artículo de ropa subido por un vendedor y disponible para compra. |
+| Vendedor                  | Usuario que publica prendas para vender en la plataforma. |
+| Comprador                 | Usuario que navega, guarda y compra prendas en la plataforma. |
+| Publicación               | Proceso de subir una prenda a la plataforma, incluyendo foto, descripción y precio. |
+| Recomendaciones Personalizadas | Sugerencias automáticas de prendas basadas en el estilo y el armario virtual del usuario. |
+| Favoritos                 | Lista de prendas que un comprador guarda para revisar o comprar más adelante. |
+| Calificación              | Puntuación y reseña que los usuarios dejan sobre compradores o vendedores después de una transacción. |
+| Historia de la Prenda     | Narrativa opcional que cuenta el origen, uso o anécdotas de la prenda, para agregar valor emocional. |
+| Filtros Avanzados         | Herramientas que permiten buscar prendas por talla, estilo, estado, color o precio. |
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ### Compradores 
