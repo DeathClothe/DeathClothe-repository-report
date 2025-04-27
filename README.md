@@ -1867,10 +1867,74 @@ Se uso :
 ### 4.2.5. Navigation Systems
 
 ## 4.3. Landing Page UI Design](#43-landing-page-ui-design)
+La propuesta de diseño de la Landing Page de DeathClothe refleja nuestra visión de crear una experiencia inclusiva, moderna y alineada con los principios de moda circular. Basándonos en las decisiones tomadas en la arquitectura de información, cada sección de la interfaz busca ser clara, accesible y visualmente atractiva. Nos enfocamos en facilitar tanto la navegación como la comprensión inmediata del propósito de la plataforma: reutilizar moda con estilo y conciencia ambiental. Para ello, aplicamos principios de diseño como la jerarquía visual, consistencia en tipografías, contraste suficiente para accesibilidad, y uso de componentes amigables para navegación en desktop y mobile.
 
-### 4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+El diseño está estructurado para acompañar al usuario en un recorrido fluido: conocer la propuesta, descubrir beneficios, explorar productos y finalmente unirse a la comunidad, siguiendo los modelos mentales detectados en nuestro público objetivo.
 
-### 4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+### 4.3.1. Landing Page Wireframe
+
+El Wireframe del Landing Page de DeathClothe fue diseñado considerando la claridad de navegación, el acceso rápido a las funcionalidades principales y la fácil comprensión del mensaje de marca.
+
+Principales características aplicadas:
+
+Organization Systems: Se organizaron las secciones en un flujo natural de información: Inicio ➔ Explora ➔ Vende ➔ Comunidad ➔ Nosotros.
+
+Labeling Systems: Utilizamos etiquetas simples y claras como "Explora", "Vende", "Comunidad", facilitando la identificación inmediata del propósito de cada sección.
+
+Navigation Systems: Implementamos una navegación horizontal principal en la parte superior para desktop y un menú hamburguesa para mobile, asegurando accesibilidad desde cualquier dispositivo.
+
+Diseño Inclusivo: Tipografía legible, botones de tamaño adecuado para interacción táctil, contraste de colores pensado para usuarios con baja visión y estructura semántica correcta.
+
+Elementos de diseño:
+
+Jerarquía visual clara: uso de encabezados grandes y destacados.
+
+Espaciado amplio entre secciones para facilitar la lectura.
+
+Iconografía simple que acompaña textos, mejorando la comprensión.
+
+![WireframeWeb1](Report_Assets/Wireframe-Inicio.png)
+![WireframeWeb2](Report_Assets/Wireframe-Explora.png)
+![WireframeWeb3](Report_Assets/Wireframe-Vende.png)
+![WireframeWeb4](Report_Assets/Wireframe-comunidad.png)
+![WireframeWeb5](Report_Assets/Wireframe-Nostros.png)
+### 4.3.2. Landing Page Mock-up
+
+El diseño del Landing Page de DeathClothe no solo traduce visualmente nuestra identidad de marca, sino que también garantiza que cada visitante, sin importar su dispositivo, pueda navegar intuitivamente, encontrar valor rápidamente y sumarse a la comunidad de moda circular que proponemos.
+
+Aplicación de principios y elementos de diseño:
+
+Consistencia visual: Se mantiene el mismo estilo en todos los botones, fuentes y colores (basados en la paleta principal rosa y tonos complementarios).
+
+Contraste y Accesibilidad: Fondos claros con texto oscuro para facilitar la lectura, especialmente en mobile.
+
+Uso emocional de imágenes: Fotos reales y cercanas de ropa de segunda mano y usuarios auténticos, generando confianza y conexión emocional.
+
+Elementos gráficos: Iconos para "Filtros", "Favoritos", "Compra segura" y "Recomendaciones" para explicar funcionalidades de forma visual.
+
+Design System: Aplicación rigurosa del sistema de componentes: botones primarios, secundarios, tarjetas de producto, banners informativos, navegación estandarizada.
+
+Mockups Desktop Web Browser:
+
+Secciones animadas con cambios sutiles al hacer scroll.
+
+Llamados a la acción destacados en color principal.
+
+Organización modular que facilita futuras actualizaciones.
+
+Mockups Mobile Web Browser:
+
+Interfaz limpia, priorizando el scroll vertical.
+
+Botones grandes y visibles para interacción táctil.
+
+Optimización de imágenes para carga rápida.
+
+![MockupWeb1](Report_Assets/MockupInicio.png)
+![MockupWeb2](Report_Assets/MockupExplora.png)
+![MockupWeb3](Report_Assets/MockupVende.png)
+![MockupWeb4](Report_Assets/MockupComunidad.png)
+![MockupWeb5](Report_Assets/MockupNostros.png)
 
 ## 4.4. Web Applications UX/UI Design
 
