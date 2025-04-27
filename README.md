@@ -2288,7 +2288,6 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
    </thead>
    <tbody>
      <tr>
-       <td>Sprint #</td>
        <td>Sprint 1</td>
      </tr>
      <tr>
@@ -2346,10 +2345,7 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
 ##### 5.2.1.3. Sprint Backlog 1 
 
 **Sprint 1**
-
-
-<h2>Sprint #</h2>
-<p><strong>Sprint 2</strong></p>
+<p><strong>Sprint 1</strong></p>
 
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
