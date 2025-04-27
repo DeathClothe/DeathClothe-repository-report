@@ -162,7 +162,7 @@ y alineada con los objetivos comunes del
 equipo. </td>
   </tr>
   <tr>
-    <td><img src="Report_Assets/yo2-jpg" alt="Integrante 2" width="100"/></td>
+    <td><img src="Report_Assets/yo2.jpg" alt="Integrante 2" width="100"/></td>
     <td>Jose Mateo Cabanillas Meza - Ingeniería de Software-u202311458
 Mi nombre es Mateo Cabanillas y en la actualidad estoy cursando el quinto ciclo de la carrera de ingeniería de software con una mente creativa y una actitud colaborativa. Mi amor por la programación y la resolución de problemas me impulsa a explorar nuevas soluciones y aportar ideas frescas a los proyectos. Como compañero de equipo, soy amable, atento y siempre estoy dispuesto a ayudar. Creo firmemente en la importancia de la comunicación efectiva y la colaboración para lograr resultados excepcionales.</td>
   </tr>
