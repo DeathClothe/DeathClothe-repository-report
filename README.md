@@ -189,7 +189,7 @@ Mi nombre es Mateo Cabanillas y en la actualidad estoy cursando el quinto ciclo 
   </tr>
   <tr>
     <td><img src="Report_Assets/integrante4.png" alt="Integrante 4" width="100"/></td>
-    <td></td>
+    <td>Soy Andrea Santur con código de estudiante 202310988, curso el 5to ciclo de la carrera de ingeniera de software Me considero una persona organizada, dedicada y siempre dispuesta a aprender y a brindar apoyo a quienes lo necesiten. Tengo conocimientos en lenguajes de programación como C++, HTML y CSS, además de habilidades en Photoshop y Diseño UI. Valoro el trabajo en equipo, el aprendizaje continuo y el compromiso por presentar resultados de calidad. Espero aportar de manera efectiva al equipo y contribuir a la entrega de un proyecto excelente. </td>
   </tr>
   <tr>
     <td><img src="Report_Assets/integrante5.png" alt="Integrante 5" width="100"/></td>
@@ -2278,7 +2278,7 @@ Con esta configuración, cualquier actualización que se haga al código en el r
 Este informe documenta el progreso inicial del proyecto DeathClothe, una plataforma web de compraventa de ropa para compradores y vendedores. Durante este sprint, se trabajó en la definición de requisitos mediante historias de usuario funcionales y técnicas, la creación de artefactos esenciales.
 Las entrevistas proporcionaron información útil que ayudó a definir los requisitos del proyecto. El objetivo fue desarrollar artefactos fundamentales para garantizar una comunicación efectiva entre el equipo de desarrollo y visualizar los requerimientos iniciales del proyecto.
 
-##### 5.2.1.1. Sprint Planning 1
+#### 5.2.1.1. Sprint Planning 1
 <table border="1" cellspacing="0" cellpadding="8">
    <thead>
      <tr>
@@ -2337,14 +2337,10 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
 
 
 
-##### 5.2.1.2. Source Code Management 
+#### 5.2.1.2. Source Code Management 
 
+#### 5.2.1.3. Sprint Backlog 1 
 
-
-
-##### 5.2.1.3. Sprint Backlog 1 
-
-**Sprint 1**
 <p><strong>Sprint 1</strong></p>
 
 <table border="1" cellspacing="0" cellpadding="8">
@@ -2464,7 +2460,7 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
 
 
 
-##### 5.2.1.4. Development Evidence for Sprint Review
+#### 5.2.1.4. Development Evidence for Sprint Review
 
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
