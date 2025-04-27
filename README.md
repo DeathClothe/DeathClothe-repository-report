@@ -2341,6 +2341,8 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
 
 #### 5.2.1.3. Sprint Backlog 1 
 
+Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe
+
 <p><strong>Sprint 1</strong></p>
 
 <table border="1" cellspacing="0" cellpadding="8">
@@ -2457,8 +2459,6 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
     </tr>
   </tbody>
 </table>
-
-
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
