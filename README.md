@@ -2038,6 +2038,38 @@ Los tipos de commit principales son:
 - Las releases se etiquetan siguiendo estrictamente SemVer
 
 
+### 5.1.3. Source Code Style Guide & Conventions
+
+Para el desarrollo de la Landing Page, hemos decidido utilizar el idioma inglés en todos los nombres de variables, funciones, clases y archivos. Esto nos permitirá mantener el código más ordenado, comprensible y facilitar su crecimiento en el futuro.
+
+**HTML / CSS**
+
+* Se sigue principalmente el Google HTML/CSS Style Guide para mantener buenas prácticas de codificación.
+* Se utilizarán etiquetas semánticas como <header>, <section>, <article>, <nav> y <footer> para estructurar mejor el contenido de la página.
+* Los nombres de las clases en CSS se escribirán utilizando kebab-case (por ejemplo: .main-banner, .card-section).
+* Los identificadores serán claros y específicos para que tanto el acceso como el mantenimiento del código sean más sencillos.
+* Las etiquetas principales que se usarán en el proyecto son:
+
+  * <div> para separar diferentes bloques o secciones del contenido.
+  * <img> para mostrar imágenes en distintas partes de la página.
+  * <ul> y <li> para crear listas, principalmente en los menús de navegación.
+  * <a> para establecer enlaces entre secciones o páginas.
+  * <p> para párrafos de texto descriptivo.
+  * <button> para botones que permitan al usuario realizar acciones específicas.
+  * Títulos <h1> hasta <h4> para jerarquizar la información de manera lógica.
+
+**JavaScript**
+
+* Se adopta el Google JavaScript Style Guide para seguir un estilo uniforme en el código.
+* En cuanto a la nomenclatura:
+  * Las variables y funciones se nombrarán en camelCase (por ejemplo: fetchData, createUserCard).
+  * Las clases se nombrarán utilizando PascalCase (por ejemplo: FormHandler, UserProfile).
+  * Las constantes serán escritas en UPPER_SNAKE_CASE (por ejemplo: DEFAULT_TIMEOUT, MAX_ITEMS).
+* Siempre que sea posible, se usará const y let en lugar de var para mejorar el control del ámbito de las variables.
+* Se evitarán funciones anónimas cuando no sean necesarias, para que el código sea más fácil de depurar y entender.
+* El enfoque será mantener el código modular, reutilizable y fácil de leer.
+
+
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 Este informe documenta el progreso inicial del proyecto DeathClothe, una plataforma web de compraventa de ropa para compradores y vendedores. Durante este sprint, se trabajó en la definición de requisitos mediante historias de usuario funcionales y técnicas, la creación de artefactos esenciales.
