@@ -1983,6 +1983,61 @@ En esta sección se detallan las herramientas utilizadas para la gestión del pr
     <img src="Report_Assets/markdown.png" alt="Markdown" width="300">
 
 
+### 5.1.2. Source Code Management
+
+Nuestro equipo utiliza un flujo de trabajo basado en Git Flow para mantener un control organizado del código. Trabajamos con ramas principales y secundarias que nos permiten desarrollar funcionalidades, corregir errores y preparar versiones de manera sistemática.
+
+**Estructura de Ramas**
+
+El proyecto maneja las siguientes ramas:
+
+- main: Contiene el código estable listo para producción
+- dev: Rama de desarrollo donde se integran las nuevas funcionalidades
+- feature/*: Ramas temporales para desarrollar características específicas
+- hotfix/*: Ramas para solucionar problemas críticos en producción
+- release/*: Ramas para preparar nuevas versiones estables
+
+**Control de Versiones**
+
+Aplicamos versionado semántico (SemVer) con el formato vX.Y.Z:
+
+- X (Major): Cambios que rompen compatibilidad
+- Y (Minor): Nuevas funcionalidades compatibles
+- Z (Patch): Correcciones de errores
+
+Las versiones preliminares usan sufijos:
+
+- alpha: Para funcionalidades en desarrollo
+- beta: Para pruebas internas
+- rc: Versiones candidatas a lanzamiento
+
+**Convención de Comits**
+Seguimos un formato estricto para los mensajes de commit:
+
+`<tipo>(ámbito): descripción breve [#issue]`
+
+Ejemplos prácticos:
+
+- feat(login): implementar autenticación con Google [#45]
+- fix(api): resolver error en endpoint /users [#78]
+- docs: actualizar guía de instalación
+
+Los tipos de commit principales son:
+
+- feat: Nueva funcionalidad
+- fix: Corrección de errores
+- docs: Cambios en documentación
+- refactor: Mejoras de código sin cambiar funcionalidad
+- test: Adición o modificación de pruebas
+
+**Políticas Adicionales**
+
+- Todo merge a main requiere al menos una revisión aprobada
+- Las ramas principales están protegidas contra pushes directos
+- Cada commit debe referenciar su issue/ticket correspondiente
+- Las releases se etiquetan siguiendo estrictamente SemVer
+
+
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 Este informe documenta el progreso inicial del proyecto DeathClothe, una plataforma web de compraventa de ropa para compradores y vendedores. Durante este sprint, se trabajó en la definición de requisitos mediante historias de usuario funcionales y técnicas, la creación de artefactos esenciales.
