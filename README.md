@@ -1957,10 +1957,35 @@ El Mock-up del Landing Page de DeathClothe representa la integración final de l
 ![MockupWeb4](Report_Assets/MockupComunidad.png)
 ![MockupWeb5](Report_Assets/MockupNostros.png)
 
-## 4.4. Web Applications UX/UI Design
+## 4.4 Web Applications UX/UI Design
+
+Esta sección presenta y explica la propuesta visual y de interacción diseñada para las aplicaciones que conforman la experiencia de usuario de DeathClothe. Se incluyen wireframes, wireflows y mock-ups que detallan cómo se estructuran, organizan y visualizan los contenidos, priorizando la usabilidad, accesibilidad y coherencia con la identidad de marca. La propuesta busca garantizar que los usuarios puedan navegar, interactuar y completar sus objetivos de manera intuitiva, fluida y satisfactoria en todos los puntos de contacto con el producto digital.
+
 
 ### 4.4.1. Web Applications Wireframes
-
+En esta parte el usuario se loguea a la plataforma
+![WireframeWeb1](Report_Assets/Login.png)
+Si no tiene cuenta, pasa a la parte de register, donde se le piden sus datos y se crea una cuenta
+![WireframeWeb2](Report_Assets/Register.png)
+Una ves con la cuenta se pueden explorar distintas secciones del header como el inicio,explorar, armario, tu perfil , entre otros
+![WireframeWeb5](Report_Assets/Inicio.png)
+En esta sección se pueden ver distintas prendas en base a tus gustos
+![WireframeWeb4](Report_Assets/Explorar.png)
+Aqui puedes ver tus distintas prendas subidas
+![WireframeWeb3](Report_Assets/Armario-Virtual.png)
+Aqui se puede ver una categoria especifica de tus prendas
+![WireframeWeb4](Report_Assets/Armario.png)
+Esta seccion te permite ver tu tipo de perfil presionando el icono de la esquina superioir derecha
+![WireframeWeb5](Report_Assets/PerfilVendedor.png)
+![WireframeWeb2](Report_Assets/PerfillComprador.png)
+Presionando el icono de chat, podras ver tus distintos chats con las personas de la plataforma
+![WireframeWeb3](Report_Assets/comprando-wireframe.png)
+Aqui podrias ver los favoritos de la plataforma
+![WireframeWeb5](Report_Assets/Favoritos.png)
+Una ves elegida una prenda que te gusto puedes seleccionarla y ver mas detalles, además de poder chatear con el vendedor
+![WireframeWeb5](Report_Assets/Compradepolo.png)
+Aqui se ve como ya se procede con la compra
+![WireframeWeb5](Report_Assets/comprando.png)
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups
