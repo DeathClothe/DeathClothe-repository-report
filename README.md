@@ -1833,13 +1833,13 @@ El uso combinado de estas tipografías asegura jerarquía clara, modernidad y ac
 Se utilizan íconos de estilo lineal y minimalista, que permiten una comunicación inmediata y sin distracciones.
 Estos íconos apoyan la navegación intuitiva, refuerzan el diseño moderno y aseguran una experiencia de usuario ágil, tanto en dispositivos móviles como en computadoras.
 
-![Icons]()
+![Icons](Report_Assets/iconos.PNG)
 
 **-Buttons:**
 Los botones están diseñados para ser visualmente atractivos, accesibles y claros en su propósito.
 Los colores vivos como el rosa vibrante (#C4456B) aseguran que las acciones principales sean destacadas fácilmente, mientras que los bordes redondeados mejoran la usabilidad en pantallas táctiles y brindan una sensación amigable.
 
-![Buttons]()
+![Buttons](Report_Assets/botones.PNG)
 
 **-Spacing and Layout:**
 El diseño mantiene un sistema de espaciado uniforme que favorece una navegación fluida y clara.
