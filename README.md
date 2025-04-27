@@ -2532,6 +2532,34 @@ Work Items - Detalle
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
+Durante este sprint, nuestro equipo finalizó y publicó la landing page de DeathClothe. A continuación, presentamos capturas de cada sección, donde podrán apreciar cómo organizamos la información de manera clara, atractiva y alineada a la identidad visual de la marca. Además, nos aseguramos de que el diseño fuera responsivo y que la navegación resultara intuitiva para los usuarios en diferentes dispositivos.
+
+**Inicio**
+
+<img src="./Report_Assets/executionevidence1.png" alt="Execution Evidence 1" width="700">
+
+**Sección Explora**
+
+<img src="./Report_Assets/executionevidence2.png" alt="Execution Evidence 2" width="700">
+
+**Sección Vende**
+
+<img src="./Report_Assets/executionevidence3.png" alt="Execution Evidence 3" width="700">
+
+**Sección Comunidad**
+
+<img src="./Report_Assets/executionevidence4.png" alt="Execution Evidence 4" width="700">
+
+**Sección Nosotros**
+
+<img src="./Report_Assets/executionevidence5.png" alt="Execution Evidence 5" width="700">
+
+
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
 Durante este sprint, conseguimos implementar correctamente la landing page de DeathClothe en un entorno funcional. Nos enfocamos en preparar la infraestructura necesaria, automatizar el despliegue y publicar el sitio asegurando su correcto funcionamiento. A continuación, detallamos las principales actividades realizadas.
 
 **Configuración del repositorio**
@@ -2558,15 +2586,9 @@ Durante este sprint, conseguimos implementar correctamente la landing page de De
 
 Link Landing Page: https://deathclothe.github.io/DEATHCLOTHELandingPage/
 
-<img src="./Report_Assets/executionevidence1.png" alt="Execution Evidence 1" width="500">
+<img src="./Report_Assets/deploymentevidence1.png" alt="Deployment Evidence 1" width="500">
 
-<img src="./Report_Assets/executionevidence2.png" alt="Execution Evidence 2" width="500">
-
-
-##### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-
-##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+<img src="./Report_Assets/deploymentevidence2.png" alt="Deployment Evidence 2" width="500">
 
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
