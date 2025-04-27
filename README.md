@@ -1905,6 +1905,71 @@ Se uso :
 <img src="Report_Assets/ERD DeathClothe.png" alt="Nombre" width="500"> 
 
 
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management.
+
+### 5.1.1. Software Development Environment Configuration.
+
+En esta sección se detallan las herramientas utilizadas para la gestión del proyecto, el diseño, el desarrollo, el despliegue y la documentación de la solución.
+
+* Project Management:
+
+  * Trello
+    Propósito: Gestión de tareas mediante tableros Kanban organizados en columnas (To Do, In Progress, Done).
+    URL: https://trello.com
+
+    <img src="Report_Assets/trello.png" alt="Trello" width="300"> 
+
+  * Uxpressia
+    Propósito: Creación de mapas de experiencia de usuario para analizar y entender a nuestros usuarios.
+    URL: https://uxpressia.com
+
+    <img src="Report_Assets/lucidchart.png" alt="LucidChart" width="300"> 
+    
+  * Structurizr
+    Propósito: Modelado de arquitectura utilizando diagramas C4 para la documentación técnica de la solución.
+    URL: https://structurizr.com
+
+    <img src="Report_Assets/structurizr.png" alt="Structurizr" width="300"> 
+
+* Product UX/UI Design:
+
+  * Figma
+    Propósito: Diseño de interfaces de usuario (UI), prototipado rápido y colaboración en tiempo real entre los miembros del equipo.
+    URL: https://figma.com
+
+    <img src="Report_Assets/figma.png" alt="Figma" width="300">
+
+* Software Development:
+
+  * Visual Studio Code (VS Code)
+    Propósito: Editor de código fuente principal utilizado para el desarrollo de la Landing Page (HTML, CSS, JavaScript).
+    URL: https://code.visualstudio.com/download
+
+    <img src="Report_Assets/visualstudiocode.png" alt="Visual Studio Code" width="300">
+
+* Deployment Configuration:
+
+  * GitHub Pages
+    Propósito: Publicación y despliegue automático de la Landing Page como sitio web estático directamente desde el repositorio.
+    URL: https://pages.github.com
+
+    <img src="Report_Assets/githubpages.png" alt="Github Pages" width="300">
+
+* Software Documentation:
+
+  * GitHub
+    Propósito: Almacenamiento de la documentación técnica dentro del repositorio del proyecto, utilizando archivos Markdown (.md).
+
+    <img src="Report_Assets/visualstudiocode.png" alt="Visual Studio Code" width="300">
+
+  * Markdown
+    Propósito: Formato de escritura utilizado para documentar de forma clara, sencilla y estructurada los detalles del proyecto.
+
+    <img src="Report_Assets/markdown.png" alt="Markdown" width="300">
+
+
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 Este informe documenta el progreso inicial del proyecto DeathClothe, una plataforma web de compraventa de ropa para compradores y vendedores. Durante este sprint, se trabajó en la definición de requisitos mediante historias de usuario funcionales y técnicas, la creación de artefactos esenciales.
