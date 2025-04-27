@@ -2062,6 +2062,11 @@ Finalmente, el proceso de compra se lleva a cabo en un entorno seguro, visualmen
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+![WireframeWeb1](Report_Assets/userFlow1.PNG)
+![WireframeWeb2](Report_Assets/registerflow.PNG)
+![WireframeWeb3](Report_Assets/UserFlowPerfiles.PNG)
+![WireframeWeb4](Report_Assets/UserFlowArmario.PNG)
+![WireframeWeb5](Report_Assets/UserFlowCompra.PNG)
 ## 4.5. Web Applications Prototyping
 | Elemento              | Enlace |
 |------------------------|--------|
