@@ -2557,6 +2557,20 @@ Durante este sprint, nuestro equipo finalizó y publicó la landing page de Deat
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Durante este Sprint, nos enfocamos principalmente en la creación de la landing page estática de DeathClothe, la cual no requiere el consumo de APIs ni conexión con Web Services. Como el alcance de este proyecto no contempla la implementación de un backend o la interacción con endpoints, no fue necesario generar documentación OpenAPI. En otras palabras, DeathClothe es una solución puramente frontend, centrada en ofrecer contenido visual e informativo sin lógica de servidor.
+
+En esta etapa tampoco se trabajaron acciones tipo CRUD (como GET, POST, PUT o DELETE) ni se integraron servicios o APIs externas. La prioridad fue construir una estructura estable, rápida y responsiva, que funcione de forma autónoma desde el navegador del usuario.
+
+Aunque no se documentaron endpoints (ya que no aplicaban para este tipo de desarrollo), sí se lograron los siguientes objetivos importantes:
+
+- Creación y documentación básica del proyecto estático.
+
+- Registro detallado de cambios mediante commits claros y organizados.
+
+- Generación de evidencia del despliegue exitoso y del correcto funcionamiento del sitio.
+
+Adicionalmente, se cuidó que el código fuera limpio, optimizado para buenas prácticas de desarrollo frontend, y preparado para futuras extensiones si el proyecto escala.
+
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
