@@ -162,7 +162,7 @@ Visión: Nos visualizamos como una empresa líder en el renacimiento de la moda 
     <th>Perfil de Integrante</th>
   </tr>
   <tr>
-    <td><img src="" alt="Integrante 1" width="100"/></td>
+    <td><img src="Report_Assets/integrante1.png" alt="Integrante 1" width="100"/></td>
     <td>Ingeniería de Software-u202311640 
  
 Como estudiante de quinto ciclo de 
@@ -179,21 +179,21 @@ y alineada con los objetivos comunes del
 equipo. </td>
   </tr>
   <tr>
-    <td><img src="" alt="Integrante 2" width="100"/></td>
+    <td><img src="Report_Assets/integrante2.png" alt="Integrante 2" width="100"/></td>
     <td>Jose Mateo Cabanillas Meza - Ingeniería de Software-u202311458
 Mi nombre es Mateo Cabanillas y en la actualidad estoy cursando el quinto ciclo de la carrera de ingeniería de software con una mente creativa y una actitud colaborativa. Mi amor por la programación y la resolución de problemas me impulsa a explorar nuevas soluciones y aportar ideas frescas a los proyectos. Como compañero de equipo, soy amable, atento y siempre estoy dispuesto a ayudar. Creo firmemente en la importancia de la comunicación efectiva y la colaboración para lograr resultados excepcionales.</td>
   </tr>
   <tr>
-    <td><img src="" alt="Integrante 3" width="100"/></td>
+    <td><img src="Report_Assets/integrante3.png" alt="Integrante 3" width="100"/></td>
+    <td>Soy Omar Luquillas Asto con código de estudiante U20211G641, estudiante de la carrera de Ingeniería de Software. Elegí esta carrera porque me apasiona la tecnología, el desarrollo de software y la programación. Tengo conocimientos en lenguajes de programación como C++, Python y Java. Me considero una persona investigadora, ya que me gusta aprender cosas nuevas y siempre estoy en busca de soluciones creativas e innovadoras que generen un impacto positivo en la vida de las personas. Además, valoro el trabajo en equipo, soy responsable y me comprometo a cumplir con mis tareas de manera eficiente.</td>
+  </tr>
+  <tr>
+    <td><img src="Report_Assets/integrante4.png" alt="Integrante 4" width="100"/></td>
     <td></td>
   </tr>
   <tr>
-    <td><img src="" alt="Integrante 4" width="100"/></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="Report_Assets/integrante2.png" alt="Integrante 5" width="100"/></td>
-    <td>Soy Loreley Sarmiento Medina con codigo de estudainte U202310005 y estudio la carrera de Ingeniería de Software y me especializo en aportar soluciones tecnológicas integrales dentro de equipos multidisciplinarios. Cuento con sólidos conocimientos en el modelado de wireframes y mockups utilizando Figma, lo que me permite contribuir eficazmente en la etapa de diseño de interfaces centradas en el usuario. Además, tengo experiencia en el modelado de bases de datos, facilitando la organización y estructura lógica de la información. Poseo conocimientos intermedios en HTML y CSS, lo cual me permite colaborar en el desarrollo de interfaces web funcionales y visualmente atractivas. También tengo una base sólida en lenguajes de programación, lo que me permite comprender e implementar soluciones tanto en el frontend como en el backend, aportando al desarrollo integral del producto</td>
+    <td><img src="Report_Assets/integrante5.png" alt="Integrante 5" width="100"/></td>
+    <td>Soy Loreley Sarmiento Medina con codigo de estudiante U202310005 y estudio la carrera de Ingeniería de Software y me especializo en aportar soluciones tecnológicas integrales dentro de equipos multidisciplinarios. Cuento con sólidos conocimientos en el modelado de wireframes y mockups utilizando Figma, lo que me permite contribuir eficazmente en la etapa de diseño de interfaces centradas en el usuario. Además, tengo experiencia en el modelado de bases de datos, facilitando la organización y estructura lógica de la información. Poseo conocimientos intermedios en HTML y CSS, lo cual me permite colaborar en el desarrollo de interfaces web funcionales y visualmente atractivas. También tengo una base sólida en lenguajes de programación, lo que me permite comprender e implementar soluciones tanto en el frontend como en el backend, aportando al desarrollo integral del producto</td>
   </tr>
  
 </table>
