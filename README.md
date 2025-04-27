@@ -2337,11 +2337,16 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
   </tbody>
 </table>
 
-##### 5.2.1.2. Sprint Backlog 
-<h2>Sprint #</h2>
-<p><strong>Sprint 1</strong></p>
+##### 5.2.1.2. Source Code Management 
 
-<h2>Work Items - Detalle</h2>
+
+
+
+##### 5.2.1.3. Sprint Backlog 1 
+
+**Sprint 1**
+
+Work Items - Detalle
 
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
@@ -2521,6 +2526,20 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
   </tbody>
 </table>
 
+
+##### 5.2.1.4. Development Evidence for Sprint Review
+
+
+##### 5.2.1.5. Execution Evidence for Sprint Review
+
+
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+
+##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 
 
