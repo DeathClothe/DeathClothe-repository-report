@@ -1902,7 +1902,7 @@ Se uso :
 
 ### 4.8.1. Database Diagram
 
-
+<img src="Report_Assets/ERD DeathClothe.png" alt="Nombre" width="500"> 
 
 
 
