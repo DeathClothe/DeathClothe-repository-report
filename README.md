@@ -1963,7 +1963,6 @@ Esta sección presenta y explica la propuesta visual y de interacción diseñada
 
 
 ### 4.4.1. Web Applications Wireframes
-## 4.4.1 Web Applications Wireframes
 
 La experiencia en DeathClothe inicia con la pantalla de login, donde el usuario puede ingresar sus credenciales de forma sencilla para acceder a su cuenta en la plataforma.
 
@@ -2012,9 +2011,7 @@ Finalmente, se muestra el proceso de compra, donde el usuario confirma su inter�
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-## 4.4.3 Web Applications Mock-ups
-
-## 4.4.3 Web Applications Mock-ups
+### 4.4.3 Web Applications Mock-ups
 
 Los mock-ups de DeathClothe muestran el diseño final con todos los elementos gráficos, colores, tipografías y componentes interactivos integrados, reflejando la identidad visual de la plataforma.
 
@@ -2066,7 +2063,7 @@ Finalmente, el proceso de compra se lleva a cabo en un entorno seguro, visualmen
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
-
+<iframe src="https://upcedupe-my.sharepoint.com/personal/u202310005_upc_edu_pe/_layouts/15/embed.aspx?UniqueId=d728e1f6-ad94-4839-ac15-dd4e832ba86f&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Recording-20250427_073846.webm"></iframe>
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
