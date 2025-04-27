@@ -1969,6 +1969,191 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
   </tbody>
 </table>
 
+##### 5.2.1.2. Sprint Backlog 
+<h2>Sprint #</h2>
+<p><strong>Sprint 1</strong></p>
+
+<h2>Work Items - Detalle</h2>
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Work-Item / Task</th>
+      <th>User Story ID</th>
+      <th>Id</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-process / To Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Publicar prenda en venta</td>
+      <td>US-02</td>
+      <td>T01</td>
+      <td>Subir en 3 pasos y previsualizar antes de publicar</td>
+      <td>10</td>
+      <td>Bejarano Martínez Alvaro Leandro</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Editar o eliminar prenda publicada</td>
+      <td>US-09</td>
+      <td>T02</td>
+      <td>Modificar o eliminar prendas ya publicadas</td>
+      <td>10</td>
+      <td>Cabanillas Meza Jose Mateo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Explorar prendas recomendadas</td>
+      <td>US-01</td>
+      <td>T03</td>
+      <td>Ver recomendaciones automáticas y con filtros inteligentes</td>
+      <td>10</td>
+      <td>Luquillas Asto Omar</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Recibir recomendaciones personalizadas</td>
+      <td>US-08</td>
+      <td>T04</td>
+      <td>Recomendaciones según historial y armario virtual</td>
+      <td>10</td>
+      <td>Santur Tello Andrea Elizabeth</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Buscar prendas por palabra clave</td>
+      <td>US-04</td>
+      <td>T05</td>
+      <td>Búsqueda simple, sugerencias y manejo de no resultados</td>
+      <td>6</td>
+      <td>Sarmiento Medina Loreley</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Filtrar por categoría</td>
+      <td>US-07</td>
+      <td>T06</td>
+      <td>Aplicar, combinar y limpiar filtros</td>
+      <td>6</td>
+      <td>Bejarano Martínez Alvaro Leandro</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Guardar prendas favoritas</td>
+      <td>US-05</td>
+      <td>T07</td>
+      <td>Agregar/eliminar favoritos y ver lista</td>
+      <td>6</td>
+      <td>Cabanillas Meza Jose Mateo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Ver últimas prendas publicadas</td>
+      <td>US-06</td>
+      <td>T08</td>
+      <td>Mostrar novedades, etiqueta “Nuevo” y notificaciones</td>
+      <td>6</td>
+      <td>Luquillas Asto Omar</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Ver calificaciones del vendedor</td>
+      <td>US-03</td>
+      <td>T09</td>
+      <td>Visualizar calificaciones y promedio</td>
+      <td>4</td>
+      <td>Santur Tello Andrea Elizabeth</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Ver estadísticas de mis ventas</td>
+      <td>US-10</td>
+      <td>T10</td>
+      <td>Panel de ventas con filtros por periodo</td>
+      <td>10</td>
+      <td>Sarmiento Medina Loreley</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Recibir notificaciones de interés</td>
+      <td>US-11</td>
+      <td>T11</td>
+      <td>Notificaciones de favoritos y preguntas</td>
+      <td>6</td>
+      <td>Bejarano Martínez Alvaro Leandro</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Marcar una prenda como vendida</td>
+      <td>US-12</td>
+      <td>T12</td>
+      <td>Cambio manual o automático tras venta</td>
+      <td>4</td>
+      <td>Cabanillas Meza Jose Mateo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Agregar una prenda a favoritos</td>
+      <td>US-13</td>
+      <td>T13</td>
+      <td>Marcar/desmarcar favorita desde catálogo</td>
+      <td>4</td>
+      <td>Luquillas Asto Omar</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Crear un armario virtual</td>
+      <td>US-14</td>
+      <td>T14</td>
+      <td>Agregar prendas compradas y editar/eliminar desde armario</td>
+      <td>10</td>
+      <td>Santur Tello Andrea Elizabeth</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Calificar a un comprador o vendedor</td>
+      <td>US-15</td>
+      <td>T15</td>
+      <td>Solicitar y mostrar calificaciones post-transacción</td>
+      <td>6</td>
+      <td>Sarmiento Medina Loreley</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Reportar una prenda o usuario</td>
+      <td>US-16</td>
+      <td>T16</td>
+      <td>Formulario de reporte y notificación al equipo</td>
+      <td>4</td>
+      <td>Bejarano Martínez Alvaro Leandro</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Ver información de la landing page</td>
+      <td>US-17</td>
+      <td>T17</td>
+      <td>Mostrar propuesta de valor y funcionalidades</td>
+      <td>4</td>
+      <td>Cabanillas Meza Jose Mateo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Registrar/Iniciar sesión desde landing</td>
+      <td>US-18</td>
+      <td>T18</td>
+      <td>Registro y login directo desde landing page</td>
+      <td>6</td>
+      <td>Luquillas Asto Omar</td>
+      <td>To-do</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
 
