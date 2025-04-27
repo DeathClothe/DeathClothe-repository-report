@@ -1957,6 +1957,7 @@ Optimización de imágenes para carga rápida.
 <img src="Report_Assets/DC-C4_Cont.png" alt="Nombre" width="700"> 
 
 ### 4.6.3. Software Architecture Components Diagrams
+<img src="Report_Assets/DC-C4_Compo.png" alt="Nombre" width="700"> 
 
 ## 4.7. Software Object-Oriented Design
 
