@@ -2089,8 +2089,86 @@ Finalmente, el proceso de compra se lleva a cabo en un entorno seguro, visualmen
 <img src="Report_Assets/CLASE UML-DeathClothe.png">
 
 ### 4.7.2. Class Dictionary
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Class Name</strong></th>
+      <th><strong>Attributes</strong></th>
+      <th><strong>Methods</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Usuario</td>
+      <td>id: int, nombre: String, email: String, contraseña: String, dirección: String</td>
+      <td>iniciarSesion(), editarPerfil(), eliminarCuenta()</td>
+    </tr>
+    <tr>
+      <td>Vendedor</td>
+      <td>prendasEnVenta: List&lt;Prenda&gt;</td>
+      <td>listarPrenda(), retirarPrenda()</td>
+    </tr>
+    <tr>
+      <td>Comprador</td>
+      <td>historialCompras: List&lt;Transaccion&gt;</td>
+      <td>comprarPrenda(), agregarAFavoritos()</td>
+    </tr>
+    <tr>
+      <td>Prenda</td>
+      <td>id: int, nombre: String, tipo: String, talla: String, color: String, precio: float, estado: String, vendedor: Vendedor</td>
+      <td>mostrarPrenda()</td>
+    </tr>
+    <tr>
+      <td>Transacciones</td>
+      <td>userID: int</td>
+      <td>validarTransaccion()</td>
+    </tr>
+    <tr>
+      <td>Publicaciones</td>
+      <td>id: int, prenda: Prenda, descripcion: String, fechaPublicacion: Date</td>
+      <td>generarPublicaciones(), obtenerEstado(), editarPublicacion(), obtenerCalificacion()</td>
+    </tr>
+    <tr>
+      <td>FavoritosPrendas</td>
+      <td>fechaAgregado: Date</td>
+      <td>añadirAFavoritos(), obtenerFavoritos(), mostrarFavoritos()</td>
+    </tr>
+    <tr>
+      <td>RecomendacionesPrendas</td>
+      <td>nivelRecomendacion: int</td>
+      <td>añadirRecomendacion(), eliminarRecomendacion(), generarRecomendacion()</td>
+    </tr>
+    <tr>
+      <td>Notificaciones</td>
+      <td>userID: long</td>
+      <td>generarNotificaciones()</td>
+    </tr>
+    <tr>
+      <td>Estadisticas</td>
+      <td>atributo1: type, atributo2: type, atributo3: type</td>
+      <td>generarEstadisticas()</td>
+    </tr>
+    <tr>
+      <td>EstadoPublicacion</td>
+      <td>atributo1: type = defaultValue, atributo2: type, atributo3: type</td>
+      <td>getEstado()</td>
+    </tr>
+    <tr>
+      <td>CalificacionPublicacion</td>
+      <td>atributo1: type = defaultValue, atributo2: type, atributo3: type</td>
+      <td>generarCalificacion()</td>
+    </tr>
+    <tr>
+      <td>ArmarioVirtual</td>
+      <td>usuarios: List&lt;Usuario&gt;, prendas: List&lt;Prenda&gt;, transacciones: List&lt;Transaccion&gt;, publicaciones: List&lt;Publicacion&gt;, notificaciones: List&lt;Notificacion&gt;, estadisticas: Estadisticas</td>
+      <td>registrarUsuario(), agregarPrenda(), realizarTransaccion(), generarNotificacion(), actualizarEstadisticas()</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 4.8. Database Design
+El diseño de la base de datos para el sistema representado en el diagrama de clases se basará en una estructura relacional, en la que cada clase principal se traduce en una tabla
 
 ### 4.8.1. Database Diagram
 
