@@ -2075,7 +2075,7 @@ Finalmente, el proceso de compra se lleva a cabo en un entorno seguro, visualmen
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-<img src="/assets/CLASE UML-DeathClothe.png">
+<img src="Report_Assets/CLASE UML-DeathClothe.png">
 
 ### 4.7.2. Class Dictionary
 
