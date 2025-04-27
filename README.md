@@ -2070,6 +2070,23 @@ Para el desarrollo de la Landing Page, hemos decidido utilizar el idioma inglés
 - El enfoque será mantener el código modular, reutilizable y fácil de leer.
 
 
+### 5.1.4. Software Deployment Configuration
+
+Para el despliegue de la Landing Page, se utilizará GitHub Pages como plataforma de publicación. A continuación, se describen los pasos principales que seguimos para lograrlo:
+
+1. Se creó un repositorio en GitHub con todo el código fuente de la página (archivos HTML, CSS y JavaScript).
+
+2. En la rama principal (main), se subieron todos los archivos asegurando que el archivo principal se llame index.html.
+
+3. Dentro de la configuración del repositorio, en la sección Pages, se seleccionó la rama main y la carpeta raíz (root) como fuente de publicación.
+
+4. GitHub generó automáticamente la URL pública donde se puede acceder a la Landing Page.
+
+5. Se realizaron pruebas para verificar que los estilos, scripts y recursos cargaran correctamente en producción.
+
+Con esta configuración, cualquier actualización que se haga al código en el repositorio principal se reflejará de forma automática en la página publicada.
+
+
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 Este informe documenta el progreso inicial del proyecto DeathClothe, una plataforma web de compraventa de ropa para compradores y vendedores. Durante este sprint, se trabajó en la definición de requisitos mediante historias de usuario funcionales y técnicas, la creación de artefactos esenciales.
