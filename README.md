@@ -2075,6 +2075,7 @@ Finalmente, el proceso de compra se lleva a cabo en un entorno seguro, visualmen
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
+<img src="/assets/CLASE UML-DeathClothe.png">
 
 ### 4.7.2. Class Dictionary
 
@@ -2336,7 +2337,7 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
 #### 5.2.1.3. Sprint Backlog 1 
 
 Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
-<img src="/main/Report_Assets/sprint1-trello.png">
+<img src="Report_Assets/sprint1-trello.png">
 
 <p><strong>Sprint 1</strong></p>
 
