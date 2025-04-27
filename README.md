@@ -163,7 +163,20 @@ Visión: Nos visualizamos como una empresa líder en el renacimiento de la moda 
   </tr>
   <tr>
     <td><img src="" alt="Integrante 1" width="100"/></td>
-    <td></td>
+    <td>Ingeniería de Software-u202311640 
+ 
+Como estudiante de quinto ciclo de 
+Ingeniería de Software, me destaco por mi 
+perseverancia, organización y capacidad 
+para trabajar en equipo. Me esfuerzo por 
+mantener un ambiente estructurado dentro 
+del grupo, donde cada miembro se sienta 
+valorado y sus ideas sean escuchadas y 
+respetadas. Mi compromiso es fomentar la 
+colaboración efectiva, asegurando que cada 
+contribución se integre de manera ordenada 
+y alineada con los objetivos comunes del 
+equipo. </td>
   </tr>
   <tr>
     <td><img src="" alt="Integrante 2" width="100"/></td>
