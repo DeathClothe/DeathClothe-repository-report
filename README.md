@@ -1955,12 +1955,7 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
     <tr>
       <td>Objetivo y User Stories del Sprint 1</td>
       <td>
-        <strong>Objetivo del Sprint:</strong> Construir y validar los artefactos fundamentales que guiarán el desarrollo:
-        <ul>
-          <li>Historias de usuario por épicas</li>
-          <li>Wireframes y mockups</li>
-          <li>Diagrama de clases UML</li>
-        </ul>
+        <strong>Objetivo del Sprint:</strong> Construir y validar los artefactos fundamentales que guiarán el desarrollo, commo ompetidores, entrevistas, definiciones de segmentos objetivos, etc; para la creacion de una nueva mejoria en el proyecto
       </td>
     </tr>
     <tr>
