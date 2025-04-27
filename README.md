@@ -1951,9 +1951,10 @@ Optimización de imágenes para carga rápida.
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
-<img src="Report_Assets/DC-C4_Context.png" alt="Nombre" width="600"> 
+<img src="Report_Assets/DC-C4_Context.png" alt="Nombre" width="700"> 
 
 ### 4.6.2. Software Architecture Container Diagrams
+<img src="Report_Assets/DC-C4_Cont.png" alt="Nombre" width="700"> 
 
 ### 4.6.3. Software Architecture Components Diagrams
 
