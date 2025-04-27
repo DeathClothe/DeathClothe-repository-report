@@ -26,7 +26,6 @@ Sarmiento Medina Loreley U202310005<br>
 
 ## Registro de Versiones del Informe
 
-# Registro de Versiones - DeathClothe
 
 | Versión | Fecha      | Autor | Descripción de modificación |
 |---------|------------|-------|------------------------------|
