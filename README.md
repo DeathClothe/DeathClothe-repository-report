@@ -710,7 +710,7 @@ David Manuel Torres Méndez, de 20 años y residente en Lima, elige qué artícu
   <tbody>
     <tr>
       <td>Nombre completo</td>
-      <td>Valesska Sanchez</td>
+      <td>Valesska Sánchez</td>
     </tr>
     <tr>
       <td>Edad y Género</td>
@@ -718,7 +718,7 @@ David Manuel Torres Méndez, de 20 años y residente en Lima, elige qué artícu
     </tr>
     <tr>
       <td>Distrito</td>
-      <td>San Martin de Porres</td>
+      <td>San Martín de Porres</td>
     </tr>
     <tr>
       <td>Ocupación/Trabajo</td>
@@ -767,7 +767,7 @@ Valesska Sánchez, de 20 años y residente en Lima, comenta que usualmente elige
     </tr>
     <tr>
       <td>Distrito</td>
-      <td>San Martin de Porres</td>
+      <td>San Martín de Porres</td>
     </tr>
     <tr>
       <td>Ocupación/Trabajo</td>
