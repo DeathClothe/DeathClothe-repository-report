@@ -2322,6 +2322,7 @@ Las versiones preliminares usan sufijos:
 - rc: Versiones candidatas a lanzamiento
 
 **Convención de Comits**
+
 Seguimos un formato estricto para los mensajes de commit:
 
 `<tipo>(ámbito): descripción breve [#issue]`
