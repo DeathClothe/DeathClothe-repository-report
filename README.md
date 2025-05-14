@@ -101,35 +101,23 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 3.
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---------------------|---------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia | **Bejarano Martínez, Alvaro Leandro – U202311640**  
-Participó en las presentaciones semanales del avance del backlog y lideró la exposición sobre la arquitectura de software.  
-**Cabanillas Meza, Jose Mateo – U202311458**  
-Expuso los hallazgos de entrevistas con usuarios compradores y presentó los mockups.  
-**Luquillas Asto, Omar – U20211G641**  
-Apoyó en la socialización de ideas técnicas y expuso sobre la competencia directa e indirecta.  
-**Santur Tello, Andrea Elizabeth – U202310988**  
-Presentó el diseño de wireframes, guió al equipo durante la exposición de validación de requerimientos.  
-**Sarmiento Medina, Loreley – U202310005**  
-Moderó varias sesiones y participó activamente en la explicación del flujo de usuarios y arquitectura general.  
-**TP**  
-... | Las presentaciones fortalecieron nuestras habilidades de comunicación técnica y persuasiva. Se logró validar ideas clave con compañeros, usuarios y docentes, además de detectar mejoras tempranas.  
-... |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Bejarano Martínez, Alvaro Leandro – U202311640**  
-Documentó el diseño de la base de datos y los criterios técnicos en la arquitectura de software.  
-**Cabanillas Meza, Jose Mateo – U202311458**  
-Redactó el reporte de entrevistas y elaboró las especificaciones funcionales.  
-**Luquillas Asto, Omar – U20211G641**  
-Elaboró el análisis competitivo y apoyó en la documentación del Lean UX Canvas.  
-**Santur Tello, Andrea Elizabeth – U202310988**  
-Coordinó la redacción del backlog, wireflows y diseño visual.  
-**Sarmiento Medina, Loreley – U202310005**  
-Redactó las historias de usuario y participó en la creación de guías de estilo.  
-**TP**  
-... | La documentación facilitó la organización del proyecto y coherencia en el diseño de DeathClothe. También permitió colaboración fluida y registro claro para futuras fases.  
-... |
-
+| Criterio específico                                                 | Acciones realizadas                                                                                                       | Conclusiones                                       |
+|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------- -------------------------------------------|
+| Comunica oralmente con efectividad                                  |                                                                                                                           | Las presentaciones                                 |
+|    a diferentes rangos de audiencia                                 |                                                                                                                           | fortalecieron nuestras habilidades de comunicación |
+|                                                                     |                                                                                                                           | técnica y persuasiva                               |
+|                                                                     | **Bejarano Martínez, Alvaro Leandro – U202311640**                                                                        |                                                    |
+|                                                                     |Participó en las presentaciones semanales del avance del backlog y lideró la exposición sobre la arquitectura de software. |                                                    |
+|                                                                     | **Cabanillas Meza, Jose Mateo – U202311458**                                                                              |                                                    | 
+|                                                                     |  Expuso los hallazgos de entrevistas con usuarios compradores y presentó los mockups.                                     |                                                    |
+|                                                                     |  **Luquillas Asto, Omar – U20211G641**                                                                                    |                                                    |
+|                                                                     |  Apoyó en la socialización de ideas técnicas y expuso sobre la competencia directa e indirecta.                           |                                                    |
+|                                                                     | **Santur Tello, Andrea Elizabeth – U202310988**                                                                           |                                                    |
+|                                                                     | Presentó el diseño de wireframes, guió al equipo durante la exposición de validación de requerimientos.                   |                                                    |
+|                                                                     | **Sarmiento Medina, Loreley – U202310005**                                                                                |                                                    |
+|                                                                     | Moderó varias sesiones y participó activamente en la explicación del flujo de usuarios y arquitectura general.            |                                                    |
+|
+  
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
