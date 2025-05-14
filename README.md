@@ -1876,7 +1876,7 @@ Los colores vivos como el rosa vibrante (#C4456B) aseguran que las acciones prin
 **-Spacing and Layout:**
 El diseño mantiene un sistema de espaciado uniforme que favorece una navegación fluida y clara.
 Los márgenes y rellenos aseguran que cada sección respire adecuadamente, facilitando la lectura y la interacción en pantallas de todos los tamaños.
-Se uso :
+Se usó :
 
 -Espaciado mínimo de 16px entre elementos.
 
@@ -1886,7 +1886,7 @@ Se uso :
 
 ## 4.1.2 Web Style Guidelines
 
-El diseño web de DeathClothe fue concebido bajo principios de claridad, accesibilidad y estética emocionalmente atractiva, con el objetivo de transmitir los valores de sostenibilidad, autenticidad y comunidad que representan a la plataforma. Se utilizó una paleta cromática basada en tonos de rosa vibrante (#e4738f) como color primario, complementado con un fondo rosa claro (#ffebed) y detalles en tonos más intensos (#c4456b y #b72551), que permiten generar una atmósfera moderna, cercana y amigable para el usuario, sin perder profesionalismo. La tipografía seleccionada, K2D en estilo sans-serif, responde a la necesidad de una lectura cómoda tanto en pantallas grandes como en dispositivos móviles, promoviendo una comunicación clara en todos los niveles de interacción. Además,  se intento mantener el mismo estilo que la landing page para que nuestros clientes se sientan a gusto y conformes con el estilo.
+El diseño web de DeathClothe fue concebido bajo principios de claridad, accesibilidad y estética emocionalmente atractiva, con el objetivo de transmitir los valores de sostenibilidad, autenticidad y comunidad que representan a la plataforma. Se utilizó una paleta cromática basada en tonos de rosa vibrante (#e4738f) como color primario, complementado con un fondo rosa claro (#ffebed) y detalles en tonos más intensos (#c4456b y #b72551), que permiten generar una atmósfera moderna, cercana y amigable para el usuario, sin perder profesionalismo. La tipografía seleccionada, K2D en estilo sans-serif, responde a la necesidad de una lectura cómoda tanto en pantallas grandes como en dispositivos móviles, promoviendo una comunicación clara en todos los niveles de interacción. Además,  se intentó mantener el mismo estilo que la landing page para que nuestros clientes se sientan a gusto y conformes con el estilo.
 ![Paleta_de_Colores](Report_Assets/PaletaDeColoresDeathClothe.png)
 ![Typography](Report_Assets/TipografiaK2d.PNG)
 ![Typography](Report_Assets/TipografiaInter.PNG)
