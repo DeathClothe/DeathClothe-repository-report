@@ -1811,34 +1811,30 @@ Entonces la eliminación o actualización en cascada debe funcionar según lo es
 
 | Orden | User Story Id | Título                                   | Descripción                                                                                                                                                          | Story Points |
 |-------|---------------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| 1     | US-01         | Creación de Cuenta de Usuario           | Como usuario, deseo crear una cuenta en la plataforma para poder acceder y personalizar mi experiencia | 3           |
-| 2     | US-02         | Inicio de Sesión          | Como usuario, quiero poder iniciar sesión en mi cuenta para acceder a mi perfil y gestionar mis reseñas y preferencias.                                                              | 3           |
-| 3     | US-03         | Visualización de Opiniones y Calificaciones  | Como consumidor de contenido multimedia, quiero tener un perfil donde pueda ver todas mis reseñas, calificaciones y el contenido que he consumido. | 3          |
-| 4     | US-04         | Publicación de Reseñas y Opiniones                | Como consumidor de contenido multimedia, quiero poder escribir y publicar mis opiniones sobre el contenido que consumo, sin censura ni moderación. | 5            |
-| 5     | US-05         | Calificación de Contenido         | Como consumidor de contenido multimedia, quiero poder calificar películas, series y libros que he visto o leído, para que otros puedan ver qué tan bueno o malo es. | 3            |
-| 6     | US-06         | Recomendaciones Personalizadas            | Como consumidor de contenido multimedia, quiero recibir recomendaciones personalizadas basadas en mis calificaciones y reseñas. | 5            |
-| 7     | US-07         | Seguimiento de Otros Usuarios  | Como consumidor de contenido multimedia, quiero poder seguir a otros usuarios cuyas opiniones me interesan. | 5            |
-| 8     | US-08         | Recuperación de Contraseña         | Como usuario, deseo poder recuperar mi contraseña en caso de olvidarla. | 3            |
-| 9     | US-09         | Ver análisis de libros mejor valorados      | Como dueño de librería, quiero ver un análisis de los libros con mejor valoración y reseñas en la plataforma. | 5            |
-| 10    | US-10         | Analizar opiniones de usuarios | Como administrador de plataforma de streaming, quiero analizar las opiniones de los usuarios sobre mi contenido. | 8            |
-| 11    | US-11         | Ver perfil de autor o actores | Como usuario, quiero poder ver la biografía y datos de un autor o actor. | 3            |
-| 12    | US-12         | Consultar elenco de película/serie      | Como usuario, quiero ver el listado de actores y sus roles en una película o serie. | 3            |
-| 13    | US-13         | Gestionar suscripciones a plataformas   | Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil. | 5            |
-| 14    | US-14         | Marcar contenido como favorito   | Como consumidor de contenido multimedia, quiero poder marcar contenido como favorito para acceso rápido. | 2            |
-| 15    | US-15         | Listar mis favoritos     | Como consumidor de contenido multimedia, quiero ver una sección “Favoritos” en mi perfil. | 2            |
-| 16    | US-16         | Feed de contenido trending | Como usuario, quiero ver un feed con contenidos más reseñados y mejor valorados de la semana. | 3            |
-| 17    | US-17         | Ver trailers y portadas            | Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie. | 3            |
-| 18    | US-18         | Marcar contenido como “Visto”          | Como usuario, quiero marcar manualmente contenido como “Visto/Leído”. | 2            |
-| 19    | US-19         | Crear lista personalizada de contenido    | Como usuario, quiero crear listas personalizadas de películas, series o libros. | 3           |
-| 20    | US-20         | Ver recomendaciones personalizadas         | Como usuario, quiero recibir recomendaciones personalizadas basadas en mi historial. | 5            |
-| 21    | US-12         | Consultar elenco de película/serie      | Como usuario, quiero ver el listado de actores y sus roles en una película o serie. | 3            |
-| 22    | US-13         | Gestionar suscripciones a plataformas   | Como usuario, quiero vincular y desvincular mis suscripciones de streaming en mi perfil. | 5            |
-| 23    | US-14         | Marcar contenido como favorito   | Como consumidor de contenido multimedia, quiero poder marcar contenido como favorito para acceso rápido. | 2            |
-| 24    | US-15         | Listar mis favoritos     | Como consumidor de contenido multimedia, quiero ver una sección “Favoritos” en mi perfil. | 2            |
-| 25    | US-16         | Feed de contenido trending | Como usuario, quiero ver un feed con contenidos más reseñados y mejor valorados de la semana. | 3            |
-| 26    | US-17         | Ver trailers y portadas            | Como usuario, quiero ver el tráiler y la portada oficial de cada película o serie. | 3            |
-| 27    | US-18         | Marcar contenido como “Visto”          | Como usuario, quiero marcar manualmente contenido como “Visto/Leído”. | 2            |
-| 28    | US-19         | Crear lista personalizada de contenido    | Como usuario, quiero crear listas personalizadas de películas, series o libros. | 3           |
+| 1     | US-01         | Explorar prendas recomendadas           | Como comprador, quiero ver recomendaciones personalizadas de ropa según mi estilo y mi armario virtual, para encontrar prendas que realmente me gusten sin tener que buscar demasiado. | 3           |
+| 2     | US-02         | Publicar una prenda en venta         | Como vendedor, quiero subir una prenda en solo tres pasos, para que sea fácil y rápido listar productos y empezar a vender.                                     | 3           |
+| 3     | US-03         | Ver calificaciones del vendedor  | Como comprador, quiero ver las valoraciones del vendedor antes de comprar, para asegurarme de que es confiable.| 3          |
+| 4     | US-04         | Buscar prendas por palabra clave        | Como comprador, quiero poder buscar prendas usando palabras clave, para encontrar más rápido lo que tengo en mente. | 3            |
+| 5     | US-05         | Guardar prendas favoritas       | Como comprador, quiero guardar prendas que me gusten, para volver a verlas más tarde. | 3            |
+| 6     | US-06         | Ver últimas prendas publicadas        | Como comprador, quiero ver las prendas recién agregadas, para no perderme novedades. | 3           |
+| 7     | US-07         | Filtrar por categoría  | Como comprador, quiero aplicar filtros por tipo de prenda (camisas, pantalones, etc.), para encontrar lo que necesito más fácilmente. | 3            |
+| 8     | US-08         | Recibir recomendaciones personalizadas      | Como comprador frecuente, quiero ver recomendaciones basadas en mi estilo y gustos, para descubrir prendas que realmente me interesen. | 5            |
+| 9     | US-09         | Editar o eliminar una prenda publicada     | Como vendedor, quiero editar o eliminar prendas que ya publiqué, para mantener actualizado mi catálogo. | 5            |
+| 10    | US-10         | Ver estadísticas de mis ventas | Como vendedor, quiero ver las estadísticas de mis ventas, para saber qué prendas se venden más y mejorar mi oferta. | 5           |
+| 11    | US-11         | Recibir notificaciones de interés en mis prendas | Como vendedor, quiero recibir notificaciones cuando alguien marque mi prenda como favorita o pregunte por ella, para saber cuáles generan más interés. | 5            |
+| 12    | US-12         | Marcar una prenda como vendida      | Como vendedor, quiero poder marcar una prenda como vendida, para evitar que otros la sigan viendo como disponible. | 5            |
+| 13    | US-13         | Agregar una prenda a favoritos   | Como comprador, quiero poder marcar prendas como favoritas para guardarlas y considerarlas después. | 3            |
+| 14    | US-14         | Crear un armario virtual   | Como usuario, quiero crear un armario virtual con mis prendas favoritas o compradas, para tener una guía de mi estilo y recibir sugerencias. | 5           |
+| 15    | US-15         | Calificar a un comprador o vendedor     | Como usuario, quiero calificar a la otra parte tras una transacción, para ayudar a la comunidad a confiar en los perfiles. | 5           |
+| 16    | US-16         | Reportar una prenda o usuario | Como usuario, quiero reportar prendas inadecuadas o perfiles sospechosos, para mantener la comunidad segura y confiable. | 5            |
+| 17    | US-17         | Ver información de la landing page         | Como usuario visitante, quiero ver la propuesta de valor y las principales funcionalidades en la landing page, para entender rápidamente los beneficios de la plataforma. | 3            |
+| 18    | US-18         | Registrar/Iniciar sesión desde landing page       | Como usuario nuevo o recurrente, quiero poder registrarme o iniciar sesión directamente desde la landing page, para empezar a usar la plataforma sin navegar a otras secciones. | 3            |
+| 19    | TS-01         | Diseño y creación de base de datos relacional para DeathClothe    | Como desarrollador backend, necesito diseñar e implementar un esquema de base de datos MySQL que almacene usuarios, prendas, calificaciones y transacciones, para garantizar consistencia y escalabilidad del sistema. | 8           |
+| 20    | TS-02         | Implementación de consultas optimizadas para filtros avanzados      | Como desarrollador, necesito implementar consultas SQL eficientes que permitan filtrar prendas por talla, color, estado y tipo, para mejorar la experiencia de búsqueda del usuario. | 8            |
+| 21    | TS-03         | Relación entre prendas y armario virtual del usuario   | Como desarrollador, necesito establecer relaciones en MySQL entre las prendas compradas o favoritas y el armario virtual de cada usuario, para que puedan visualizar su estilo y recibir recomendaciones. | 8           |
+| 22    | TS-04         | Visualización responsive del catálogo de ropa  | Como desarrollador frontend, necesito diseñar la interfaz del catálogo para que se adapte correctamente en dispositivos móviles y de escritorio, permitiendo un scroll fluido. | 8            |
+| 23    | TS-05       | Editor de publicaciones con validación de campos   | Como desarrollador frontend, quiero que el formulario de subida de prendas valide en tiempo real los campos obligatorios (foto, precio, categoría), para evitar errores. | 8           |
+| 24    | TS-06         | Componente frontend de "Tendencias"   | Como frontend developer, quiero crear un componente visual que muestre el contenido más reseñado y valorado de la semana, basado en datos reales. | 8           |
 
 
 # Capítulo IV: Product Design
