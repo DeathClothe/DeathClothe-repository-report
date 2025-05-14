@@ -94,12 +94,27 @@ Sarmiento Medina Loreley U202310005<br>
 ## STUDENT OUTCOME
 
 ABET – EAC – Student Outcome 3: Habilidad para comunicarse de manera efectiva ante diversas audiencias.  
-A continuación, se presenta un cuadro donde se detallan las actividades realizadas y las conclusiones alcanzadas por el equipo, evidenciando el cumplimiento de este resultado de aprendizaje.
+El curso contribuye al cumplimiento del Student Outcome ABET:
+
+**ABET – EAC – Student Outcome 3**  
+**Criterio:** *Habilidad para comunicarse de manera efectiva ante diversas audiencias.*
+
+En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 3.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
-|:--------------------|:--------------------|:-------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | Todo el equipo de DeathClothe colaboró en las presentaciones orales de avances semanales, la exposición de hallazgos de entrevistas y análisis de competencia, y la explicación de wireframes, mockups, y arquitectura de software. Cada integrante participó en la socialización de información y validación de requerimientos de usuarios compradores y vendedores. | Las exposiciones orales nos permitieron fortalecer nuestras habilidades de comunicación técnica y persuasiva, logrando validar ideas clave con diferentes públicos: compañeros, usuarios y docentes. Además, nos ayudó a detectar oportunidades de mejora tempranas en el desarrollo de DeathClothe. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Todo el equipo redactó documentos técnicos como el Lean UX Canvas, reportes de entrevistas, análisis competitivos, backlog de producto, diseño de base de datos y arquitectura de software. Se elaboraron guías de estilo, especificaciones funcionales, historias de usuario y wireflows, todo de manera colaborativa y coordinada. | La documentación escrita facilitó la organización del proyecto, aseguró la coherencia en el diseño de DeathClothe, y permitió una mejor colaboración entre los miembros del equipo. También garantizó que las ideas se plasmaran claramente para futuras fases de desarrollo, manteniendo la trazabilidad y la calidad del proyecto. |
+|---------------------|---------------------|--------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia | 
+**TB1**  
+El equipo de DeathClothe presentó avances semanales, hallazgos de entrevistas, análisis de competencia, wireframes, mockups y arquitectura de software. Todos participaron en la socialización y validación con usuarios.  
+**TP**  
+... | Las presentaciones fortalecieron nuestras habilidades de comunicación técnica y persuasiva. Se logró validar ideas clave con compañeros, usuarios y docentes, además de detectar mejoras tempranas.  
+... |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia |
+**TB1**  
+El equipo elaboró documentos técnicos: Lean UX Canvas, reportes de entrevistas, análisis competitivo, backlog, diseño de base de datos, arquitectura de software, especificaciones y wireflows.  
+**TP**  
+... | La documentación facilitó la organización del proyecto y coherencia en el diseño de DeathClothe. También permitió colaboración fluida y registro claro para futuras fases.  
+... |
 
 
 # Capítulo I: Introducción
