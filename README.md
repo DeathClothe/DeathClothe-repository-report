@@ -2741,7 +2741,7 @@ En esta parte, describimos cómo el equipo colaboró de forma organizada para de
 - **El proyecto tiene bases sólidas para avanzar hacia el desarrollo:**  
   Con un enfoque centrado en el usuario, sustentado en entrevistas, user personas, journey maps y prototipos, DeathClothe cuenta con una estructura estratégica y visual clara que permite afrontar con éxito las siguientes etapas de validación, prototipado y despliegue.
 
-# Bibliografia
+# Bibliografía
 
 - Ellen MacArthur Foundation. (2017). A new textiles economy: Redesigning fashion’s future. Retrieved from https://ellenmacarthurfoundation.org/a-new-textiles-economy
 
