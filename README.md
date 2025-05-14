@@ -964,7 +964,7 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 
 #### 2.3.4. Empathy Mapping
 
-**COmpradores**
+**Compradores**
 <table border="1">
   <tr>
     <td colspan="3"><strong>¿Qué piensa y siente?</strong><br>
@@ -1730,7 +1730,7 @@ Dado que se detecta un error en los datos ingresados,
 Cuando el usuario enfoca un campo con errores,
 Entonces se muestra un mensaje de validación.
 
-Escanerio 3:
+Escenerio 3:
 Dado que el usuario completa todos los campos,
 Cuando hace clic en 'Publicar',
 Entonces la prenda se sube correctamente y se redirige a su vista previa.
