@@ -611,7 +611,7 @@ Agustín Ventura, de 27 años y residente en Lima, compró ropa de segunda mano 
   <tbody>
     <tr>
       <td>Nombre completo</td>
-      <td>Anyelo Bill Alejos Jesus</td>
+      <td>Anyelo Bill Alejos Jesús</td>
     </tr>
     <tr>
       <td>Edad</td>
