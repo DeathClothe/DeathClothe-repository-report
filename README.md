@@ -2721,14 +2721,20 @@ En esta parte, describimos cómo el equipo colaboró de forma organizada para de
 
 #### 5.2.2.4. Development Evidence for Sprint Review. 
 #### 5.2.2.5. Execution Evidence for Sprint Review. 
+
 En esta entrega no se introdujeron modificaciones en la Landing Page; por el momento, conserva la misma edición correspondiente al Sprint 2.
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
 Se ha desplegado la aplicación web DeathClothe, la cual consume el servicio REST provisto por Json‑Server para simular la capa de datos, tal como está configurado en el repositorio de GitHub.
 A continuación, se presenta la documentación de la API definida en el proyecto:
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
 En este Sprint se documenta el despliegue de la aplicación web DeathClothe mediante GitHub Pages, asegurando que cualquier cambio en la rama principal se publique automáticamente como sitio estático en línea DEV Community GitHub Docs A continuación, se describen los pasos ejecutados y la evidencia correspondiente.
 
 **Creación y configuración del repositorio**
+**Acceso a la sección Pages en Settings**
+**Confirmación del despliegue**
+**Verificación funcional**
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
