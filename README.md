@@ -2719,6 +2719,67 @@ En esta parte, describimos cómo el equipo colaboró de forma organizada para de
 
 <img src="./Report_Assets/collaborationinsights3.png" alt="Collaboration Insights 3" width="500">
 
+#### 5.2.2. Sprint 2
+Este informe documenta el progreso final del proyecto DeathClothe, una plataforma web de compraventa de ropa para compradores y vendedores. Durante este sprint, se trabajó en el desarrollo de las interfaces, así como también, haciendo la funcionalidad de las mismas.
+A través del Sprint 1 y de lo mencionado, estamos elaborando la parte complementaria que consiste en tener las experiencias del usuario mientras navega por la interfaz de DeathClothe y hace sus compras de la forma más eficaz y directa posible.
+
+#### 5.2.2.1. Sprint Planning 1
+<table border="1" cellspacing="0" cellpadding="8">
+   <thead>
+     <tr>
+       <th><strong>Campo</strong></th>
+       <th><strong>Detalle</strong></th>
+     </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td>Sprint 2</td>
+     </tr>
+     <tr>
+       <td>Fecha</td>
+       <td>2025-05-15</td>
+     </tr>
+     <tr>
+       <td>Hora</td>
+       <td>5:00 P.M.</td>
+     </tr>
+     <tr>
+       <td>Ubicación</td>
+       <td>Virtual – Discord</td>
+     </tr>
+     <tr>
+       <td>Preparado por</td>
+       <td>Andrea Elizabeth Santur Tello</td>
+     </tr>
+     <tr>
+       <td>Asistentes (a la reunión de planificación)</td>
+       <td>Alvaro Bejarano, Mateo Cabanillas, Omar Luquillas, Andrea Santur, Loreley Sarmiento</td>
+     </tr>
+     <tr>
+       <td>Sprint 2 – Resumen de revisión</td>
+       <td>Se elaboró la Landing Page correspondiente a DeathClothe, en el cual, hacemos uso de los elementos que se elaboraron antes en el Figma y colocado todo lo mencionado en el programa WebStorm, haciendo gala de las funcionalidades mencionadas anteriormente.</td>
+     </tr>
+     <tr>
+       <td>Sprint 2 – Resumen de retrospectiva</td>
+       <td>Realizar que el usuario pueda tener su primer contacto con la plataforma haciendo uso de la estructura mencionada, en el cual, el usuario puede registrarse y decir si es "Comprador" o "Vendedor".</td>
+     </tr>
+     <tr>
+       <td>Objetivo y User Stories del Sprint 2</td>
+       <td>
+         <strong>Objetivo del Sprint:</strong>  Elaborar la plataforma con la que el usuario se sentirá conforme y pueda realizar sus compras de prendas de la mejor manera posible y tengan una notable experiencia.
+       </td>
+     </tr>
+     <tr>
+       <td>Velocidad del Sprint 2</td>
+       <td>15 User Stories</td>
+     </tr>
+     <tr>
+       <td>Suma de Story Points</td>
+       <td>30 Story Points atendidos</td>
+     </tr>
+   </tbody>
+ </table>
+
 #### 5.2.2.4. Development Evidence for Sprint Review. 
 #### 5.2.2.5. Execution Evidence for Sprint Review. 
 
