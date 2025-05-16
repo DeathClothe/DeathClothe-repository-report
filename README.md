@@ -2780,7 +2780,187 @@ A través del Sprint 1 y de lo mencionado, estamos elaborando la parte complemen
    </tbody>
  </table>
 
-#### 5.2.2.4. Development Evidence for Sprint Review. 
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+Durante el Sprint, se llevaron a cabo las siguientes actividades principales:
+
+1. Implementación de la estructura básica del Frontend
+Se creó una landing page funcional siguiendo los principios de moda circular de DeathClothe.
+
+Tecnologías utilizadas: HTML5, CSS3, TailwindCSS, JavaScript puro.
+
+2. Construcción de las secciones principales
+Se implementaron los siguientes módulos:
+
+Header responsivo: Logo, menú de navegación y botón de inicio de sesión.
+
+Sección Inicio: Mensaje de bienvenida y visual atractivo con imágenes.
+
+Sección Explora: Presentación de ropa destacada con filtros de talla, color y estilo.
+
+Sección Vende: Guía rápida en tres pasos para la venta de prendas.
+
+Sección Comunidad: Testimonios reales de usuarios compradores y vendedores.
+
+Sección Nosotros: Filosofía y propósito de DeathClothe.
+
+3. Prototipado y optimización responsive
+Adaptación de la landing page a móviles, tabletas y computadoras usando media queries.
+
+Se ajustaron imágenes, textos y menús para una experiencia fluida en diferentes dispositivos.
+
+4. Estilo y branding
+Paleta de colores: tonos rosados y pastel para transmitir una sensación de moda, calidez y sostenibilidad.
+
+Tipografía: Fuente K2D para lograr una apariencia moderna y amigable.
+
+5. Implementación básica de funcionalidades
+Botón de menú desplegable para navegación en dispositivos móviles (hamburguesa ☰).
+
+Redireccionamiento interno entre las secciones mediante anclas (#).
+
+6. Pruebas realizadas
+Se realizaron pruebas internas para validar:
+
+Correcta visualización de la landing page en diferentes navegadores (Chrome, Firefox, Edge).
+
+Adaptabilidad en dispositivos móviles y tablets.
+
+Fluidez de navegación entre las secciones.
+
+Funcionamiento del botón de menú en dispositivos móviles.
+
+7. Capturas de evidencia presentadas en la revisión del Sprint
+Captura de la página principal cargando exitosamente.
+
+Captura del menú responsivo funcionando en móvil.
+
+Captura de navegación fluida entre las secciones: Inicio, Explora, Vende, Comunidad y Nosotros.
+
+#### 5.2.2.3. Sprint Backlog 2
+
+Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
+<img src="Report_Assets/sprint1-trello.png">
+
+<p><strong>Sprint 1</strong></p>
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Work-Item / Task</th>
+      <th>User Story ID</th>
+      <th>Task ID</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Work-Item</td>
+      <td>US012</td>
+      <td>T01</td>
+      <td>Elaborar el ingreso de sesión al usuario</td>
+      <td>3</td>
+      <td>Alvaro Bejarano</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US012</td>
+      <td>T02</td>
+      <td>Tener la opción de "Comprador" y "Vendedor"</td>
+      <td>2</td>
+      <td>Mateo Cabanillas</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US013</td>
+      <td>T02</td>
+      <td>Elaborar el registro de los que están en DeathClothe</td>
+      <td>2</td>
+      <td>Omar Luquillas</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US14</td>
+      <td>T03</td>
+      <td>Ver la cantidad de "Compradores" y "Vendedores"</td>
+      <td>3</td>
+      <td>Andrea Santur</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US14</td>
+      <td>T05</td>
+      <td>Verificación de las ofertas de tendencia</td>
+      <td>3</td>
+      <td>Loreley Sarmiento</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>U15</td>
+      <td>T06</td>
+      <td>Verificar la calificación de cada comprador inscrito en DeathClothe</td>
+      <td>2</td>
+      <td>Mateo Cabanillas</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US15</td>
+      <td>T08</td>
+      <td>Añadir la caja de comentarios y opiniones para la gente que venga a DeathClothe</td>
+      <td>4</td>
+      <td>Omar Luquillas</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US16</td>
+      <td>T08</td>
+      <td>Tener la tendencia o la moda de temporada en la página principal de DeathClothe</td>
+      <td>3</td>
+      <td>Alvaro Bejarano</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US16</td>
+      <td>T09</td>
+      <td>Vista de "Comprador" y de "Vendedor" para notar la experiencia en ambos campos</td>
+      <td>2</td>
+      <td>Loreley Sarmiento</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US16</td>
+      <td>T11</td>
+      <td>Elaborar los precios y las ofertas de temporada</td>
+      <td>4</td>
+      <td>Andrea Santur</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US17</td>
+      <td>T12</td>
+      <td>Verificar que cuando se paga, estén todos los métodos de pago</td>
+      <td>2</td>
+      <td>Mateo Cabanillas</td>
+      <td>To-do</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
 #### 5.2.2.5. Execution Evidence for Sprint Review. 
 
 En esta entrega no se introdujeron modificaciones en la Landing Page; por el momento, conserva la misma edición correspondiente al Sprint 2.
