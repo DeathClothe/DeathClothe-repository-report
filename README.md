@@ -2969,7 +2969,6 @@ En esta entrega no se introdujeron modificaciones en la Landing Page; por el mom
 <img src="./Report_Assets/imagen2.jpg">
 <img src="./Report_Assets/imagen3.jpg">
 <img src="./Report_Assets/imagen4.jpg">
-<img src="./Report_Assets/imagen5.jpg">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 
