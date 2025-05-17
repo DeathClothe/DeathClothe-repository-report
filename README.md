@@ -2964,6 +2964,13 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
 #### 5.2.2.5. Execution Evidence for Sprint Review. 
 
 En esta entrega no se introdujeron modificaciones en la Landing Page; por el momento, conserva la misma edición correspondiente al Sprint 2.
+En esta entrega no se introdujeron modificaciones en la Landing Page; por el momento, conserva la misma edición correspondiente al Sprint 2.
+<img src="./Report_Assets/imagen1.jpg">
+<img src="./Report_Assets/imagen2.jpg">
+<img src="./Report_Assets/imagen3.jpg">
+<img src="./Report_Assets/imagen4.jpg">
+<img src="./Report_Assets/imagen5.jpg">
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 
 Se ha desplegado la aplicación web DeathClothe, la cual consume el servicio REST provisto por Json‑Server para simular la capa de datos, tal como está configurado en el repositorio de GitHub.
@@ -2971,10 +2978,9 @@ A continuación, se presenta la documentación de la API definida en el proyecto
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 
 En este Sprint se documenta el despliegue de la aplicación web DeathClothe mediante GitHub Pages, asegurando que cualquier cambio en la rama principal se publique automáticamente como sitio estático en línea DEV Community GitHub Docs A continuación, se describen los pasos ejecutados y la evidencia correspondiente.
-
-- **Creación y configuración del repositorio**
-- **Acceso a la sección Pages en Settings**
-- **Confirmación del despliegue**
+<img src="./Report_Assets/imagen6.jpg" >
+<img src="./Report_Assets/imagen7.jpg" >
+<img src="./Report_Assets/imagen8.jpg" >
 - **Verificación funcional**
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
