@@ -2979,7 +2979,7 @@ A continuación, se presenta la documentación de la API definida en el proyecto
 En este Sprint se documenta el despliegue de la aplicación web DeathClothe mediante GitHub Pages, asegurando que cualquier cambio en la rama principal se publique automáticamente como sitio estático en línea DEV Community GitHub Docs A continuación, se describen los pasos ejecutados y la evidencia correspondiente.
 <img src="./Report_Assets/imagen6.jpg" >
 <img src="./Report_Assets/imagen7.jpg" >
-<img src="./Report_Assets/imagen8.jpg" >
+
 - **Verificación funcional**
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
