@@ -2841,7 +2841,7 @@ Captura de navegación fluida entre las secciones: Inicio, Explora, Vende, Comun
 #### 5.2.2.3. Sprint Backlog 2
 
 Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
-<img src="Report_Assets/sprint1-trello.png">
+<img src="Report_Assets/sprint2-trello.png">
 
 <p><strong>Sprint 1</strong></p>
 
