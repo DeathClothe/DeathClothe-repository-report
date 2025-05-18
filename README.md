@@ -2724,7 +2724,7 @@ En esta parte, describimos cómo el equipo colaboró de forma organizada para de
 Este informe documenta el progreso final del proyecto DeathClothe, una plataforma web de compraventa de ropa para compradores y vendedores. Durante este sprint, se trabajó en el desarrollo de las interfaces, así como también, haciendo la funcionalidad de las mismas.
 A través del Sprint 1 y de lo mencionado, estamos elaborando la parte complementaria que consiste en tener las experiencias del usuario mientras navega por la interfaz de DeathClothe y hace sus compras de la forma más eficaz y directa posible.
 
-#### 5.2.2.1. Sprint Planning 1
+#### 5.2.2.1. Sprint Planning 2
 <table border="1" cellspacing="0" cellpadding="8">
    <thead>
      <tr>
