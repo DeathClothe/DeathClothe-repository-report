@@ -2537,7 +2537,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Crear la estructura base de la página principal (header, sections)</td>
       <td>3</td>
       <td>Alvaro Bejarano</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2546,7 +2546,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Agregar sección de propuesta de valor</td>
       <td>2</td>
       <td>Mateo Cabanillas</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2555,7 +2555,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Mostrar características y beneficios de DeathClothe</td>
       <td>2</td>
       <td>Omar Luquillas</td>
-      <td>In-process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2564,7 +2564,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Añadir botones de acción para registrarse/iniciar sesión</td>
       <td>3</td>
       <td>Andrea Santur</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2573,7 +2573,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Crear campos de registro para nuevos usuarios</td>
       <td>3</td>
       <td>Loreley Sarmiento</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2582,7 +2582,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Validación de campos obligatorios en registro/login</td>
       <td>2</td>
       <td>Mateo Cabanillas</td>
-      <td>In-process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2591,7 +2591,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Ajustar diseño para móviles, tablets y escritorio</td>
       <td>4</td>
       <td>Omar Luquillas</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2600,7 +2600,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Crear pie de página con información de contacto/redes</td>
       <td>3</td>
       <td>Alvaro Bejarano</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2609,7 +2609,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Probar secciones, botones y formularios</td>
       <td>2</td>
       <td>Loreley Sarmiento</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2618,7 +2618,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Agregar íconos visuales a las funcionalidades destacadas</td>
       <td>4</td>
       <td>Andrea Santur</td>
-      <td>In-process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2627,7 +2627,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Validar longitud, mayúsculas y números para la contraseña</td>
       <td>2</td>
       <td>Mateo Cabanillas</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
   </tbody>
 </table>
