@@ -2643,11 +2643,6 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
 </table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review
-
-
-
-##### 5.2.1.5. Execution Evidence for Sprint Review
-
 Durante este sprint, se han realizando avances significativos en la construcción de la <b>Landing Page</b> de la plataforma <i>DeathClothe</i>.Se trabajaron varias historias de usuario y se realizaron múltiples <i>commits</i> en el repositorio principal.A continuación, se presenta una tabla con los <i>commits</i> más relevantes:
 
 ### Commits
@@ -2659,6 +2654,12 @@ Durante este sprint, se han realizando avances significativos en la construcció
 | DeathClothe/DEATHCLOTHELandingPage | main | `g6h7i8j` | feat: ajustes de diseño responsivo | Mejora de visualización en móviles y tabletas. | 2025-05-12 |
 | DeathClothe/DEATHCLOTHELandingPage | main | `k9l0m1n` | fix: error en validación del formulario | Corrección en validación al seleccionar tipo de usuario. | 2025-05-13 |
 | DeathClothe/DEATHCLOTHELandingPage | main | `p2q3r4s` | feat: conectar enlaces con secciones principales | Habilitación de navegación entre secciones: Acerca de, Contacto, etc. | 2025-05-14 |
+
+
+##### 5.2.1.5. Execution Evidence for Sprint Review
+Durante este sprint, nuestro equipo finalizó y publicó la landing page de DeathClothe. A continuación, presentamos capturas de cada sección, donde podrán apreciar
+cómo organizamos la información de manera clara, atractiva y alineada a la identidad visual de la marca. Además, nos aseguramos de que el diseño fuera responsivo y
+que la navegación resultara intuitiva para los usuarios en diferentes dispositivos.
 
 **Inicio**
 
