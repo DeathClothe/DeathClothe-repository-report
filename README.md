@@ -2843,7 +2843,7 @@ Captura de navegación fluida entre las secciones: Inicio, Explora, Vende, Comun
 Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
 <img src="Report_Assets/sprint2-trello.png">
 
-<p><strong>Sprint 1</strong></p>
+<p><strong>Sprint 2</strong></p>
 
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
@@ -2860,101 +2860,92 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
   <tbody>
     <tr>
       <td>Work-Item</td>
-      <td>US012</td>
+      <td>US01</td>
       <td>T01</td>
-      <td>Elaborar el ingreso de sesión al usuario</td>
-      <td>3</td>
+      <td>Implementar sistema de recomendaciones personalizadas basado en el armario virtual</td>
+      <td>5</td>
       <td>Alvaro Bejarano</td>
-      <td>To-do</td>
+      <td>In-process</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US012</td>
+      <td>US02</td>
       <td>T02</td>
-      <td>Tener la opción de "Comprador" y "Vendedor"</td>
-      <td>2</td>
+      <td>Crear formularo de subida de prensa con tres pasos</td>
+      <td>4</td>
       <td>Mateo Cabanillas</td>
       <td>To-do</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US013</td>
-      <td>T02</td>
-      <td>Elaborar el registro de los que están en DeathClothe</td>
-      <td>2</td>
-      <td>Omar Luquillas</td>
-      <td>In-process</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>US14</td>
+      <td>US09</td>
       <td>T03</td>
-      <td>Ver la cantidad de "Compradores" y "Vendedores"</td>
-      <td>3</td>
-      <td>Andrea Santur</td>
-      <td>To-do</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>US14</td>
-      <td>T05</td>
-      <td>Verificación de las ofertas de tendencia</td>
-      <td>3</td>
+      <td>Permitir al vendedor editar o eliminar publicaciones existentes</td>
+      <td>2</td>
       <td>Loreley Sarmiento</td>
       <td>To-do</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>U15</td>
-      <td>T06</td>
-      <td>Verificar la calificación de cada comprador inscrito en DeathClothe</td>
-      <td>2</td>
-      <td>Mateo Cabanillas</td>
+      <td>US04</td>
+      <td>T04</td>
+      <td>Implementar buscador de prendas por palabra clave</td>
+      <td>3</td>
+      <td>Omar Luquillas</td>
       <td>In-process</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US15</td>
-      <td>T08</td>
-      <td>Añadir la caja de comentarios y opiniones para la gente que venga a DeathClothe</td>
-      <td>4</td>
-      <td>Omar Luquillas</td>
+      <td>TS-02</td>
+      <td>T05</td>
+      <td>Implementar filtros avanzados: tallar, color, estado y tipo</td>
+      <td>5</td>
+      <td>Andrea Santur</td>
       <td>To-do</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US16</td>
+      <td>US06</td>
+      <td>T06</td>
+      <td> Mostrar en la pantalla de inicio las últimas prendas publicadas </td>
+      <td>4</td>
+      <td>Mateo Cabanillas</td>
+      <td>To Review</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US07</td>
+      <td>T07</td>
+      <td> Crear filtros por categoría (camisas, pantalones, etc.) </td>
+      <td>4</td>
+      <td>Omar Luquillas</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US03</td>
       <td>T08</td>
-      <td>Tener la tendencia o la moda de temporada en la página principal de DeathClothe</td>
+      <td> Mostrar calificaciones del vendedor en la vista del producto</td>
       <td>3</td>
       <td>Alvaro Bejarano</td>
       <td>To-do</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US16</td>
+      <td>TS-01</td>
       <td>T09</td>
-      <td>Vista de "Comprador" y de "Vendedor" para notar la experiencia en ambos campos</td>
-      <td>2</td>
+      <td>Crear base de datos relacional para usuarios, prendas y transacciones</td>
+      <td>8</td>
       <td>Loreley Sarmiento</td>
-      <td>To-do</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>US16</td>
-      <td>T11</td>
-      <td>Elaborar los precios y las ofertas de temporada</td>
-      <td>4</td>
-      <td>Andrea Santur</td>
       <td>In-process</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US17</td>
-      <td>T12</td>
-      <td>Verificar que cuando se paga, estén todos los métodos de pago</td>
-      <td>2</td>
-      <td>Mateo Cabanillas</td>
+      <td>US08</td>
+      <td>T10</td>
+      <td>Generar recomendaciones en base a historial de usuario y favoritos</td>
+      <td>5</td>
+      <td>Andrea Santur</td>
       <td>To-do</td>
     </tr>
   </tbody>
