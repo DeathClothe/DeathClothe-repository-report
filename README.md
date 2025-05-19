@@ -3060,14 +3060,15 @@ A continuación, se presenta la documentación de la API definida en el proyecto
 
 Durante este Sprint, se llevaron a cabo las siguientes actividades relacionadas con el despliegue de la aplicación web principal (repositorio appweb).Estas actividades incluyeron la configuración de entornos, la integración continua y la automatización del proceso de despliegue para asegurar una entrega fluida y eficiente.
 
-##Actividades realizadas
+### Actividades realizadas
 -Creación y configuración de cuentas en proveedores cloud.
 -Configuración de entornos de despliegue.
 -Automatización de procesos de integración y despliegue.
 -Despliegue de la Landing Page.
 -Despliegue de la Web Application.
 
-##Explicación de los pasos realizados 
+### Explicación de los pasos realizados 
+
 **1. Configuración del repositorio**
 - Se ingresó a la sección Settings > Pages del repositorio en GitHub para activar el servicio de GitHub Pages.
 
@@ -3096,8 +3097,8 @@ Durante este Sprint, se llevaron a cabo las siguientes actividades relacionadas 
 <img src="./Report_Assets/imagen11.png">
 <img src="./Report_Assets/imagen12.png">
 
-Link de Landing Page: https://deathclothe.github.io/DEATHCLOTHELandingPage/
-Link de App Web: https://appweb-chi.vercel.app/
+Link de Landing Page: https://deathclothe.github.io/DEATHCLOTHELandingPage/ <br>
+Link de App Web: https://appweb-chi.vercel.app/ <br>
 Link de Vercel: https://vercel.com/
 
 
@@ -3129,16 +3130,16 @@ Capturas de Analíticos de Colaboración en GitHub:
 - **El proyecto tiene bases sólidas para avanzar hacia el desarrollo:**  
   Con un enfoque centrado en el usuario, sustentado en entrevistas, user personas, journey maps y prototipos, DeathClothe cuenta con una estructura estratégica y visual clara que permite afrontar con éxito las siguientes etapas de validación, prototipado y despliegue.
 
--**Se logró implementar exitosamente la funcionalidad base del sistema:**
+- **Se logró implementar exitosamente la funcionalidad base del sistema:**
 Durante el Sprint se desarrollaron los procesos esenciales de registro, inicio de sesión y navegación en la aplicación web, permitiendo que los usuarios comiencen a interactuar con la plataforma como compradores o vendedores.
 
--**El equipo logró una colaboración eficiente y sostenida:**
+- **El equipo logró una colaboración eficiente y sostenida:**
 Se evidenció una distribución activa del trabajo con múltiples commits, tareas asignadas entre miembros y flujos constantes de integración, lo que demuestra una buena comunicación y un desarrollo ágil y organizado.
 
--**El despliegue automatizado fortalece la continuidad del proyecto:**
+- **El despliegue automatizado fortalece la continuidad del proyecto:**
 Se configuró GitHub Pages y GitHub Actions para facilitar la visualización continua de la plataforma, lo cual permite testear de forma ágil los cambios en cada push y habilita un ciclo de desarrollo más fluido y profesional.
 
--**El proyecto ya cuenta con una estructura de testing inicial:**
+- **El proyecto ya cuenta con una estructura de testing inicial:**
 Se integraron evidencias de pruebas unitarias y de integración, lo que demuestra un compromiso con la calidad del código y la estabilidad del sistema a largo plazo.
 
 # Bibliografía
