@@ -2974,7 +2974,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
 </table>
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
-Durante este sprint, se realizaron avances significativos en el desarrollo de la <b>aplicación web principal</b>>. Se completaron funcionalidades esenciales como el registro e inicio de sesión, permitiendo a los usuarios tener su primer contacto con la plataforma. A continuación, se presenta una tabla con los commits correspondientes al repositorio
+Durante este sprint, se realizaron avances significativos en el desarrollo de la <b>aplicación web principal</b>. Se completaron funcionalidades esenciales como el registro e inicio de sesión, permitiendo a los usuarios tener su primer contacto con la plataforma. A continuación, se presenta una tabla con los commits correspondientes al repositorio
 
 ### Commits 
 
@@ -3061,11 +3061,11 @@ A continuación, se presenta la documentación de la API definida en el proyecto
 Durante este Sprint, se llevaron a cabo las siguientes actividades relacionadas con el despliegue de la aplicación web principal (repositorio appweb).Estas actividades incluyeron la configuración de entornos, la integración continua y la automatización del proceso de despliegue para asegurar una entrega fluida y eficiente.
 
 ### Actividades realizadas
--Creación y configuración de cuentas en proveedores cloud.
--Configuración de entornos de despliegue.
--Automatización de procesos de integración y despliegue.
--Despliegue de la Landing Page.
--Despliegue de la Web Application.
+- Creación y configuración de cuentas en proveedores cloud.
+- Configuración de entornos de despliegue.
+- Automatización de procesos de integración y despliegue.
+- Despliegue de la Landing Page.
+- Despliegue de la Web Application.
 
 ### Explicación de los pasos realizados 
 
@@ -3089,7 +3089,8 @@ Durante este Sprint, se llevaron a cabo las siguientes actividades relacionadas 
 **4. Monitoreo y pruebas post-despliegue**
 - Se realizaron pruebas unitarias y de integración después del despliegue para asegurar la estabilidad y correcto funcionamiento de la plataforma.
   
-##Evidencia del proceso realizado
+### Evidencia del proceso realizado
+
 <img src="./Report_Assets/imagen7.png">
 <img src="./Report_Assets/imagen8.png">
 <img src="./Report_Assets/imagen9.png">
