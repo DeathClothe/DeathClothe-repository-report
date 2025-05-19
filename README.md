@@ -282,14 +282,14 @@ Vendedores:Personas desde los 18 hasta los 50 años o más que desean vender rop
 |:--------|:-------------|:----------------------|:---------------------|
 | **Perfil** | Startup peruana de moda circular: marketplace digital de ropa de segunda mano con énfasis en autenticidad, comunidad y sostenibilidad. | Sección de compraventa dentro de Facebook, sin especialización en moda. | Perfiles independientes que venden por DM. |
 | **Mercado objetivo** | Millennials y Gen Z peruanos interesados en moda sostenible, diseño auténtico y experiencias digitales sociales. | Público general, de todas las edades y géneros. | Jóvenes amantes del vintage. |
-| **Estrategia de marketing** |  |  |  |
+| **Estrategia de marketing** | Colaboraciones con influencers de moda sostenible, ferias pop-up locales, campañas en Instagram/Reels y alianzas con tiendas vintage. | Orgánico: uso de grupos, posts patrocinados en feed. | Reels, colaboraciones con micro-influencers, giveaways. |
 | **Estrategias de marketing** | Colaboraciones con influencers de moda sostenible, ferias pop-up locales, campañas en Instagram/Reels y alianzas con tiendas vintage. | Orgánico: uso de grupos, posts patrocinados en feed. | Reels, colaboraciones con micro-influencers, giveaways. |
-| **Producto** |  |  |  |
+| **Producto** | Subida de prendas (foto + descripción + precio), perfiles sociales, feed personalizado de outfits, historial de compras, storytelling de prendas. |Listados básicos: foto, descripción, precio; chat por Messenger; valoraciones implícitas.  |Catálogos visuales en posts y stories, venta vía DM, pago externo (Yape, Plin, etc.), estética boutique.|
 | **Valor ofrecido** | Piezas únicas, buen estado, autenticidad en cada prenda, experiencia de compra inspiradora, comunidad de moda circular. | Acceso rápido y sencillo a listados de todo tipo, precios variados, alta visibilidad, contacto directo por Messenger. | Estética boutique, trato personalizado, curaduría visual de productos, cercanía emocional con el vendedor. |
 | **Productos y servicios** | Subida de prendas (foto + descripción + precio) y feed de outfits y perfiles de usuario. | Listados básicos: foto, descripción, precio; chat por Messenger; valoraciones implícitas. | Catálogos en Stories, posts taggeables, venta vía DM, pagos externos. |
 | **Precios y costos** | Suscripción premium para vendedores opcional para beneficios (productos en primera planilla, publicidad constante). | Gratuito para usuarios. | Fijados por cada tienda; sin comisiones de plataforma. |
 | **Canales de distribución** | Aplicación móvil (iOS y Android), versión web. | Aplicación móvil (iOS y Android), versión web. | Aplicación móvil (iOS y Android), versión web. |
-| **Análisis SWOT** |  |  |  |
+| **Análisis SWOT** |Fortalezas: UX especializada en moda, comunidad centrada en sostenibilidad, experiencia emocional y personalizada de compra<br>Debilidades: Base de usuarios aún limitada, dependencia de logística externa, nuevo en el mercado.<br>Oportunidades: Tendencia creciente en sostenibilidad, auge del ecommerce local, posibilidad de alianzas estratégicas con marcas y ONGs.<br>Amenazas: Competencia de plataformas establecidas con mayor capital, informalidad del sector, barreras legales.| Fortalezas: Alcance masivo inmediato, integración con red social activa.<br>Debilidades: Plataforma no especializada en moda, navegación limitada, difícil seguimiento de compras.<br>Oportunidades: Mejoras en filtros, seguridad y categorización podrían retener más usuarios.<br>Amenazas: Pérdida de confianza por fraudes, saturación de mercado<br> |Fortalezas: Alta conexión emocional con la audiencia, estética visual fuerte, curaduría atractiva.<br>Debilidades: Proceso de compra poco seguro (DM + pago aparte), sin herramientas automatizadas.<br>Oportunidades: Evolución hacia tiendas integradas o e-commerce propio.<br>Amenazas: Cambios en el algoritmo de Instagram, dependencia total de plataforma externa. |
 | **Fortalezas** | UX especializado en moda, narrativa de producto que engancha emocionalmente. | Alcance instantáneo. | Gran engagement visual, comunidad muy leal. |
 | **Debilidades** | Base de usuarios inicial reducida, necesidad de educar al mercado en moda circular, dependencia de alianzas logísticas externas. | UX no especializado para moda, falta de filtros avanzados y verificación de calidad. | Proceso de compra fragmentado (DM + pago aparte), ausencia de historial de valoraciones centralizado. |
 | **Oportunidades** | Creciente interés en sostenibilidad, expansión de e-commerce en Perú, patrocinios de eventos de moda responsable. | Integrar categorías, mejorar herramientas de filtrado. | Integrar checkout nativo en Instagram Shop, expandir a app propia o sitio web. |
@@ -2286,7 +2286,7 @@ En esta sección se detallan las herramientas utilizadas para la gestión del pr
   * GitHub
     Propósito: Almacenamiento de la documentación técnica dentro del repositorio del proyecto, utilizando archivos Markdown (.md).
 
-    <img src="Report_Assets/visualstudiocode.png" alt="Visual Studio Code" width="300">
+    <img src="Report_Assets/visualstudiocode.png" alt="Github Pages" width="300">
 
   * Markdown
     Propósito: Formato de escritura utilizado para documentar de forma clara, sencilla y estructurada los detalles del proyecto.
@@ -3114,7 +3114,7 @@ Se utilizaron métricas clave de GitHub para medir la colaboración del equipo:
 
 - Frecuencia de actividad
 
-Capturas de Analíticos de Colaboración en GitHub:
+### Capturas de Analíticos de Colaboración en GitHub:
 <img src="./Report_Assets/imagen13.png">
 <img src="./Report_Assets/imagen14.png">
 <img src="./Report_Assets/imagen15.png">
