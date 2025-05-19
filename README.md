@@ -2974,29 +2974,148 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
 </table>
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
+Durante este sprint, se realizaron avances significativos en el desarrollo de la <b>aplicación web principal</b>>. Se completaron funcionalidades esenciales como el registro e inicio de sesión, permitiendo a los usuarios tener su primer contacto con la plataforma. A continuación, se presenta una tabla con los commits correspondientes al repositorio
+
+### Commits 
+
+| Repository |Branch| Commit Id | Commit Message| Commit Message Body| Commited on (Date)|
+|--------|-----------|--------|-------|---------------------------------|-------|
+| DeathClothe/appweb  | main | l1m2n3o | feat: Implementación de registro de usuarios|Se desarrolló el formulario de registro, permitiendo a los usuarios crear una cuenta como comprador o vendedor | 2025-05-13|
+| DeathClothe/appweb | main|p4q5r6s  | feat: Inicio de sesión funcional |Se habilitó la funcionalidad de inicio de sesión, con validación de credenciales y manejo de sesiones. |2025-05-14|
+|DeathClothe/appweb | main| t7u8v9w |fix: Corrección en la navegación entre vistas | Se solucionaron problemas de navegación entre las diferentes vistas de la aplicación. | 2025-05-15 |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review. 
 
-En esta entrega no se introdujeron modificaciones en la Landing Page; por el momento, conserva la misma edición correspondiente al Sprint 2.
-En esta entrega no se introdujeron modificaciones en la Landing Page; por el momento, conserva la misma edición correspondiente al Sprint 2.
-<img src="./Report_Assets/imagen1.jpg">
-<img src="./Report_Assets/imagen2.jpg">
-<img src="./Report_Assets/imagen3.jpg">
-<img src="./Report_Assets/imagen4.jpg">
+Durante este Sprint no se realizaron cambios en la Landing Page, manteniéndose la versión entregada en el Sprint 2. No obstante, se lograron avances importantes en el desarrollo de la aplicación web principal, incluyendo funcionalidades clave que permiten una interacción efectiva del usuario con la plataforma. A continuación, se han completado las siguientes tareas que muestran:
+
+### Screenshots
+<img src="./Report_Assets/imagen1.png">
+<img src="./Report_Assets/imagen2.png">
+<img src="./Report_Assets/imagen3.png">
+<img src="./Report_Assets/imagen4.png">
+<img src="./Report_Assets/imagen5.png">
+<img src="./Report_Assets/imagen6.png">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 
 Se ha desplegado la aplicación web DeathClothe, la cual consume el servicio REST provisto por Json‑Server para simular la capa de datos, tal como está configurado en el repositorio de GitHub.
 A continuación, se presenta la documentación de la API definida en el proyecto:
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th><b>Endpoint Name</b></th>
+      <th><b>Implemented Actions</b></th>
+      <th><b>Call Syntax</b></th>
+      <th><b>Parameters Specification</b></th>
+      <th><b>Call Example</b></th>
+      <th><b>Response Explanation</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/users</td>
+      <td>GET, POST</td>
+      <td>http.get('/users')</td>
+      <td>id, userResource</td>
+      <td>getAll() { return http.get('http://localhost:3000/users'); }</td>
+      <td>Devuelve un array con todos los usuarios registrados.</td>
+    </tr>
+    <tr>
+      <td>/auth/login</td>
+      <td>POST</td>
+      <td>http.post('/auth/login')</td>
+      <td>email, password</td>
+      <td>login(credentials) { return http.post('http://localhost:3000/auth/login', credentials); }</td>
+      <td>Retorna un token de autenticación si las credenciales son válidas.</td>
+    </tr>
+    <tr>
+      <td>/auth/register</td>
+      <td>POST</td>
+      <td>http.post('/auth/register')</td>
+      <td>name, email, password</td>
+      <td>register(data) { return http.post('http://localhost:3000/auth/register', data); }</td>
+      <td>Crea un nuevo usuario y retorna sus datos.</td>
+    </tr>
+    <tr>
+      <td>/products</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>http.get('/products')</td>
+      <td>id, productResource, name</td>
+      <td>getAll() { return http.get('http://localhost:3000/products'); }</td>
+      <td>Devuelve un array con todos los productos disponibles.</td>
+    </tr>
+    <tr>
+      <td>/orders</td>
+      <td>GET, POST</td>
+      <td>http.get('/orders')</td>
+      <td>id, orderResource</td>
+      <td>getAll() { return http.get('http://localhost:3000/orders'); }</td>
+      <td>Devuelve un array con todas las órdenes realizadas.</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 
-En este Sprint se documenta el despliegue de la aplicación web DeathClothe mediante GitHub Pages, asegurando que cualquier cambio en la rama principal se publique automáticamente como sitio estático en línea DEV Community GitHub Docs A continuación, se describen los pasos ejecutados y la evidencia correspondiente.
-<img src="./Report_Assets/imagen6.jpg" >
-<img src="./Report_Assets/imagen7.jpg" >
+Durante este Sprint, se llevaron a cabo las siguientes actividades relacionadas con el despliegue de la aplicación web principal (repositorio appweb).Estas actividades incluyeron la configuración de entornos, la integración continua y la automatización del proceso de despliegue para asegurar una entrega fluida y eficiente.
 
-- **Verificación funcional**
+##Actividades realizadas
+-Creación y configuración de cuentas en proveedores cloud.
+-Configuración de entornos de despliegue.
+-Automatización de procesos de integración y despliegue.
+-Despliegue de la Landing Page.
+-Despliegue de la Web Application.
+
+##Explicación de los pasos realizados 
+**1. Configuración del repositorio**
+- Se ingresó a la sección Settings > Pages del repositorio en GitHub para activar el servicio de GitHub Pages.
+
+- Se seleccionó la rama main como fuente principal para el despliegue automático del sitio.
+
+- Se verificó que la estructura de archivos cumpliera con los requisitos de GitHub Pages, asegurando que el archivo principal index.html estuviera en la ubicación correcta.
+
+**2. Preparación para el despliegue**
+- Se ajustó la estructura del proyecto para que los archivos se organizaran correctamente, facilitando el reconocimiento por parte del sistema de despliegue.
+
+- Se realizó un push de prueba para confirmar que la estructura y configuración fueran reconocidas sin errores.
+
+**3. Despliegue  automático**
+- Se configuró un flujo de trabajo con GitHub Actions para automatizar el proceso de despliegue cada vez que se realice un push a la rama main.
+
+- Se confirmó que el despliegue se ejecutara sin errores, haciendo que la última versión del proyecto esté disponible automáticamente en GitHub Pages.
+
+**4. Monitoreo y pruebas post-despliegue**
+- Se realizaron pruebas unitarias y de integración después del despliegue para asegurar la estabilidad y correcto funcionamiento de la plataforma.
+  
+##Evidencia del proceso realizado
+<img src="./Report_Assets/imagen7.png">
+<img src="./Report_Assets/imagen8.png">
+<img src="./Report_Assets/imagen9.png">
+<img src="./Report_Assets/imagen10.png">
+<img src="./Report_Assets/imagen11.png">
+<img src="./Report_Assets/imagen12.png">
+
+Link de Landing Page: https://deathclothe.github.io/DEATHCLOTHELandingPage/
+Link de App Web: https://appweb-chi.vercel.app/
+Link de Vercel: https://vercel.com/
+
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
+Durante este Sprint, el equipo mantuvo una colaboración organizada y constante para desarrollar las funcionalidades de la aplicación web principal y la landing page. La coordinación se reflejó en la actividad registrada en los repositorios de GitHub vinculados al proyecto.
+
+Se utilizaron métricas clave de GitHub para medir la colaboración del equipo:
+
+- Número total de commits
+
+- Contribuciones individuales
+
+- Frecuencia de actividad
+
+Capturas de Analíticos de Colaboración en GitHub:
+<img src="./Report_Assets/imagen13.png">
+<img src="./Report_Assets/imagen14.png">
+<img src="./Report_Assets/imagen15.png">
 
 
 # Conclusiones
@@ -3009,6 +3128,18 @@ En este Sprint se documenta el despliegue de la aplicación web DeathClothe medi
 
 - **El proyecto tiene bases sólidas para avanzar hacia el desarrollo:**  
   Con un enfoque centrado en el usuario, sustentado en entrevistas, user personas, journey maps y prototipos, DeathClothe cuenta con una estructura estratégica y visual clara que permite afrontar con éxito las siguientes etapas de validación, prototipado y despliegue.
+
+-**Se logró implementar exitosamente la funcionalidad base del sistema:**
+Durante el Sprint se desarrollaron los procesos esenciales de registro, inicio de sesión y navegación en la aplicación web, permitiendo que los usuarios comiencen a interactuar con la plataforma como compradores o vendedores.
+
+-**El equipo logró una colaboración eficiente y sostenida:**
+Se evidenció una distribución activa del trabajo con múltiples commits, tareas asignadas entre miembros y flujos constantes de integración, lo que demuestra una buena comunicación y un desarrollo ágil y organizado.
+
+-**El despliegue automatizado fortalece la continuidad del proyecto:**
+Se configuró GitHub Pages y GitHub Actions para facilitar la visualización continua de la plataforma, lo cual permite testear de forma ágil los cambios en cada push y habilita un ciclo de desarrollo más fluido y profesional.
+
+-**El proyecto ya cuenta con una estructura de testing inicial:**
+Se integraron evidencias de pruebas unitarias y de integración, lo que demuestra un compromiso con la calidad del código y la estabilidad del sistema a largo plazo.
 
 # Bibliografía
 
