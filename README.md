@@ -341,7 +341,7 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
 <p> La elaboración de las entrevistas se basó en los objetivos del proyecto y en los perfiles específicos de compradores y vendedores. Se formularon preguntas personalizadas para entender hábitos, motivaciones y necesidades. En compradores, se exploraron sus preferencias por alternativas sostenibles, incluyendo a los compradores impulsivos para identificar qué los motiva. En vendedores, se abordaron razones para vender y expectativas hacia una plataforma que promueva el consumo responsable. </p>
 
 #### 1. Preguntas para Comprador
-##### 1.1 Información Demográfica
+##### 1.1. Información Demográfica
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
@@ -373,7 +373,7 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
   </tbody>
 </table>
 
-##### 1.2 Atributos Personales y Gustos
+##### 1.2. Atributos Personales y Gustos
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
@@ -434,7 +434,7 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
 </table>
 
 #### 2. Preguntas para Vendedor
-##### 2.2 Información Demográfica
+##### 2.1. Información Demográfica
 
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
@@ -467,7 +467,7 @@ Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), of
   </tbody>
 </table>
 
-##### 2.2 Atributos Personales y Gustos
+##### 2.2. Atributos Personales y Gustos
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
@@ -666,7 +666,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ERvZBKft
 Anyelo , estudiante de Ingeniería de Software de 20 años, buscó ropa de segunda mano atraído por modelos agotados y precios bajos.Organizaría su armario virtual por temporada y color, aunque lamenta la falta de fiabilidad de algunos vendedores y la llegada de prendas robadas o en mal estado, por lo cual considera esencial contar con descripciones claras, tallas exactas y fotos detalladas. Asimismo, verificaría la autenticidad comparando modelos en línea y valora un proceso de pago seguro con opciones de descuento. Asimismo, le interesaría recibir recomendaciones basadas en su armario virtual y automatizar la venta o donación de prendas no usadas. Finalmente, identifica como funciones imprescindibles un sistema de tallas preciso, métodos de pago confiables y una organización clara de su armario virtual. 
 
 #### Segmento :Vendedor
-**Entrevista #4 – Datos del Entrevistado
+**Entrevista #4 – Datos del Entrevistado**
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
@@ -713,9 +713,9 @@ Anyelo , estudiante de Ingeniería de Software de 20 años, buscó ropa de segun
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ERvZBKft-85KrhKzuNsLSksBjRZLjjNUp_idUI23rsUl0Q?e=14taym&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Resumen de la entrevista:** <br>
-David Manuel Torres Méndez, de 20 años y residente en Lima, elige qué artículos poner en venta basándose en marca, estilo, color y talla, y los prepara con fotografías (incluso vistas 360°), descripciones detalladas y precios ajustados según la rareza o urgencia. Prefiere publicar desde la computadora porque es más estable que el celular, ya que en el móvil la carga de imágenes y la publicación suelen fallar; sin embargo, sueña con un armario virtual que agrupe prendas por demanda, temporada y exclusividad. Además, valoraría sugerencias automáticas de precios basadas en ventas similares, un chat integrado para resolver dudas rápidamente y múltiples opciones de envío, tanto nacionales como internacionales, y asegura que le motivaría ver que sus ofertas satisfacen las necesidades de los compradores.
+David Manuel Torres Meneses, de 20 años y residente en Lima, elige qué artículos poner en venta basándose en marca, estilo, color y talla, y los prepara con fotografías (incluso vistas 360°), descripciones detalladas y precios ajustados según la rareza o urgencia. Prefiere publicar desde la computadora porque es más estable que el celular, ya que en el móvil la carga de imágenes y la publicación suelen fallar; sin embargo, sueña con un armario virtual que agrupe prendas por demanda, temporada y exclusividad. Además, valoraría sugerencias automáticas de precios basadas en ventas similares, un chat integrado para resolver dudas rápidamente y múltiples opciones de envío, tanto nacionales como internacionales, y asegura que le motivaría ver que sus ofertas satisfacen las necesidades de los compradores.
 
-**Entrevista #5 – Datos del Entrevistado
+**Entrevista #5 – Datos del Entrevistado**
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
@@ -764,7 +764,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ERvZBKft
 **Resumen de la entrevista:** <br>
 Valesska Sánchez, de 20 años y residente en Lima, comenta que usualmente elige la ropa que pondrá en venta basándose en la marca. Para ello, se asegura de prepararla con buenas fotografías y descripciones detalladas que incluyan el estado de la prenda y su precio. Además, le gustaría poder ver principalmente los comentarios de los posibles compradores sobre los productos que ofrece, y suele guiarse por sugerencias de precios basadas en ventas similares. Finalmente, valora la posibilidad de tener una comunicación directa con sus clientes y opciones de envío como la contra entrega. La motiva especialmente la idea de generar ingresos vendiendo ropa de segunda mano.
 
-**Entrevista #6 – Datos del Entrevistado
+**Entrevista #6 – Datos del Entrevistado**
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
