@@ -2118,17 +2118,17 @@ Finalmente, el proceso de compra se lleva a cabo en un entorno seguro, visualmen
 
 ### 4.6.1. Software Architecture Context Diagram
 
-<img src="Report_Assets/context.png" alt="Nombre" width="700"> 
+<img src="Report_Assets/context.jpg" alt="Nombre" width="700"> 
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-<img src="Report_Assets/container.png" alt="Nombre1" width="700"> 
+<img src="Report_Assets/container.jpg" alt="Nombre1" width="700"> 
 
 ### 4.6.3. Software Architecture Components Diagrams
-<img src="Report_Assets/awr1.png" alt="Nombre2" width="700"> 
-<img src="Report_Assets/awr2.png" alt="Nombre3" width="700"> 
-<img src="Report_Assets/awr3.png" alt="Nombre4" width="700"> 
-<img src="Report_Assets/awr4.png" alt="Nombre5" width="700"> 
+<img src="Report_Assets/awr1.jpg" alt="Nombre2" width="700"> 
+<img src="Report_Assets/awr2.jpg" alt="Nombre3" width="700"> 
+<img src="Report_Assets/awr3.jpg" alt="Nombre4" width="700"> 
+<img src="Report_Assets/awr4.jpg" alt="Nombre5" width="700"> 
 
 
 ## 4.7. Software Object-Oriented Design
