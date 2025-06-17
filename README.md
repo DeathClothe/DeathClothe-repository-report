@@ -239,43 +239,70 @@ Mi nombre es Mateo Cabanillas y en la actualidad estoy cursando el quinto ciclo 
 
 ## 1.2. Solution Profile
 DeathClothe es una plataforma web que transforma la manera de consumir moda al permitir a los usuarios comprar, vender y descubrir ropa de segunda mano con recomendaciones personalizadas según su armario virtual. A través de una experiencia intuitiva, conecta a personas que buscan autenticidad, estilo y sostenibilidad, facilitando la circulación de prendas únicas y dándoles una nueva vida. Con un enfoque en la moda circular, la personalización y la comunidad, DeathClothe no solo es un mercado digital, sino un espacio donde el estilo evoluciona con propósito.
+
 ### 1.2.1. Antecedentes y problemática
 
 **What**
 
-DeathClothe es una plataforma digital centrada en la moda circular, que permite a los usuarios subir, comprar, vender y descubrir ropa de segunda mano. A través de un armario virtual y un sistema de recomendaciones inteligentes, la aplicación crea una experiencia personalizada para cada usuario, ayudándolo a encontrar prendas que se alineen con su estilo e identidad. Más que una simple tienda online, DeathClothe funciona como una comunidad donde cada prenda tiene una historia y cada intercambio fomenta un consumo más consciente, auténtico y sostenible.
+*¿Cuál es el problema que se está presentando?*
+
+El problema principal es el impacto ambiental y social del modelo de consumo de moda rápida (fast fashion), que genera millones de toneladas de residuos textiles anualmente y promueve un consumo desechable. Esto ha generado la necesidad urgente de nuevas soluciones digitales que impulsen modelos circulares. En respuesta a esta problemática, surge DeathClothe, una plataforma digital centrada en la moda circular. Esta permite a los usuarios subir, comprar, vender y descubrir ropa de segunda mano. A través de un armario virtual y un sistema de recomendaciones inteligentes, crea una experiencia personalizada que promueve un consumo más consciente, auténtico y sostenible.
 
 **When**
 
-DeathClothe se usa en cualquier momento en el que una persona quiera renovar su estilo, encontrar una prenda única, darle una segunda vida a ropa que ya no usa, o simplemente explorar tendencias sin recurrir a la moda rápida. Es útil tanto para quienes buscan una alternativa económica y ecológica para vestir, como para quienes desean liberar espacio en su armario sin desperdiciar. También se convierte en una herramienta ideal para quienes disfrutan curando su propio estilo a partir de piezas con historia.
+*¿Cuándo estamos viendo el problema?*
+
+El problema se observa de forma constante, ya que la producción y desecho de ropa ocurre durante todo el año, sin un patrón específico de estacionalidad. Sin embargo, se intensifica en épocas de rebajas, nuevas colecciones y eventos comerciales como el Black Friday, cuando aumenta el consumo impulsivo.
+
+*¿En qué momento del día o del proceso en cuestión?*
+
+Desde el punto de vista del usuario, el problema aparece en el momento en que busca renovar su estilo, encuentra prendas de baja calidad, o quiere deshacerse de ropa en buen estado sin una opción ética o rentable. La plataforma DeathClothe se usa precisamente en esos momentos, ofreciendo una alternativa para quienes desean darle una segunda vida a su ropa o encontrar prendas únicas sin recurrir al fast fashion.
 
 **Where**
 
-La plataforma está diseñada para ser utilizada desde cualquier lugar con acceso a internet, ya sea desde el hogar, durante trayectos diarios, en una cafetería o mientras se compara ropa en una tienda física. Su diseño web responsivo y amigable permite una experiencia fluida tanto en computadoras como en dispositivos móviles. Esto la convierte en una opción accesible y cómoda para todos aquellos que quieren vivir la moda de una manera más conectada, auténtica y sustentable.
+*¿Dónde estamos viendo los problemas?*
+
+Los problemas se presentan a nivel global, pero particularmente en las grandes ciudades donde el consumo textil es más alto. También se manifiestan en vertederos, donde la mayoría de los residuos textiles terminan, así como en los procesos de producción masiva de ropa de bajo costo.
+
+*¿En qué parte del proceso estamos viendo el problema?*
+
+Se identifican en varias etapas del ciclo de vida de una prenda: desde la sobreproducción en la industria, pasando por la compra impulsiva y el uso efímero, hasta el desecho irresponsable. La falta de opciones para reciclar o revender ropa acentúa la problemática. DeathClothe interviene en la etapa de posconsumo, ofreciendo una alternativa responsable.
 
 **Who**
 
-Usuarios eco‑conscientes y fashionistas que demandan alternativas sostenibles al fast fashion, buscando piezas únicas y auténticas sin contribuir al modelo de consumo desechable.
-Personas con prendas en desuso que desean monetizar o dar nueva vida a su vestuario; en 2023, el 52 % de los consumidores adquirió ropa de segunda mano, destinando casi la mitad de su presupuesto de vestuario a este segmento.
-Generación Z y Millennials digitales, atraídos por la combinación de sostenibilidad y estilo: un 64 % compra second‑hand para ahorrar dinero y un 36 % por conciencia medioambiental.
+*¿A quién le sucede?*
+
+El problema afecta tanto al medio ambiente como a los consumidores. Específicamente, impacta a usuarios eco‑conscientes y fashionistas que desean adoptar un estilo más responsable sin comprometer su identidad. También afecta a personas con ropa en buen estado que no saben qué hacer con ella.
+
+*¿El problema está relacionado con las habilidades de las personas?*
+
+No directamente, pero sí con la falta de herramientas accesibles que faciliten la participación activa en la moda circular. Al no contar con plataformas intuitivas o sistemas de recomendación, muchos usuarios no saben cómo reutilizar o intercambiar su ropa, lo que impide un consumo más sostenible. DeathClothe busca reducir esta barrera tecnológica y de conocimiento.
 
 **Why**
 
-El modelo de fast fashion genera 92 millones de toneladas de residuos textiles al año, el equivalente a un camión de basura lleno de ropa vertido en vertederos cada segundo, con un fuerte impacto ambiental.
-En Estados Unidos, se descartan más de 34 000 millones de libras de textiles usados anualmente (más de 100 libras per cápita), evidenciando la incapacidad de los sistemas tradicionales para gestionar el ciclo de vida de la ropa.
-Solo el 20 % de los textiles descartados se recolecta para reciclaje o reutilización; el resto acaba en vertederos o incinerado, lo que subraya la urgencia de modelos de negocio circulares que fomenten la reutilización.
+*¿Por qué sucede el problema?*
+
+El problema sucede porque el modelo de fast fashion genera 92 millones de toneladas de residuos textiles al año, el equivalente a un camión de basura lleno de ropa vertido en vertederos cada segundo, con un fuerte impacto ambiental. En Estados Unidos, se descartan más de 34 000 millones de libras de textiles usados anualmente (más de 100 libras per cápita), lo que evidencia la incapacidad de los sistemas tradicionales para gestionar el ciclo de vida de la ropa. Solo el 20 % de los textiles descartados se recolecta para reciclaje o reutilización; el resto acaba en vertederos o incinerado. Todo esto subraya la urgencia de modelos de negocio circulares que fomenten la reutilización y reflejan cómo la cultura del consumo desechable y la producción acelerada están directamente relacionadas con el problema central que busca abordar DeathClothe.
 
 **How**
 
-Los usuarios interactúan con la plataforma DeathClothe mediante navegadores web y dispositivos móviles, explorando un catálogo curado que ofrece filtros inteligentes, alertas de nuevos artículos y recomendaciones basadas en su armario virtual.
-Prefieren descubrir nuevas prendas a través de redes sociales e influencers, ya que las campañas digitales en Instagram y TikTok potencian la visibilidad y el alcance de mercados de segunda mano.
-La adopción de algoritmos de personalización y técnicas de curation algorithm permite que cada usuario encuentre piezas acordes a su estilo individual, solucionando uno de los desafíos de los marketplaces más genéricos.
-Sin embargo, la amplia variedad de inventario en recommerce crea obstáculos de descubrimiento; por ello, es crucial implementar estrategias de curación y filtrado avanzado para mejorar la experiencia de usuario y fomentar la retención.
+*¿Cómo se diferencia el problema del estado normal (óptimo)?*
+
+El problema actual se diferencia del estado óptimo en que los usuarios de plataformas de moda aún enfrentan catálogos desorganizados, una oferta saturada y sin personalización, además de una baja conciencia respecto al impacto ambiental del fast fashion. En contraste, el estado óptimo sería aquel en el que el consumidor puede descubrir fácilmente prendas alineadas con su estilo, a través de una experiencia curada, personalizada y sustentable que facilite la reutilización de ropa. DeathClothe apunta precisamente a resolver esta brecha, brindando una solución que combina sostenibilidad, personalización y una comunidad conectada a través de su armario virtual.
+
+*¿La tendencia en la que aparece el problema es aleatoria o sigue un patrón?*
+
+La tendencia no es aleatoria; sigue un patrón claro de consumo masivo e insostenible incentivado por el modelo del fast fashion. Esta industria genera una sobreoferta de prendas a bajo costo que incentiva la compra constante, lo que a su vez produce un inventario muy amplio y poco manejable en el ecosistema recommerce. Esto hace difícil para los usuarios descubrir lo que realmente necesitan o desean. Por ello, la plataforma utiliza algoritmos de curación y filtros avanzados para romper con este patrón y mejorar la experiencia de usuario, permitiéndole encontrar de forma efectiva lo que encaja con su identidad.
 
 **How Much**
 
-La magnitud del problema es crítica. Según la Ellen MacArthur Foundation (2017), cada año se desechan 92 millones de toneladas de ropa, de las cuales menos del 1% se recicla. Esta situación se agrava porque, como señala McKinsey (2016), los consumidores compran un 60% más de prendas que hace dos décadas pero las conservan la mitad de tiempo. Aunque el 62% de los jóvenes prefiere opciones sostenibles (ThredUp, 2023), el mercado de segunda mano sigue siendo subutilizado, demostrando la urgente necesidad de soluciones innovadoras como ReWear para cerrar esta brecha entre intención y acción en el consumo responsable.
+*¿Cuántos problemas se dan en un día, una semana o un mes?*
 
+La magnitud del problema es crítica. Según la Ellen MacArthur Foundation (2017), cada año se desechan 92 millones de toneladas de ropa, de las cuales menos del 1% se recicla. Esto equivale a más de 250 mil toneladas diarias de residuos textiles generados a nivel global, una cifra alarmante que pone en evidencia la escala masiva del problema. Esta situación se produce de forma continua, todos los días del año, y tiene implicancias tanto ambientales como sociales.
+
+*¿Cuánto dinero están implicando?*
+
+La dimensión económica del problema es considerable. De acuerdo con McKinsey (2016), los consumidores compran un 60% más de prendas que hace dos décadas, pero las conservan la mitad de tiempo, lo que implica un gasto constante y acelerado que no se corresponde con un uso prolongado de las prendas. Aunque el 62% de los jóvenes prefiere opciones sostenibles (ThredUp, 2023), el mercado de segunda mano sigue siendo subutilizado. Esto representa una brecha económica y de impacto ambiental entre las buenas intenciones de los consumidores y las soluciones disponibles, y demuestra la urgente necesidad de propuestas innovadoras como DeathClothe que promuevan un consumo responsable, eficiente y circular.
 
 ### 1.2.2. Lean UX Process
 
