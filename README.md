@@ -319,36 +319,51 @@ Hemos observado que, actualmente, muchas personas desean adoptar la moda circula
 **Business Assumptions (Suposiciones de Negocio)**
 
 1. Creo que mis clientes tienen la necesidad de:
+
 Encontrar ropa de segunda mano que sea única, en buen estado y que se ajuste a sus gustos y tallas, además de contar con un canal sencillo y confiable para vender sus prendas usadas.
 
 2. Estas necesidades pueden resolverse con:
+
 Una plataforma especializada que facilite la compra y venta mediante herramientas de curación, personalización, filtros inteligentes, procesos simples de publicación y un sistema transparente de valoraciones.
 
 3. Mis clientes iniciales son (o serán):
+
 Jóvenes adultos entre 18 y 30 años, con conciencia ambiental, interés en la moda y hábitos digitales activos en redes sociales como Instagram y TikTok.
 
 4. El valor principal que el cliente desea obtener de mi servicio es:
+
 Adquirir o vender ropa de segunda mano de forma fácil, rápida y confiable.
+
 Beneficios adicionales que pueden obtener son:
+
 Exclusividad, ahorro económico, impacto ambiental positivo y conexión emocional con prendas con historia.
 
 5. Adquiriré a la mayoría de mis clientes mediante:
+
 Campañas digitales con influencers de moda sostenible, contenido en redes sociales y estrategias de marketing orgánico en plataformas como TikTok e Instagram.
 
 6. Ganaré dinero mediante:
+
 Comisiones por transacción y servicios premium para vendedores (como posicionamiento de productos, herramientas analíticas o mejoras de visibilidad).
 
 7. Mi competencia principal en el mercado será:
+
 Plataformas generalistas como Vinted o Marketplace de Facebook.
+
 Los superaremos gracias a:
+
 Una experiencia de usuario más intuitiva, filtros inteligentes, curación personalizada y un enfoque claro en sostenibilidad y comunidad.
 
 8. Mi mayor riesgo de producto es:
+
 Que los usuarios no perciban un valor diferencial suficiente frente a otras plataformas existentes.
+
 Lo resolveremos mediante:
+
 Testeo constante con usuarios reales, iteraciones rápidas en base a feedback y mejoras centradas en su experiencia emocional y funcional.
 
 9. Otras suposiciones clave que, si resultan falsas, podrían hacer fracasar el proyecto:
+
   - Que haya suficiente oferta inicial de prendas para sostener la demanda.
   - Que los usuarios valoren la historia de las prendas como factor emocional de compra.
   - Que el costo logístico no sea una barrera mayor para escalar.
@@ -357,36 +372,91 @@ Testeo constante con usuarios reales, iteraciones rápidas en base a feedback y 
 **User Assumptions (Suposiciones de Usuario)**
 
 1. ¿Quién es el usuario?
+
 Jóvenes interesados en moda, conscientes del impacto ambiental y abiertos a nuevas formas de consumo.
 
 2. ¿Dónde encaja nuestro producto en su vida?
+
 En sus hábitos cotidianos de consumo digital, especialmente en momentos de exploración de moda, compras online y participación en tendencias sostenibles.
 
 3. ¿Qué problemas resuelve nuestro producto?
+
 Dificultad para encontrar ropa usada que realmente les guste, falta de confianza en el estado del producto, procesos engorrosos de venta y poca personalización en plataformas existentes.
 
 4. ¿Cuándo y cómo se usa nuestro producto?
+
 En momentos de ocio, inspiración de estilo o necesidad de renovar el armario sin dañar el planeta. Usan el producto desde sus dispositivos tecnológicos principalmente, de manera visual e intuitiva.
 
 5. ¿Qué características son importantes?
+
 Carga rápida de productos, historias de prendas, recomendaciones personalizadas y diseño atractivo.
 
 6. ¿Cómo debería lucir y comportarse nuestro producto?
+
 Visualmente moderno, limpio y emocionalmente atractivo, con una navegación fluida, lenguaje cercano, imágenes destacadas de prendas y elementos de comunidad.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-**Carga de Prendas**
+Hypothesis Statement 01:
 
-Creemos que si simplificamos el proceso de publicación de prendas a solo tres pasos clave (tomar una foto, completar los atributos esenciales y definir el precio) los usuarios se sentirán más motivados a listar sus artículos. Esta experiencia intuitiva y rápida facilitará que al menos el 80 % de los vendedores completen con éxito el proceso de alta, lo cual mediremos a través de la tasa de finalización de publicaciones dentro de la plataforma.
+- Creemos que simplificar el proceso de publicación de prendas a solo tres pasos clave (foto, atributos esenciales y precio) aumentará la disposición de los usuarios a vender.
+- Sabremos que esto es cierto cuando al menos el 80 % de los usuarios completen el proceso de alta de una prenda con éxito en su primer intento.
 
-**Confianza mediante Valoraciones**
+Hypothesis Statement 02:
 
-Creemos que si destacamos calificaciones de vendedores y compradores en cada perfil, la tasa de conversión de vista de objeto a compra mejorará en un 12 %, medido por unidades vendidas respecto a productos vistos.
+- Creemos que mostrar calificaciones visibles de compradores y vendedores en los perfiles incrementará la confianza en las transacciones.
+- Sabremos que esto es cierto si la tasa de conversión de vistas de producto a compras aumenta en al menos un 12 %.
 
-**Historias de Prendas**
+Hypothesis Statement 03:
 
-Creemos que si incorporamos un espacio donde se muestre la historia de cada prenda (incluyendo detalles como su origen, anécdotas o el estilo de su anterior dueño) los usuarios sentirán una mayor conexión emocional con los artículos. Esta narrativa añadida no solo reforzará el valor percibido de cada pieza, sino que también incentivará la curiosidad y el deseo de exploración. Esperamos que esta función aumente la tasa de clics en “Me interesa” en un 15 %, medido a través del ratio de interacciones por prenda visualizada.
+- Creemos que incluir historias personales de cada prenda (origen, anécdotas, dueño anterior) generará una mayor conexión emocional con los compradores.
+- Sabremos que esto es cierto si el porcentaje de clics en "Me interesa" por prenda visualizada aumenta al menos un 15 %.
+
+Hypothesis Statement 04:
+
+- Creemos que permitir filtrar por estilo, talla, color y estado facilitará la búsqueda y mejorará la experiencia de compra.
+- Sabremos que esto es cierto si los usuarios tardan un 30 % menos en encontrar un producto que marcan como favorito, comparado con una navegación sin filtros.
+
+Hypothesis Statement 05:
+
+- Creemos que implementar una sección de “Recomendaciones personalizadas” basada en el estilo del usuario aumentará la retención y exploración de productos.
+- Sabremos que esto es cierto si el tiempo promedio de navegación por sesión aumenta en un 20 % o más.
+
+Hypothesis Statement 06:
+
+- Creemos que ofrecer una guía visual de tallas y un sistema de ajuste basado en experiencias de otros usuarios reducirá la tasa de devoluciones o reclamos.
+- Sabremos que esto es cierto si la tasa de reclamos por tallaje incorrecto disminuye en un 18 %.
+
+Hypothesis Statement 07:
+
+- Creemos que permitir marcar prendas como “Favoritas” o “Guardar para después” aumentará la conversión futura de esas prendas.
+- Sabremos que esto es cierto si el 20 % de las prendas guardadas son eventualmente compradas en un plazo de 7 días.
+
+ Hypothesis Statement 08:
+
+- Creemos que brindar una opción de “Entrega gestionada” (p. ej., logística integrada) aumentará la disposición de los usuarios a vender.
+- Sabremos que esto es cierto si al menos un 35 % de los vendedores eligen esta opción en su primera venta.
+
+ Hypothesis Statement 09:
+
+- Creemos que ofrecer una experiencia visual atractiva y moderna (con fotos grandes, navegación tipo catálogo) mantendrá la atención del usuario.
+- Sabremos que esto es cierto si la tasa de rebote (usuarios que abandonan tras entrar) disminuye en al menos un 20 %.
+
+Hypothesis Statement 10:
+
+- Creemos que permitir agregar categorias como “Vestidos”, “Polos”, “Pantalones”, facilitará la exploración.
+- Sabremos que esto es cierto si el 70 % de los clics en productos provienen de categorías.
+
+Hypothesis Statement 11:
+
+- Creemos que ofrecer un incentivo de bienvenida (descuento o envío gratis en la primera compra) aumentará el número de primeras transacciones.
+- Sabremos que esto es cierto si al menos el 40 % de los nuevos usuarios realizan su primera compra en los primeros 5 días.
+
+Hypothesis Statement 12:
+
+- Creemos que permitir que los usuarios creen un “armario virtual” para gestionar sus prendas favoritas o en venta aumentará la fidelización.
+- Sabremos que esto es cierto si los usuarios que crean armarios tienen un 30 % más de actividad mensual.
+
 
 #### 1.2.2.4. Lean Ux Canvas
 ![LeanUxCanvas](Report_Assets/LeanUxCanvas.PNG)
