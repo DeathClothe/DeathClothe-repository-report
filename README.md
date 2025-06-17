@@ -430,9 +430,68 @@ Hypothesis Statement 12:
 
 ## 1.3. Segmentos Objetivos
 
-Compradores:Personas entre 18 y 35 años interesadas en la moda, pero que buscan alternativas más económicas, sostenibles y auténticas a la moda rápida. Este segmento valora la originalidad, el consumo responsable y la posibilidad de acceder a prendas únicas a través de una experiencia fácil, visualmente atractiva y confiable. Su motivación principal es ahorrar dinero sin sacrificar estilo, descubrir ropa con personalidad y contribuir al cuidado del planeta.
+### **Segmento Objetivo 1: Compradores**
 
-Vendedores:Personas desde los 18 hasta los 50 años o más que desean vender ropa en buen estado que ya no usan, ya sea para generar ingresos extra, liberar espacio en su armario o apoyar un modelo de consumo más circular. Este grupo incluye tanto usuarios casuales como pequeños emprendedores o diseñadores independientes, motivados por la posibilidad de conectar con compradores que valoren sus prendas y por contribuir activamente a una moda más consciente y sostenible. 
+Personas entre 18 y 35 años interesadas en la moda, pero que buscan alternativas más sostenibles, económicas y con mayor autenticidad que la moda rápida. Este segmento aprecia la originalidad, la estética visual y la posibilidad de consumir de forma responsable. Quieren encontrar prendas únicas de manera simple, confiable y atractiva.
+
+**Características Demográficas:**
+
+- Edad: 18 a 35 años
+- Género: Todos los géneros
+- Ubicación geográfica: Zonas urbanas en Perú (principalmente Lima, Arequipa, Trujillo y Cusco)
+- Nivel socioeconómico: Medio y medio-alto (con poder adquisitivo moderado pero sensibilidad ambiental y de ahorro)
+- Dispositivos de acceso: Smartphones (98 %), laptops (72 %), tablets (30 %)
+- Comportamiento digital: Altamente activos en redes sociales como Instagram, TikTok y Pinterest (fuentes de inspiración de estilo)
+
+**Necesidades:**
+
+- Encontrar ropa en buen estado y con estilo que refleje su personalidad.
+- Comprar en una plataforma visualmente atractiva y confiable.
+- Conectar con una comunidad que valore el consumo responsable.
+
+**Beneficios clave:**
+
+- Acceso a prendas únicas a menor costo.
+- Sentimiento de autenticidad y sostenibilidad en su estilo.
+- Experiencia de compra emocionalmente conectada con el origen de cada prenda.
+
+**Información estadística de sustento:**
+
+- 52 % de los consumidores compraron ropa de segunda mano en 2023 (Fuente: Second Hand Apparel Market Report, 2025) ([https://www.stellarmr.com/report/Second-Hand-Apparel-Market/1885](https://www.stellarmr.com/report/Second-Hand-Apparel-Market/1885))
+- 65 % de las personas de la Generación Z y Millennials compraron ropa de segunda mano en el último año. (Fuente: 37 Positive & Uplifting Sustainable Fashion Statistics, Renewtiful (2024)) ([https://renewtiful.com/insight/sustainable-fashion-statistics/](https://renewtiful.com/insight/sustainable-fashion-statistics/))
+
+
+### **Segmento Objetivo 2: Vendedores**
+
+Personas entre 18 y 50 años o más, que buscan una forma sencilla y eficiente de vender ropa usada en buen estado. Incluye desde personas con prendas que ya no usan hasta pequeños emprendedores o diseñadores independientes que quieren aprovechar la moda circular para generar ingresos o liberar espacio.
+
+**Características Demográficas:**
+
+- Edad: 18 a 50+ años
+- Género: Todos los géneros
+- Ubicación geográfica: Áreas urbanas con alto acceso digital (incluye Lima metropolitana, Piura, Chiclayo, Arequipa, entre otras)
+- Nivel socioeconómico: Medio-bajo a medio-alto
+- Dispositivos de acceso: Smartphones (95 %), laptops (60 %), cámaras móviles (para fotografiar prendas)
+- Comportamiento digital: Usuarios activos de marketplaces, grupos de venta en Facebook y WhatsApp
+
+**Necesidades:**
+
+- Subir y vender ropa de forma fácil, rápida y sin complejidad.
+- Asegurar que sus prendas tengan visibilidad y lleguen a personas que las valoren.
+- Obtener un ingreso extra sin invertir demasiado tiempo.
+
+**Beneficios clave:**
+
+- Plataforma que simplifica el proceso de venta (fotos, descripción, precio).
+- Conexión con un público que valora lo usado como algo único, no como "desecho".
+- Posibilidad de generar ingresos de forma práctica.
+- Promoción de un consumo más consciente y ético.
+
+**Información estadística de sustento:**
+
+- 85 % de los consumidores peruanos están dispuestos a vender artículos usados; 55 % a comprarlos (Encuesta Bside Perú, 2020) ([https://www.esan.edu.pe/conexion-esan/el-consumidor-peruano-y-la-compra-de-productos-de-segunda-mano](https://www.esan.edu.pe/conexion-esan/el-consumidor-peruano-y-la-compra-de-productos-de-segunda-mano))
+- 40 % de los consumidores en Estados Unidos dijo que considera la ropa de segunda mano "muy sostenible". (Fuente: Consumer opinion on sustainability of secondhand goods, Statista (2024)) ([https://www.statista.com/statistics/1310367/consumer-opinion-secondhand-goods-sustainability-by-region/](https://www.statista.com/statistics/1310367/consumer-opinion-secondhand-goods-sustainability-by-region/))
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
