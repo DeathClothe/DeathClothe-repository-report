@@ -306,29 +306,73 @@ La dimensión económica del problema es considerable. De acuerdo con McKinsey (
 
 ### 1.2.2. Lean UX Process
 
-El Lean UX process es un enfoque ágil para diseño de productos que prioriza la experimentación rápida y el feedback real sobre documentación extensa. Se basa en crear prototipos simples, validar hipótesis con usuarios e iterar constantemente, optimizando tiempo y recursos.
+El proceso Lean UX es una metodología ágil centrada en crear valor para el usuario mediante ciclos rápidos de validación y aprendizaje continuo. En lugar de depender de documentación extensa o procesos largos de diseño, Lean UX propone trabajar en conjunto con usuarios reales para validar hipótesis, iterar prototipos y evolucionar el producto con base en evidencia y datos.
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-Hoy en día, muchas personas quieren comprar ropa de segunda mano para ser más sostenibles, pero se encuentran con varios problemas. Por un lado, los compradores tienen dificultades para encontrar prendas que realmente les gusten y que estén en buen estado. Las plataformas actuales no siempre muestran opciones atractivas o no permiten buscar fácilmente por estilo o talla, lo que hace que muchos prefieran seguir comprando ropa nueva por comodidad.
-
-Por otro lado, quienes quieren vender su ropa usada se topan con procesos complicados o poco transparentes. Subir fotos, escribir descripciones y manejar envíos resulta tedioso, y a veces no vale la pena por los precios bajos que ofrecen. Esto hace que mucha ropa en buen estado termine guardada en el armario o en la basura.
-
-En resumen, existe un círculo vicioso, como hay poca oferta atractiva de ropa usada, menos gente compra; y como cuesta vender, menos gente participa. DeathClothe busca solucionar esto haciendo más fácil tanto comprar como vender ropa de segunda mano, para que realmente sea una alternativa práctica a la ropa nueva y así reducir el impacto ambiental de la moda.
+DeathClothe fue diseñado para facilitar la compra y venta de ropa de segunda mano, promoviendo así un consumo más sostenible y consciente.
+Hemos observado que, actualmente, muchas personas desean adoptar la moda circular, pero enfrentan obstáculos importantes: los compradores tienen dificultades para encontrar prendas atractivas, en buen estado o alineadas a su estilo, debido a la falta de filtros eficaces y opciones personalizadas en plataformas existentes. A su vez, los vendedores enfrentan procesos complejos y poco transparentes para listar sus prendas, lo que desincentiva su participación. Como resultado, se genera un círculo vicioso: menos oferta atractiva limita el interés de compra, y las dificultades para vender reducen la rotación de ropa, provocando que muchas prendas en buen estado terminen desechadas.
+¿Cómo podríamos diseñar una plataforma accesible y eficiente que elimine estas barreras en la compra y venta de ropa usada, de manera que más personas participen activamente y DeathClothe se convierta en una alternativa real y sostenible a la moda tradicional?
 
 #### 1.2.2.2. Lean UX Assumptions
 
-**Interés en la segunda mano**
+**Business Assumptions (Suposiciones de Negocio)**
 
-Los usuarios están dispuestos a comprar y vender ropa de segunda mano si la plataforma les ofrece prendas únicas, de buena calidad y fácil acceso. Valoran la originalidad, el buen estado de las piezas y la posibilidad de consumir moda de forma más consciente y sostenible.
+1. Creo que mis clientes tienen la necesidad de:
+Encontrar ropa de segunda mano que sea única, en buen estado y que se ajuste a sus gustos y tallas, además de contar con un canal sencillo y confiable para vender sus prendas usadas.
 
-**Facilidad de uso en la carga de inventario**
+2. Estas necesidades pueden resolverse con:
+Una plataforma especializada que facilite la compra y venta mediante herramientas de curación, personalización, filtros inteligentes, procesos simples de publicación y un sistema transparente de valoraciones.
 
-Si el proceso para subir prendas es simple y rápido los usuarios se sentirán más motivados a ofrecer más artículos en la plataforma. Al reducir las barreras técnicas y el tiempo requerido para publicar, se facilita la participación activa de los vendedores, quienes podrán gestionar su inventario de manera más práctica y constante. Esta facilidad fomenta una mayor rotación de productos, enriqueciendo la variedad del catálogo disponible y mejorando la experiencia general de compra para toda la comunidad.
+3. Mis clientes iniciales son (o serán):
+Jóvenes adultos entre 18 y 30 años, con conciencia ambiental, interés en la moda y hábitos digitales activos en redes sociales como Instagram y TikTok.
 
-**Sensibilidad al precio y sostenibilidad**
+4. El valor principal que el cliente desea obtener de mi servicio es:
+Adquirir o vender ropa de segunda mano de forma fácil, rápida y confiable.
+Beneficios adicionales que pueden obtener son:
+Exclusividad, ahorro económico, impacto ambiental positivo y conexión emocional con prendas con historia.
 
-Quienes compran ropa de segunda mano suelen priorizar precios accesibles, sin embargo, también valoran profundamente el trasfondo de cada prenda. Están dispuestos a pagar un poco más cuando sienten que están adquiriendo una pieza con historia, carácter y autenticidad comprobada. Esta disposición se fortalece si la plataforma brinda confianza a través de mecanismos que verifiquen el origen, el estado y la originalidad del artículo. En ese contexto, la prenda deja de ser solo un producto y se convierte en una experiencia única, algo que conecta emocionalmente con el comprador y justifica una inversión ligeramente mayor.
+5. Adquiriré a la mayoría de mis clientes mediante:
+Campañas digitales con influencers de moda sostenible, contenido en redes sociales y estrategias de marketing orgánico en plataformas como TikTok e Instagram.
+
+6. Ganaré dinero mediante:
+Comisiones por transacción y servicios premium para vendedores (como posicionamiento de productos, herramientas analíticas o mejoras de visibilidad).
+
+7. Mi competencia principal en el mercado será:
+Plataformas generalistas como Vinted o Marketplace de Facebook.
+Los superaremos gracias a:
+Una experiencia de usuario más intuitiva, filtros inteligentes, curación personalizada y un enfoque claro en sostenibilidad y comunidad.
+
+8. Mi mayor riesgo de producto es:
+Que los usuarios no perciban un valor diferencial suficiente frente a otras plataformas existentes.
+Lo resolveremos mediante:
+Testeo constante con usuarios reales, iteraciones rápidas en base a feedback y mejoras centradas en su experiencia emocional y funcional.
+
+9. Otras suposiciones clave que, si resultan falsas, podrían hacer fracasar el proyecto:
+  - Que haya suficiente oferta inicial de prendas para sostener la demanda.
+  - Que los usuarios valoren la historia de las prendas como factor emocional de compra.
+  - Que el costo logístico no sea una barrera mayor para escalar.
+
+
+**User Assumptions (Suposiciones de Usuario)**
+
+1. ¿Quién es el usuario?
+Jóvenes interesados en moda, conscientes del impacto ambiental y abiertos a nuevas formas de consumo.
+
+2. ¿Dónde encaja nuestro producto en su vida?
+En sus hábitos cotidianos de consumo digital, especialmente en momentos de exploración de moda, compras online y participación en tendencias sostenibles.
+
+3. ¿Qué problemas resuelve nuestro producto?
+Dificultad para encontrar ropa usada que realmente les guste, falta de confianza en el estado del producto, procesos engorrosos de venta y poca personalización en plataformas existentes.
+
+4. ¿Cuándo y cómo se usa nuestro producto?
+En momentos de ocio, inspiración de estilo o necesidad de renovar el armario sin dañar el planeta. Usan el producto desde sus dispositivos tecnológicos principalmente, de manera visual e intuitiva.
+
+5. ¿Qué características son importantes?
+Carga rápida de productos, historias de prendas, recomendaciones personalizadas y diseño atractivo.
+
+6. ¿Cómo debería lucir y comportarse nuestro producto?
+Visualmente moderno, limpio y emocionalmente atractivo, con una navegación fluida, lenguaje cercano, imágenes destacadas de prendas y elementos de comunidad.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
