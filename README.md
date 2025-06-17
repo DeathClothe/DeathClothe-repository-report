@@ -494,11 +494,51 @@ Personas entre 18 y 50 años o más, que buscan una forma sencilla y eficiente d
 
 
 # Capítulo II: Requirements Elicitation & Analysis
+
 ## 2.1. Competidores
 
-**Marketplace de Facebook:** Es la opción más usada para comprar y vender ropa usada en Perú. Es gratuito, tiene gran alcance, pero no está especializado en moda y carece de filtros adecuados.
+En esta sección analizamos a los principales competidores de DeathClothe, enfocándonos en aquellos con modelos de negocio digitales similares o que ofrecen productos/servicios parcialmente superpuestos. Evaluamos tanto competidores directos como indirectos:
 
-**Instagram:** Muchas tiendas independientes venden ropa vintage o de segunda mano a través de Instagram, con una estética cuidada y fuerte conexión con su audiencia.
+**1. Facebook Marketplace**
+
+**Descripción:**
+
+Marketplace de Facebook es una de las plataformas más usadas en Perú para comprar y vender ropa de segunda mano. Su gran alcance y naturaleza comunitaria lo convierten en una opción popular, aunque no está especializado en moda.
+
+**Principales características:**
+
+- Anuncios gratuitos con acceso a millones de usuarios
+- Búsqueda por ubicación, categoría y palabras clave
+- Chat integrado para comunicación vendedor-comprador
+- Comentarios y calificaciones disponibles en perfiles
+
+**2. Instagram Shops**
+
+**Descripción:**
+
+Vendedores independientes y tiendas de segunda mano operan directamente desde Instagram, destacando por un contenido visual cuidado y fuerte conexión con la audiencia.
+
+**Principales características:**
+
+- Publicaciones, Reels y Stories con estética atractiva
+- Etiquetado de productos gracias a Instagram Shopping
+- Interacción directa con los compradores vía mensajes
+- Estilo de branding personalizado y emocional
+
+**3. Mercado Libre**
+
+**Descripción:**
+
+La plataforma de comercio electrónico más grande de Latinoamérica, usada tanto para productos nuevos como usados, con capacidad para compraventa de ropa.
+
+**Principales características:**
+
+- Amplio alcance y base de usuarios en Perú
+- Filtros por categoría, precio, ubicación y estado
+- Sistema de reputación del vendedor y calificaciones
+- Opciones de envío y pago integradas (Mercado Envíos, Mercado Pago)
+- Funcionalidades avanzadas de publicación y promoción
+
 
 ### 2.1.1. Análisis competitivo
 
