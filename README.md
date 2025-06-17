@@ -542,32 +542,106 @@ La plataforma de comercio electrónico más grande de Latinoamérica, usada tant
 
 ### 2.1.1. Análisis competitivo
 
-<tr>
+<table>
   <tr>
-    <td>
-      <strong>¿Por qué llevar a cabo este análisis?</strong><br>
-      Comprender cómo se posiciona DeathClothe frente a competidores actuales en la industria de compra y venta de ropa de segunda mano, identificando ventajas competitivas y oportunidades de diferenciación.
-    </td>
+    <th colspan="6"> Competitive Analysis Landscape </th>
   </tr>
-</tr>
-
-
-| Aspecto | DeathClothes | Facebook Marketplace | Tiendas en Instagram |
-|:--------|:-------------|:----------------------|:---------------------|
-| **Perfil** | Startup peruana de moda circular: marketplace digital de ropa de segunda mano con énfasis en autenticidad, comunidad y sostenibilidad. | Sección de compraventa dentro de Facebook, sin especialización en moda. | Perfiles independientes que venden por DM. |
-| **Mercado objetivo** | Millennials y Gen Z peruanos interesados en moda sostenible, diseño auténtico y experiencias digitales sociales. | Público general, de todas las edades y géneros. | Jóvenes amantes del vintage. |
-| **Estrategia de marketing** | Colaboraciones con influencers de moda sostenible, ferias pop-up locales, campañas en Instagram/Reels y alianzas con tiendas vintage. | Orgánico: uso de grupos, posts patrocinados en feed. | Reels, colaboraciones con micro-influencers, giveaways. |
-| **Estrategias de marketing** | Colaboraciones con influencers de moda sostenible, ferias pop-up locales, campañas en Instagram/Reels y alianzas con tiendas vintage. | Orgánico: uso de grupos, posts patrocinados en feed. | Reels, colaboraciones con micro-influencers, giveaways. |
-| **Producto** | Subida de prendas (foto + descripción + precio), perfiles sociales, feed personalizado de outfits, historial de compras, storytelling de prendas. |Listados básicos: foto, descripción, precio; chat por Messenger; valoraciones implícitas.  |Catálogos visuales en posts y stories, venta vía DM, pago externo (Yape, Plin, etc.), estética boutique.|
-| **Valor ofrecido** | Piezas únicas, buen estado, autenticidad en cada prenda, experiencia de compra inspiradora, comunidad de moda circular. | Acceso rápido y sencillo a listados de todo tipo, precios variados, alta visibilidad, contacto directo por Messenger. | Estética boutique, trato personalizado, curaduría visual de productos, cercanía emocional con el vendedor. |
-| **Productos y servicios** | Subida de prendas (foto + descripción + precio) y feed de outfits y perfiles de usuario. | Listados básicos: foto, descripción, precio; chat por Messenger; valoraciones implícitas. | Catálogos en Stories, posts taggeables, venta vía DM, pagos externos. |
-| **Precios y costos** | Suscripción premium para vendedores opcional para beneficios (productos en primera planilla, publicidad constante). | Gratuito para usuarios. | Fijados por cada tienda; sin comisiones de plataforma. |
-| **Canales de distribución** | Aplicación móvil (iOS y Android), versión web. | Aplicación móvil (iOS y Android), versión web. | Aplicación móvil (iOS y Android), versión web. |
-| **Análisis SWOT** |Fortalezas: UX especializada en moda, comunidad centrada en sostenibilidad, experiencia emocional y personalizada de compra<br>Debilidades: Base de usuarios aún limitada, dependencia de logística externa, nuevo en el mercado.<br>Oportunidades: Tendencia creciente en sostenibilidad, auge del ecommerce local, posibilidad de alianzas estratégicas con marcas y ONGs.<br>Amenazas: Competencia de plataformas establecidas con mayor capital, informalidad del sector, barreras legales.| Fortalezas: Alcance masivo inmediato, integración con red social activa.<br>Debilidades: Plataforma no especializada en moda, navegación limitada, difícil seguimiento de compras.<br>Oportunidades: Mejoras en filtros, seguridad y categorización podrían retener más usuarios.<br>Amenazas: Pérdida de confianza por fraudes, saturación de mercado<br> |Fortalezas: Alta conexión emocional con la audiencia, estética visual fuerte, curaduría atractiva.<br>Debilidades: Proceso de compra poco seguro (DM + pago aparte), sin herramientas automatizadas.<br>Oportunidades: Evolución hacia tiendas integradas o e-commerce propio.<br>Amenazas: Cambios en el algoritmo de Instagram, dependencia total de plataforma externa. |
-| **Fortalezas** | UX especializado en moda, narrativa de producto que engancha emocionalmente. | Alcance instantáneo. | Gran engagement visual, comunidad muy leal. |
-| **Debilidades** | Base de usuarios inicial reducida, necesidad de educar al mercado en moda circular, dependencia de alianzas logísticas externas. | UX no especializado para moda, falta de filtros avanzados y verificación de calidad. | Proceso de compra fragmentado (DM + pago aparte), ausencia de historial de valoraciones centralizado. |
-| **Oportunidades** | Creciente interés en sostenibilidad, expansión de e-commerce en Perú, patrocinios de eventos de moda responsable. | Integrar categorías, mejorar herramientas de filtrado. | Integrar checkout nativo en Instagram Shop, expandir a app propia o sitio web. |
-| **Amenazas** | Plataformas generalistas con mayor presupuesto, venta informal (grupos de WhatsApp, ferias callejeras), cambios en regulaciones sobre comercio electrónico. | Creciente desconfianza por estafas, competencia de marketplaces especializados. | Cambios en el algoritmo de Instagram. |
+  <tr> 
+    <td colspan="2" rowspan="2"> ¿Por qué llevar a cabo este análisis? </td>
+    <td colspan="4"> Pregunta </td>
+  </tr>
+  <tr> 
+    <td colspan="4"> Realizar este análisis nos permite identificar claramente a nuestros competidores, comprender sus modelos de negocio y detectar oportunidades para posicionar a DeathClothe de forma diferenciada y estratégica en el mercado. </td>
+  </tr>
+  <tr> 
+    <td colspan="2">Productos</td>
+    <td style="text-align: center;"><div>DeathClothe</div></td>
+    <td style="text-align: center;"><div>Facebook Marketplace</div></td>
+    <td style="text-align: center;"><div>Instagram Shops</div></td>
+    <td style="text-align: center;"><div>Mercado Libre</div></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Plataforma enfocada en la moda circular, que permite a usuarios comprar y vender ropa de segunda mano de forma sencilla, visualmente atractiva y sostenible.</td>
+    <td>Espacio dentro de Facebook donde los usuarios publican artículos para venta directa, incluyendo ropa usada, sin especialización temática.</td>
+    <td>Red social que permite a emprendedores y tiendas vender ropa directamente a través de contenido visual y conexión con la audiencia.</td>
+    <td>Marketplace de gran alcance en Latinoamérica donde se puede comprar y vender prácticamente cualquier producto, incluida ropa nueva y usada.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td>Enfoque especializado en moda circular, curación de prendas con identidad, experiencia centrada en sostenibilidad y originalidad.</td>
+    <td>Gran alcance y acceso a una base masiva de usuarios con herramientas básicas de publicación.</td>
+    <td>Estética visual, cercanía con los clientes y personalización del branding.</td>
+    <td>Filtros por categoría, opciones de pago/envío integradas, alta confianza del usuario.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Jóvenes entre 18 y 35 años interesados en moda sostenible, compradores conscientes y pequeños emprendedores de ropa.</td>
+    <td>Usuarios generales de Facebook; compradores casuales interesados en productos de segunda mano sin categoría específica.</td>
+    <td>Tiendas independientes, influencers de moda, y compradores atraídos por el estilo visual y la autenticidad.</td>
+    <td>Consumidores que buscan buenos precios, variedad y facilidad en las compras; tanto nuevos como usados.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de Marketing</td>
+    <td>Alianzas con creadores de moda sostenible, campañas en redes sociales, storytelling visual y valores ambientales</td>
+    <td>Difusión orgánica a través de publicaciones; impulsado por la red social de los usuarios.</td>
+    <td>Contenido emocional, reels, hashtags de moda y promoción vía stories.</td>
+    <td>Publicidad digital, posicionamiento SEO/SEM, y presencia en medios tradicionales.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos & Servicios</td>
+    <td>Marketplace para ropa usada, perfiles de comprador/vendedor, herramientas de publicación visual, storytelling de prendas.</td>
+    <td>Publicación de productos, chat directo, categorías generales, búsqueda por ubicación.</td>
+    <td>Catálogo visual, etiquetado de productos, interacción en tiempo real, personalización de la tienda.</td>
+    <td>Publicaciones con fotos, filtros de búsqueda, sistema de pago y envío, calificación de vendedores.</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Uso gratuito para compradores y vendedores; modelo freemium para funciones premium o visibilidad.</td>
+    <td>Gratuito; no cobra comisiones por publicación ni venta.</td>
+    <td>Gratuito, pero sujeto a algoritmo y visibilidad limitada si no se paga publicidad.</td>
+    <td>Cobra comisión por venta (~11%) y costos por envíos; publicación gratuita.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución</td>
+    <td>Aplicación web progresiva y redes sociales; integraciones futuras con envíos.</td>
+    <td>Plataforma dentro de Facebook; accesible desde navegador o app.</td>
+    <td>App de Instagram y función de Instagram Shopping.</td>
+    <td>Web oficial y app móvil; gran presencia en toda Latinoamérica.</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Enfoque nicho, experiencia visual y curada, impulso de sostenibilidad, alineación con valores de moda ética.</td>
+    <td>Base de usuarios muy grande, fácil de usar, sin costos para el usuario.</td>
+    <td>Conexión emocional con el usuario, excelente estética visual, branding personalizado.</td>
+    <td>Reputación consolidada, variedad de productos, seguridad en transacciones.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Producto en etapa temprana, sin filtros avanzados, sin logística de envíos aún.</td>
+    <td>Interfaz básica, sin filtros específicos para ropa, sin curaduría ni garantías.</td>
+    <td>Proceso de compra poco automatizado, dependiente del engagement y del algoritmo.</td>
+    <td>No está enfocado en moda circular, experiencia genérica y saturación de productos.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Adopción creciente de consumo responsable, demanda de plataformas sostenibles y crecimiento de la economía circular.</td>
+    <td>Implementar herramientas temáticas, ofrecer funcionalidades premium.</td>
+    <td>Expandir a catálogos organizados y pagos integrados dentro de la app.</td>
+    <td>Incorporar secciones dedicadas a moda circular, alianzas con ONGs de sostenibilidad.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Competencia de plataformas más grandes, cambios en el comportamiento del usuario, barreras logísticas.</td>
+    <td>Competencia especializada puede captar su tráfico; limitaciones para escalar.</td>
+    <td>Algoritmos que limitan visibilidad orgánica, saturación del mercado de moda vintage.</td>
+    <td>Nuevas plataformas más especializadas pueden robar cuota de mercado en ropa usada.</td>
+  </tr>
+</table>
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
