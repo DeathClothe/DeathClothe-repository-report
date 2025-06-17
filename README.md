@@ -646,41 +646,87 @@ La plataforma de comercio electrónico más grande de Latinoamérica, usada tant
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-**Diferenciación con Narrativa y Personalización**
+Nuestro objetivo es enfrentar las fortalezas de los competidores, capitalizar sus debilidades y posicionar a DeathClothe en un nicho distintivo y sostenible dentro del mercado de la moda circular digital en Perú.
 
-Estrategia: Ofrecer historias de cada prenda (origen, uso, estilo previo) para añadir valor emocional y autenticidad.
+**1. Diferenciación por Historia y Personalización (Frente a Instagram Shops y Facebook Marketplace)**
 
-Táctica: Implementar fichas de producto enriquecidas con inputs del vendedor (anécdotas, looks anteriores, inspiración), y recomendaciones personalizadas usando el “armario virtual”.
+Estrategia: Crear valor emocional a través de la narrativa de cada prenda, aspecto ausente en marketplaces generalistas.
 
-**Tecnología para la experiencia del usuario**
+Fortaleza Competitiva a Contrarrestar: Alto alcance visual y conexión emocional de Instagram con su comunidad.
 
-Estrategia: Convertir la app en una experiencia interactiva y visual que no sea solo un marketplace, sino una comunidad viva.
+Debilidad Competitiva a Aprovechar: Falta de información detallada o emocional sobre los productos.
 
-Táctica: Diseño UX moderno con navegación tipo red social, sistema de seguimiento entre usuarios, outfits sugeridos y gamificación.
+Tácticas:
 
-**Confianza y autenticidad como pilares**
+- Implementar fichas de producto enriquecidas con inputs narrativos del vendedor (historia, estilo, inspiración).
+- Sistema de “looks anteriores” y “armario virtual” que permite al comprador visualizar combinaciones y recomendaciones personalizadas.
 
-Estrategia: Construir una comunidad basada en la confianza, destacando calidad y procedencia de las prendas.
+**2. Experiencia de Usuario como Comunidad Visual (Frente a Mercado Libre y Facebook Marketplace)**
 
-Táctica: Sistema de calificaciones, verificación de usuarios/vendedores, etiquetas de “pieza destacada”, y filtros visuales para el estado de las prendas.
+Estrategia: Transformar la app en una comunidad visual interactiva, más allá de un catálogo funcional.
 
-**Facilidad de uso para vendedores**
+Fortaleza Competitiva a Contrarrestar: Presencia masiva y estructura consolidada de Mercado Libre y Facebook.
 
-Estrategia: Incentivar la participación constante de usuarios que suben ropa.
+Debilidad Competitiva a Aprovechar: Interfaz poco amigable y generalista, con escasa orientación a moda o interacción social.
 
-Táctica: Subida de prendas en 3 pasos, tips de fotografía, herramientas de edición automática y precios sugeridos según categoría y estado.
+Tácticas:
 
-**Alianzas y comunidad local**
+- Navegación estilo red social, seguimiento entre usuarios, exploración de estilos.
+- Opción móvil optimizado para exploración visual y recomendación estética.
 
-Estrategia: Posicionarse como la plataforma "de la gente para la gente" en Perú.
+**3. Confianza y Autenticidad como Propuesta de Valor (Frente a Facebook Marketplace)**
 
-Táctica: Colaboraciones con creadores de contenido de moda sostenible, tiendas vintage locales, ferias presenciales y campañas con influencers que promuevan la moda circular.
+Estrategia: Reforzar la seguridad y confianza en la transacción entre personas.
 
-**Integración logística**
+Amenaza a Contrarrestar: Alta tasa de desconfianza o fraude en plataformas como Marketplace o grupos de compraventa.
 
-Estrategia: Superar al Facebook Marketplace con soluciones reales de entrega.
+Oportunidad: Falta de mecanismos formales de verificación o reputación en competidores.
 
-Táctica: Alianzas con apps de delivery locales (como Urbaner, Olva o Rappi), ofreciendo opciones rápidas y seguras para envíos entre usuarios.
+Tácticas:
+
+- Sistema de verificación de identidad para vendedores.
+- Calificaciones visibles y comentarios tras cada transacción.
+- Etiquetas por categoría.
+- Descripciones visuales de estado real de la prenda (nuevo, casi nuevo, usado).
+
+**4. Facilidad de Uso para Vendedores (Frente a Mercado Libre)**
+
+Estrategia: Eliminar barreras de entrada para quienes quieren vender ropa sin experiencia técnica.
+
+Debilidad Competitiva a Aprovechar: Procesos largos y técnicos en plataformas como Mercado Libre (categorías extensas, requisitos complejos).
+
+Tácticas:
+
+- Publicación en tres pasos con sugerencias automáticas.
+- Herramientas de edición para cambiar fotos.
+- Tip de fotografía rápida, y precios según el estado y marca.
+- Posibilidad de etiquetar prendas por categorías (pantalones, vestidos, zapatillas, etc.).
+
+**5. Presencia Local y Cultural (Frente a competidores globales)**
+
+Estrategia: Posicionarse como una plataforma culturalmente peruana, comprometida con la economía circular local.
+
+Debilidad Competitiva a Aprovechar: Falta de adaptación cultural de plataformas como Instagram o Mercado Libre a nichos específicos como moda sostenible en Perú.
+
+Tácticas:
+
+- Colaboración con creadores locales de moda consciente.
+- Eventos físicos y virtuales como ferias de ropa circular o pop-ups colaborativos.
+- Campañas de moda sostenible con influencers peruanos.
+
+**6. Solución logística integrada (Frente a Facebook Marketplace)**
+
+Estrategia: Superar la informalidad del envío entre usuarios con soluciones logísticas reales.
+
+Amenaza a Contrarrestar: Abandono de ventas por dificultades en coordinación o desconfianza en entregas.
+
+Oportunidad: Falta de integración logística en plataformas de compraventa informal.
+
+Tácticas:
+
+- Integración con servicios locales como Urbaner, Olva Courier o Rappi.
+- Opción de “entrega segura” al elegir método de envío desde la app.
+- Seguimiento del pedido y confirmación de entrega desde la plataforma.
 
 
 ## 2.2. Entrevistas
