@@ -318,51 +318,29 @@ Hemos observado que, actualmente, muchas personas desean adoptar la moda circula
 
 **Business Assumptions (Suposiciones de Negocio)**
 
-1. Creo que mis clientes tienen la necesidad de:
+- Creo que mis clientes tienen la necesidad de: Encontrar ropa de segunda mano que sea única, en buen estado y que se ajuste a sus gustos y tallas, además de contar con un canal sencillo y confiable para vender sus prendas usadas.
 
-Encontrar ropa de segunda mano que sea única, en buen estado y que se ajuste a sus gustos y tallas, además de contar con un canal sencillo y confiable para vender sus prendas usadas.
+- Estas necesidades pueden resolverse con: Una plataforma especializada que facilite la compra y venta mediante herramientas de curación, personalización, filtros inteligentes, procesos simples de publicación y un sistema transparente de valoraciones.
 
-2. Estas necesidades pueden resolverse con:
+- Mis clientes iniciales son (o serán): Jóvenes adultos entre 18 y 30 años, con conciencia ambiental, interés en la moda y hábitos digitales activos en redes sociales como Instagram y TikTok.
 
-Una plataforma especializada que facilite la compra y venta mediante herramientas de curación, personalización, filtros inteligentes, procesos simples de publicación y un sistema transparente de valoraciones.
+- El valor principal que el cliente desea obtener de mi servicio es: Adquirir o vender ropa de segunda mano de forma fácil, rápida y confiable.
 
-3. Mis clientes iniciales son (o serán):
+Beneficios adicionales que pueden obtener son: Exclusividad, ahorro económico, impacto ambiental positivo y conexión emocional con prendas con historia.
 
-Jóvenes adultos entre 18 y 30 años, con conciencia ambiental, interés en la moda y hábitos digitales activos en redes sociales como Instagram y TikTok.
+- Adquiriré a la mayoría de mis clientes mediante: Campañas digitales con influencers de moda sostenible, contenido en redes sociales y estrategias de marketing orgánico en plataformas como TikTok e Instagram.
 
-4. El valor principal que el cliente desea obtener de mi servicio es:
+- Ganaré dinero mediante: Comisiones por transacción y servicios premium para vendedores (como posicionamiento de productos, herramientas analíticas o mejoras de visibilidad).
 
-Adquirir o vender ropa de segunda mano de forma fácil, rápida y confiable.
+- Mi competencia principal en el mercado será: Plataformas generalistas como Vinted o Marketplace de Facebook.
 
-Beneficios adicionales que pueden obtener son:
+Los superaremos gracias a: Una experiencia de usuario más intuitiva, filtros inteligentes, curación personalizada y un enfoque claro en sostenibilidad y comunidad.
 
-Exclusividad, ahorro económico, impacto ambiental positivo y conexión emocional con prendas con historia.
+- Mi mayor riesgo de producto es: Que los usuarios no perciban un valor diferencial suficiente frente a otras plataformas existentes.
 
-5. Adquiriré a la mayoría de mis clientes mediante:
+Lo resolveremos mediante: Testeo constante con usuarios reales, iteraciones rápidas en base a feedback y mejoras centradas en su experiencia emocional y funcional.
 
-Campañas digitales con influencers de moda sostenible, contenido en redes sociales y estrategias de marketing orgánico en plataformas como TikTok e Instagram.
-
-6. Ganaré dinero mediante:
-
-Comisiones por transacción y servicios premium para vendedores (como posicionamiento de productos, herramientas analíticas o mejoras de visibilidad).
-
-7. Mi competencia principal en el mercado será:
-
-Plataformas generalistas como Vinted o Marketplace de Facebook.
-
-Los superaremos gracias a:
-
-Una experiencia de usuario más intuitiva, filtros inteligentes, curación personalizada y un enfoque claro en sostenibilidad y comunidad.
-
-8. Mi mayor riesgo de producto es:
-
-Que los usuarios no perciban un valor diferencial suficiente frente a otras plataformas existentes.
-
-Lo resolveremos mediante:
-
-Testeo constante con usuarios reales, iteraciones rápidas en base a feedback y mejoras centradas en su experiencia emocional y funcional.
-
-9. Otras suposiciones clave que, si resultan falsas, podrían hacer fracasar el proyecto:
+- Otras suposiciones clave que, si resultan falsas, podrían hacer fracasar el proyecto:
 
   - Que haya suficiente oferta inicial de prendas para sostener la demanda.
   - Que los usuarios valoren la historia de las prendas como factor emocional de compra.
@@ -371,29 +349,18 @@ Testeo constante con usuarios reales, iteraciones rápidas en base a feedback y 
 
 **User Assumptions (Suposiciones de Usuario)**
 
-1. ¿Quién es el usuario?
+- ¿Quién es el usuario?: Jóvenes interesados en moda, conscientes del impacto ambiental y abiertos a nuevas formas de consumo.
 
-Jóvenes interesados en moda, conscientes del impacto ambiental y abiertos a nuevas formas de consumo.
+- ¿Dónde encaja nuestro producto en su vida?: En sus hábitos cotidianos de consumo digital, especialmente en momentos de exploración de moda, compras online y participación en tendencias sostenibles.
 
-2. ¿Dónde encaja nuestro producto en su vida?
+- ¿Qué problemas resuelve nuestro producto?: Dificultad para encontrar ropa usada que realmente les guste, falta de confianza en el estado del producto, procesos engorrosos de venta y poca personalización en plataformas existentes.
 
-En sus hábitos cotidianos de consumo digital, especialmente en momentos de exploración de moda, compras online y participación en tendencias sostenibles.
+- ¿Cuándo y cómo se usa nuestro producto?: En momentos de ocio, inspiración de estilo o necesidad de renovar el armario sin dañar el planeta. Usan el producto desde sus dispositivos tecnológicos principalmente, de manera visual e intuitiva.
 
-3. ¿Qué problemas resuelve nuestro producto?
+- ¿Qué características son importantes?: Carga rápida de productos, historias de prendas, recomendaciones personalizadas y diseño atractivo.
 
-Dificultad para encontrar ropa usada que realmente les guste, falta de confianza en el estado del producto, procesos engorrosos de venta y poca personalización en plataformas existentes.
+- ¿Cómo debería lucir y comportarse nuestro producto?: Visualmente moderno, limpio y emocionalmente atractivo, con una navegación fluida, lenguaje cercano, imágenes destacadas de prendas y elementos de comunidad.
 
-4. ¿Cuándo y cómo se usa nuestro producto?
-
-En momentos de ocio, inspiración de estilo o necesidad de renovar el armario sin dañar el planeta. Usan el producto desde sus dispositivos tecnológicos principalmente, de manera visual e intuitiva.
-
-5. ¿Qué características son importantes?
-
-Carga rápida de productos, historias de prendas, recomendaciones personalizadas y diseño atractivo.
-
-6. ¿Cómo debería lucir y comportarse nuestro producto?
-
-Visualmente moderno, limpio y emocionalmente atractivo, con una navegación fluida, lenguaje cercano, imágenes destacadas de prendas y elementos de comunidad.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
