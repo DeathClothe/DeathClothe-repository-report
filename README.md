@@ -2340,7 +2340,7 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
 
 
 
-#### 5.2.1.2. Source Code Management 
+#### 5.2.1.2. Aspect Leaders and Collaborators
 
 Durante el Sprint, se llevaron a cabo las siguientes actividades principales:
 
