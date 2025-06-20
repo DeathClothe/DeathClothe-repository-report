@@ -1861,7 +1861,7 @@ El Mock-up del Landing Page de DeathClothe representa la integración final de l
 ![MockupWeb3](Report_Assets/MockupVende.png)
 ![MockupWeb6](Report_Assets/MockUpVideoAbouttheproduct.png)
 ![MockupWeb4](Report_Assets/MockupComunidad.png)
-![MockupWeb5](Report_Assets/MockupNostros.png)
+![MockupWeb5](Report_Assets/MockupNostrosV2.png)
 ![MockupWeb7](Report_Assets/MockupAboutTheTeam.png)
 ## 4.4 Web Applications UX/UI Design
 
