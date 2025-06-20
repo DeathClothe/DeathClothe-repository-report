@@ -1833,9 +1833,10 @@ El Wireframe del Landing Page de DeathClothe refleja la estructura base de naveg
 ![WireframeWeb1](Report_Assets/Wireframe-Inicio.png)
 ![WireframeWeb2](Report_Assets/Wireframe-Explora.png)
 ![WireframeWeb3](Report_Assets/Wireframe-Vende.png)
+![WireframeWeb6](Report_Assets/WireFrameAboutTheProduct.png)
 ![WireframeWeb4](Report_Assets/Wireframe-comunidad.png)
-![WireframeWeb5](Report_Assets/Wireframe-Nostros.png)
-
+![WireframeWeb5](Report_Assets/Wireframe-NostrosV2.png)
+![WireframeWeb7](Report_Assets/WireFrameVideoAboutTheTeam.png)
 ## 4.3.2 Landing Page Mock-up
 
 El Mock-up del Landing Page de DeathClothe representa la integración final de la propuesta visual, combinando branding, usabilidad y estética emocional para transmitir la identidad y valores de la plataforma. Esta visualización ya incorpora elementos de color, tipografía, imágenes, iconografía y microinteracciones pensadas para la experiencia final del usuario.
