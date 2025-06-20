@@ -2996,6 +2996,65 @@ Se utilizaron métricas clave de GitHub para medir la colaboración del equipo:
 <img src="./Report_Assets/imagen14.png">
 <img src="./Report_Assets/imagen15.png">
 
+### 5.2.3. Sprint 3
+Esta sección describe en detalle los procesos, entregables y evidencias generadas durante el Sprint 3. Se abordan desde la planificación del sprint hasta las evidencias de despliegue y colaboración del equipo, con el objetivo de mostrar la evolución y calidad del trabajo realizado en esta etapa del proyecto.
+### 5.2.3.1. Sprint Planning 3
+<table border="1" cellspacing="0" cellpadding="8">
+   <thead>
+     <tr>
+       <th><strong>Campo</strong></th>
+       <th><strong>Detalle</strong></th>
+     </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td>Sprint 3</td>
+     </tr>
+     <tr>
+       <td>Fecha</td>
+       <td>2025-06-06</td>
+     </tr>
+     <tr>
+       <td>Hora</td>
+       <td>5:00 P.M.</td>
+     </tr>
+     <tr>
+       <td>Ubicación</td>
+       <td>Virtual – Discord</td>
+     </tr>
+     <tr>
+       <td>Preparado por</td>
+       <td>Andrea Elizabeth Santur Tello</td>
+     </tr>
+     <tr>
+       <td>Asistentes (a la reunión de planificación)</td>
+       <td>Alvaro Bejarano, Mateo Cabanillas, Omar Luquillas, Andrea Santur, Loreley Sarmiento</td>
+     </tr>
+     <tr>
+       <td>Sprint 3 – Resumen de revisión</td>
+       <td>En el Sprint 3, logramos completar las funcionalidades pendientes en el Frontend, asegurando una experiencia de usuario coherente y funcional. Además, se implementó una versión inicial del Backend, que permite gestionar datos relevantes de manera segura y eficiente. También se rediseñó la estructura de la base de datos, permitiendo adaptarla a nuevas funcionalidades que requerían atributos adicionales.</td>
+     </tr>
+     <tr>
+       <td>Sprint 3 – Resumen de retrospectiva</td>
+       <td>Como parte de la mejora continua, estructuramos las tareas del sprint de manera más clara y modular, lo que facilitó la delegación y ejecución individual. Adoptamos una estrategia de revisión colaborativa, donde cada integrante del equipo validaba los avances de los demás. Esto reforzó la cohesión del equipo, aumentó la calidad del código y mejoró nuestra capacidad de reacción ante cambios o incidencias.</td>
+     </tr>
+     <tr>
+       <td>Objetivo y User Stories del Sprint 3</td>
+       <td>
+         <strong>Objetivo del Sprint:</strong> El objetivo fue elaborar la plataforma para garantizar que los usuarios pudieran registrarse, publicar ropa, visualizar los perfiles de otros usuarios, habilitando así la experiencia de compra-venta de ropa de segunda mano que caracteriza a DeathClothe. Para ello, se desarrollaron las funcionalidades esenciales del backend. En un inicio, el planteamiento mencionaba una gestión operativa de restaurante, pero este fue ajustado correctamente al contexto del proyecto, centrándose en la creación de APIs específicas para usuarios, publicaciones y gestión de datos.
+       </td>
+     </tr>
+     <tr>
+       <td>Velocidad del Sprint 3</td>
+       <td>La velocidad del equipo en este sprint fue de 35 story points, reflejando el alto nivel de productividad y compromiso con las tareas planificadas.</td>
+     </tr>
+     <tr>
+       <td>Suma de Story Points</td>
+       <td>35 Story Points atendidos</td>
+     </tr>
+   </tbody>
+ </table>
+
 
 # Conclusiones
 
