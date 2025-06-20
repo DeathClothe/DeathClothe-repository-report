@@ -1,33 +1,4 @@
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    padding: 40px;
-    max-width: 800px;
-    margin: auto;
-  }
-  h1, h2, h3 {
-    color: #24292e;
-    font-weight: bold;
-  }
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  td, th {
-    border: 1px solid #ccc;
-    padding: 6px 12px;
-  }
-   img {
-    display: block;
-    margin: 20px auto;
-    max-width: 100%;
-    height: auto;
-  }
 
-</style>
-
-<div align="center">
 
 ## Universidad Peruana de Ciencias Aplicadas
 
