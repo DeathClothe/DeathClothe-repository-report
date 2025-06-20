@@ -49,9 +49,11 @@ TB2: En esta entrega se trabajaron mejoras tanto en el landing page como en la a
 
 
 **Analíticos de Colaboración:**
+
 ![alt text](./Report_Assets/Contributors.png)
 
 **Analíticos de Commits:**
+
 ![alt text](./Report_Assets//Commits.png)
 
 
