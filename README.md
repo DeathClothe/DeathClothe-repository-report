@@ -1859,9 +1859,10 @@ El Mock-up del Landing Page de DeathClothe representa la integración final de l
 ![MockupWeb1](Report_Assets/MockupInicio.png)
 ![MockupWeb2](Report_Assets/MockupExplora.png)
 ![MockupWeb3](Report_Assets/MockupVende.png)
+![MockupWeb6](Report_Assets/MockUpVideoAbouttheproduct.png)
 ![MockupWeb4](Report_Assets/MockupComunidad.png)
 ![MockupWeb5](Report_Assets/MockupNostros.png)
-
+![MockupWeb7](Report_Assets/MockUpVideoAbouttheteam.png)
 ## 4.4 Web Applications UX/UI Design
 
 Esta sección presenta y explica la propuesta visual y de interacción diseñada para las aplicaciones que conforman la experiencia de usuario de DeathClothe. Se incluyen wireframes, wireflows y mock-ups que detallan cómo se estructuran, organizan y visualizan los contenidos, priorizando la usabilidad, accesibilidad y coherencia con la identidad de marca. La propuesta busca garantizar que los usuarios puedan navegar, interactuar y completar sus objetivos de manera intuitiva, fluida y satisfactoria en todos los puntos de contacto con el producto digital.
