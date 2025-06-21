@@ -1958,7 +1958,6 @@ Además, muestra una vista previa detallada de cada prensa antes de ponerla en l
 
 La navegación dentro del armario permite acceder a categorías específicas, optimizando la visualización de artículos según tipo o características.
 
-![MockupWeb4](Report_Assets/Armario-Mockups.png)
 
 En la sección de Perfil, los usuarios gestionan su información y acceden a sus estadísticas de manera clara, diferenciando perfiles de compradores y vendedores.
 
@@ -2877,9 +2876,11 @@ Durante este Sprint no se realizaron cambios en la Landing Page, manteniéndose 
 ### Screenshots
 <img src="./Report_Assets/imagen1.png">
 <img src="./Report_Assets/imagen2.png">
+<img src="./Report_Assets/imagen2.2.png">
 <img src="./Report_Assets/imagen3.png">
 <img src="./Report_Assets/imagen4.png">
 <img src="./Report_Assets/imagen5.png">
+<img src="./Report_Assets/imagen5.1.png">
 <img src="./Report_Assets/imagen6.png">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
