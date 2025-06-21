@@ -1947,6 +1947,15 @@ El Armario Virtual muestra las prendas propias del usuario, permitiendo una gest
 
 ![MockupWeb3](Report_Assets/ArmarioNormal.png)
 
+Permitiend editar informacion como tipo, talla, color y precio, facilitando la organización de su ropa.
+
+![MockupWeb3](Report_Assets/armarioNormal1.png)
+
+Además, muestra una vista previa detallada de cada prensa antes de ponerla en la venta,y garantiza que cada publicación contenga los datos necesarios.
+
+![MockupWeb3](Report_Assets/ArmarioNormal2.png)
+
+
 La navegación dentro del armario permite acceder a categorías específicas, optimizando la visualización de artículos según tipo o características.
 
 ![MockupWeb4](Report_Assets/Armario-Mockups.png)
