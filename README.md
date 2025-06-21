@@ -3056,7 +3056,9 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
  </table>
 
  #### 5.2.3.2. Aspect Leaders and Collaborators. 
- ### 5.2.3.1. Spring Planning 3
+ ### 5.2.3.1. Sprint Backlog 3
+ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
+<img src="Report_Assets/sprint3-trello.png">
  ### 5.2.3.4. Development Evidence for Sprint Review. 
 ### 5.2.3.5. Execution Evidence for Sprint Review. 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
