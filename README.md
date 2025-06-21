@@ -1613,16 +1613,7 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 | US-18 | Cerrar sesión | Como usuario quiero poder cerrar sesión desde cualquier parte de la aplicación para proteger mi cuenta cuando ya no la estoy usando. |  | EP07 |
 | US-19 |Cambiar idioma en landing page|Como usuario quiero poder cambiar el idioma en la landing page para entender toda la información fácilmente si no hablo español.|  | EP07 |
 | US-20 | Registrar/Iniciar sesión desde landing page | Como usuario nuevo o recurrente, quiero poder registrarme o iniciar sesión directamente desde la landing page, para empezar a usar la plataforma sin navegar a otras secciones. | Escenario 1: Registro e inicio rápido Dado que el usuario está en la página principal, Cuando hace clic en “Registrarse” o “Iniciar sesión”, Entonces se despliega un formulario accesible sin salir de la página. Escenario 2: Validación de acceso Dado que el usuario ya se ha registrado, Cuando introduce sus credenciales correctamente, Entonces se le redirige al dashboard o página principal personalizada. | EP07 |
-| US-21 | Cambiar idioma en app web | Como usuario quiero poder cambiar el idioma en toda la aplicación para usarla cómodamente en el idioma que prefiera. | Escenario 1: Cambio de idioma de español a inglés
-Dado que el usuario está utilizando la aplicación en español
-Y el selector de idioma (language switcher) está visible en la interfaz
-Cuando el usuario selecciona "English" en el selector de idioma
-Entonces todo el contenido de la aplicación se actualiza y se muestra en inglés.
-Escenario 2: Cambio de idioma de inglés a español
-Dado que el usuario está utilizando la aplicación en inglés
-Y el selector de idioma (language switcher) está visible en la interfaz
-Cuando el usuario selecciona "Español" en el selector de idioma
-Entonces todo el contenido de la aplicación se actualiza y se muestra en español. | EP07 |
+| US-21 | Cambiar idioma en app web | Como usuario quiero poder cambiar el idioma en toda la aplicación para usarla cómodamente en el idioma que prefiera. | Escenario 1: Cambio de idioma de español a inglés Dado que el usuario está utilizando la aplicación en español Y el selector de idioma (language switcher) está visible en la interfaz Cuando el usuario selecciona "English" en el selector de idioma Entonces todo el contenido de la aplicación se actualiza y se muestra en inglés. Escenario 2: Cambio de idioma de inglés a español Dado que el usuario está utilizando la aplicación en inglés Y el selector de idioma (language switcher) está visible en la interfaz Cuando el usuario selecciona "Español" en el selector de idioma Entonces todo el contenido de la aplicación se actualiza y se muestra en español. | EP07 |
 | US-22 | Acceder a redes sociales | Como usuario quiero ver íconos de las redes sociales oficiales en la landing page para conocer más sobre la plataforma y su comunidad. |  | EP07 |
 | US-23 | Cambiar entre comprador y vendedor | Como usuario quiero poder cambiar entre vista de comprador y vista de vendedor en mi perfil para alternar según mis necesidades.  | EP07 |
 | US-24 | Editar prendas del armario | Como usuario quiero poder editar las prendas que tengo en mi armario virtual para actualizar su información o ponerlas en venta. |  | EP07 |
