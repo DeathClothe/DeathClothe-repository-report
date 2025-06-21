@@ -398,7 +398,7 @@ Hypothesis Statement 12:
 
 
 #### 1.2.2.4. Lean Ux Canvas
-![LeanUxCanvas](Report_Assets/LeanUxCanvas.PNG)
+![LeanUxCanvas](Report_Assets/LeanUxCanvaV2.PNG)
 
 ## 1.3. Segmentos Objetivos
 
