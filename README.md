@@ -3019,6 +3019,25 @@ A continuación se muestra evidencia de la coolaboración del equipo mediante in
 **Backend**
 <img src="./Report_Assets/sprintInsightsBackend.png">
 
+### 5.3 Validation Interviews
+### 5.3.1 Diseño de entrevistas
+Objetivo de la Entrevistaa 
+Validar la usabilidad y efectividad de la landing pae de DeatchClothe y de los flujos de usuario(user flows) asegurnado que cada flujo sea intuitivo, claro, versátil y funcional para lo usuarios, su interración y navegación con la plataforma.
+
+Elemnetos de validación
+- **Lading Page** : Percepción de la interfaz, efectividad, claridad del mensaje y su capacidad para  motivar a registrarse. 
+- **Fronted** : Usabilidad de los flujos clave, como inicio de sesión, gestión de los productos a presentar, seguimiento de consultas, panel de editación, búsqueda, filtrado,  recomendación de la prenda a conseguir, entre otros.
+
+Flujos de usuario un validor
+S
+
+
+### 5.3.2 Registro de Entrevistas 
+Link de las entrevistas
+
+Presentamos a continuación los resultados de las entrevistas de validación realizadas en ambos segmentos; compradores y vendedores, de nuestros objetivos.
+
+
 # Conclusiones
 
 - **DeathClothe responde a una necesidad real del mercado:**  
