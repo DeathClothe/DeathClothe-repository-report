@@ -3021,21 +3021,73 @@ A continuación se muestra evidencia de la coolaboración del equipo mediante in
 
 ### 5.3 Validation Interviews
 ### 5.3.1 Diseño de entrevistas
-Objetivo de la Entrevistaa 
+### Objetivo de la Entrevistaa 
 Validar la usabilidad y efectividad de la landing pae de DeatchClothe y de los flujos de usuario(user flows) asegurnado que cada flujo sea intuitivo, claro, versátil y funcional para lo usuarios, su interración y navegación con la plataforma.
 
-Elemnetos de validación
+### Elemnetos de validación
 - **Lading Page** : Percepción de la interfaz, efectividad, claridad del mensaje y su capacidad para  motivar a registrarse. 
 - **Fronted** : Usabilidad de los flujos clave, como inicio de sesión, gestión de los productos a presentar, seguimiento de consultas, panel de editación, búsqueda, filtrado,  recomendación de la prenda a conseguir, entre otros.
 
-Flujos de usuario un validor
-S
+### Flujos de usuario un validor
+**segmento Comprador** 
+1. Landing Page
+   - Evaluación  del diseño y claridad del mensaje del producto para captar el interés de un comprador.
+2. Registro e inicio de sesión.
+   - Flujo de creación de cuenta y autenticación
+3. Exploración del catálogo y búsqueda.
+   - Uso de filtros por categoría, talla, marca, estado y precio, según la prenda favorita de tu elección.
+4. Visualización del detalle de una prenda.
+   - Información visible, claridad en precio y estado, botones de acción.
+5. Sugerencias personalizadas
+   - Recomendaciones basadas en tus preferencias.
 
+**Segmento Vendedor**
+1. Landing Page
+   - Evaluación  del diseño y claridad del mensaje del producto para captar el interés de un vendedor.
+   - Visibilidad del acceso al perfil de vendedor y funciones destacadas.
+2. Registro e inicio de sesión.
+   - Flujo de creación de cuenta y autenticación
+3. Panel de perfil del vendedor
+   - Visualización del resumen del usuario (nombre, correo, tipo de usuario, dirección).
+   - Acceso directo a funciones como editar perfil y cerrar sesión.
+4. Gestión de prendas publicadas y vendidas
+   - Modal emergente con detalles de cada prenda: tipo, estado, precio, talla, color.
+   - Opción de edición o eliminación de prendas desde el detalle
+5. Prendas pendientes
+   - Listado de productos aún no vendidos con información completa y botones de acción.
+   - Facilidad para gestionar el estado de venta.
+   
+#### Formato de Registro de la Entrevista
+**Datos del Entrevistado**:
+   - Nombre y apellidos
+   - Edad
+   - Ciudad de residencia
+   - Dispositivo utilizado (laptop)
+#### Preguntas principales 
+- ¿Qué tan fácil te resulta navegar por la aplicación?
+- ¿La app cumple con lo que esperabas? ¿Qué funcionalidad te resultó más valiosa y cuál echas en falta?
+- ¿Cómo se comporta la app en tu teléfono o tablet?
+- ¿Hay pantallas o formularios que no se ven bien?
+- ¿El mensaje principal de la pagina web te quedó claro al primer vistazo?
+- ¿Qué tan claro fue el llamado a la acción en la landing page 
+- ¿Encontraste alguna parte del diseño o navegación confusa o poco intuitiva?
+- En una escala del 1 al 10, ¿cuánto nos recomendarías a un amigo o colega? ¿Por qué?
+- ¿Qué funcionalidad te gustaría que agregáramos o mejoráramos?
 
 ### 5.3.2 Registro de Entrevistas 
 Link de las entrevistas
 
 Presentamos a continuación los resultados de las entrevistas de validación realizadas en ambos segmentos; compradores y vendedores, de nuestros objetivos.
+
+## Segmento: Comprador
+**Entrevista 1**
+**Entrevista 2**
+**Entrevista 3**
+## Segmento: Vendedor
+**Entrevista 1**
+**Entrevista 2**
+**Entrevista 3**
+
 
 
 # Conclusiones
