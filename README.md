@@ -1514,86 +1514,25 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ### Compradores 
-<table border="1" cellpadding="8" cellspacing="0">
-  <thead>
-    <tr>
-      <th>Phases</th>
-      <th>Doing</th>
-      <th>Thinking</th>
-      <th>Feeling</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Búsqueda de Prendas</td>
-      <td>Utiliza filtros avanzados por talla, estilo, color y estado de la prenda.</td>
-      <td>“Por fin puedo buscar justo lo que necesito sin perder tiempo.”</td>
-      <td>Motivado y en control.</td>
-    </tr>
-    <tr>
-      <td>Evaluación de Productos</td>
-      <td>Ve fotos claras y editadas automáticamente, con descripciones estandarizadas y guía de tallas.</td>
-      <td>“Se ve tal como lo quiero, y la talla está bien explicada.”</td>
-      <td>Seguro y entusiasmado.</td>
-    </tr>
-    <tr>
-      <td>Proceso de Compra</td>
-      <td>Compra con un clic, con métodos de pago seguros y protección al comprador.</td>
-      <td>“Puedo confiar, todo se ve profesional y protegido.”</td>
-      <td>Tranquilo y confiado.</td>
-    </tr>
-    <tr>
-      <td>Post-Compra</td>
-      <td>Recibe seguimiento automático con tracking integrado y opciones de devolución.</td>
-      <td>“Sé dónde está mi pedido y tengo respaldo si algo va mal.”</td>
-      <td>Satisfecho y valorado.</td>
-    </tr>
-  </tbody>
-</table>
+
+| Phases                  | Doing                                                                 | Thinking                                                       | Feeling                  |
+|-------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------|
+| Búsqueda de Prendas     | Usa filtros por talla, tipo y color para encontrar prendas que se ajusten a su estilo. | “Ahora puedo filtrar rápido y encontrar ropa que realmente me gusta.” | Motivado y con control.  |
+| Evaluación de Productos | Visualiza prendas con fotos cargadas por los usuarios y descripciones básicas. | “Parece estar bien, pero me gustaría ver más detalles.”          | Interesado pero cauto.   |
+| Gestión de Favoritos    | Guarda prendas favoritas para revisarlas más tarde.                   | “Esta me gusta, la guardaré para pensar mejor.”                | Comprometido y selectivo.|
+| Exploración del Armario | Revisa recomendaciones según su estilo o historial de navegación.     | “Estas sugerencias sí se parecen a lo que suelo buscar.”       | Acompañado y comprendido.|
+
 
 ### Vendedores 
-<table border="1" cellpadding="8" cellspacing="0">
-  <thead>
-    <tr>
-      <th>Phases</th>
-      <th>Doing</th>
-      <th>Thinking</th>
-      <th>Feeling</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Publicación del Producto</td>
-      <td>Sube fotos con editor integrado y recomendaciones automáticas para descripciones.</td>
-      <td>“Ahora sé cómo mostrar mejor mis prendas.”</td>
-      <td>Seguro y orgulloso.</td>
-    </tr>
-    <tr>
-      <td>Gestión de Ventas</td>
-      <td>Usa un panel con estadísticas de ventas, stock y métricas clave.</td>
-      <td>“Ya no me pierdo entre hojas, puedo prever y organizar mejor.”</td>
-      <td>Aliviado y empoderado.</td>
-    </tr>
-    <tr>
-      <td>Proceso de Envío</td>
-      <td>Imprime etiquetas desde la plataforma y accede a servicios de envío integrados.</td>
-      <td>“Puedo enviar sin salir de casa y todo está conectado.”</td>
-      <td>Relajado y eficiente.</td>
-    </tr>
-    <tr>
-      <td>Comunicación con el Comprador</td>
-      <td>Tiene mensajes automáticos para actualizaciones y respuestas frecuentes.</td>
-      <td>“Puedo enfocarme en vender sin responder lo mismo 10 veces.”</td>
-      <td>Ligero y más disponible.</td>
-    </tr>
-    <tr>
-      <td>Post-Venta</td>
-      <td>Recibe feedback automático con badges y recompensas por buenas valoraciones.</td>
-      <td>“Mi esfuerzo es reconocido y me ayuda a vender más.”</td>
-      <td>Motivado y comprometido.</td>
-    </tr>
-  </tbody>
-</table>
+
+
+| Phases                  | Doing                                                                 | Thinking                                                         | Feeling                   |
+|-------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------|
+| Publicación de Prendas  | Usa un formulario para subir imágenes, talla, tipo, color, descripción y precio. | “Es simple publicar, puedo hacerlo en minutos.”                   | Ágil y seguro.            |
+| Gestión del Armario     | Visualiza las prendas que ha subido y su estado (en armario, publicado, favorito). | “Puedo llevar control de mis publicaciones fácilmente.”           | Tranquilo y ordenado.     |
+| Edición de Prendas      | Modifica datos de la prenda desde su perfil con formularios intuitivos. | “Puedo mejorar la descripción o cambiar el precio si quiero.”     | Empoderado y cómodo.      |
+| Visibilidad del Perfil  | Accede a una vista general de sus prendas favoritas, armario y publicadas. | “Me gusta ver todo lo que he subido en un solo lugar.”            | Conectado y orgulloso.    |
+
 
 ## 3.2. User Stories
 
