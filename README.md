@@ -1547,49 +1547,40 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
       <th>Descripción</th>
     </tr>
   </thead>
- <tbody>
-  <tr>
-    <td>EPIC-1</td>
-    <td>Gestión de Publicaciones</td>
-    <td>Como usuario, quiero publicar, editar y eliminar prendas de forma eficiente, para mantener mi catálogo actualizado y atractivo.</td>
-  </tr>
-  <tr>
-    <td>EPIC-2</td>
-    <td>Búsqueda y Filtrado Avanzado</td>
-    <td>Como comprador, quiero buscar y filtrar prendas de manera precisa, para encontrar rápidamente lo que necesito o deseo.</td>
-  </tr>
-  <tr>
-    <td>EPIC-3</td>
-    <td>Recomendaciones Personalizadas	</td>
-    <td>Como usuario, quiero recibir sugerencias basadas en mi estilo y comportamiento, para descubrir prendas relevantes sin esfuerzo.</td>
-  </tr>
-  <tr>
-    <td>EPIC-4</td>
-    <td>Gestión de Transacciones</td>
-    <td>Como vendedor, quiero gestionar ventas, estadísticas y notificaciones, para optimizar mi actividad en la plataforma.</td>
-  </tr>
-  <tr>
-    <td>EPIC-5</td>
-    <td>Armario Virtual	</td>
-    <td>Como usuario, quiero crear y administrar un armario virtual, para organizar mis prendas y mejorar mis recomendaciones.</td>
-  </tr>
-  <tr>
-    <td>EPIC-6</td>
-    <td>Sistema de Confianza	</td>
-    <td>Como usuario, quiero evaluar y reportar perfiles o prendas, para contribuir a una comunidad segura y transparente.</td>
-  </tr>
-  <tr>
-    <td>EPIC-7</td>
-    <td>Interacción Social	</td>
-    <td>Como usuario, quiero compartir y guardar prendas, para interactuar con la comunidad y construir mi estilo de manera colaborativa.</td>
-  </tr>
-  <tr>
-    <td>EPIC-8</td>
-    <td>Gestión de Favoritos	</td>
-    <td>Como comprador, quiero guardar y organizar prendas de interés, para facilitar decisiones futuras de compra.</td>
-  </tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td>EP-01</td>
+      <td>Exploración y descubrimiento de prendas</td>
+      <td>Permite a los usuarios descubrir nuevas prendas a través de recomendaciones, filtros, categorías, novedades y búsquedas específicas.</td>
+    </tr>
+    <tr>
+      <td>EP-02</td>
+      <td>Gestión de ventas de prendas</td>
+      <td>Permite a los usuarios vender ropa de forma sencilla, incluyendo publicación, edición, eliminación, y marcación de artículos como vendidos.</td>
+    </tr>
+    <tr>
+      <td>EP-03</td>
+      <td>Favoritos y armario virtual</td>
+      <td>Permite a los usuarios guardar prendas en favoritos, gestionarlas, y construir un armario virtual organizado por categorías.</td>
+    </tr>
+    <tr>
+      <td>EP-04</td>
+      <td>Gestión de cuenta y autenticación</td>
+      <td>Permite a los usuarios registrarse, iniciar o cerrar sesión, y cambiar el idioma desde cualquier punto de la aplicación.</td>
+    </tr>
+    <tr>
+      <td>EP-05</td>
+      <td>Interfaz informativa y accesible</td>
+      <td>Incluye funcionalidades de la landing page como visualización de propuesta de valor, redes sociales, y acceso rápido a registro/login.</td>
+    </tr>
+    <tr>
+      <td>EP-06</td>
+      <td>Gestión del perfil de usuario</td>
+      <td>Permite alternar entre vista de comprador y vendedor, visualizar estadísticas y acceder a datos relevantes dentro del perfil.</td>
+    </tr>
+  </tbody>
 </table>
+
 
 ## User Stories
 
