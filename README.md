@@ -3055,6 +3055,19 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
    </tbody>
  </table>
 
+ #### 5.2.3.2. Aspect Leaders and Collaborators. 
+ ### 5.2.3.1. Spring Planning 3
+ ### 5.2.3.4. Development Evidence for Sprint Review. 
+### 5.2.3.5. Execution Evidence for Sprint Review. 
+### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+### 5.2.3.8. Team Collaboration Insights during Sprint. 
+A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.<br>
+**Frontend**
+<img src="./Report_Assets/sprintInsightsFronted.png">
+
+**Backend**
+<img src="./Report_Assets/sprintInsightsBackend.png">
 
 # Conclusiones
 
