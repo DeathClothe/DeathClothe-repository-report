@@ -3158,6 +3158,98 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 
 
 
+### 5.3.3 Evaluación según Heurísticas – *DeathClothe*
+
+**UX Heuristics & Principles Evaluation**
+
+**Carrera:** Ingeniería de Software  
+**Curso:** Aplicaciones Web  
+**Sección:** WS53  
+**Auditor:** Latte  
+**Clientes:** DeathClothe  
+
+**Sitio Evaluado:** Plataforma Web y Landing Page de DeathClothe  
+**Versión:** Revisión de interfaz estática y estructura de navegación inicial
+
+---
+
+### Tareas evaluadas
+
+#### Landing Page
+- Visualización de propuesta del proyecto
+- CTA hacia inicio de sesión o más información
+- Navegación general (header/footer)
+
+#### Web Application
+- Visualización de perfil de usuario (rol vendedor)
+- Edición de prendas y control de inventario
+- Tabs: prendas publicadas, pendientes y vendidas
+
+---
+
+### Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial |
+| 2     | Problema menor |
+| 3     | Problema mayor |
+| 4     | Problema muy grave |
+
+---
+
+### Tabla Resumen
+
+#### Web Application
+
+| # | Problema | Severidad | Heurística violada |
+|---|----------|-----------|---------------------|
+| 1 | Interfaz de prendas no estandariza botones o campos de edición | 2 | Usability – Consistency and Standards |
+| 2 | Falta de mensajes al guardar cambios | 2 | Usability – Feedback and System Status |
+| 3 | No hay validación visual en campos vacíos | 3 | Usability – Error Prevention |
+
+#### Landing Page
+
+| # | Problema | Severidad | Heurística violada |
+|---|----------|-----------|---------------------|
+| 1 | CTA no es visualmente prominente | 2 | Usability – Visibility of System Status |
+| 2 | No se contextualiza claramente el tipo de proyecto en el primer scroll | 1 | IA – Is it Clear? |
+| 3 | Header no es sticky ni adaptativo en mobile | 2 | Usability – Flexibility and Efficiency |
+
+---
+
+### Descripción de Problemas
+
+#### Web Application
+
+**1. Inconsistencia de interfaz (botones, inputs)**  
+- Severidad: 2  
+- Recomendación: Unificar estilo visual y comportamiento de botones en todos los formularios.
+
+**2. Ausencia de retroalimentación visual al guardar cambios**  
+- Severidad: 2  
+- Recomendación: Incluir alertas tipo toast o banners al guardar edición de prendas.
+
+**3. Formularios no muestran errores en campos vacíos**  
+- Severidad: 3  
+- Recomendación: Implementar validaciones en tiempo real y mensajes visuales para evitar errores.
+
+#### Landing Page
+
+**1. CTA poco visible o persuasivo**  
+- Severidad: 2  
+- Recomendación: Rediseñar botones con colores llamativos, iconos, y texto enfocado en beneficio.
+
+**2. Falta de claridad en el mensaje inicial**  
+- Severidad: 1  
+- Recomendación: Agregar título impactante y subtítulo aclaratorio al inicio del scroll.
+
+**3. Header no se mantiene en vista en dispositivos móviles**  
+- Severidad: 2  
+- Recomendación: Hacer sticky el header y mejorar la usabilidad responsive.
+
+
+
 # Conclusiones
 
 - **DeathClothe responde a una necesidad real del mercado:**  
