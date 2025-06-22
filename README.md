@@ -2452,7 +2452,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Cambiar idioma en landing page</td>
       <td>2</td>
       <td>Omar Luquillas</td>
-      <td>Done</td>
+      <td>Review </td>
     </tr>
     <tr>
       <td>Work-Item</td>
