@@ -1811,32 +1811,56 @@ Esta sección presenta y explica la propuesta visual y de interacción diseñada
 
 La experiencia en DeathClothe inicia con la pantalla de login, donde el usuario puede ingresar sus credenciales de forma sencilla para acceder a su cuenta en la plataforma.
 
-![WireframeWeb1](Report_Assets/Login.png)
+![WireframeWeb1](Report_Assets/LoginWireframe.png)
 
 Si el usuario no tiene cuenta, puede registrarse fácilmente completando un formulario que solicita los datos básicos para crear un perfil.
 
-![WireframeWeb2](Report_Assets/Register.png)
+![WireframeWeb2](Report_Assets/RegisterWireframe.png)
 
 Una vez dentro, el usuario accede a la sección de Inicio, donde se le presentan prendas destacadas, sugerencias personalizadas y novedades relevantes.
 
-![WireframeWeb5](Report_Assets/Inicio.png)
+![WireframeWeb5](Report_Assets/InicioWireframe.png)
 
-En la sección Explorar, los usuarios pueden visualizar el catálogo completo de prendas, filtrando resultados según sus preferencias como talla, color, tipo de prenda o precio.
+En la sección Explorar, los usuarios pueden visualizar el catálogo completo de prendas, filtrando resultados según las categorias existentes.
 
-![WireframeWeb4](Report_Assets/Explorar.png)
+![WireframeWeb4](Report_Assets/ExplorarWireframe.png)
 
-Dentro del Armario Virtual, los usuarios pueden gestionar y visualizar todas las prendas que han subido o guardado en su perfil personal.
+Dentro del Armario Virtual, los usuarios pueden gestionar y visualizar todas las prendas que han subido o han comprado en su perfil personal, pueden filtrar las prendas por el tipo dentro de su armario, facilitando la organización y búsqueda de sus artículos.
 
-![WireframeWeb3](Report_Assets/Armario-Virtual.png)
+![WireframeWeb3](Report_Assets/ArmarioWireframe.png)
 
-También pueden acceder a categorías específicas dentro de su armario, facilitando la organización y búsqueda de sus artículos.
+Al seleccionar el boton de editar, pueden cambiar la talla, color o titulo de la prenda.
 
-![WireframeWeb4](Report_Assets/Armario.png)
+![WireframeWeb4](Report_Assets/ArmarioEditarWireframe.png)
 
-En el área de Perfil, el usuario puede revisar su información personal, estadísticas de actividad y editar sus datos, ya sea en su versión de comprador o vendedor.
+Además pueden agregar prendas desde el armario virtual, rellenando un simple formulario.
 
-![WireframeWeb5](Report_Assets/PerfilVendedor.png)
-![WireframeWeb2](Report_Assets/PerfillComprador.png)
+![WireframeWeb4](Report_Assets/ArmarioAgregarWireframe.png)
+
+En el área de Perfil, el usuario puede revisar su información personal, ya sea en su versión de comprador o vendedor.
+
+![WireframeWeb5](Report_Assets/PerfilCompradorWireframe.png)
+
+Al seleccionar el catalogo de favoritos, saldran todas las prendas que haz guardado y un apartado de busqueda para facilitar el encontrar una prenda
+
+![WireframeWeb5](Report_Assets/PerfillComprador-CatalogoFavoritos-Wireframe.png)
+
+Por ultimo, al ver el para ti, este te dara recomendaciones por tus favoritos
+
+![WireframeWeb5](Report_Assets/PerfillComprador-Parati-Wireframe.png)
+
+Al cambiar a la seccion de vendedor podremos ver las prendas vendidas, pendientes y estadisitcas de sus ventas.
+
+![WireframeWeb5](Report_Assets/PerfilVendedorWireframe.png)
+
+El usuario puede ver todas las prendas que tiene en vendidas y pendientes al presionar la lista respectiva de cada uno
+
+![WireframeWeb5](Report_Assets/PerfilVendedor-PendientesWireframe.png)
+![WireframeWeb5](Report_Assets/PerfilVendedor-VendidasWireframe.png)
+
+Finalmente, puede editar las prendas pendientes, para marcar que ya se vendieron, editar datos o eliminarla de la venta
+
+![WireframeWeb5](Report_Assets/PerfilVendedor-EditarPrendaWireframe.png)
 
 Desde el ícono de mensajería, el usuario accede a sus chats activos para gestionar la comunicación con otros usuarios interesados en sus prendas.
 
@@ -1844,7 +1868,7 @@ Desde el ícono de mensajería, el usuario accede a sus chats activos para gesti
 
 En la sección de Favoritos, el usuario encuentra todas las prendas que ha guardado para futuras compras.
 
-![WireframeWeb5](Report_Assets/Favoritos.png)
+![WireframeWeb5](Report_Assets/FavoritosWireframe.png)
 
 Al seleccionar una prenda, se despliega una vista detallada donde puede revisar información completa, contactar al vendedor y decidir sobre la compra.
 
