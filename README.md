@@ -2818,7 +2818,6 @@ Durante este Sprint no se realizaron cambios en la Landing Page, manteniéndose 
 <img src="./Report_Assets/imagen2.1.png">
 <img src="./Report_Assets/imagen3.1.png">
 <img src="./Report_Assets/imagen4.1.png">
-<img src="./Report_Assets/imagen5.1.png">
 <img src="./Report_Assets/imagen5.2.png">
 <img src="./Report_Assets/imagen6.png">
 
@@ -3020,6 +3019,11 @@ Link:
 <img src="./Report_Assets/imagen4.png">
 <img src="./Report_Assets/imagen5.png">
 <img src="./Report_Assets/imagen5.1.png">
+<img src="./Report_Assets/imagen5.3.png">
+<img src="./Report_Assets/imagen6.2.png">
+<img src="./Report_Assets/imagen7.1.png">
+<img src="./Report_Assets/imagen7.2.png">
+
 Por último se ejecutó el backend con swagger. Esta ejecución fue localmente, no se ha desplegado en este sprint. <br>
 <img src="./Report_Assets/imagen6.1.png">
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
