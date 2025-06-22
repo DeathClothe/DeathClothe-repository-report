@@ -3016,25 +3016,59 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
  ### 5.2.3.1. Sprint Backlog 3
  Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
 <img src="Report_Assets/sprint3-trello.png">
-| **Work‑Item / Task** | **User Story ID** | **Task ID** | **Description**                                                | **Estimation (Hours)** | **Assigned To**   | **Status** |
-| -------------------- | ----------------- | ----------- | -------------------------------------------------------------- | ---------------------- | ----------------- | ---------- |
-| Work‑Item            | US‑01             | T01         | Desarrollar recomendaciones personalizadas según favoritos     | 5                      | Alvaro Bejarano   | Done       |
-| Work‑Item            | US‑10             | T02         | Agregar prendas a la lista de favoritos                        | 3                      | Andrea Santur     | Done       |
-| Work‑Item            | US‑11             | T03         | Implementar armario virtual con prendas favoritas o compradas  | 5                      | Mateo Cabanillas  | Done       |
-| Work‑Item            | US‑15             | T04         | Filtrar prendas por tipo dentro del armario virtual            | 3                      | Loreley Sarmiento | Done       |
-| Work‑Item            | US‑16             | T05         | Buscar prendas por nombre dentro de favoritos                  | 3                      | Loreley Sarmiento | Done       |
-| Work‑Item            | US‑07             | T06         | Editar o eliminar prendas ya publicadas                        | 5                      | Andrea Santur     | Done       |
-| Work‑Item            | US‑09             | T07         | Marcar prendas como vendidas e inhabilitarlas del catálogo     | 5                      | Omar Luquilla     | Done       |
-| Work‑Item            | TS‑02             | T08         | Implementar consultas SQL optimizadas para filtros avanzados   | 5                      | Alvaro Bejarano   | Done       |
-| Work‑Item            | TS‑03             | T09         | Establecer relaciones entre prendas y armario virtual en MySQL | 5                      | Mateo Cabanillas  | Done       |
-| Work‑Item            | TS‑08             | T10         | Agregar índices en campos clave de las tablas MySQL            | 3                      | Omar Luquilla     | Done       |
-| Work‑Item            | **US‑25**         | T11         | Implementar historial de prendas vistas recientemente          | 3                      | Andrea Santur     | Done       |
-| Work‑Item            | **US‑26**         | T12         | Mostrar mensajes anteriores con vendedores/compradores         | 5                      | Mateo Cabanillas  | Done       |
-| Work‑Item            | **US‑27**         | T13         | Permitir cambio de contraseña desde el perfil                  | 3                      | Alvaro Bejarano   | Done       |
-| Work‑Item            | **US‑28**         | T14         | Implementar eliminación de cuenta de usuario                   | 3                      | Loreley Sarmiento | Done       |
-| Work‑Item            | **US‑29**         | T15         | Mostrar estado (vendido/disponible) de prendas en favoritos    | 2                      | Omar Luquilla     | Done       |
-| Work‑Item            | **US‑30**         | T16         | Habilitar compartir prenda por redes sociales o enlace         | 2                      | Andrea Santur     | Done       |
-| Work‑Item            | **US‑31**         | T17         | Mostrar tiempo transcurrido desde la publicación de la prenda  | 1                      | Alvaro Bejarano   | Done       |
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Work‑Item / Task</strong></th>
+      <th><strong>User Story ID</strong></th>
+      <th><strong>Task ID</strong></th>
+      <th><strong>Description</strong></th>
+      <th><strong>Estimation (Hours)</strong></th>
+      <th><strong>Assigned To</strong></th>
+      <th><strong>Status</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Work‑Item</td><td>US‑01</td><td>T01</td><td>Recibir recomendaciones en base a mis favoritos</td><td>5</td><td>Alvaro Bejarano</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>US‑10</td><td>T02</td><td>Agregar prendas a la lista de favoritos</td><td>3</td><td>Andrea Santur</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>US‑11</td><td>T03</td><td>Implementar armario virtual con prendas favoritas o compradas</td><td>5</td><td>Mateo Cabanillas</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>US‑15</td><td>T04</td><td>Filtrar prendas por tipo dentro del armario virtual</td><td>3</td><td>Loreley Sarmiento</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>US‑16</td><td>T05</td><td>Buscar prendas por nombre dentro de favoritos</td><td>3</td><td>Loreley Sarmiento</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>US‑07</td><td>T06</td><td>Editar o eliminar prendas ya publicadas</td><td>5</td><td>Andrea Santur</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>US‑18</td><td>T18</td><td>Implementar cambio de idioma en la landing</td><td>3</td><td>Loreley Sarmiento</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>US‑09</td><td>T07</td><td>Marcar prendas como vendidas e inhabilitarlas del catálogo</td><td>5</td><td>Omar Luquilla</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>TS‑02</td><td>T08</td><td>Implementar consultas SQL optimizadas para filtros avanzados</td><td>5</td><td>Alvaro Bejarano</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>TS‑03</td><td>T09</td><td>Establecer relaciones entre prendas y armario virtual en MySQL</td><td>5</td><td>Mateo Cabanillas</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>TS‑08</td><td>T10</td><td>Agregar índices en campos clave de las tablas MySQL</td><td>3</td><td>Omar Luquilla</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>US‑23</td><td>T11</td><td>Editar prendas del armario</td><td>3</td><td>Loreley Sarmiento</td><td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
  ### 5.2.3.4. Development Evidence for Sprint Review. 
