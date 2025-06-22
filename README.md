@@ -113,8 +113,8 @@ TB2: En esta entrega se trabajaron mejoras tanto en el landing page como en la a
   - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
     - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
     - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    - [4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)
-    - [4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
   - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
   - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
     - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -1885,6 +1885,7 @@ Finalmente, se muestra el proceso de compra, donde el usuario confirma su inter�
 ![MockupWeb3](Report_Assets/userFlowWireFrame3.png)
 ![MockupWeb4](Report_Assets/userFlowWireFrame4.png)
 ![MockupWeb5](Report_Assets/userFlowWireFrame5.png)
+
 ### 4.4.3 Web Applications Mock-ups
 
 Los mock-ups de DeathClothe muestran el diseño final con todos los elementos gráficos, colores, tipografías y componentes interactivos integrados, reflejando la identidad visual de la plataforma.
