@@ -2365,7 +2365,7 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
 | ---------------------------------- | ---------------- | ---------------- | ---------------- | ------------ | -------------- | ----------------- |
 | **Santur Tello, Andrea Elizabeth** | andreli-star     | C                | **L**            | C            | C              | C                 |
 | **Bejarano, Alvaro**               | Albro310306      | C                | C                | **L**        | **L**          | C                 |
-| **Cabanillas, Mateo**              | marckszz         | C                | C                | C            | C              | **L**             |
+| **Cabanillas, Mateo**              | marckszz         | C                |**L**             | **L**        | C              | **L**             |
 | **Luquillas, Omar**                | OmarLLA          | C                | C                | C            | C              | C                 |
 | **Sarmiento, Loreley**             | loreleysarmiento | C                | C                | C            | C              | C                 |
 
@@ -2606,7 +2606,7 @@ A través del Sprint 1 y de lo mencionado, estamos elaborando la parte complemen
 | ---------------------------------- | ---------------- | -------------------- | --------------- | ------------ | -------------- | ----------------- |
 | **Santur Tello, Andrea Elizabeth** | andreli-star     | C                    | C               | **L**        | C              | **L**             |
 | **Bejarano, Alvaro**               | Albro310306      | C                    | C               | C            | C              | C                 |
-| **Cabanillas, Mateo**              | marckszz         | C                    | C               | C            | C              | C                 |
+| **Cabanillas, Mateo**              | marckszz         | C                    | **L**           | **L**        | **L**          | C                 |
 | **Luquillas, Omar**                | OmarLLA          | **L**                | **L**           | **L**        | **L**          | **L**             |
 | **Sarmiento, Loreley**             | loreleysarmiento | **L**                | **L**           | **L**        | **L**          | **L**             |
 
@@ -2926,7 +2926,7 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
 | ---------------------------------- | ---------------- | ----------- | --------------- | ------------ | -------------- | ----------------- |
 | **Santur Tello, Andrea Elizabeth** | andreli-star     | C           | C               | **L**        | C              | **L**             |
 | **Bejarano, Alvaro**               | Albro310306      | **L**       | **L**           | C            | **L**          | C                 |
-| **Cabanillas, Mateo**              | marckszz         | C           | C               | C            | C              | C                 |
+| **Cabanillas, Mateo**              | marckszz         | C           |**L**            | C            |**L**           | **L**             |
 | **Luquillas, Omar**                | OmarLLA          | **L**       | **L**           | C            | C              | C                 |
 | **Sarmiento, Loreley**             | loreleysarmiento | **L**       | **L**           | **L**        | C              | **L**             |
    
