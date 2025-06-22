@@ -2361,13 +2361,14 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-| **Integrante del equipo**          | **Usuario GitHub** | **Estructura Frontend** | **Secciones Funcionales** | **Estilo y Branding** | **Responsive y Adaptabilidad** | **Pruebas y Ajustes** |
-| ---------------------------------- | ------------------ | ----------------------- | ------------------------- | --------------------- | ------------------------------ | --------------------- |
-| **Santur Tello, Andrea Elizabeth** | andreli-star       | C                       | **L**                     | **L**                 | C                              | C                     |
-| **Bejarano, Alvaro**               | Albro310306         | **L**                   | C                         | C                     | **L**                          | C                     |
-| **Cabanillas, Mateo**              | marckszz          | C                       | C                         | C                     | C                              | **L**                 |
-| **Luquillas, Omar**                | OmarLLA            | C                       | C                         | C                     | C                              | C                     |
-| **Sarmiento, Loreley**             | loreleysarmiento   | C                       | C                         | C                     | C                              | C                     |
+| **Integrante del equipo**          | **GitHub**       | **Landing Page** | **Diseño UI/UX** | **HTML/CSS** | **TypeScript** | **Documentación** |
+| ---------------------------------- | ---------------- | ---------------- | ---------------- | ------------ | -------------- | ----------------- |
+| **Santur Tello, Andrea Elizabeth** | andreli-star     | C                | **L**            | C            | C              | C                 |
+| **Bejarano, Alvaro**               | Albro310306      | C                | C                | **L**        | **L**          | C                 |
+| **Cabanillas, Mateo**              | marckszz         | C                | C                | C            | C              | **L**             |
+| **Luquillas, Omar**                | OmarLLA          | C                | C                | C            | C              | C                 |
+| **Sarmiento, Loreley**             | loreleysarmiento | C                | C                | C            | C              | C                 |
+
 .
 
 #### 5.2.1.3. Sprint Backlog 1 
@@ -2601,60 +2602,14 @@ A través del Sprint 1 y de lo mencionado, estamos elaborando la parte complemen
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
-Durante el Sprint, se llevaron a cabo las siguientes actividades principales:
+| **Integrante del equipo**          | **GitHub**       | **FrontEnd Angular** | **Material UI** | **HTML/CSS** | **TypeScript** | **Documentación** |
+| ---------------------------------- | ---------------- | -------------------- | --------------- | ------------ | -------------- | ----------------- |
+| **Santur Tello, Andrea Elizabeth** | andreli-star     | C                    | C               | **L**        | C              | **L**             |
+| **Bejarano, Alvaro**               | Albro310306      | C                    | C               | C            | C              | C                 |
+| **Cabanillas, Mateo**              | marckszz         | C                    | C               | C            | C              | C                 |
+| **Luquillas, Omar**                | OmarLLA          | **L**                | **L**           | **L**        | **L**          | **L**             |
+| **Sarmiento, Loreley**             | loreleysarmiento | **L**                | **L**           | **L**        | **L**          | **L**             |
 
-1. Implementación de la estructura básica del Frontend
-Se creó una landing page funcional siguiendo los principios de moda circular de DeathClothe.
-
-Tecnologías utilizadas: HTML5, CSS3, TailwindCSS, JavaScript puro.
-
-2. Construcción de las secciones principales
-Se implementaron los siguientes módulos:
-
-Header responsivo: Logo, menú de navegación y botón de inicio de sesión.
-
-Sección Inicio: Mensaje de bienvenida y visual atractivo con imágenes.
-
-Sección Explora: Presentación de ropa destacada con filtros de talla, color y estilo.
-
-Sección Vende: Guía rápida en tres pasos para la venta de prendas.
-
-Sección Comunidad: Testimonios reales de usuarios compradores y vendedores.
-
-Sección Nosotros: Filosofía y propósito de DeathClothe.
-
-3. Prototipado y optimización responsive
-Adaptación de la landing page a móviles, tabletas y computadoras usando media queries.
-
-Se ajustaron imágenes, textos y menús para una experiencia fluida en diferentes dispositivos.
-
-4. Estilo y branding
-Paleta de colores: tonos rosados y pastel para transmitir una sensación de moda, calidez y sostenibilidad.
-
-Tipografía: Fuente K2D para lograr una apariencia moderna y amigable.
-
-5. Implementación básica de funcionalidades
-Botón de menú desplegable para navegación en dispositivos móviles (hamburguesa ☰).
-
-Redireccionamiento interno entre las secciones mediante anclas (#).
-
-6. Pruebas realizadas
-Se realizaron pruebas internas para validar:
-
-Correcta visualización de la landing page en diferentes navegadores (Chrome, Firefox, Edge).
-
-Adaptabilidad en dispositivos móviles y tablets.
-
-Fluidez de navegación entre las secciones.
-
-Funcionamiento del botón de menú en dispositivos móviles.
-
-7. Capturas de evidencia presentadas en la revisión del Sprint
-Captura de la página principal cargando exitosamente.
-
-Captura del menú responsivo funcionando en móvil.
-
-Captura de navegación fluida entre las secciones: Inicio, Explora, Vende, Comunidad y Nosotros.
 
 #### 5.2.2.3. Sprint Backlog 2
 
@@ -2967,6 +2922,14 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
  </table>
 
  #### 5.2.3.2. Aspect Leaders and Collaborators. 
+ | **Integrante del equipo**          | **GitHub**       | **BackEnd** | **Spring Boot** | **HTML/CSS** | **TypeScript** | **Documentación** |
+| ---------------------------------- | ---------------- | ----------- | --------------- | ------------ | -------------- | ----------------- |
+| **Santur Tello, Andrea Elizabeth** | andreli-star     | C           | C               | **L**        | C              | **L**             |
+| **Bejarano, Alvaro**               | Albro310306      | **L**       | **L**           | C            | **L**          | C                 |
+| **Cabanillas, Mateo**              | marckszz         | C           | C               | C            | C              | C                 |
+| **Luquillas, Omar**                | OmarLLA          | **L**       | **L**           | C            | C              | C                 |
+| **Sarmiento, Loreley**             | loreleysarmiento | **L**       | **L**           | **L**        | C              | **L**             |
+   
  ### 5.2.3.1. Sprint Backlog 3
  Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
 <img src="Report_Assets/sprint3-trello.png">
