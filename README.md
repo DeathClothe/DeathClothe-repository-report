@@ -2941,7 +2941,7 @@ Se utilizaron métricas clave de GitHub para medir la colaboración del equipo:
 - Frecuencia de actividad
 
 ### Capturas de Analíticos de Colaboración en GitHub:
-<img src="./Report_Assets/imagen13.png">
+<img src="./Report_Assets/imagen13.1.png">
 <img src="./Report_Assets/imagen14.png">
 <img src="./Report_Assets/imagen15.png">
 
@@ -3016,6 +3016,7 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
 A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.<br>
 **Frontend**
 <img src="./Report_Assets/sprintInsightsFronted.png">
+<img src="./Report_Assets/imagen13.png">
 
 **Backend**
 <img src="./Report_Assets/sprintInsightsBackend.png">
