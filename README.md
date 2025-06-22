@@ -1866,7 +1866,7 @@ Desde el ícono de mensajería, el usuario accede a sus chats activos para gesti
 
 ![WireframeWeb3](Report_Assets/comprando-wireframe.png)
 
-En la sección de Favoritos, el usuario encuentra todas las prendas que ha guardado para futuras compras.
+En la sección de Favoritos, el usuario encuentra recomendaciones basada en sus prendas favoritas.
 
 ![WireframeWeb5](Report_Assets/FavoritosWireframe.png)
 
