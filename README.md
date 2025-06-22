@@ -2452,6 +2452,51 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Loreley Sarmiento</td>
       <td>Done</td>
     </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US25</td>
+      <td>T05</td>
+      <td>Explorar la seccion Home en Landing Page	</td>
+      <td>3</td>
+      <td>Omar Luquillas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US26</td>
+      <td>T05</td>
+      <td>Explorar la seccion Explore en Landing Page	</td>
+      <td>3</td>
+      <td>Andrea Santur</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US27</td>
+      <td>T05</td>
+      <td>Explorar la seccion Sell en Landing Page</td>
+      <td>3</td>
+      <td>Mateo Cabanillas</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US28</td>
+      <td>T05</td>
+      <td>Explorar la seccion Community en Landing Pag</td>
+      <td>2</td>
+      <td>Alvaro Bejarano</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US29</td>
+      <td>T09</td>
+      <td>Explorar la seccion About-Us en Landing Pag	</td>
+      <td>2</td>
+      <td>Loreley Sarmiento</td>
+      <td>Done</td>
+    </tr>
   </tbody>
 </table>
 
