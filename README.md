@@ -3008,6 +3008,19 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
  Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
 <img src="Report_Assets/sprint3-trello.png">
  ### 5.2.3.4. Development Evidence for Sprint Review. 
+| **Repository**       | **Branch** | **Commit ID** | **Commit Message**                      | **Commit Message Body**                                                               | **Committed on (Date)** |
+| -------------------- | ---------- | ------------- | --------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------- |
+| DeathClothe/code-web | main       | `b45c281`     | `feat`: Update Explore.vue              | Se actualizaron componentes para mejorar la exploración del catálogo.                 | 2025-06-21              |
+| DeathClothe/code-web | main       | `a7c3d1f`     | `fix`: activeLang                       | Se solucionó la persistencia del idioma seleccionado en la barra superior.            | 2025-06-21              |
+| DeathClothe/code-web | main       | `e9f2b4a`     | `feat(toolbar)`: add language buttons   | Se añadió el switcher de idiomas al toolbar para mejorar accesibilidad.               | 2025-06-21              |
+| DeathClothe/code-web | main       | `c1d7e2b`     | `feat(profile)`: add edit-profile-modal | Se implementó la edición de perfil mediante un modal emergente.                       | 2025-06-21              |
+| DeathClothe/code-web | main       | `d6e4f1c`     | `feat`: Create CategoryDetail.vue       | Se agregó vista de detalle para cada categoría del catálogo.                          | 2025-06-20              |
+| DeathClothe/code-web | main       | `f3a8c2d`     | `feat`: buyer-profile                   | Se creó el perfil principal del comprador con sus respectivas secciones.              | 2025-06-19              |
+| DeathClothe/code-web | main       | `b7f3a6e`     | `feat`: detalle de la ropa              | Se implementó la visualización detallada de una prenda (imagen, precio, descripción). | 2025-06-18              |
+| DeathClothe/code-web | main       | `a9b1e2c`     | `feat`: favoritos                       | Se desarrolló el sistema de favoritos para guardar prendas de interés.                | 2025-06-18              |
+| DeathClothe/code-web | main       | `c8d5a1f`     | `feat`: seller-profile                  | Se implementó la vista del perfil del vendedor con secciones de productos vendidos.   | 2025-06-17              |
+
+
 ### 5.2.3.5. Execution Evidence for Sprint Review. 
 La Landing Page tuvo un rediseño. <br>
 Link: https://deathclothe.github.io/DEATHCLOTHELandingPage/ 
