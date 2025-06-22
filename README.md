@@ -3115,7 +3115,7 @@ A continuación se muestra evidencia de la coolaboración del equipo mediante in
 **Frontend**
 <img src="./Report_Assets/sprintInsightsFronted.png">
 <img src="./Report_Assets/imagen13.png">
-
+<img src="./Report_Assets/BranchReport.PNG">
 **Backend**
 <img src="./Report_Assets/sprintInsightsBackend.png">
 
