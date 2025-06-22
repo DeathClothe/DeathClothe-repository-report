@@ -1928,7 +1928,7 @@ La navegación dentro del armario permite acceder a categorías específicas, op
 
 ![MockupWeb3](Report_Assets/ArmarioNormal.png)
 
-Permitiend editar informacion como tipo, talla, color y precio, facilitando la organización de su ropa.
+Permitiendo editar informacion como tipo, talla, color y precio, facilitando la organización de su ropa.
 
 ![MockupWeb3](Report_Assets/armarioNormal1.png)
 
@@ -1940,6 +1940,10 @@ En la sección de Perfil, los usuarios gestionan su información y acceden a sus
 
 ![MockupWeb5](Report_Assets/PerfilVendedorMockup.png)
 ![MockupWeb2](Report_Assets/PerfilCompradorMockup.png)
+
+Asi mismo en los dos perfiles podemos editar la informacion del usuario
+
+![MockupWeb2](Report_Assets/EditarPerfilMockup.png)
 
 En el perfil de comprador podemos observar un catalogo de favoritos, que nos permite buscar una prenda especifica.
 
@@ -1984,11 +1988,16 @@ Finalmente, el proceso de compra se lleva a cabo en un entorno seguro, visualmen
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-![WireframeWeb1](Report_Assets/userFlow1.PNG)
-![WireframeWeb2](Report_Assets/registerflow.PNG)
-![WireframeWeb3](Report_Assets/UserFlowPerfiles.PNG)
-![WireframeWeb4](Report_Assets/UserFlowArmario.PNG)
-![WireframeWeb5](Report_Assets/UserFlowCompra.PNG)
+![WireframeWeb1](Report_Assets/InicioSesionWireFlow)
+![WireframeWeb2](Report_Assets/CrearCuentaWireFlow)
+![WireframeWeb3](Report_Assets/DetalleRopaWireFlow)
+![WireframeWeb3](Report_Assets/BusquedaWireFlow.PNG)
+![WireframeWeb4](Report_Assets/CategoriasWireFlow.PNG)
+![WireframeWeb5](Report_Assets/FavoritosWireFlow.PNG)
+![WireframeWeb5](Report_Assets/ArmarioWireFlow.PNG)
+![WireframeWeb5](Report_Assets/EdicionPerfilWireFlow.PNG)
+![WireframeWeb5](Report_Assets/PerfilVendedorWireFlow.PNG)
+![WireframeWeb5](Report_Assets/PerfilCompradorWireFlow.PNG)
 ## 4.5. Web Applications Prototyping
 | Elemento              | Enlace |
 |------------------------|--------|
