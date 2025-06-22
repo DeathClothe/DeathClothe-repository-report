@@ -3007,6 +3007,27 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
  ### 5.2.3.1. Sprint Backlog 3
  Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
 <img src="Report_Assets/sprint3-trello.png">
+| **Work‑Item / Task** | **User Story ID** | **Task ID** | **Description**                                                | **Estimation (Hours)** | **Assigned To**   | **Status** |
+| -------------------- | ----------------- | ----------- | -------------------------------------------------------------- | ---------------------- | ----------------- | ---------- |
+| Work‑Item            | US‑01             | T01         | Desarrollar recomendaciones personalizadas según favoritos     | 5                      | Alvaro Bejarano   | Done       |
+| Work‑Item            | US‑10             | T02         | Agregar prendas a la lista de favoritos                        | 3                      | Andrea Santur     | Done       |
+| Work‑Item            | US‑11             | T03         | Implementar armario virtual con prendas favoritas o compradas  | 5                      | Mateo Cabanillas  | Done       |
+| Work‑Item            | US‑15             | T04         | Filtrar prendas por tipo dentro del armario virtual            | 3                      | Loreley Sarmiento | Done       |
+| Work‑Item            | US‑16             | T05         | Buscar prendas por nombre dentro de favoritos                  | 3                      | Loreley Sarmiento | Done       |
+| Work‑Item            | US‑07             | T06         | Editar o eliminar prendas ya publicadas                        | 5                      | Andrea Santur     | Done       |
+| Work‑Item            | US‑09             | T07         | Marcar prendas como vendidas e inhabilitarlas del catálogo     | 5                      | Omar Luquilla     | Done       |
+| Work‑Item            | TS‑02             | T08         | Implementar consultas SQL optimizadas para filtros avanzados   | 5                      | Alvaro Bejarano   | Done       |
+| Work‑Item            | TS‑03             | T09         | Establecer relaciones entre prendas y armario virtual en MySQL | 5                      | Mateo Cabanillas  | Done       |
+| Work‑Item            | TS‑08             | T10         | Agregar índices en campos clave de las tablas MySQL            | 3                      | Omar Luquilla     | Done       |
+| Work‑Item            | **US‑25**         | T11         | Implementar historial de prendas vistas recientemente          | 3                      | Andrea Santur     | Done       |
+| Work‑Item            | **US‑26**         | T12         | Mostrar mensajes anteriores con vendedores/compradores         | 5                      | Mateo Cabanillas  | Done       |
+| Work‑Item            | **US‑27**         | T13         | Permitir cambio de contraseña desde el perfil                  | 3                      | Alvaro Bejarano   | Done       |
+| Work‑Item            | **US‑28**         | T14         | Implementar eliminación de cuenta de usuario                   | 3                      | Loreley Sarmiento | Done       |
+| Work‑Item            | **US‑29**         | T15         | Mostrar estado (vendido/disponible) de prendas en favoritos    | 2                      | Omar Luquilla     | Done       |
+| Work‑Item            | **US‑30**         | T16         | Habilitar compartir prenda por redes sociales o enlace         | 2                      | Andrea Santur     | Done       |
+| Work‑Item            | **US‑31**         | T17         | Mostrar tiempo transcurrido desde la publicación de la prenda  | 1                      | Alvaro Bejarano   | Done       |
+
+
  ### 5.2.3.4. Development Evidence for Sprint Review. 
 | **Repository**       | **Branch** | **Commit ID** | **Commit Message**                      | **Commit Message Body**                                                               | **Committed on (Date)** |
 | -------------------- | ---------- | ------------- | --------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------- |
@@ -3039,7 +3060,12 @@ Link:
 
 Por último se ejecutó el backend con swagger. Esta ejecución fue localmente, no se ha desplegado en este sprint. <br>
 <img src="./Report_Assets/imagen6.1.png">
-### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+| **Endpoint Name** | **Implemented Actions** | **Call Syntax**                                                                                             | **Parameters Specification**                                                 | **Call Example**                             | **Response Explanation**                                   |
+| ----------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
+| **Profile**       | POST, GET, PUT, DELETE  | POST: `/api/v1/profile`<br>GET/PUT/DELETE: `/api/v1/profile/{id}`                                           | `name`, `email`, `password`, `role`, `image`, `stats`                        | GET `http://localhost:3000/api/v1/profile/4` | Devuelve los datos del perfil del usuario según su ID.     |
+| **Clothe**        | POST, GET, PUT, DELETE  | POST: `/api/v1/clothe`<br>GET: `/api/v1/clothe`, `/api/v1/clothe/{id}`<br>PUT/DELETE: `/api/v1/clothe/{id}` | `title`, `description`, `price`, `size`, `type`, `status`, `userId`, `image` | GET `http://localhost:3000/api/v1/clothe/7`  | Devuelve la información completa de una prenda específica. |
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 ### 5.2.3.8. Team Collaboration Insights during Sprint. 
 A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.<br>
