@@ -1894,11 +1894,17 @@ Finalmente, se muestra el proceso de compra, donde el usuario confirma su inter√
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-![MockupWeb1](Report_Assets/userFlowWireFrame1.png)
-![MockupWeb2](Report_Assets/userFlowWireFrame2.png)
-![MockupWeb3](Report_Assets/userFlowWireFrame3.png)
-![MockupWeb4](Report_Assets/userFlowWireFrame4.png)
-![MockupWeb5](Report_Assets/userFlowWireFrame5.png)
+![MockupWeb1](Report_Assets/inicioSesionWF.jpg)
+![MockupWeb2](Report_Assets/creacionCuentaWF.jpg)
+![MockupWeb3](Report_Assets/detallePrendaWF.jpg)
+![MockupWeb4](Report_Assets/busquedaPrendaWF.jpg)
+![MockupWeb5](Report_Assets/categoriasWF.jpg)
+![MockupWeb6](Report_Assets/favoritosWF.jpg)
+![MockupWeb7](Report_Assets/armarioVirutlaWF.jpg)
+![MockupWeb8](Report_Assets/edicionPerfilWF.jpg)
+![MockupWeb9](Report_Assets/perfilVendedorWF.jpg)
+![MockupWeb10](Report_Assets/perfilCompradorWF.jpg)
+
 
 ### 4.4.3 Web Applications Mock-ups
 
