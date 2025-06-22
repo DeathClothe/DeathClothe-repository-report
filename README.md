@@ -1930,7 +1930,6 @@ Además, muestra una vista previa detallada de cada prensa antes de ponerla en l
 
 ![MockupWeb3](Report_Assets/ArmarioNormal2.png)
 
-
 En la sección de Perfil, los usuarios gestionan su información y acceden a sus estadísticas de manera clara, diferenciando perfiles de compradores y vendedores.
 
 ![MockupWeb5](Report_Assets/PerfilVendedorMockup.png)
@@ -1943,6 +1942,19 @@ En el perfil de comprador podemos observar un catalogo de favoritos, que nos per
 Se cuenta con un apartado de para ti que te da recomendaciones
 
 ![MockupWeb2](Report_Assets/PerfilComprador-ParatiMockup.png)
+
+Al cambiar a la seccion de vendedor podremos ver las prendas vendidas, pendientes y estadisitcas de sus ventas.
+
+![WireframeWeb5](Report_Assets/PerfilVendedorMockup.png)
+
+El usuario puede ver todas las prendas que tiene en vendidas y pendientes al presionar la lista respectiva de cada uno
+
+![WireframeWeb5](Report_Assets/PerfilVendedor-PendientesMockup.png)
+![WireframeWeb5](Report_Assets/PerfilVendedor-VendidasMockup.png)
+
+Finalmente, puede editar las prendas pendientes, para marcar que ya se vendieron, editar datos o eliminarla de la venta
+
+![WireframeWeb5](Report_Assets/PerfilVendedor-EditarPrendaMockup.png)
 
 En la mensajería, los usuarios mantienen conversaciones fluidas con otros miembros de la comunidad, dentro de una interfaz limpia y ordenada.
 
