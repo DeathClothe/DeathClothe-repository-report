@@ -2361,60 +2361,14 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-Durante el Sprint, se llevaron a cabo las siguientes actividades principales:
-
-1. Implementación de la estructura básica del Frontend
-Se creó una landing page funcional siguiendo los principios de moda circular de DeathClothe.
-
-Tecnologías utilizadas: HTML5, CSS3, TailwindCSS, JavaScript puro.
-
-2. Construcción de las secciones principales
-Se implementaron los siguientes módulos:
-
-Header responsivo: Logo, menú de navegación y botón de inicio de sesión.
-
-Sección Inicio: Mensaje de bienvenida y visual atractivo con imágenes.
-
-Sección Explora: Presentación de ropa destacada con filtros de talla, color y estilo.
-
-Sección Vende: Guía rápida en tres pasos para la venta de prendas.
-
-Sección Comunidad: Testimonios reales de usuarios compradores y vendedores.
-
-Sección Nosotros: Filosofía y propósito de DeathClothe.
-
-3. Prototipado y optimización responsive
-Adaptación de la landing page a móviles, tabletas y computadoras usando media queries.
-
-Se ajustaron imágenes, textos y menús para una experiencia fluida en diferentes dispositivos.
-
-4. Estilo y branding
-Paleta de colores: tonos rosados y pastel para transmitir una sensación de moda, calidez y sostenibilidad.
-
-Tipografía: Fuente K2D para lograr una apariencia moderna y amigable.
-
-5. Implementación básica de funcionalidades
-Botón de menú desplegable para navegación en dispositivos móviles (hamburguesa ☰).
-
-Redireccionamiento interno entre las secciones mediante anclas (#).
-
-6. Pruebas realizadas
-Se realizaron pruebas internas para validar:
-
-Correcta visualización de la landing page en diferentes navegadores (Chrome, Firefox, Edge).
-
-Adaptabilidad en dispositivos móviles y tablets.
-
-Fluidez de navegación entre las secciones.
-
-Funcionamiento del botón de menú en dispositivos móviles.
-
-7. Capturas de evidencia presentadas en la revisión del Sprint
-Captura de la página principal cargando exitosamente.
-
-Captura del menú responsivo funcionando en móvil.
-
-Captura de navegación fluida entre las secciones: Inicio, Explora, Vende, Comunidad y Nosotros.
+| **Integrante del equipo**          | **Usuario GitHub** | **Estructura Frontend** | **Secciones Funcionales** | **Estilo y Branding** | **Responsive y Adaptabilidad** | **Pruebas y Ajustes** |
+| ---------------------------------- | ------------------ | ----------------------- | ------------------------- | --------------------- | ------------------------------ | --------------------- |
+| **Santur Tello, Andrea Elizabeth** | andreli-star       | C                       | **L**                     | **L**                 | C                              | C                     |
+| **Bejarano, Alvaro**               | Albro310306         | **L**                   | C                         | C                     | **L**                          | C                     |
+| **Cabanillas, Mateo**              | marckszz          | C                       | C                         | C                     | C                              | **L**                 |
+| **Luquillas, Omar**                | OmarLLA            | C                       | C                         | C                     | C                              | C                     |
+| **Sarmiento, Loreley**             | loreleysarmiento   | C                       | C                         | C                     | C                              | C                     |
+.
 
 #### 5.2.1.3. Sprint Backlog 1 
 
