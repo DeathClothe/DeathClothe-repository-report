@@ -2429,101 +2429,47 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
   <tbody>
     <tr>
       <td>Work-Item</td>
-      <td>US017</td>
+      <td>US19</td>
       <td>T01</td>
-      <td>Crear la estructura base de la página principal (header, sections)</td>
+      <td>Registrar/Iniciar sesión desde landing page</td>
       <td>3</td>
       <td>Alvaro Bejarano</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US017</td>
+      <td>US12</td>
       <td>T02</td>
-      <td>Agregar sección de propuesta de valor</td>
+      <td>Ver información de la landing page</td>
       <td>2</td>
       <td>Mateo Cabanillas</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US017</td>
+      <td>US18</td>
       <td>T02</td>
-      <td>Mostrar características y beneficios de DeathClothe</td>
+      <td>Cambiar idioma en landing page</td>
       <td>2</td>
       <td>Omar Luquillas</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US18</td>
+      <td>US12</td>
       <td>T03</td>
-      <td>Añadir botones de acción para registrarse/iniciar sesión</td>
+      <td>Ver información de la landing page</td>
       <td>3</td>
       <td>Andrea Santur</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US18</td>
+      <td>US21</td>
       <td>T05</td>
-      <td>Crear campos de registro para nuevos usuarios</td>
+      <td>Acceder a redes sociales</td>
       <td>3</td>
       <td>Loreley Sarmiento</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>U18</td>
-      <td>T06</td>
-      <td>Validación de campos obligatorios en registro/login</td>
-      <td>2</td>
-      <td>Mateo Cabanillas</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>US17</td>
-      <td>T08</td>
-      <td>Ajustar diseño para móviles, tablets y escritorio</td>
-      <td>4</td>
-      <td>Omar Luquillas</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>US17</td>
-      <td>T08</td>
-      <td>Crear pie de página con información de contacto/redes</td>
-      <td>3</td>
-      <td>Alvaro Bejarano</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>US17</td>
-      <td>T09</td>
-      <td>Probar secciones, botones y formularios</td>
-      <td>2</td>
-      <td>Loreley Sarmiento</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>US17</td>
-      <td>T11</td>
-      <td>Agregar íconos visuales a las funcionalidades destacadas</td>
-      <td>4</td>
-      <td>Andrea Santur</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>US18</td>
-      <td>T12</td>
-      <td>Validar longitud, mayúsculas y números para la contraseña</td>
-      <td>2</td>
-      <td>Mateo Cabanillas</td>
       <td>Done</td>
     </tr>
   </tbody>
@@ -2769,93 +2715,84 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
   <tbody>
     <tr>
       <td>Work-Item</td>
-      <td>US01</td>
+      <td>US04</td>
       <td>T01</td>
-      <td>Implementar sistema de recomendaciones personalizadas basado en el armario virtual</td>
+      <td>Ver últimas prendas publicadas</td>
       <td>5</td>
       <td>Alvaro Bejarano</td>
-      <td>In-process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US02</td>
+      <td>US05</td>
       <td>T02</td>
-      <td>Crear formularo de subida de prensa con tres pasos</td>
+      <td>Filtrar por categoría</td>
       <td>4</td>
       <td>Mateo Cabanillas</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US09</td>
+      <td>US22</td>
       <td>T03</td>
-      <td>Permitir al vendedor editar o eliminar publicaciones existentes</td>
+      <td> Cambiar entre comprador y vendedor</td>
       <td>2</td>
-      <td>Loreley Sarmiento</td>
-      <td>To-do</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>US04</td>
-      <td>T04</td>
-      <td>Implementar buscador de prendas por palabra clave</td>
-      <td>3</td>
-      <td>Omar Luquillas</td>
-      <td>In-process</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>TS-02</td>
-      <td>T05</td>
-      <td>Implementar filtros avanzados: tallar, color, estado y tipo</td>
-      <td>5</td>
       <td>Andrea Santur</td>
-      <td>To-do</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>US06</td>
-      <td>T06</td>
-      <td> Mostrar en la pantalla de inicio las últimas prendas publicadas </td>
-      <td>4</td>
-      <td>Mateo Cabanillas</td>
-      <td>To Review</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
       <td>US07</td>
-      <td>T07</td>
-      <td> Crear filtros por categoría (camisas, pantalones, etc.) </td>
-      <td>4</td>
+      <td>T04</td>
+      <td>Editar o eliminar una prenda publicada</td>
+      <td>3</td>
       <td>Omar Luquillas</td>
-      <td>In-process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>US03</td>
+      <td>US23</td>
+      <td>T05</td>
+      <td>Editar prendas del armario</td>
+      <td>5</td>
+      <td>Loreley Sarmiento</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US02</td>
+      <td>T07</td>
+      <td>Publicar una prenda en venta</td>
+      <td>4</td>
+      <td>Omar Luquilla</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US1</td>
       <td>T08</td>
-      <td> Mostrar calificaciones del vendedor en la vista del producto</td>
+      <td>Agregar una prenda a favoritos</td>
       <td>3</td>
       <td>Alvaro Bejarano</td>
-      <td>To-do</td>
+      <td>Done</td>
+    </tr>
+   <tr>
+      <td>Work-Item</td>
+      <td>US01</td>
+      <td>T06</td>
+      <td> Recibir recomendaciones en base a mis favoritos </td>
+      <td>4</td>
+      <td>Andrea Elizabeth </td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>Work-Item</td>
-      <td>TS-01</td>
-      <td>T09</td>
-      <td>Crear base de datos relacional para usuarios, prendas y transacciones</td>
-      <td>8</td>
-      <td>Loreley Sarmiento</td>
-      <td>In-process</td>
-    </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>US08</td>
+      <td>US06</td>
       <td>T10</td>
-      <td>Generar recomendaciones en base a historial de usuario y favoritos</td>
+      <td>Recibir recomendaciones de la pagina</td>
       <td>5</td>
-      <td>Andrea Santur</td>
-      <td>To-do</td>
+      <td>Loreley Sarmiento</td>
+      <td>Done</td>
     </tr>
   </tbody>
 </table>
