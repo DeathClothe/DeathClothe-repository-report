@@ -2720,7 +2720,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Ver últimas prendas publicadas</td>
       <td>5</td>
       <td>Alvaro Bejarano</td>
-      <td>Done</td>
+      <td>In-process</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2747,7 +2747,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Editar o eliminar una prenda publicada</td>
       <td>3</td>
       <td>Omar Luquillas</td>
-      <td>Done</td>
+      <td>In-process</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2756,7 +2756,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Editar prendas del armario</td>
       <td>5</td>
       <td>Loreley Sarmiento</td>
-      <td>Done</td>
+      <td>In-process</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2765,7 +2765,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Publicar una prenda en venta</td>
       <td>4</td>
       <td>Omar Luquilla</td>
-      <td>Done</td>
+      <td>In-process</td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2774,7 +2774,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Agregar una prenda a favoritos</td>
       <td>3</td>
       <td>Alvaro Bejarano</td>
-      <td>Done</td>
+      <td>Review </td>
     </tr>
    <tr>
       <td>Work-Item</td>
@@ -2783,7 +2783,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td> Recibir recomendaciones en base a mis favoritos </td>
       <td>4</td>
       <td>Andrea Elizabeth </td>
-      <td>Done</td>
+      <td>Review </td>
     </tr>
     <tr>
       <td>Work-Item</td>
@@ -2792,7 +2792,7 @@ Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930
       <td>Recibir recomendaciones de la pagina</td>
       <td>5</td>
       <td>Loreley Sarmiento</td>
-      <td>Done</td>
+      <td>Review </td>
     </tr>
   </tbody>
 </table>
