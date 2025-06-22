@@ -3164,7 +3164,7 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 
 **Carrera:** Ingeniería de Software  
 **Curso:** Aplicaciones Web  
-**Sección:** WS53  
+**Sección:** 4376  
 **Auditor:** Latte  
 **Clientes:** DeathClothe  
 
