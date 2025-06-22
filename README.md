@@ -1825,6 +1825,10 @@ En la sección Explorar, los usuarios pueden visualizar el catálogo completo de
 
 ![WireframeWeb4](Report_Assets/ExplorarWireframe.png)
 
+Al presionar una categoria nos muestra todas las prendas de esa categoria
+
+![WireframeWeb4](Report_Assets/CategoriasWireframe.png)
+
 Dentro del Armario Virtual, los usuarios pueden gestionar y visualizar todas las prendas que han subido o han comprado en su perfil personal, pueden filtrar las prendas por el tipo dentro de su armario, facilitando la organización y búsqueda de sus artículos.
 
 ![WireframeWeb3](Report_Assets/ArmarioWireframe.png)
@@ -1870,6 +1874,10 @@ En la sección de Favoritos, el usuario encuentra recomendaciones basada en sus 
 
 ![WireframeWeb5](Report_Assets/FavoritosWireframe.png)
 
+Para buscar una prenda en concreto contamos con un apartado de busqueda y filtros de talla, tipo y color.
+
+![MockupWeb5](Report_Assets/BusquedaWireframe.png)
+
 Al seleccionar una prenda, se despliega una vista detallada donde puede revisar información completa, contactar al vendedor y decidir sobre la compra.
 
 ![WireframeWeb5](Report_Assets/Compradepolo.png)
@@ -1892,21 +1900,25 @@ Los mock-ups de DeathClothe muestran el diseño final con todos los elementos gr
 
 La pantalla de login presenta un diseño moderno, minimalista y accesible, facilitando el ingreso de usuarios habituales y nuevos registros.
 
-![MockupWeb1](Report_Assets/Login-Mockup.png)
+![MockupWeb1](Report_Assets/LoginMockup.png)
 
 En el registro, el usuario completa de manera rápida y clara la información necesaria para crear su cuenta, dentro de un entorno visualmente atractivo y amigable.
 
-![MockupWeb2](Report_Assets/Register-Mockups.png)
+![MockupWeb2](Report_Assets/RegisterMockup.png)
 
 El Inicio ofrece un despliegue visual de prendas sugeridas, novedades y accesos rápidos a secciones principales, fomentando la exploración continua.
 
-![MockupWeb5](Report_Assets/Inicio-Mockups.png)
+![MockupWeb5](Report_Assets/InicioMockup.png)
 
-En Explorar, el catálogo de prendas se presenta organizado en cuadrículas limpias, con filtros accesibles para mejorar la experiencia de búsqueda.
+En Explorar, el catálogo de prendas se presenta organizado en cuadrículas limpias, con filtros accesibles como categorias, para mejorar la experiencia de búsqueda.
 
 ![MockupWeb4](Report_Assets/ExplorarMockup.png)
 
-El Armario Virtual muestra las prendas propias del usuario, permitiendo una gestión ordenada y visualmente agradable de su inventario personal.
+Al presionar una categoria nos muestra todas las prendas de esa categoria
+
+![WireframeWeb4](Report_Assets/CategoriasMockup.png)
+
+La navegación dentro del armario permite acceder a categorías específicas, optimizando la visualización de artículos según tipo o características.
 
 ![MockupWeb3](Report_Assets/ArmarioNormal.png)
 
@@ -1919,21 +1931,30 @@ Además, muestra una vista previa detallada de cada prensa antes de ponerla en l
 ![MockupWeb3](Report_Assets/ArmarioNormal2.png)
 
 
-La navegación dentro del armario permite acceder a categorías específicas, optimizando la visualización de artículos según tipo o características.
-
-
 En la sección de Perfil, los usuarios gestionan su información y acceden a sus estadísticas de manera clara, diferenciando perfiles de compradores y vendedores.
 
 ![MockupWeb5](Report_Assets/PerfilVendedorMockup.png)
-![MockupWeb2](Report_Assets/PerfillCompradorMockup-.png)
+![MockupWeb2](Report_Assets/PerfilCompradorMockup.png)
+
+En el perfil de comprador podemos observar un catalogo de favoritos, que nos permite buscar una prenda especifica.
+
+![MockupWeb2](Report_Assets/PerfilComprador-CatalogoFavoritosMockup.png)
+
+Se cuenta con un apartado de para ti que te da recomendaciones
+
+![MockupWeb2](Report_Assets/PerfilComprador-ParatiMockup.png)
 
 En la mensajería, los usuarios mantienen conversaciones fluidas con otros miembros de la comunidad, dentro de una interfaz limpia y ordenada.
 
 ![MockupWeb3](Report_Assets/Chats.png)
 
-En la sección de Favoritos, se agrupan todas las prendas que el usuario ha guardado para futuras decisiones de compra.
+En la sección de Favoritos, se agrupan todas las prendas que son recomendadas en base a tus prendas favoritas.
 
-![MockupWeb5](Report_Assets/FavoritosMockups.png)
+![MockupWeb5](Report_Assets/FavoritosMockup.png)
+
+Para buscar una prenda en concreto contamos con un apartado de busqueda y filtros de talla, tipo y color.
+
+![MockupWeb5](Report_Assets/BusquedaMockup.png)
 
 La vista de detalle de una prenda permite conocer todos los aspectos relevantes, iniciar una conversación con el vendedor y avanzar en el proceso de compra.
 
