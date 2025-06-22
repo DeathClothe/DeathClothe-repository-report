@@ -2815,11 +2815,11 @@ Durante este Sprint no se realizaron cambios en la Landing Page, manteniéndose 
 ### Screenshots
 <img src="./Report_Assets/imagen1.png">
 <img src="./Report_Assets/imagen2.png">
-<img src="./Report_Assets/imagen2.2.png">
-<img src="./Report_Assets/imagen3.png">
-<img src="./Report_Assets/imagen4.png">
-<img src="./Report_Assets/imagen5.png">
+<img src="./Report_Assets/imagen2.1.png">
+<img src="./Report_Assets/imagen3.1.png">
+<img src="./Report_Assets/imagen4.1.png">
 <img src="./Report_Assets/imagen5.1.png">
+<img src="./Report_Assets/imagen5.2.png">
 <img src="./Report_Assets/imagen6.png">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
@@ -3010,6 +3010,18 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
 <img src="Report_Assets/sprint3-trello.png">
  ### 5.2.3.4. Development Evidence for Sprint Review. 
 ### 5.2.3.5. Execution Evidence for Sprint Review. 
+La Landing Page tuvo un rediseño. <br>
+Link: https://deathclothe.github.io/DEATHCLOTHELandingPage/ 
+<img src="./Report_Assets/ladingpagemodi.png">
+Además se rediseño y se hizo mejorar a la aplicación Fronted, de nuestra plataforma web. <br>
+Link: 
+<img src="./Report_Assets/imagen2.2.png">
+<img src="./Report_Assets/imagen3.png">
+<img src="./Report_Assets/imagen4.png">
+<img src="./Report_Assets/imagen5.png">
+<img src="./Report_Assets/imagen5.1.png">
+Por último se ejecutó el backend con swagger. Esta ejecución fue localmente, no se ha desplegado en este sprint. <br>
+<img src="./Report_Assets/imagen6.1.png">
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 ### 5.2.3.8. Team Collaboration Insights during Sprint. 
