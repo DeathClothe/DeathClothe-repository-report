@@ -3186,7 +3186,8 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Información de presentación del producto** | El mensaje principal de la página quedó claro desde el primer vistazo: es una plataforma para vender ropa. Los botones, instrucciones e imágenes comunican bien la propuesta de valor. |
 | **Visualización de la página**       | Comentó que la experiencia fue positiva, le daría una puntuación de 8/10. Destacó la estética agradable del diseño y la buena experiencia de uso, aunque hay detalles por pulir. |
 | **Evaluación de funcionalidades clave** | Considera útil el sistema de filtros por talla y estilo, ya que agilizan la búsqueda de prendas. En general, cumple con las expectativas del usuario.                      |
-   
+
+   [URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EYyypN85cn9PlOTeHGff7okBNLePZ3gEk-gXTYrMyH7Xyw?e=bkDgz2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Entrevista 3**
 | **Dato**                             | **Información**                                                                                                                                                              |
@@ -3201,6 +3202,7 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Visualización de la página**       | No experimentó errores ni problemas visuales. La navegación es sencilla, los elementos están bien distribuidos y todo se muestra de forma funcional y comprensible.         |
 | **Evaluación de funcionalidades clave** | Le resultó fácil navegar, aplicar filtros, buscar prendas como polos o vestidos. Como mejora, sugiere incluir conjuntos de prendas y no solo unidades individuales.         |
 
+[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EYyypN85cn9PlOTeHGff7okBNLePZ3gEk-gXTYrMyH7Xyw?e=bkDgz2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Segmento: Vendedor
 **Entrevista 1**
@@ -3231,6 +3233,18 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 
 **Entrevista 3**
 
+| *Entrevistado* | *Edad* | *Género* | *Distrito* | *Inicio de la entrevista* |
+| --- | --- | --- | --- | --- |
+| Jhon Alexander Chuchón | 19 años | Masculino | San Martín de Porres | 30:33 |
+
+| *Categoría* | *Descripción* |
+| --- | --- |
+| *Interacción con la plataforma* | Experiencia intuitiva y eficiente. Facilidad para encontrar productos y realizar compras. Recomendaciones: mejorar la búsqueda avanzada y filtros de productos. |
+| *Funcionalidades adicionales sugeridas* | Integración con redes sociales para compartir compras y looks, y notificaciones personalizadas para ofertas y promociones. |
+| *Accesibilidad y usabilidad* | App fácil de usar para usuarios de diferentes edades. Recomendación: mejorar la velocidad de carga de imágenes y contenido. |
+| *Impacto visual y atractivo* | Diseño moderno y minimalista que refleja la moda actual. Colores y tipografías atractivos y coherentes con la marca. |
+| *Comentarios finales* | Buena experiencia de usuario, aunque con algunas oportunidades de mejora para aumentar la satisfacción y fidelidad del cliente. |
+[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EYyypN85cn9PlOTeHGff7okBNLePZ3gEk-gXTYrMyH7Xyw?e=bkDgz2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ### 5.3.3 Evaluación según Heurísticas – *DeathClothe*
