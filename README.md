@@ -2991,7 +2991,7 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
 | **Luquillas, Omar**                | OmarLLA          | **L**       | **L**           | C            | C              | C                 |
 | **Sarmiento, Loreley**             | loreleysarmiento | **L**       | **L**           | **L**        | C              | **L**             |
    
- ### 5.2.3.1. Sprint Backlog 3
+ ### 5.2.3.3. Sprint Backlog 3
  Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
 <img src="Report_Assets/sprint3-trello.png">
 <table border="1" cellspacing="0" cellpadding="8">
