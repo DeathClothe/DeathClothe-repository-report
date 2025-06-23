@@ -3204,6 +3204,16 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 
 ## Segmento: Vendedor
 **Entrevista 1**
+| *Entrevistado* | *Edad* | *Distrito* | *Inicio de la entrevista* |
+| --- | --- | --- | --- |
+| Valeska Sánchez | 20 años | San Martin de Porres | 30:33 |
+| *Interacción con la plataforma* | Experiencia fluida y agradable. Fácil navegación y búsqueda de opciones. Recomendaciones: mejorar visibilidad del seguimiento de pedidos y personalización en recomendaciones de productos. |
+| *Funcionalidades adicionales sugeridas* | Función de realidad aumentada para probar prendas virtualmente y sistema de recompensas por referidos y compras frecuentes. |
+| *Accesibilidad y usabilidad* | App accesible y usable para jóvenes y mayores. Recomendación: mejorar tamaño de fuente en algunas secciones. |
+| *Impacto visual y atractivo* | Diseño minimalista y moderno bien recibido. Colores y tipografías contribuyen a experiencia visual agradable. |
+| *Comentarios finales* | Buena estructura y experiencia de usuario. Con mejoras sugeridas, podría ser aún más completa y atractiva. |
+
+
 **Entrevista 2**
 | **Dato**                             | **Información**                                                                                                                                                              |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
