@@ -3217,6 +3217,8 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Visualización de la página**       | No presentó problemas visuales ni de carga. La interfaz fue percibida como limpia y estructurada. Se destacó la rapidez de visualización y navegación intuitiva.            |
 | **Evaluación de funcionalidades clave** | Valoró las funciones de publicar, editar, eliminar prendas, ver estadísticas y explorar productos. Sugirió como mejora una trazabilidad más detallada de las acciones.       |
 
+[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EYyypN85cn9PlOTeHGff7okBNLePZ3gEk-gXTYrMyH7Xyw?e=bkDgz2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 **Entrevista 3**
 
 
