@@ -3091,8 +3091,8 @@ link del backend repository:  https://github.com/DeathClothe/Backend-Web-Service
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 Para el deployment de la ultima versión de la app web, lo hicimos en render, conectamos el repositorio a render y lo deployamos ahi.
-![Deployment](Report_Assets/DeploymentEvidence1.PNG)
-![Deployment](Report_Assets/DeploymentEvidence2.PNG)
+![Deployment](Report_Assets/DeploymentEvidence1Sprint3.PNG)
+![Deployment](Report_Assets/DeploymentEvidence2Sprint3.PNG)
 ![Deployment](Report_Assets/DeploymentEvidence3.PNG)
 ![Deployment](Report_Assets/DeploymentEvidence4.PNG)
 ### 5.2.3.8. Team Collaboration Insights during Sprint. 
