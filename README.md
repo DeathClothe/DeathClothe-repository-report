@@ -3090,6 +3090,11 @@ link del backend repository:  https://github.com/DeathClothe/Backend-Web-Service
 | **Clothe**        | POST, GET, PUT, DELETE  | POST: `/api/v1/clothe`<br>GET: `/api/v1/clothe`, `/api/v1/clothe/{id}`<br>PUT/DELETE: `/api/v1/clothe/{id}` | `title`, `description`, `price`, `size`, `type`, `status`, `userId`, `image` | GET `http://localhost:3000/api/v1/clothe/7`  | Devuelve la información completa de una prenda específica. |
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+Para el deployment de la ultima versión de la app web, lo hicimos en render, conectamos el repositorio a render y lo deployamos ahi.
+![Deployment](Report_Assets/DeploymentEvidence1.PNG)
+![Deployment](Report_Assets/DeploymentEvidence2.PNG)
+![Deployment](Report_Assets/DeploymentEvidence3.PNG)
+![Deployment](Report_Assets/DeploymentEvidence4.PNG)
 ### 5.2.3.8. Team Collaboration Insights during Sprint. 
 A continuación se muestra evidencia de la coolaboración del equipo mediante insights de GitHub.<br>
 **Frontend**
