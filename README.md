@@ -3082,7 +3082,7 @@ Link: https://app-web-deathclothe.onrender.com
 Por último se ejecutó el backend con swagger. Esta ejecución fue localmente, no se ha desplegado en este sprint. <br>
 <img src="./Report_Assets/imagen6.1.png">
 
-link = "https://github.com/DeathClothe/Backend-Web-Services.git"  
+link del backend repository:  https://github.com/DeathClothe/Backend-Web-Services.git  
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 | **Endpoint Name** | **Implemented Actions** | **Call Syntax**                                                                                             | **Parameters Specification**                                                 | **Call Example**                             | **Response Explanation**                                   |
 | ----------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
