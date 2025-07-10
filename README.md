@@ -3309,11 +3309,32 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
 
 
 5.2.4.3. Development Evidence for Sprint Review.
+
+
+
 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+
+
 5.2.4.5. Execution Evidence for Sprint Review.
+
+
+
 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+| **Endpoint Name** | **Implemented Actions** | **Call Syntax**                                                                                             | **Parameters Specification**                                                 | **Call Example**                             | **Response Explanation**                                   |
+| ----------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
+| **Profile**       | POST, GET, PUT, DELETE  | POST: `/api/v1/profile`<br>GET/PUT/DELETE: `/api/v1/profile/{id}`                                           | `name`, `email`, `password`, `role`, `image`, `stats`                        | GET `http://localhost:3000/api/v1/profile/4` | Devuelve los datos del perfil del usuario según su ID.     |
+| **Clothe**        | POST, GET, PUT, DELETE  | POST: `/api/v1/clothe`<br>GET: `/api/v1/clothe`, `/api/v1/clothe/{id}`<br>PUT/DELETE: `/api/v1/clothe/{id}` | `title`, `description`, `price`, `size`, `type`, `status`, `userId`, `image` | GET `http://localhost:3000/api/v1/clothe/7`  | Devuelve la información completa de una prenda específica. |
+| **Categories**    | GET   | GET: `/api/v1/categories`<br>GET: `/api/v1/categories/{id}` | `id`, `name`| GET `http://localhost:3000/api/v1/categories/1`  | Devuelve la información de una categoría específica con el ID indicado. |
+| **Authentication**| POST  |  |   |   |
+
 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+
+
 5.2.4.8. Team Collaboration Insights during Sprint.
+
 
 
 ### 5.3 Validation Interviews
