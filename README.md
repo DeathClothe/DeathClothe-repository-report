@@ -1622,45 +1622,10 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 
 | Historia de Usuario ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |------------------------|--------|-------------|--------------------------|----------------------------|
-| TS-01 | Obtener perfil por ID | Como desarrollador, quiero obtener el perfil de un usuario por su ID, para poder recuperar los detalles específicos del usuario cuando sea necesario.| Escenario 1: Obtener perfil de usuario existente
-Dado que el endpoint “/api/v1/profiles/{id}” está disponible,
-Cuando se envía un request GET con el ID de usuario 1,
-Entonces se recibe un response con un status 200 y los detalles del perfil de usuario (Ana García López) en el body del response.
-
-Escenario 2: Intentar obtener perfil de usuario inexistente
-Dado que el endpoint “/api/v1/profiles/{id}” está disponible,
-Cuando se envía un request GET con el ID de usuario 6 y no existe en la base de datos,
-Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Perfil de usuario no encontrado”. | EP06 |
-| TS-02 | Actualizar perfil por ID | Como desarrollador, quiero actualizar el perfil de un usuario por su ID, para poder modificar la información del usuario cuando lo necesite. | Escenario 1: Actualizar perfil de usuario con datos válidos
-Dado que el endpoint “/api/v1/profiles/{id}” está disponible,
-Cuando se envía un request PUT con los valores actualizados de nombre, apellidos, dirección y email del usuario con ID 1 ,
-Entonces se recibe un response con un status 200 y el perfil actualizado de usuario en el body del response.
-
-Escenario 2: Intentar actualizar perfil de usuario inexistente
-Dado que el endpoint “/api/v1/profiles/{id}” está disponible,
-Cuando se envía un request PUT con el ID de usuario 6 y no existe en la base de datos,
-Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Perfil de usuario no encontrado”.| EP06 |
-| TS-03 | Obtener todos los perfiles | Como desarrollador, quiero obtener todos los perfiles de usuario, para poder visualizar una lista completa de los usuarios registrados en el sistema. | Escenario 1: Obtener todos los perfiles de usuario
-Dado que el endpoint “/api/v1/profiles” está disponible,
-Cuando se envía un request GET sin parámetros,
-Entonces se recibe un response con un status 200 y la lista de todos los perfiles de usuario en el body del response.
-
-Escenario 2: No hay perfiles disponibles
-Dado que el endpoint “/api/v1/profiles” está disponible,
-Cuando no hay perfiles registrados en el sistema,
-Entonces se recibe un response con un status 204 y un mensaje en el body del response que diga: “No hay perfiles disponibles”.
-| EP06 |
-| TS-04 | Obtener todas las ropas | Como desarrollador, quiero obtener todos los productos de ropa disponibles en el sistema, para que los usuarios puedan ver todo el inventario de prendas.
-
- | Escenario 1: Obtener todas las prendas de ropa
-Dado que el endpoint “/api/v1/clothes” está disponible,
-Cuando se envía un request GET sin parámetros,
-Entonces se recibe un response con un status 200 y la lista de todas las prendas de ropa en el body del response.
-
-Escenario 2: No hay prendas de ropa disponibles
-Dado que el endpoint “/api/v1/clothes” está disponible,
-Cuando no hay prendas de ropa registradas en el sistema,
-Entonces se recibe un response con un status 204 y un mensaje en el body del response que diga: “No hay productos de ropa disponibles”. | EP01 |
+| TS-01 | Obtener perfil por ID | Como desarrollador, quiero obtener el perfil de un usuario por su ID, para poder recuperar los detalles específicos del usuario cuando sea necesario.| Escenario 1: Obtener perfil de usuario existenteDado que el endpoint “/api/v1/profiles/{id}” está disponible,Cuando se envía un request GET con el ID de usuario 1,Entonces se recibe un response con un status 200 y los detalles del perfil de usuario (Ana García López) en el body del response.Escenario 2: Intentar obtener perfil de usuario inexistenteDado que el endpoint “/api/v1/profiles/{id}” está disponible,Cuando se envía un request GET con el ID de usuario 6 y no existe en la base de datos,Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Perfil de usuario no encontrado”. | EP06 |
+| TS-02 | Actualizar perfil por ID | Como desarrollador, quiero actualizar el perfil de un usuario por su ID, para poder modificar la información del usuario cuando lo necesite. | Escenario 1: Actualizar perfil de usuario con datos válidosDado que el endpoint “/api/v1/profiles/{id}” está disponible,Cuando se envía un request PUT con los valores actualizados de nombre, apellidos, dirección y email del usuario con ID 1 ,Entonces se recibe un response con un status 200 y el perfil actualizado de usuario en el body del response.Escenario 2: Intentar actualizar perfil de usuario inexistenteDado que el endpoint “/api/v1/profiles/{id}” está disponible, Cuando se envía un request PUT con el ID de usuario 6 y no existe en la base de datos, Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Perfil de usuario no encontrado”.| EP06 |
+| TS-03 | Obtener todos los perfiles | Como desarrollador, quiero obtener todos los perfiles de usuario, para poder visualizar una lista completa de los usuarios registrados en el sistema. | Escenario 1: Obtener todos los perfiles de usuario Dado que el endpoint “/api/v1/profiles” está disponible, Cuando se envía un request GET sin parámetros, Entonces se recibe un response con un status 200 y la lista de todos los perfiles de usuario en el body del response. Escenario 2: No hay perfiles disponibles Dado que el endpoint “/api/v1/profiles” está disponible, Cuando no hay perfiles registrados en el sistema, Entonces se recibe un response con un status 204 y un mensaje en el body del response que diga: “No hay perfiles disponibles”. | EP06 |
+| TS-04 | Obtener todas las ropas | Como desarrollador, quiero obtener todos los productos de ropa disponibles en el sistema, para que los usuarios puedan ver todo el inventario de prendas. | Escenario 1: Obtener todas las prendas de ropa Dado que el endpoint “/api/v1/clothes” está disponible, Cuando se envía un request GET sin parámetros, Entonces se recibe un response con un status 200 y la lista de todas las prendas de ropa en el body del response. Escenario 2: No hay prendas de ropa disponibles Dado que el endpoint “/api/v1/clothes” está disponible, Cuando no hay prendas de ropa registradas en el sistema, Entonces se recibe un response con un status 204 y un mensaje en el body del response que diga: “No hay productos de ropa disponibles”. | EP01 |
 | TS-05 | Crear una nueva prenda de ropa | Como desarrollador, quiero permitir que se cree una nueva prenda de ropa, para que los usuarios puedan añadir productos a su inventario. | Escenario 1: Crear una nueva prenda de ropa con datos válidos
 Dado que el endpoint “/api/v1/clothes” está disponible,
 Cuando se envía un request POST con los valores de nombre, descripción, precio, talla y color,
