@@ -3144,7 +3144,7 @@ Esta sección presenta de forma detallada los procesos llevados a cabo, los entr
    </thead>
    <tbody>
      <tr>
-       <td>Sprint 3</td>
+       <td>Sprint 4</td>
      </tr>
      <tr>
        <td>Fecha</td>
