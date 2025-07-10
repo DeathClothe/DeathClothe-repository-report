@@ -3309,11 +3309,27 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
 
 
 5.2.4.3. Development Evidence for Sprint Review.
+| **Repository**                | **Branch** | **Commit ID** | **Commit Message**                         | **Commit Message Body**                                               | **Committed on (Date)** |
+| ----------------------------- | ---------- | ------------- | ------------------------------------------ | --------------------------------------------------------------------- | ----------------------- |
+| Backend-Web-Services          | `main`     | `93a37b7`     | feat(iam): fix sign-up command             | Fix de comando de registro en IAM                                     | 10/07/2025              |
+| Backend-Web-Services          | `main`     | `d8a71e2`     | feat(iam): add update profile              | Implementación de funcionalidad de actualización de perfil de usuario | 10/07/2025              |
+| Backend-Web-Services          | `main`     | `f5bd92c`     | feat(iam): add iam authentication          | Autenticación IAM integrada con Spring Security                       | 09/07/2025              |
+| code-web                      | `main`     | `e1c5ab3`     | Edit Form to create clothe                 | Se editó el formulario de creación de prendas                         | 09/07/2025              |
+| code-web                      | `main`     | `c7f39d0`     | Merge remote-tracking branch 'origin/main' | Fusión con la rama principal para actualizar cambios                  | 08/07/2025              |
+| Backend-Web-Services          | `main`     | `4849a25`     | feat\:Added backeng imag                   | Implementación de soporte backend para carga de imágenes              | 24/06/2025              |
 
 
 
 5.2.4.4. Testing Suite Evidence for Sprint Review.
+Presentamos evidencia de pruebas funcionales realizadas durante el proyecto, basada en commits relacionados con la validación de flujos de negocio y ajustes funcionales. Esta evidencia fue recopilada desde los repositorios principales: Backend-Web-Services, code-web y DeathClothe-repository-report.
 
+| **Repository**                | **Branch** | **Commit ID** | **Commit Message**                | **Commit Message Body**                                  | **Committed on (Date)** |
+| ----------------------------- | ---------- | ------------- | --------------------------------- | -------------------------------------------------------- | ----------------------- |
+| Backend-Web-Services          | `main`     | `93a37b7`     | feat(iam): fix sign-up command    | Ajustes en el registro de usuario tras pruebas           | 10/07/2025              |
+| Backend-Web-Services          | `main`     | `f5bd92c`     | feat(iam): add iam authentication | Validación de autenticación básica                       | 09/07/2025              |
+| Backend-Web-Services          | `main`     | `7c134d4`     | ultimas pruebas                   | Revisión funcional final antes de entrega                | 09/07/2025              |
+| code-web                      | `main`     | `e1c5ab3`     | Edit Form to create clothe        | Pruebas de formulario de publicación de prendas          | 09/07/2025              |
+| DeathClothe-repository-report | `main`     | `2cea29e`     | feat\:imag                        | Pruebas de integración visual en mockups y documentación | 09/07/2025              |
 
 
 5.2.4.5. Execution Evidence for Sprint Review.
@@ -3334,7 +3350,14 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
 
 
 5.2.4.8. Team Collaboration Insights during Sprint.
+Durante este sprint, el equipo logró finalizar los tres componentes fundamentales de la plataforma DeathClothe, consolidando el producto en su versión funcional para ser presentado. 
+**Frontend**
+Dentro del frontend se han realizado algunas mejorias con relación a adaptación de las entidades con el backend.
+<img src="./Report_Assets/frontendCommit.png">
 
+**Backend**
+Dentro del backend se han agregado nuevos endpoints para autenticación de usuarios además de algunas mejorias para un buen desempeño en el progreso.
+<img src="./Report_Assets/backendCommit.png">
 
 
 ### 5.3 Validation Interviews
@@ -3411,6 +3434,7 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Visualización de la página**       | Mencionó el buen rendimiento de la app y que todo se visualiza correctamente en general.                                                                             |
 | **Evaluación de funcionalidades clave** | Valoró mucho la funcionalidad de “favoritos” y sugirió agregar un historial de recientemente vistos. También propuso un sistema de opiniones de otros compradores. |
 
+[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Entrevista 2**
 | **Dato**                             | **Información**                                                                                                                                                           |
@@ -3440,7 +3464,7 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Visualización de la página**       | No experimentó errores ni problemas visuales. La navegación es sencilla, los elementos están bien distribuidos y todo se muestra de forma funcional y comprensible.         |
 | **Evaluación de funcionalidades clave** | Le resultó fácil navegar, aplicar filtros, buscar prendas como polos o vestidos. Como mejora, sugiere incluir conjuntos de prendas y no solo unidades individuales.         |
 
-[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EYyypN85cn9PlOTeHGff7okBNLePZ3gEk-gXTYrMyH7Xyw?e=bkDgz2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Segmento: Vendedor
 **Entrevista 1**
