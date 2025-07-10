@@ -1626,80 +1626,14 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 | TS-02 | Actualizar perfil por ID | Como desarrollador, quiero actualizar el perfil de un usuario por su ID, para poder modificar la información del usuario cuando lo necesite. | Escenario 1: Actualizar perfil de usuario con datos válidosDado que el endpoint “/api/v1/profiles/{id}” está disponible,Cuando se envía un request PUT con los valores actualizados de nombre, apellidos, dirección y email del usuario con ID 1 ,Entonces se recibe un response con un status 200 y el perfil actualizado de usuario en el body del response.Escenario 2: Intentar actualizar perfil de usuario inexistenteDado que el endpoint “/api/v1/profiles/{id}” está disponible, Cuando se envía un request PUT con el ID de usuario 6 y no existe en la base de datos, Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Perfil de usuario no encontrado”.| EP06 |
 | TS-03 | Obtener todos los perfiles | Como desarrollador, quiero obtener todos los perfiles de usuario, para poder visualizar una lista completa de los usuarios registrados en el sistema. | Escenario 1: Obtener todos los perfiles de usuario Dado que el endpoint “/api/v1/profiles” está disponible, Cuando se envía un request GET sin parámetros, Entonces se recibe un response con un status 200 y la lista de todos los perfiles de usuario en el body del response. Escenario 2: No hay perfiles disponibles Dado que el endpoint “/api/v1/profiles” está disponible, Cuando no hay perfiles registrados en el sistema, Entonces se recibe un response con un status 204 y un mensaje en el body del response que diga: “No hay perfiles disponibles”. | EP06 |
 | TS-04 | Obtener todas las ropas | Como desarrollador, quiero obtener todos los productos de ropa disponibles en el sistema, para que los usuarios puedan ver todo el inventario de prendas. | Escenario 1: Obtener todas las prendas de ropa Dado que el endpoint “/api/v1/clothes” está disponible, Cuando se envía un request GET sin parámetros, Entonces se recibe un response con un status 200 y la lista de todas las prendas de ropa en el body del response. Escenario 2: No hay prendas de ropa disponibles Dado que el endpoint “/api/v1/clothes” está disponible, Cuando no hay prendas de ropa registradas en el sistema, Entonces se recibe un response con un status 204 y un mensaje en el body del response que diga: “No hay productos de ropa disponibles”. | EP01 |
-| TS-05 | Crear una nueva prenda de ropa | Como desarrollador, quiero permitir que se cree una nueva prenda de ropa, para que los usuarios puedan añadir productos a su inventario. | Escenario 1: Crear una nueva prenda de ropa con datos válidos
-Dado que el endpoint “/api/v1/clothes” está disponible,
-Cuando se envía un request POST con los valores de nombre, descripción, precio, talla y color,
-Entonces se recibe un response con un status 201 y la nueva prenda de ropa en el body del response.
-
-Escenario 2: Intentar crear una prenda con datos incompletos
-Dado que el endpoint “/api/v1/clothes” está disponible,
-Cuando se envía un request POST sin precio o talla,
-Entonces se recibe un response con un status 400 y un mensaje en el body del response que diga: “Faltan datos requeridos para la creación de la prenda”. | EP02 |
-| TS-06 | Obtener una prenda de ropa por ID | Como desarrollador, quiero obtener los detalles de una prenda de ropa por su ID, para poder ver la información específica de un producto. | scenario 1: Obtener prenda de ropa existente
-Dado que el endpoint “/api/v1/clothes/{clotheId}” está disponible,
-Cuando se envía un request GET con el ID de prenda,
-Entonces se recibe un response con un status 200 y los detalles de la prenda (nombre, precio, descripción, etc.) en el body del response.
-
-Escenario 2: Intentar obtener prenda de ropa inexistente
-Dado que el endpoint “/api/v1/clothes/{clotheId}” está disponible,
-Cuando se envía un request GET con el ID de prenda y no existe,
-Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Prenda no encontrada”.| EP01 |
-| TS-07 | Actualizar una prenda de ropa | Como desarrollador, quiero actualizar los detalles de una prenda de ropa, para que los usuarios puedan modificar la información de sus productos. | Escenario 1: Actualizar prenda de ropa existente
-Dado que el endpoint “/api/v1/clothes/{clotheId}” está disponible,
-Cuando se envía un request PUT con los valores de nombre, descripción, precio y talla actualizados para la prenda,
-Entonces se recibe un response con un status 200 y la prenda actualizada en el body del response.
-
-Escenario 2: Intentar actualizar prenda de ropa inexistente
-Dado que el endpoint “/api/v1/clothes/{clotheId}” está disponible,
-Cuando se envía un request PUT con el ID de prenda y no existe,
-Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Prenda no encontrada”. | EP02 |
-| TS-08 | Eliminar una prenda de ropa | Como desarrollador, quiero permitir que los usuarios eliminen una prenda de ropa, para que puedan quitar productos de su inventario. | Escenario 1: Eliminar prenda de ropa existente
-Dado que el endpoint “/api/v1/clothes/{clotheId}” está disponible,
-Y existe una prenda con el ID especificado,
-Cuando se envía un request DELETE con el ID de la prenda,
-Entonces se recibe un response con un status 204 y la prenda es eliminada del sistema.
-
-Escenario 2: Intentar eliminar prenda de ropa inexistente
-Dado que el endpoint “/api/v1/clothes/{clotheId}” está disponible,
-Y no existe una prenda con el ID,
-Cuando se envía un request DELETE con el ID de la prenda,
-Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Prenda no encontrada”. | EP02 |
-| TS-09 | Obtener todas las categorías | Como desarrollador, quiero obtener todas las categorías de ropa, para que los usuarios puedan ver todas las opciones de clasificación de los productos. | Escenario 1: Obtener todas las categorías de ropa
-Dado que el endpoint “/api/v1/categories” está disponible,
-Cuando se envía un request GET sin parámetros,
-Entonces se recibe un response con un status 200 y la lista de todas las categorías de ropa en el body del response.
-
-Escenario 2: No hay categorías disponibles
-Dado que el endpoint “/api/v1/categories” está disponible,
-Cuando no hay categorías registradas en el sistema,
-Entonces se recibe un response con un status 204 y un mensaje en el body del response que diga: “No hay categorías disponibles”.| EP01 |
-| TS-10 | Obtener categoría por ID | Como desarrollador, quiero obtener los detalles de una categoría de ropa por su ID, para que los usuarios puedan ver la información específica de una categoría. | Escenario 1: Obtener categoría de ropa existente
-Dado que el endpoint “/api/v1/categories/{categoryId}” está disponible,
-Cuando se envía un request GET con el ID de categoría,
-Entonces se recibe un response con un status 200 y los detalles de la categoría de ropa (nombre, imagen) en el body del response.
-
-Escenario 2: Intentar obtener categoría de ropa inexistente
-Dado que el endpoint “/api/v1/categories/{categoryId}” está disponible,
-Cuando se envía un request GET con el ID de categoría y no existe,
-Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Categoría no encontrada”.| EP01 |
-| TS-11 | Autentificar el inicio de sesión| Como desarrollador, quiero autenticar a los usuarios durante el inicio de sesión, para que puedan acceder a sus cuentas de manera segura. | Escenario 1: Inicio de sesión con credenciales correctas
-Dado que el endpoint “/api/v1/authentication/sign-in” está disponible,
-Cuando se envía un request POST con los valores correctos de nombre de usuario y contraseña,
-Entonces se recibe un response con un status 200 y un token JWT en el body del response para futuras autenticaciones.
-
-Escenario 2: Intentar inicio de sesión con credenciales incorrectas
-Dado que el endpoint “/api/v1/authentication/sign-in” está disponible,
-Cuando se envía un request POST con credenciales incorrectas,
-Entonces se recibe un response con un status 401 y un mensaje en el body del response que diga: “Credenciales incorrectas”. | EP04 |
-| TS-12 | Autentificar el registro de usuario | Como desarrollador, quiero autenticar el registro de un nuevo usuario, para que los nuevos usuarios puedan registrarse en el sistema. | Escenario 1: Registro exitoso de un nuevo usuario
-Dado que el endpoint “/api/v1/authentication/sign-up” está disponible,
-Cuando se envía un request POST con los valores válidos de nombre, apellido, email y contraseña,
-Entonces se recibe un response con un status 201 y los detalles del nuevo usuario en el body del response.
-
-Escenario 2: Intentar registrar un usuario con un correo ya registrado
-Dado que el endpoint “/api/v1/authentication/sign-up” está disponible,
-Cuando se envía un request POST con un correo electrónico ya registrado,
-Entonces se recibe un response con un status 400 y un mensaje en el body del response que diga: “Correo electrónico ya registrado”. | EP04 |
+| TS-05 | Crear una nueva prenda de ropa | Como desarrollador, quiero permitir que se cree una nueva prenda de ropa, para que los usuarios puedan añadir productos a su inventario. | Escenario 1: Crear una nueva prenda de ropa con datos válidos Dado que el endpoint “/api/v1/clothes” está disponible, Cuando se envía un request POST con los valores de nombre, descripción, precio, talla y color, Entonces se recibe un response con un status 201 y la nueva prenda de ropa en el body del response. Escenario 2: Intentar crear una prenda con datos incompletos Dado que el endpoint “/api/v1/clothes” está disponible, Cuando se envía un request POST sin precio o talla, Entonces se recibe un response con un status 400 y un mensaje en el body del response que diga: “Faltan datos requeridos para la creación de la prenda”. | EP02 |
+| TS-06 | Obtener una prenda de ropa por ID | Como desarrollador, quiero obtener los detalles de una prenda de ropa por su ID, para poder ver la información específica de un producto. | scenario 1: Obtener prenda de ropa existente Dado que el endpoint “/api/v1/clothes/{clotheId}” está disponible, Cuando se envía un request GET con el ID de prenda, Entonces se recibe un response con un status 200 y los detalles de la prenda (nombre, precio, descripción, etc.) en el body del response. Escenario 2: Intentar obtener prenda de ropa inexistente Dado que el endpoint “/api/v1/clothes/{clotheId}” está disponible, Cuando se envía un request GET con el ID de prenda y no existe, Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Prenda no encontrada”.| EP01 |
+| TS-07 | Actualizar una prenda de ropa | Como desarrollador, quiero actualizar los detalles de una prenda de ropa, para que los usuarios puedan modificar la información de sus productos. | Escenario 1: Actualizar prenda de ropa existente Dado que el endpoint “/api/v1/clothes/{clotheId}” está disponible, Cuando se envía un request PUT con los valores de nombre, descripción, precio y talla actualizados para la prenda, Entonces se recibe un response con un status 200 y la prenda actualizada en el body del response. Escenario 2: Intentar actualizar prenda de ropa inexistente Dado que el endpoint “/api/v1/clothes/{clotheId}” está disponible, Cuando se envía un request PUT con el ID de prenda y no existe, Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Prenda no encontrada”. | EP02 |
+| TS-08 | Eliminar una prenda de ropa | Como desarrollador, quiero permitir que los usuarios eliminen una prenda de ropa, para que puedan quitar productos de su inventario. | Escenario 1: Eliminar prenda de ropa existente Dado que el endpoint “/api/v1/clothes/{clotheId}” está disponible, Y existe una prenda con el ID especificado, Cuando se envía un request DELETE con el ID de la prenda, Entonces se recibe un response con un status 204 y la prenda es eliminada del sistema. Escenario 2: Intentar eliminar prenda de ropa inexistente Dado que el endpoint “/api/v1/clothes/{clotheId}” está disponible, Y no existe una prenda con el ID, Cuando se envía un request DELETE con el ID de la prenda, Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Prenda no encontrada”. | EP02 |
+| TS-09 | Obtener todas las categorías | Como desarrollador, quiero obtener todas las categorías de ropa, para que los usuarios puedan ver todas las opciones de clasificación de los productos. | Escenario 1: Obtener todas las categorías de ropa Dado que el endpoint “/api/v1/categories” está disponible, Cuando se envía un request GET sin parámetros, Entonces se recibe un response con un status 200 y la lista de todas las categorías de ropa en el body del response. Escenario 2: No hay categorías disponibles Dado que el endpoint “/api/v1/categories” está disponible, Cuando no hay categorías registradas en el sistema, Entonces se recibe un response con un status 204 y un mensaje en el body del response que diga: “No hay categorías disponibles”.| EP01 |
+| TS-10 | Obtener categoría por ID | Como desarrollador, quiero obtener los detalles de una categoría de ropa por su ID, para que los usuarios puedan ver la información específica de una categoría. | Escenario 1: Obtener categoría de ropa existente Dado que el endpoint “/api/v1/categories/{categoryId}” está disponible, Cuando se envía un request GET con el ID de categoría, Entonces se recibe un response con un status 200 y los detalles de la categoría de ropa (nombre, imagen) en el body del response. Escenario 2: Intentar obtener categoría de ropa inexistente Dado que el endpoint “/api/v1/categories/{categoryId}” está disponible, Cuando se envía un request GET con el ID de categoría y no existe, Entonces se recibe un response con un status 404 y un mensaje en el body del response que diga: “Categoría no encontrada”.| EP01 |
+| TS-11 | Autentificar el inicio de sesión| Como desarrollador, quiero autenticar a los usuarios durante el inicio de sesión, para que puedan acceder a sus cuentas de manera segura. | Escenario 1: Inicio de sesión con credenciales correctas Dado que el endpoint “/api/v1/authentication/sign-in” está disponible, Cuando se envía un request POST con los valores correctos de nombre de usuario y contraseña, Entonces se recibe un response con un status 200 y un token JWT en el body del response para futuras autenticaciones. Escenario 2: Intentar inicio de sesión con credenciales incorrectas Dado que el endpoint “/api/v1/authentication/sign-in” está disponible, Cuando se envía un request POST con credenciales incorrectas, Entonces se recibe un response con un status 401 y un mensaje en el body del response que diga: “Credenciales incorrectas”. | EP04 |
+| TS-12 | Autentificar el registro de usuario | Como desarrollador, quiero autenticar el registro de un nuevo usuario, para que los nuevos usuarios puedan registrarse en el sistema. | Escenario 1: Registro exitoso de un nuevo usuario Dado que el endpoint “/api/v1/authentication/sign-up” está disponible, Cuando se envía un request POST con los valores válidos de nombre, apellido, email y contraseña, Entonces se recibe un response con un status 201 y los detalles del nuevo usuario en el body del response. Escenario 2: Intentar registrar un usuario con un correo ya registrado Dado que el endpoint “/api/v1/authentication/sign-up” está disponible, Cuando se envía un request POST con un correo electrónico ya registrado, Entonces se recibe un response con un status 400 y un mensaje en el body del response que diga: “Correo electrónico ya registrado”. | EP04 |
 
 ### 3.3. Impact Mapping 
 
