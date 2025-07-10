@@ -3053,6 +3053,21 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
     <tr>
       <td>Work‑Item</td><td>US‑23</td><td>T11</td><td>Editar prendas del armario</td><td>3</td><td>Loreley Sarmiento</td><td>Done</td>
     </tr>
+    <tr>
+      <td>Work‑Item</td><td>US‑23</td><td>T11</td><td>Editar prendas del armario</td><td>3</td><td>Loreley Sarmiento</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>US‑23</td><td>T11</td><td>Editar prendas del armario</td><td>3</td><td>Loreley Sarmiento</td><td>Done</td>
+    </tr>
+   <tr>
+     <td>Work‑Item</td><td>US‑13</td><td>T12</td><td>Visualizar detalles de prenda</td><td>3</td><td>Andrea Santur</td><td>Done</td>
+   </tr>
+    <tr>
+      <td>Work‑Item</td><td>US‑14</td><td>T13</td><td>Conocer al vendedor</td><td>3</td><td>Omar Luquilla</td><td>Done</td>
+    </tr>
+    <tr>
+      <td>Work‑Item</td><td>US‑24</td><td>T14</td><td>Página no encontrada</td><td>2</td><td>Mateo Cabanillas</td><td>Done</td>
+    </tr>
   </tbody>
 </table>
 
