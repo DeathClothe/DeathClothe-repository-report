@@ -3114,6 +3114,150 @@ A continuación se muestra evidencia de la coolaboración del equipo mediante in
 **Backend**
 <img src="./Report_Assets/sprintInsightsBackend.png">
 
+5.2.4. Sprint 4
+
+Esta sección presenta de forma detallada los procesos llevados a cabo, los entregables producidos y las evidencias recopiladas durante el Sprint 4. Abarca desde la fase de planificación hasta los indicadores de despliegue y trabajo colaborativo del equipo, con el propósito de reflejar el progreso alcanzado y la calidad del desarrollo logrado en esta etapa del proyecto.
+
+5.2.4.1. Sprint Planning 4
+
+
+
+5.2.4.2. Sprint Backlog 4
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Work-Item / Task</th>
+      <th>User Story ID</th>
+      <th>Task ID</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Work-Item</td>
+      <td>TS01</td>
+      <td>T01</td>
+      <td>Obtener perfil de usuario por ID</td>
+      <td>3</td>
+      <td>Alvaro Bejarano</td>
+      <td>Done</td>
+</tr>
+<tr>
+      <td>Work-Item</td>
+      <td>TS02</td>
+      <td>T02</td>
+      <td>Actualizar perfil de usuario por ID</td>
+      <td>4</td>
+      <td>Mateo Cabanillas</td>
+      <td>Done</td>
+</tr>
+<tr>
+      <td>Work-Item</td>
+      <td>TS03</td>
+      <td>T03</td>
+      <td>Obtener todos los perfiles</td>
+      <td>2</td>
+      <td>Andrea Santur</td>
+      <td>Done</td>
+</tr>
+<tr>
+      <td>Work-Item</td>
+      <td>TS04</td>
+      <td>T04</td>
+      <td>Obtener todas las ropas</td>
+      <td>3</td>
+      <td>Loreley Sarmiento</td>
+      <td>Done</td>
+</tr>
+<tr>
+      <td>Work-Item</td>
+      <td>TS05</td>
+      <td>T05</td>
+      <td>Crear una nueva prenda de ropa</td>
+      <td>4</td>
+      <td>Omar Luquillas</td>
+      <td>Done</td>
+</tr>
+<tr>
+      <td>Work-Item</td>
+      <td>TS06</td>
+      <td>T06</td>
+      <td>Obtener una prenda de ropa por ID</td>
+      <td>3</td>
+      <td>Loreley Sarmiento</td>
+      <td>Done</td>
+</tr>
+<tr>
+      <td>Work-Item</td>
+      <td>TS07</td>
+      <td>T07</td>
+      <td>Actualizar una prenda de ropa</td>
+      <td>4</td>
+      <td>Alvaro Bejarano</td>
+      <td>Done</td>
+</tr>
+<tr>
+      <td>Work-Item</td>
+      <td>TS08</td>
+      <td>T08</td>
+      <td>Eliminar una prenda de ropa</td>
+      <td>3</td>
+      <td>Mateo Cabanillas</td>
+      <td>Done</td>
+</tr>
+<tr>
+      <td>Work-Item</td>
+      <td>TS09</td>
+      <td>T09</td>
+      <td>Obtener todas las categorías</td>
+      <td>2</td>
+      <td>Andrea Santur</td>
+      <td>Done</td>
+</tr>
+<tr>
+      <td>Work-Item</td>
+      <td>TS10</td>
+      <td>T10</td>
+      <td>Obtener categoría por ID</td>
+      <td>3</td>
+      <td>Loreley Sarmiento</td>
+      <td>Done</td>
+</tr>
+<tr>
+      <td>Work-Item</td>
+      <td>TS11</td>
+      <td>T11</td>
+      <td>Autentificar el inicio de sesión</td>
+      <td>5</td>
+      <td>Omar Luquillas</td>
+      <td>Done</td>
+</tr>
+<tr>
+      <td>Work-Item</td>
+      <td>TS12</td>
+      <td>T12</td>
+      <td>Autentificar el registro de usuario</td>
+      <td>5</td>
+      <td>Andrea Elizabeth</td>
+      <td>Done</td>
+</tr>
+  </tbody>
+</table>
+
+
+
+5.2.4.3. Development Evidence for Sprint Review.
+5.2.4.4. Testing Suite Evidence for Sprint Review.
+5.2.4.5. Execution Evidence for Sprint Review.
+5.2.4.6. Services Documentation Evidence for Sprint Review.
+5.2.4.7. Software Deployment Evidence for Sprint Review.
+5.2.4.8. Team Collaboration Insights during Sprint.
+
+
 ### 5.3 Validation Interviews
 ### 5.3.1 Diseño de entrevistas
 ### Objetivo de la Entrevistaa 
