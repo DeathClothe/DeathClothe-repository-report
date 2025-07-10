@@ -3120,7 +3120,65 @@ Esta sección presenta de forma detallada los procesos llevados a cabo, los entr
 
 5.2.4.1. Sprint Planning 4
 
+<table border="1" cellspacing="0" cellpadding="8">
+   <thead>
+     <tr>
+       <th><strong>Campo</strong></th>
+       <th><strong>Detalle</strong></th>
+     </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td>Sprint 3</td>
+     </tr>
+     <tr>
+       <td>Fecha</td>
+       <td>2025-07-05</td>
+     </tr>
+     <tr>
+       <td>Hora</td>
+       <td>7:00 P.M.</td>
+     </tr>
+     <tr>
+       <td>Ubicación</td>
+       <td>Virtual – Discord</td>
+     </tr>
+     <tr>
+       <td>Preparado por</td>
+       <td>Jose Mateo Cabanillas Meza/td>
+     </tr>
+     <tr>
+       <td>Asistentes (a la reunión de planificación)</td>
+       <td>Alvaro Bejarano, Mateo Cabanillas, Omar Luquillas, Andrea Santur, Loreley Sarmiento</td>
+     </tr>
+     <tr>
+       <td>Sprint 3 – Resumen de revisión</td>
+       <td>En el Sprint 4, completamos la implementación del backend para DeathClothe, desarrollando las 12 Technical Stories que abarcan la gestión de perfiles de usuario, prendas, categorías y la autenticación. Cada una de las historias técnicas fue cubierta, garantizando que los usuarios pudieran obtener, crear, actualizar y eliminar tanto sus perfiles como las prendas publicadas. Además, se implementaron funcionalidades de inicio de sesión y registro, permitiendo la autenticación de los usuarios de manera segura.</td>
+     </tr>
+     <tr>
+       <td>Sprint 3 – Resumen de retrospectiva</td>
+       <td>Durante este sprint, se lograron mejoras clave en la estructura del código y en la colaboración del equipo. Cada miembro asumió tareas específicas y hubo una gran sincronización entre el frontend y el backend, lo que permitió completar el sprint de manera exitosa. A pesar de algunos pequeños retrasos, logramos mantener la calidad del código y la seguridad en las operaciones del sistema.
 
+Como mejora continua, acordamos revisar las funciones de autenticación con más profundidad en los próximos sprints, asegurando que el proceso sea aún más robusto, especialmente en escenarios de manejo de errores. Además, la implementación de pruebas unitarias para los endpoints API será un área de enfoque en los próximos sprints.</td>
+     </tr>
+     <tr>
+       <td>Objetivo y User Stories del Sprint 3</td>
+       <td>
+         <strong>Objetivo del Sprint:</strong> El objetivo principal de este sprint fue implementar la lógica del backend para la gestión de perfiles de usuario, prendas, categorías y autenticación en la plataforma DeathClothe. Se trabajó en la creación de APIs RESTful que permitieran a los usuarios registrarse, iniciar sesión, gestionar sus perfiles y ropas, además de visualizar las categorías de prendas disponibles.  <strong>User Stories:</strong> TS01, TS02, TS03, TS04, TS05, TS06, TS07, TS08, TS09, TS10, TS11, TS12.
+       </td>
+     </tr>
+     <tr>
+       <td>Velocidad del Sprint 3</td>
+       <td>La velocidad del equipo en este sprint fue de 45 story points, reflejando la alta productividad y el compromiso con las tareas. La colaboración y los ajustes durante el sprint ayudaron a mantener un ritmo constante de trabajo.
+
+</td>
+     </tr>
+     <tr>
+       <td>Suma de Story Points</td>
+       <td>45 Story Points atendidos</td>
+     </tr>
+   </tbody>
+ </table>
 
 5.2.4.2. Sprint Backlog 4
 
