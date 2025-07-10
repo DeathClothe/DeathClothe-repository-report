@@ -3320,7 +3320,7 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
 
 
 
-5.2.4.4. Testing Suite Evidence for Sprint Review.
+5.2.4.4. Testing Suite Evidence for Sprint Review. <br>
 Presentamos evidencia de pruebas funcionales realizadas durante el proyecto, basada en commits relacionados con la validación de flujos de negocio y ajustes funcionales. Esta evidencia fue recopilada desde los repositorios principales: Backend-Web-Services, code-web y DeathClothe-repository-report.
 
 | **Repository**                | **Branch** | **Commit ID** | **Commit Message**                | **Commit Message Body**                                  | **Committed on (Date)** |
@@ -3353,7 +3353,7 @@ Presentamos evidencia de pruebas funcionales realizadas durante el proyecto, bas
 Durante este sprint, el equipo logró finalizar los tres componentes fundamentales de la plataforma DeathClothe, consolidando el producto en su versión funcional para ser presentado. 
 **Frontend**
 Dentro del frontend se han realizado algunas mejorias con relación a adaptación de las entidades con el backend.
-<img src="./Report_Assets/frontendCommit.png">
+<img src="./Report_Assets/frontendCommit.png"> 
 
 **Backend**
 Dentro del backend se han agregado nuevos endpoints para autenticación de usuarios además de algunas mejorias para un buen desempeño en el progreso.
