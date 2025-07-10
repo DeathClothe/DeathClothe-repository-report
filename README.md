@@ -3213,11 +3213,11 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 **Entrevista 1**
 | **Dato**                                  | **Información**                                                                                                                                                        |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Entrevistado**                          | Jhon Alexander Chuchón                                                                                                                                                 |
-| **Edad**                                  | 19 años                                                                                                                                                                |
+| **Entrevistado**                          | Valesska Sánchez                                                                                                                                                       |
+| **Edad**                                  | 20 años                                                                                                                                                                |
 | **Distrito**                              | Lima - San Martín de Porres                                                                                                                                            |
 | **Inicio de la entrevista**               | 30:33                                                                                                                                                                  |
-| **Foto captura**                          | <img src="./Report_Assets/JhonValidation.png">                                                                                                                         |
+| **Foto captura**                          | <img src="./Report_Assets/ValessksSan.png">                                                                                                                            |
 | **Interacción con la plataforma**         | Describió su experiencia como intuitiva y eficiente. Encontró fácil navegar, buscar productos y concretar compras. Sugirió mejorar la búsqueda avanzada y los filtros. |
 | **Funcionalidades adicionales sugeridas** | Propuso integrar redes sociales para compartir compras y outfits, así como recibir notificaciones personalizadas sobre ofertas y promociones.                          |
 | **Accesibilidad y usabilidad**            | Consideró la app fácil de usar para diferentes edades, aunque recomendó optimizar la velocidad de carga de imágenes y contenido.                                       |
