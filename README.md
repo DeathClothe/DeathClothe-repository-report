@@ -3204,7 +3204,13 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
  </table>
  
 #### 5.2.4.2. Aspect Leader and Collaborators. <br>
-
+ | **Integrante del equipo**          | **GitHub**       | **Actualización de Landing Page** | **Backend** | **Frontend** | **Deployment** | **Documentación** |
+| ---------------------------------- | ---------------- | ----------- | --------------- | ------------ | -------------- | ----------------- |
+| **Santur Tello, Andrea Elizabeth** | andreli-star     | C           | C               | **L**        | C              | **L**             |
+| **Bejarano, Alvaro**               | Albro310306      | C           | C               | **L**            | C         | **L**                 |
+| **Cabanillas, Mateo**              | marckszz         | C           |**L**            | C            |C          | C             |
+| **Luquillas, Omar**                | OmarLLA          | **L**       | **L**           | C            | C              | C                 |
+| **Sarmiento, Loreley**             | loreleysarmiento | C           | C               | **L**        | **L**              | C             |
 
 
 #### 5.2.4.3. Sprint Backlog 4
