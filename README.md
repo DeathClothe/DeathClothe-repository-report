@@ -3371,8 +3371,14 @@ Presentamos evidencia de pruebas funcionales realizadas durante el proyecto, bas
 | **Authentication**| POST  |  |   |   |
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
-
-
+En este sprint de deployo el Backend en Render y se subio la base de datos a un ambiente productivo para que nuestro sistema pueda usarla.
+![Deployment](Report_Assets/DeployWebService1.PNG)
+![Deployment](Report_Assets/DeployWebService2.PNG)
+![Deployment](Report_Assets/DeployWebService3.PNG)
+![Deployment](Report_Assets/DeployWebService4.PNG)
+![Deployment](Report_Assets/DeployDataBase1.PNG)
+![Deployment](Report_Assets/DeployDataBase2.PNG)
+![Deployment](Report_Assets/DeployDataBase3.PNG)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 Durante este sprint, el equipo logró finalizar los tres componentes fundamentales de la plataforma DeathClothe, consolidando el producto en su versión funcional para ser presentado. 
