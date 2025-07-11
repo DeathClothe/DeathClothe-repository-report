@@ -161,8 +161,8 @@ TB2: En esta entrega se trabajaron mejoras tanto en el landing page como en la a
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
     - [5.2.4. Sprint 4](#524-sprint-4)
-      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-3)
-      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-3)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
       - [5.2.4.3. Development Evidence for Sprint Review.](#5243-development-evidence-for-sprint-review)
       - [5.2.4.4. Testing Suite Evidence for Sprint Review.](#5244-testing-suite-evidence-for-sprint-review)
       - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
@@ -2619,7 +2619,7 @@ En esta parte, describimos cómo el equipo colaboró de forma organizada para de
 
 <img src="./Report_Assets/collaborationinsights3.png" alt="Collaboration Insights 3" width="500">
 
-#### 5.2.2. Sprint 2
+### 5.2.2. Sprint 2
 Este informe documenta el progreso final del proyecto DeathClothe, una plataforma web de compraventa de ropa para compradores y vendedores. Durante este sprint, se trabajó en el desarrollo de las interfaces, así como también, haciendo la funcionalidad de las mismas.
 A través del Sprint 1 y de lo mencionado, estamos elaborando la parte complementaria que consiste en tener las experiencias del usuario mientras navega por la interfaz de DeathClothe y hace sus compras de la forma más eficaz y directa posible.
 
@@ -3138,11 +3138,11 @@ A continuación se muestra evidencia de la coolaboración del equipo mediante in
 **Backend**
 <img src="./Report_Assets/sprintInsightsBackend.png">
 
-5.2.4. Sprint 4
+### 5.2.4. Sprint 4
 
 Esta sección presenta de forma detallada los procesos llevados a cabo, los entregables producidos y las evidencias recopiladas durante el Sprint 4. Abarca desde la fase de planificación hasta los indicadores de despliegue y trabajo colaborativo del equipo, con el propósito de reflejar el progreso alcanzado y la calidad del desarrollo logrado en esta etapa del proyecto.
 
-5.2.4.1. Sprint Planning 4
+#### 5.2.4.1. Sprint Planning 4
 
 <table border="1" cellspacing="0" cellpadding="8">
    <thead>
@@ -3204,7 +3204,8 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
    </tbody>
  </table>
 
-5.2.4.2. Sprint Backlog 4
+
+#### 5.2.4.2. Sprint Backlog 4
 
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
@@ -3332,7 +3333,7 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
 
 
 
-5.2.4.3. Development Evidence for Sprint Review.
+#### 5.2.4.3. Development Evidence for Sprint Review.
 | **Repository**                | **Branch** | **Commit ID** | **Commit Message**                         | **Commit Message Body**                                               | **Committed on (Date)** |
 | ----------------------------- | ---------- | ------------- | ------------------------------------------ | --------------------------------------------------------------------- | ----------------------- |
 | Backend-Web-Services          | `main`     | `93a37b7`     | feat(iam): fix sign-up command             | Fix de comando de registro en IAM                                     | 10/07/2025              |
@@ -3344,7 +3345,7 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
 
 
 
-5.2.4.4. Testing Suite Evidence for Sprint Review. <br>
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review. <br>
 Presentamos evidencia de pruebas funcionales realizadas durante el proyecto, basada en commits relacionados con la validación de flujos de negocio y ajustes funcionales. Esta evidencia fue recopilada desde los repositorios principales: Backend-Web-Services, code-web y DeathClothe-repository-report.
 
 | **Repository**                | **Branch** | **Commit ID** | **Commit Message**                | **Commit Message Body**                                  | **Committed on (Date)** |
@@ -3356,11 +3357,11 @@ Presentamos evidencia de pruebas funcionales realizadas durante el proyecto, bas
 | DeathClothe-repository-report | `main`     | `2cea29e`     | feat\:imag                        | Pruebas de integración visual en mockups y documentación | 09/07/2025              |
 
 
-5.2.4.5. Execution Evidence for Sprint Review.
+#### 5.2.4.5. Execution Evidence for Sprint Review.
 
 
 
-5.2.4.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
 | **Endpoint Name** | **Implemented Actions** | **Call Syntax**                                                                                             | **Parameters Specification**                                                 | **Call Example**                             | **Response Explanation**                                   |
 | ----------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
@@ -3369,11 +3370,11 @@ Presentamos evidencia de pruebas funcionales realizadas durante el proyecto, bas
 | **Categories**    | GET   | GET: `/api/v1/categories`<br>GET: `/api/v1/categories/{id}` | `id`, `name`| GET `http://localhost:3000/api/v1/categories/1`  | Devuelve la información de una categoría específica con el ID indicado. |
 | **Authentication**| POST  |  |   |   |
 
-5.2.4.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
 
 
-5.2.4.8. Team Collaboration Insights during Sprint.
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
 Durante este sprint, el equipo logró finalizar los tres componentes fundamentales de la plataforma DeathClothe, consolidando el producto en su versión funcional para ser presentado. 
 **Frontend**
 Dentro del frontend se han realizado algunas mejorias con relación a adaptación de las entidades con el backend.
