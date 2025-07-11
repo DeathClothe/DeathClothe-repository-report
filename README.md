@@ -160,7 +160,7 @@ TB2: En esta entrega se trabajaron mejoras tanto en el landing page como en la a
       - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
-   - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4. Sprint 4](#524-sprint-4)
       - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-3)
       - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-3)
       - [5.2.4.3. Development Evidence for Sprint Review.](#5243-development-evidence-for-sprint-review)
