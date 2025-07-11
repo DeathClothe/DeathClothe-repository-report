@@ -439,8 +439,8 @@ Personas entre 18 y 35 años interesadas en la moda, pero que buscan alternativa
 
 **Información estadística de sustento:**
 
-- 52 % de los consumidores compraron ropa de segunda mano en 2023 (Fuente: Second Hand Apparel Market Report, 2025) ([https://www.stellarmr.com/report/Second-Hand-Apparel-Market/1885](https://www.stellarmr.com/report/Second-Hand-Apparel-Market/1885))
-- 65 % de las personas de la Generación Z y Millennials compraron ropa de segunda mano en el último año. (Fuente: 37 Positive & Uplifting Sustainable Fashion Statistics, Renewtiful (2024)) ([https://renewtiful.com/insight/sustainable-fashion-statistics/](https://renewtiful.com/insight/sustainable-fashion-statistics/))
+- 52 % de los consumidores compraron ropa de segunda mano en 2023 (Fuente: Second Hand Apparel Market Report, 2025) ([https://www.stellarmr.com/report/Second-Hand-Apparel-Market/1885](`https://www.stellarmr.com/report/Second-Hand-Apparel-Market/1885`))
+- 65 % de las personas de la Generación Z y Millennials compraron ropa de segunda mano en el último año. (Fuente: 37 Positive & Uplifting Sustainable Fashion Statistics, Renewtiful (2024)) ([https://renewtiful.com/insight/sustainable-fashion-statistics/](`https://renewtiful.com/insight/sustainable-fashion-statistics/`))
 
 
 ### **Segmento Objetivo 2: Vendedores**
@@ -471,8 +471,8 @@ Personas entre 18 y 50 años o más, que buscan una forma sencilla y eficiente d
 
 **Información estadística de sustento:**
 
-- 85 % de los consumidores peruanos están dispuestos a vender artículos usados; 55 % a comprarlos (Encuesta Bside Perú, 2020) ([https://www.esan.edu.pe/conexion-esan/el-consumidor-peruano-y-la-compra-de-productos-de-segunda-mano](https://www.esan.edu.pe/conexion-esan/el-consumidor-peruano-y-la-compra-de-productos-de-segunda-mano))
-- 40 % de los consumidores en Estados Unidos dijo que considera la ropa de segunda mano "muy sostenible". (Fuente: Consumer opinion on sustainability of secondhand goods, Statista (2024)) ([https://www.statista.com/statistics/1310367/consumer-opinion-secondhand-goods-sustainability-by-region/](https://www.statista.com/statistics/1310367/consumer-opinion-secondhand-goods-sustainability-by-region/))
+- 85 % de los consumidores peruanos están dispuestos a vender artículos usados; 55 % a comprarlos (Encuesta Bside Perú, 2020) ([https://www.esan.edu.pe/conexion-esan/el-consumidor-peruano-y-la-compra-de-productos-de-segunda-mano](`https://www.esan.edu.pe/conexion-esan/el-consumidor-peruano-y-la-compra-de-productos-de-segunda-mano`))
+- 40 % de los consumidores en Estados Unidos dijo que considera la ropa de segunda mano "muy sostenible". (Fuente: Consumer opinion on sustainability of secondhand goods, Statista (2024)) ([https://www.statista.com/statistics/1310367/consumer-opinion-secondhand-goods-sustainability-by-region/](`https://www.statista.com/statistics/1310367/consumer-opinion-secondhand-goods-sustainability-by-region/`))
 
 
 # Capítulo II: Requirements Elicitation & Analysis
@@ -2408,7 +2408,7 @@ Las entrevistas proporcionaron información útil que ayudó a definir los requi
 
 #### 5.2.1.3. Sprint Backlog 1 
 
-Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
+Link: `https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe` <br>
 <img src="Report_Assets/sprint1-trello.png">
 
 <p><strong>Sprint 1</strong></p>
@@ -2602,7 +2602,7 @@ Durante este sprint, conseguimos implementar correctamente la landing page de De
 
 2. Confirmamos que cada vez que se hiciera un push a la rama main, se activara el despliegue sin errores.
 
-Link Landing Page: https://deathclothe.github.io/DEATHCLOTHELandingPage/
+Link Landing Page: `https://deathclothe.github.io/DEATHCLOTHELandingPage/`
 
 <img src="./Report_Assets/deploymentevidence1.png" alt="Deployment Evidence 1" width="500">
 
@@ -2693,7 +2693,7 @@ A través del Sprint 1 y de lo mencionado, estamos elaborando la parte complemen
 
 #### 5.2.2.3. Sprint Backlog 2
 
-Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
+Link: `https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe` <br>
 <img src="Report_Assets/sprint2-trello.png">
 
 <p><strong>Sprint 2</strong></p>
@@ -2921,9 +2921,9 @@ Durante este Sprint, se llevaron a cabo las siguientes actividades relacionadas 
 <img src="./Report_Assets/imagen11.png">
 <img src="./Report_Assets/imagen12.png">
 
-Link de Landing Page: https://deathclothe.github.io/DEATHCLOTHELandingPage/ <br>
-Link de App Web: https://appweb-chi.vercel.app/ <br>
-Link de Vercel: https://vercel.com/
+Link de Landing Page: `https://deathclothe.github.io/DEATHCLOTHELandingPage/` <br>
+Link de App Web: `https://app-web-deathclothe.onrender.com/` <br>
+Link de Vercel: `https://render.com/`
 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
@@ -3011,7 +3011,7 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
 | **Sarmiento, Loreley**             | loreleysarmiento | **L**       | **L**           | **L**        | C              | **L**             |
    
  ### 5.2.3.3. Sprint Backlog 3
- Link: https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe <br>
+ Link: `https://trello.com/invite/b/680d1de7fcd6bc9189287b2a/ATTI71b9407097327a930510d122cf825bea86979452/sprint-1-deathclothe` <br>
 <img src="Report_Assets/sprint3-trello.png">
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
@@ -3099,7 +3099,7 @@ Esta sección describe en detalle los procesos, entregables y evidencias generad
 
 ### 5.2.3.5. Execution Evidence for Sprint Review. 
 La Landing Page tuvo un rediseño. <br>
-Link: https://deathclothe.github.io/DEATHCLOTHELandingPage/ 
+Link: `https://deathclothe.github.io/DEATHCLOTHELandingPage/` 
 <img src="./Report_Assets/ladingpagemodi.png">
 Además se rediseño y se hizo mejorar a la aplicación Fronted, de nuestra plataforma web. <br>
 Link: https://app-web-deathclothe.onrender.com
@@ -3116,7 +3116,7 @@ Link: https://app-web-deathclothe.onrender.com
 Por último se ejecutó el backend con swagger. Esta ejecución fue localmente, no se ha desplegado en este sprint. <br>
 <img src="./Report_Assets/imagen6.1.png">
 
-link del backend repository:  https://github.com/DeathClothe/Backend-Web-Services.git  
+link del backend repository:  `https://github.com/DeathClothe/Backend-Web-Services.git`  
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 | **Endpoint Name** | **Implemented Actions** | **Call Syntax**                                                                                             | **Parameters Specification**                                                 | **Call Example**                             | **Response Explanation**                                   |
 | ----------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
@@ -3358,8 +3358,22 @@ Presentamos evidencia de pruebas funcionales realizadas durante el proyecto, bas
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
+Para este sprint realizamos la conexion del backend y frontend, mostramos los datos de la base de datos y realizamos cambios visuales a la landing a page
+### Landing Page
+Link de la landing page: `https://deathclothe.github.io/DEATHCLOTHELandingPage/`
+![DarkMode](Report_Assets/DarkModeLanding.PNG)
 
+### Application
+Link de la aplicacion web: `https://app-web-deathclothe.onrender.com/`
+![DarkMode](Report_Assets/Application.PNG)
 
+### Web Service
+Link del web service: `https://backend-web-services-lbbg.onrender.com/api/v1`
+![DarkMode](Report_Assets/WebServicePostman.PNG)
+
+### Web Service
+Link del web service: `mysql://root:KYKzUbnHCtzvEuSlAgtIJHgCfFEWsFAu@ballast.proxy.rlwy.net:53837/railway`
+![DarkMode](Report_Assets/BaseDeDatosDeploy.PNG)
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
@@ -3372,14 +3386,22 @@ Presentamos evidencia de pruebas funcionales realizadas durante el proyecto, bas
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 En este sprint de deployo el Backend en Render y se subio la base de datos a un ambiente productivo para que nuestro sistema pueda usarla.
+#### Web Service
+El primer paso fue conectar el repositorio de github con render, crear un archivo DockerFile para poder manejar Net 9, ya que al ser una nueva versión, aún render no soporta todas las nuevas funcionaliades.
+Una vez configurado el proyecto se pone en deploy y esperamos que en consola nos diga que el servicio está vivo.
 ![Deployment](Report_Assets/DeployWebService1.PNG)
 ![Deployment](Report_Assets/DeployWebService2.PNG)
 ![Deployment](Report_Assets/DeployWebService3.PNG)
 ![Deployment](Report_Assets/DeployWebService4.PNG)
+#### Database
+Para subir la base de datos a un ambiente se necesita descargar un backup de la base de datos local, después en railway se selecciona la opción de mysql y se crea una base de datos en railway. Se sube el backup a la base de datos de railway 
+y railway nos dará un enlace para usar nuestra base de datos. 
 ![Deployment](Report_Assets/DeployDataBase1.PNG)
 ![Deployment](Report_Assets/DeployDataBase2.PNG)
 ![Deployment](Report_Assets/DeployDataBase3.PNG)
 
+Link de la base de datos:`mysql://root:KYKzUbnHCtzvEuSlAgtIJHgCfFEWsFAu@ballast.proxy.rlwy.net:53837/railway`<br>
+Link del Backend:`https://backend-web-services-lbbg.onrender.com/api/v1`
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 Durante este sprint, el equipo logró finalizar los tres componentes fundamentales de la plataforma DeathClothe, consolidando el producto en su versión funcional para ser presentado. 
 **Frontend**
@@ -3465,7 +3487,7 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Visualización de la página**       | Mencionó el buen rendimiento de la app y que todo se visualiza correctamente en general.                                                                             |
 | **Evaluación de funcionalidades clave** | Valoró mucho la funcionalidad de “favoritos” y sugirió agregar un historial de recientemente vistos. También propuso un sistema de opiniones de otros compradores. |
 
-[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[URL entrevista] (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
 
 **Entrevista 2**
 | **Dato**                             | **Información**                                                                                                                                                           |
@@ -3480,7 +3502,7 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Visualización de la página**       | Comentó que la experiencia fue positiva, le daría una puntuación de 8/10. Destacó la estética agradable del diseño y la buena experiencia de uso, aunque hay detalles por pulir. |
 | **Evaluación de funcionalidades clave** | Considera útil el sistema de filtros por talla y estilo, ya que agilizan la búsqueda de prendas. En general, cumple con las expectativas del usuario.                      |
 
-   [URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+   [URL entrevista] (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
 
 **Entrevista 3**
 | **Dato**                             | **Información**                                                                                                                                                              |
@@ -3495,7 +3517,7 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Visualización de la página**       | No experimentó errores ni problemas visuales. La navegación es sencilla, los elementos están bien distribuidos y todo se muestra de forma funcional y comprensible.         |
 | **Evaluación de funcionalidades clave** | Le resultó fácil navegar, aplicar filtros, buscar prendas como polos o vestidos. Como mejora, sugiere incluir conjuntos de prendas y no solo unidades individuales.         |
 
-[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[URL entrevista] (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
 
 ## Segmento: Vendedor
 **Entrevista 1**
@@ -3512,7 +3534,7 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Impacto visual y atractivo**            | Le pareció un diseño moderno y minimalista, en línea con las tendencias de moda. Destacó el uso coherente de colores y tipografías.                                    |
 | **Comentarios finales**                   | Tuvo una buena experiencia general. Reconoció oportunidades de mejora para elevar la satisfacción del cliente y fomentar su fidelización.                              |
 
-[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[URL entrevista] (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
 
 **Entrevista 2**
 | **Dato**                             | **Información**                                                                                                                                                              |
@@ -3527,7 +3549,7 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Visualización de la página**       | No presentó problemas visuales ni de carga. La interfaz fue percibida como limpia y estructurada. Se destacó la rapidez de visualización y navegación intuitiva.            |
 | **Evaluación de funcionalidades clave** | Valoró las funciones de publicar, editar, eliminar prendas, ver estadísticas y explorar productos. Sugirió como mejora una trazabilidad más detallada de las acciones.       |
 
-[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[URL entrevista] (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
 
 **Entrevista 3**
 | **Dato**                                  | **Información**                                                                                                                                                            |
@@ -3543,7 +3565,7 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Impacto visual y atractivo**            | Consideró que el diseño es moderno y minimalista, alineado con la moda actual. Resaltó la coherencia visual en colores y tipografías.                                      |
 | **Comentarios finales**                   | Tuvo una experiencia positiva en general, pero identificó áreas de mejora para incrementar la satisfacción y fidelización del cliente.                                     |
 
-[URL entrevista] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[URL entrevista] (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
 
 
 ### 5.3.3 Evaluación según Heurísticas – *DeathClothe*
@@ -3663,25 +3685,25 @@ Se integraron evidencias de pruebas unitarias y de integración, lo que demuestr
 
 # Bibliografía
 
-- Ellen MacArthur Foundation. (2017). A new textiles economy: Redesigning fashion’s future. Retrieved from https://ellenmacarthurfoundation.org/a-new-textiles-economy
+- Ellen MacArthur Foundation. (2017). A new textiles economy: Redesigning fashion’s future. Retrieved from `https://ellenmacarthurfoundation.org/a-new-textiles-economy`
 
-- McKinsey & Company. (2016). Style that’s sustainable: A new fast-fashion formula. Retrieved from https://www.mckinsey.com/business-functions/sustainability/our-insights/style-thats-sustainable-a-new-fast-fashion-formula
+- McKinsey & Company. (2016). Style that’s sustainable: A new fast-fashion formula. Retrieved from `https://www.mckinsey.com/business-functions/sustainability/our-insights/style-thats-sustainable-a-new-fast-fashion-formula`
 
-- ThredUp. (2023). 2023 Resale Report. Retrieved from https://www.thredup.com/resale
+- ThredUp. (2023). 2023 Resale Report. Retrieved from `https://www.thredup.com/resale`
 
 - Universidad Peruana de Ciencias Aplicadas. (2025). Informe de Trabajo Final - DeathClothe. Curso de Aplicaciones Web, Facultad de Ingeniería de Software.
 
-- Facebook Marketplace. (n.d.). Buy and sell used clothes locally or ship nationwide. Retrieved April 2025, from https://www.facebook.com/marketplace
+- Facebook Marketplace. (n.d.). Buy and sell used clothes locally or ship nationwide. Retrieved April 2025, from `https://www.facebook.com/marketplace`
 
-- Instagram Business. (n.d.). Grow your business on Instagram. Retrieved April 2025, from https://business.instagram.com/
+- Instagram Business. (n.d.). Grow your business on Instagram. Retrieved April 2025, from `https://business.instagram.com/`
 
-- Urbaner. (n.d.). Soluciones logísticas para empresas y ecommerce en Perú. Retrieved April 2025, from https://www.urbaner.com.pe/
+- Urbaner. (n.d.). Soluciones logísticas para empresas y ecommerce en Perú. Retrieved April 2025, from `https://www.urbaner.com.pe/`
 
-- Olva Courier. (n.d.). Envíos nacionales y courier en Perú. Retrieved April 2025, from https://www.olvacourier.com/
+- Olva Courier. (n.d.). Envíos nacionales y courier en Perú. Retrieved April 2025, from `https://www.olvacourier.com/`
 
-- Rappi Perú. (n.d.). Entregas rápidas en tu ciudad. Retrieved April 2025, from https://www.rappi.com.pe/
+- Rappi Perú. (n.d.). Entregas rápidas en tu ciudad. Retrieved April 2025, from `https://www.rappi.com.pe/`
 
-- IDEO.org. (2015). The Field Guide to Human-Centered Design. Retrieved from https://www.designkit.org/resources/1
+- IDEO.org. (2015). The Field Guide to Human-Centered Design. Retrieved from `https://www.designkit.org/resources/1`
 
 
 
