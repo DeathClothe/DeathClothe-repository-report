@@ -3406,7 +3406,7 @@ y railway nos dará un enlace para usar nuestra base de datos.
 ![Deployment](Report_Assets/DeployDataBase3.PNG)
 
 Link de la base de datos:`mysql://root:KYKzUbnHCtzvEuSlAgtIJHgCfFEWsFAu@ballast.proxy.rlwy.net:53837/railway`<br>
-Link del Backend:`https://backend-web-services-lbbg.onrender.com/api/v1`
+Link del Backend:`https://backend-web-services-lbbg.onrender.com/`
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 Durante este sprint, el equipo logró finalizar los tres componentes fundamentales de la plataforma DeathClothe, consolidando el producto en su versión funcional para ser presentado. 
 **Frontend**
