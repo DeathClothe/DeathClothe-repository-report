@@ -2055,7 +2055,7 @@ Finalmente, el proceso de compra se lleva a cabo en un entorno seguro, visualmen
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-<img src="Report_Assets/CLASE UML-DeathClothe.png">
+<img src="Report_Assets/ClaseUMLDC.png">
 
 ### 4.7.2. Class Dictionary
 <table border="1" cellspacing="0" cellpadding="8">
@@ -2141,7 +2141,7 @@ El diseño de la base de datos para el sistema representado en el diagrama de cl
 
 ### 4.8.1. Database Diagram
 
-<img src="Report_Assets/ERD DeathClothe.png" alt="Nombre" width="500"> 
+<img src="Report_Assets/DIAGRAMAERDV2DC.png" alt="Nombre" width="500"> 
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
