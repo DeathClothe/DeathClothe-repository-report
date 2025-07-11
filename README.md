@@ -144,27 +144,27 @@ TB2: En esta entrega se trabajaron mejoras tanto en el landing page como en la a
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2. Sprint 2](#522-sprint-2)
       - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
-      - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
       - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
     - [5.2.3. Sprint 3](#523-sprint-3)
       - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
-      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
-      - [5.2.3.3. Development Evidence for Sprint Review.](#5233-development-evidence-for-sprint-review)
-      - [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
       - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
       - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
     - [5.2.4. Sprint 4](#524-sprint-4)
       - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
-      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
-      - [5.2.4.3. Development Evidence for Sprint Review.](#5243-development-evidence-for-sprint-review)
-      - [5.2.4.4. Testing Suite Evidence for Sprint Review.](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.2. Testing Suite Evidence for Sprint Review.](#5242-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review.](#5244-development-evidence-for-sprint-review)
       - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
       - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
       - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
@@ -3201,9 +3201,12 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
      </tr>
    </tbody>
  </table>
+ 
+#### 5.2.4.2. Aspect Leader and Collaborators. <br>
 
 
-#### 5.2.4.2. Sprint Backlog 4
+
+#### 5.2.4.3. Sprint Backlog 4
 
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
@@ -3340,7 +3343,7 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
 
 
 
-#### 5.2.4.3. Development Evidence for Sprint Review.
+#### 5.2.4.4. Development Evidence for Sprint Review.
 | **Repository**                | **Branch** | **Commit ID** | **Commit Message**                         | **Commit Message Body**                                               | **Committed on (Date)** |
 | ----------------------------- | ---------- | ------------- | ------------------------------------------ | --------------------------------------------------------------------- | ----------------------- |
 | Backend-Web-Services          | `main`     | `93a37b7`     | feat(iam): fix sign-up command             | Fix de comando de registro en IAM                                     | 10/07/2025              |
@@ -3350,18 +3353,6 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
 | code-web                      | `main`     | `c7f39d0`     | Merge remote-tracking branch 'origin/main' | Fusión con la rama principal para actualizar cambios                  | 08/07/2025              |
 | Backend-Web-Services          | `main`     | `4849a25`     | feat\:Added backeng imag                   | Implementación de soporte backend para carga de imágenes              | 24/06/2025              |
 
-
-
-#### 5.2.4.4. Testing Suite Evidence for Sprint Review. <br>
-Presentamos evidencia de pruebas funcionales realizadas durante el proyecto, basada en commits relacionados con la validación de flujos de negocio y ajustes funcionales. Esta evidencia fue recopilada desde los repositorios principales: Backend-Web-Services, code-web y DeathClothe-repository-report.
-
-| **Repository**                | **Branch** | **Commit ID** | **Commit Message**                | **Commit Message Body**                                  | **Committed on (Date)** |
-| ----------------------------- | ---------- | ------------- | --------------------------------- | -------------------------------------------------------- | ----------------------- |
-| Backend-Web-Services          | `main`     | `93a37b7`     | feat(iam): fix sign-up command    | Ajustes en el registro de usuario tras pruebas           | 10/07/2025              |
-| Backend-Web-Services          | `main`     | `f5bd92c`     | feat(iam): add iam authentication | Validación de autenticación básica                       | 09/07/2025              |
-| Backend-Web-Services          | `main`     | `7c134d4`     | ultimas pruebas                   | Revisión funcional final antes de entrega                | 09/07/2025              |
-| code-web                      | `main`     | `e1c5ab3`     | Edit Form to create clothe        | Pruebas de formulario de publicación de prendas          | 09/07/2025              |
-| DeathClothe-repository-report | `main`     | `2cea29e`     | feat\:imag                        | Pruebas de integración visual en mockups y documentación | 09/07/2025              |
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
