@@ -3357,21 +3357,21 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
-Para este sprint realizamos la conexion del backend y frontend, mostramos los datos de la base de datos y realizamos cambios visuales a la landing a page
+Para este sprint realizamos la conexión del back-end y front-end, mostramos los datos de la base de datos y realizamos cambios visuales a la landing a page
 ### Landing Page
 Link de la landing page: `https://deathclothe.github.io/DEATHCLOTHELandingPage/`
 ![DarkMode](Report_Assets/DarkModeLanding.PNG)
 
 ### Application
-Link de la aplicacion web: `https://app-web-deathclothe.onrender.com/`
+Link de la aplicación web: `https://app-web-deathclothe.onrender.com/`
 ![DarkMode](Report_Assets/Application.PNG)
 
 ### Web Service
 Link del web service: `https://backend-web-services-lbbg.onrender.com/api/v1`
 ![DarkMode](Report_Assets/WebServicePostman.PNG)
 
-### Web Service
-Link del web service: `mysql://root:KYKzUbnHCtzvEuSlAgtIJHgCfFEWsFAu@ballast.proxy.rlwy.net:53837/railway`
+### Database 
+Link de la base de datos: `mysql://root:KYKzUbnHCtzvEuSlAgtIJHgCfFEWsFAu@ballast.proxy.rlwy.net:53837/railway`
 ![DarkMode](Report_Assets/BaseDeDatosDeploy.PNG)
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
