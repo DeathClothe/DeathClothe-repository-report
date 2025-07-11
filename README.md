@@ -40,7 +40,7 @@ Sarmiento Medina Loreley U202310005<br>
 
 |  URL del repositorio del reporte  |
 | :-----------------------------------: |
-| https://github.com/DeathClothe/DeathClothe-repository-report |
+| `https://github.com/DeathClothe/DeathClothe-repository-report` |
 
 TB1: Durante esta entrega se trabajó principalmente en el diseño e implementación inicial de la landing page del proyecto, la cual fue desplegada correctamente. Las tareas fueron distribuidas entre los miembros del equipo y gestionadas mediante GitHub. La elaboración del informe comenzó en paralelo, con aportes individuales desde el repositorio compartido.
 
@@ -48,6 +48,7 @@ TP1: Para esta entrega se realizaron mejoras visuales y funcionales a la landing
 
 TB2: En esta entrega se trabajaron mejoras tanto en el landing page como en la aplicación web, incorporando funcionalidades adicionales y refinando aspectos visuales. Además, se comenzó el desarrollo de los servicios web y se elaboraron los primeros videos del proyecto. La colaboración del equipo se mantuvo activa a través del repositorio del informe, con evidencias claras de participación en los commits y contribuciones distribuidas entre todos los integrantes.
 
+TF:
 
 **Analíticos de Colaboración:**
 
