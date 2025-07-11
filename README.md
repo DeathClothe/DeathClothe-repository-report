@@ -3101,7 +3101,7 @@ La Landing Page tuvo un rediseño. <br>
 Link: `https://deathclothe.github.io/DEATHCLOTHELandingPage/` 
 <img src="./Report_Assets/ladingpagemodi.png">
 Además se rediseño y se hizo mejorar a la aplicación Fronted, de nuestra plataforma web. <br>
-Link: https://app-web-deathclothe.onrender.com
+Link: `https://app-web-deathclothe.onrender.com`
 <img src="./Report_Assets/imagen2.2.png">
 <img src="./Report_Assets/imagen3.png">
 <img src="./Report_Assets/imagen4.png">
