@@ -2039,7 +2039,7 @@ Finalmente, el proceso de compra se lleva a cabo en un entorno seguro, visualmen
 |------------------------|--------|
 | Video del Prototipo     | https://upcedupe-my.sharepoint.com/personal/u202310005_upc_edu_pe/_layouts/15/embed.aspx?UniqueId=d728e1f6-ad94-4839-ac15-dd4e832ba86f&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create
 
-## 4.6. Domain-Driven Software Architecture
+## 4.6. -Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
 
@@ -2052,9 +2052,6 @@ Finalmente, el proceso de compra se lleva a cabo en un entorno seguro, visualmen
 ### 4.6.3. Software Architecture Components Diagrams
 <img src="Report_Assets/awr1.jpg" alt="Nombre2" width="700"> 
 <img src="Report_Assets/awr2.jpg" alt="Nombre3" width="700"> 
-<img src="Report_Assets/awr3.jpg" alt="Nombre4" width="700"> 
-<img src="Report_Assets/awr4.jpg" alt="Nombre5" width="700"> 
-
 
 ## 4.7. Software Object-Oriented Design
 
@@ -2161,28 +2158,28 @@ En esta sección se detallan las herramientas utilizadas para la gestión del pr
   * Trello
     Propósito: Gestión de tareas mediante tableros Kanban organizados en columnas (To Do, In Progress, Done).
     
-    URL: https://trello.com
+    URL: `https://trello.com`
 
     <img src="Report_Assets/trello.png" alt="Trello" width="300"> 
 
   * Uxpressia
     Propósito: Creación de mapas de experiencia de usuario para analizar y entender a nuestros usuarios.
     
-    URL: https://uxpressia.com
+    URL: `https://uxpressia.com`
 
     <img src="Report_Assets/uxpressia.png" alt="Uxpressia" width="300"> 
 
   * Lucidchart
     Propósito: Elaboración de diagramas de flujo, wireframes y esquemas de arquitectura de sistemas.
     
-    URL: https://lucidchart.com
+    URL: `https://lucidchart.com`
 
     <img src="Report_Assets/lucidchart.png" alt="lucidchart" width="300"> 
     
   * Structurizr
     Propósito: Modelado de arquitectura utilizando diagramas C4 para la documentación técnica de la solución.
     
-    URL: https://structurizr.com
+    URL: `https://structurizr.com`
 
     <img src="Report_Assets/structurizr.png" alt="Structurizr" width="300"> 
 
@@ -2191,7 +2188,7 @@ En esta sección se detallan las herramientas utilizadas para la gestión del pr
   * Figma
     Propósito: Diseño de interfaces de usuario (UI), prototipado rápido y colaboración en tiempo real entre los miembros del equipo.
     
-    URL: https://figma.com
+    URL: `https://figma.com`
 
     <img src="Report_Assets/figma.png" alt="Figma" width="300">
 
@@ -2200,7 +2197,7 @@ En esta sección se detallan las herramientas utilizadas para la gestión del pr
   * Visual Studio Code (VS Code)
     Propósito: Editor de código fuente principal utilizado para el desarrollo de la Landing Page (HTML, CSS, JavaScript).
     
-    URL: https://code.visualstudio.com/download
+    URL: `https://code.visualstudio.com/download`
 
     <img src="Report_Assets/visualstudiocode.png" alt="Visual Studio Code" width="300">
 
@@ -2209,7 +2206,7 @@ En esta sección se detallan las herramientas utilizadas para la gestión del pr
   * GitHub Pages
     Propósito: Publicación y despliegue automático de la Landing Page como sitio web estático directamente desde el repositorio.
     
-    URL: https://pages.github.com
+    URL: `https://pages.github.com`
 
     <img src="Report_Assets/githubpages.png" alt="Github Pages" width="300">
 
