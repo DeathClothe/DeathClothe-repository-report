@@ -1624,7 +1624,7 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 | US-27 | Explorar la seccion Sell en Landing Page | Como usuario, quiero saber cómo publicar una prenda fácilmente y sin complicaciones. | Escenario 1: Simplicidad del proceso visual Dado que quiero vender ropa usada, Cuando leo “Termina los dos pasos, ¡envía y listo!”, Entonces comprendo que solo debo subir fotos, describir la prenda y fijar un precio para comenzar a vender.Escenario 2: Confianza al ver el paso a paso visual Dado que no estoy seguro de cómo hacerlo, Cuando veo las imágenes y textos: “Toma fotos…”, “Describe la prenda…”, “Ponle un precio…”, Entonces me siento guiado y sé exactamente qué hacer para publicar mi producto. | EP02 |
 | US-28 | Explorar la seccion Community en Landing Pag | Como usuario, quiero conocer la comunidad de DeathClothe para sentir que formo parte de algo más que una tienda. | Escenario 1: Seguridad a través de experiencias reales Dado que me preocupa la fiabilidad de la plataforma, Cuando leo los testimonios de usuarios como “Me encanta saber que cada prenda que compro no solo es linda...”, Entonces me siento más confiado de que es una plataforma honesta y útil.Escenario 2: Identificación con el propósito colectivo Dado que valoro la sostenibilidad, Cuando leo “Hemos encontrado hogar a miles de prendas usadas… el cambio empieza en el clóset”, Entonces conecto con la idea de que DeathClothe busca reducir el desperdicio de ropa. | EP05 |
 | US-29 | Explorar la seccion About-Us en Landing Pag | Como usuario, quiero saber quién está detrás de DeathClothe y cuál es su propósito para confiar más en la plataforma. | Escenario 1: Inspiración desde la misión Dado que busco marcas con propósito, Cuando leo “DeathClothe nació para cambiar la forma en que vivimos la moda”, Entonces percibo que esta plataforma tiene una causa social y ambiental clara.Escenario 2: Alineación con valores personales Dado que creo en la sostenibilidad, Cuando leo “Creemos que la moda no muere, se transforma...”, Entonces siento que esta plataforma refleja mis valores y me interesa formar parte. | EP05 |
-
+| US-30 | Temas de landing page | Como usuario, quiero poder elegir el tema entre oscuro y claro para sentirme mas comodo navegando en la landing page. | Escenario 1: Modo oscuro Dado que selecciono el modo oscuro, Cuando cambio el switcher a la luna, Entonces la Landing Page se pone en modo oscuro.Escenario 2: Modo claro Dado que selecciono el modo claro, Cuando cambio el switcher al modo sol, Entonces la Landing Page se pone en modo claro. | EP05 |
 
 
 **Technical Stories**
@@ -1681,18 +1681,19 @@ A continuación, se presentan las User Personas que representan a nuestros dos s
 | 27    | US-27         | Explorar la seccion Sell en Landing Page      | Como usuario, quiero saber cómo publicar una prenda fácilmente y sin complicaciones. | 2          |
 | 28    | US-28         | Explorar la seccion Community en Landing Page      | Como usuario, quiero conocer la comunidad de DeathClothe para sentir que formo parte de algo más que una tienda. | 2          |
 | 29    | US-29         | Explorar la seccion About-Us en Landing Page      | Como usuario, quiero saber quién está detrás de DeathClothe y cuál es su propósito para confiar más en la plataforma. | 2          |
-| 30    | TS-01         | Obtener perfil por ID	 | Como desarrollador, quiero obtener el perfil de un usuario por su ID, para poder recuperar los detalles específicos del usuario cuando sea necesario.	 | 3           |
-| 31    | TS-02         | Actualizar perfil por ID	   | Como desarrollador, quiero actualizar el perfil de un usuario por su ID, para poder modificar la información del usuario cuando lo necesite.	 | 4           |
-| 32    | TS-03         | Obtener todos los perfiles	 | Como desarrollador, quiero obtener todos los perfiles de usuario, para poder visualizar una lista completa de los usuarios registrados en el sistema. | 4          |
-| 33    | TS-04         | Obtener todas las ropas	  | Como desarrollador, quiero obtener todos los productos de ropa disponibles en el sistema, para que los usuarios puedan ver todo el inventario de prendas.	 | 3           |
-| 34    | TS-05         | Crear una nueva prenda de ropa	 | Como desarrollador, quiero permitir que se cree una nueva prenda de ropa, para que los usuarios puedan añadir productos a su inventario.	 | 4           |
-| 35    | TS-06         | Obtener una prenda de ropa por ID	  | Como desarrollador, quiero obtener los detalles de una prenda de ropa por su ID, para poder ver la información específica de un producto.	| 4          |
-| 36    | TS-07         | Actualizar una prenda de ropa	  | Como desarrollador, quiero actualizar los detalles de una prenda de ropa, para que los usuarios puedan modificar la información de sus productos.	 | 5          |
-| 37    | TS-08         | Eliminar una prenda de ropa		  | Como desarrollador, quiero permitir que los usuarios eliminen una prenda de ropa, para que puedan quitar productos de su inventario.	 | 4         |
-| 38    | TS-09         | Obtener todas las categorías		  | Como desarrollador, quiero obtener todas las categorías de ropa, para que los usuarios puedan ver todas las opciones de clasificación de los productos.		 | 3          |
-| 39    | TS-10         | Obtener categoría por ID		  | Como desarrollador, quiero obtener los detalles de una categoría de ropa por su ID, para que los usuarios puedan ver la información específica de una categoría.	 | 5          |
-| 40    | TS-11         | Autentificar el inicio de sesión		  | Como desarrollador, quiero autenticar a los usuarios durante el inicio de sesión, para que puedan acceder a sus cuentas de manera segura.		 | 3          |
-| 41    | TS-12         | Autentificar el registro de usuario		  | Como desarrollador, quiero autenticar el registro de un nuevo usuario, para que los nuevos usuarios puedan registrarse en el sistema.		 | 3          |
+| 30    | US-30         | Explorar la Landing Page      | Como usuario, quiero poder cambiar entre temas para poder sentirme más cómodo navegando en la Landing page. | 2          |
+| 31    | TS-01         | Obtener perfil por ID	 | Como desarrollador, quiero obtener el perfil de un usuario por su ID, para poder recuperar los detalles específicos del usuario cuando sea necesario.	 | 3           |
+| 32    | TS-02         | Actualizar perfil por ID	   | Como desarrollador, quiero actualizar el perfil de un usuario por su ID, para poder modificar la información del usuario cuando lo necesite.	 | 4           |
+| 33    | TS-03         | Obtener todos los perfiles	 | Como desarrollador, quiero obtener todos los perfiles de usuario, para poder visualizar una lista completa de los usuarios registrados en el sistema. | 4          |
+| 34    | TS-04         | Obtener todas las ropas	  | Como desarrollador, quiero obtener todos los productos de ropa disponibles en el sistema, para que los usuarios puedan ver todo el inventario de prendas.	 | 3           |
+| 35    | TS-05         | Crear una nueva prenda de ropa	 | Como desarrollador, quiero permitir que se cree una nueva prenda de ropa, para que los usuarios puedan añadir productos a su inventario.	 | 4           |
+| 36    | TS-06         | Obtener una prenda de ropa por ID	  | Como desarrollador, quiero obtener los detalles de una prenda de ropa por su ID, para poder ver la información específica de un producto.	| 4          |
+| 37    | TS-07         | Actualizar una prenda de ropa	  | Como desarrollador, quiero actualizar los detalles de una prenda de ropa, para que los usuarios puedan modificar la información de sus productos.	 | 5          |
+| 38    | TS-08         | Eliminar una prenda de ropa		  | Como desarrollador, quiero permitir que los usuarios eliminen una prenda de ropa, para que puedan quitar productos de su inventario.	 | 4         |
+| 39    | TS-09         | Obtener todas las categorías		  | Como desarrollador, quiero obtener todas las categorías de ropa, para que los usuarios puedan ver todas las opciones de clasificación de los productos.		 | 3          |
+| 40    | TS-10         | Obtener categoría por ID		  | Como desarrollador, quiero obtener los detalles de una categoría de ropa por su ID, para que los usuarios puedan ver la información específica de una categoría.	 | 5          |
+| 41    | TS-11         | Autentificar el inicio de sesión		  | Como desarrollador, quiero autenticar a los usuarios durante el inicio de sesión, para que puedan acceder a sus cuentas de manera segura.		 | 3          |
+| 42    | TS-12         | Autentificar el registro de usuario		  | Como desarrollador, quiero autenticar el registro de un nuevo usuario, para que los nuevos usuarios puedan registrarse en el sistema.		 | 3          |
 
 
 # Capítulo IV: Product Design
@@ -3325,7 +3326,16 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
       <td>T12</td>
       <td>Autentificar el registro de usuario</td>
       <td>5</td>
-      <td>Andrea Elizabeth</td>
+      <td>Omar Luquillas</td>
+      <td>Done</td>
+</tr>
+    <tr>
+      <td>Work-Item</td>
+      <td>US30</td>
+      <td>T13</td>
+      <td>Cambiar de temas en la Landing Page</td>
+      <td>1</td>
+      <td>Omar Luquillas</td>
       <td>Done</td>
 </tr>
   </tbody>
