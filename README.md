@@ -3367,7 +3367,7 @@ Link de la aplicación web: `https://app-web-deathclothe.onrender.com/`
 ![DarkMode](Report_Assets/Application.PNG)
 
 ### Web Service
-Link del web service: `https://backend-web-services-lbbg.onrender.com/api/v1`
+Link del web service: `https://backend-web-services-lbbg.onrender.com/`
 ![DarkMode](Report_Assets/WebServicePostman.PNG)
 
 ### Database 
