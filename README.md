@@ -3486,7 +3486,8 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Visualización de la página**       | Mencionó el buen rendimiento de la app y que todo se visualiza correctamente en general.                                                                             |
 | **Evaluación de funcionalidades clave** | Valoró mucho la funcionalidad de “favoritos” y sugirió agregar un historial de recientemente vistos. También propuso un sistema de opiniones de otros compradores. |
 
-[URL entrevista] (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
+[URL entrevista] 
+(`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
 
 **Entrevista 2**
 | **Dato**                             | **Información**                                                                                                                                                           |
@@ -3501,7 +3502,8 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Visualización de la página**       | Comentó que la experiencia fue positiva, le daría una puntuación de 8/10. Destacó la estética agradable del diseño y la buena experiencia de uso, aunque hay detalles por pulir. |
 | **Evaluación de funcionalidades clave** | Considera útil el sistema de filtros por talla y estilo, ya que agilizan la búsqueda de prendas. En general, cumple con las expectativas del usuario.                      |
 
-   [URL entrevista] (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
+   [URL entrevista] 
+   (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
 
 **Entrevista 3**
 | **Dato**                             | **Información**                                                                                                                                                              |
@@ -3516,7 +3518,8 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Visualización de la página**       | No experimentó errores ni problemas visuales. La navegación es sencilla, los elementos están bien distribuidos y todo se muestra de forma funcional y comprensible.         |
 | **Evaluación de funcionalidades clave** | Le resultó fácil navegar, aplicar filtros, buscar prendas como polos o vestidos. Como mejora, sugiere incluir conjuntos de prendas y no solo unidades individuales.         |
 
-[URL entrevista] (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
+[URL entrevista] 
+(`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
 
 ## Segmento: Vendedor
 **Entrevista 1**
@@ -3533,7 +3536,8 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Impacto visual y atractivo**            | Le pareció un diseño moderno y minimalista, en línea con las tendencias de moda. Destacó el uso coherente de colores y tipografías.                                    |
 | **Comentarios finales**                   | Tuvo una buena experiencia general. Reconoció oportunidades de mejora para elevar la satisfacción del cliente y fomentar su fidelización.                              |
 
-[URL entrevista] (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
+[URL entrevista] 
+(`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
 
 **Entrevista 2**
 | **Dato**                             | **Información**                                                                                                                                                              |
@@ -3548,7 +3552,8 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Visualización de la página**       | No presentó problemas visuales ni de carga. La interfaz fue percibida como limpia y estructurada. Se destacó la rapidez de visualización y navegación intuitiva.            |
 | **Evaluación de funcionalidades clave** | Valoró las funciones de publicar, editar, eliminar prendas, ver estadísticas y explorar productos. Sugirió como mejora una trazabilidad más detallada de las acciones.       |
 
-[URL entrevista] (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
+[URL entrevista] 
+(`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
 
 **Entrevista 3**
 | **Dato**                                  | **Información**                                                                                                                                                            |
@@ -3564,7 +3569,8 @@ Presentamos a continuación los resultados de las entrevistas de validación rea
 | **Impacto visual y atractivo**            | Consideró que el diseño es moderno y minimalista, alineado con la moda actual. Resaltó la coherencia visual en colores y tipografías.                                      |
 | **Comentarios finales**                   | Tuvo una experiencia positiva en general, pero identificó áreas de mejora para incrementar la satisfacción y fidelización del cliente.                                     |
 
-[URL entrevista] (`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
+[URL entrevista] 
+(`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EeT5nSboo31CsOK0CjcFCHcBxhbcbe1PfekxFog4Cxp__A?e=jpSKD4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`)
 
 
 ### 5.3.3 Evaluación según Heurísticas – *DeathClothe*
