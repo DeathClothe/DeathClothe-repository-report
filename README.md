@@ -3339,15 +3339,6 @@ Como mejora continua, acordamos revisar las funciones de autenticación con más
       <td>Omar Luquillas</td>
       <td>Done</td>
 </tr>
-    <tr>
-      <td>Work-Item</td>
-      <td>US30</td>
-      <td>T13</td>
-      <td>Cambiar de temas en la Landing Page</td>
-      <td>1</td>
-      <td>Omar Luquillas</td>
-      <td>Done</td>
-</tr>
   </tbody>
 </table>
 
